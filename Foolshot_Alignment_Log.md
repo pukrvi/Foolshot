@@ -1,0 +1,1 @@
+docs/decisions/Foolshot_Alignment_Log.md

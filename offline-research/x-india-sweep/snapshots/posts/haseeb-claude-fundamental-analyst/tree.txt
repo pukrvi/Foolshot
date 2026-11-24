@@ -1,0 +1,527 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "HaseebBadar_Stocks on X: \"BREAKING: I turned Claude into a fundamental analyst for NSE stocks. Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks. Here\'s what it checks ↓\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "HaseebBadar_Stocks on X: \"BREAKING: I turned Claude into a fundamental analyst for NSE stocks. Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks. Here\'s what it checks ↓\" / X" url="https://x.com/hb_stocks/status/2123000766109745364"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks BREAKING: I turned Claude into a fundamental analyst for NSE stocks.\n\nType one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.\n\nHere\'s what it checks ↓ 2 replies, 12 reposts, 77 likes, 158 bookmarks, 11129 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/hb_stocks"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [72] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@hb_stocks"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "BREAKING: I turned Claude into a fundamental analyst for NSE stocks.\n\nType one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.\n\nHere\'s what it checks ↓"
+                    - [81] AXGroup expanded=false
+                      - [82] AXLink expanded=false "4:00 PM · Nov 18, 2026" url="https://x.com/hb_stocks/status/2123000766109745364"
+                        - [83] AXGroup subrole=AXTimeGroup expanded=false
+                          - [84] AXStaticText expanded=false = "4:00 PM · Nov 18, 2026"
+                      - [85] AXLink expanded=false "11.1K Views" url="https://x.com/hb_stocks/status/2123000766109745364/analytics"
+                        - [86] AXStaticText expanded=false = "11.1K"
+                        - [87] AXStaticText expanded=false = "Views"
+                    - [88] AXGroup subrole=AXApplicationGroup expanded=false "2 replies, 12 reposts, 77 likes, 158 bookmarks, 11129 views"
+                      - [89] AXButton expanded=false "2 Replies. Reply"
+                      - [90] AXPopUpButton expanded=false "12 reposts. Repost"
+                      - [91] AXButton expanded=false "77 Likes. Like"
+                      - [92] AXButton expanded=false "158 Bookmarks. Bookmark"
+                      - [93] AXPopUpButton expanded=false "Share post"
+                    - [94] AXPopUpButton expanded=false "Relevant"
+                    - [95] AXLink expanded=false "View quotes" url="https://x.com/hb_stocks/status/2123000766109745364/quotes"
+                      - [96] AXStaticText expanded=false = "View quotes"
+                  - [97] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [98] AXGroup expanded=false
+                    - [99] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [100] AXGroup expanded=false
+                      - [101] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [102] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [103] AXGroup expanded=false
+                          - [104] AXGroup expanded=false "Puneet Vishnawat"
+                            - [105] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [106] AXGroup expanded=false
+                    - [107] AXStaticText expanded=false = "Post your reply"
+                  - [108] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [109] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [111] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 Why I built it:\n\nThe chart tells you where the money is going.\n\nThe results tell you why, and whether the story is strong enough to hold through the pullbacks.\n\nChart first. Results second. It does the second part. 1 reply, 3 likes, 1429 views"
+                    - [112] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [113] AXGroup expanded=false
+                      - [114] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [115] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [116] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [117] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [118] AXImage expanded=false "Verified account"
+                    - [119] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [120] AXGroup expanded=false
+                        - [121] AXStaticText expanded=false = "@hb_stocks"
+                    - [122] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000778814259266"
+                      - [123] AXGroup subrole=AXTimeGroup expanded=false
+                        - [124] AXStaticText expanded=false = "Nov 18"
+                    - [125] AXButton expanded=false "Grok actions"
+                    - [126] AXPopUpButton expanded=false "More"
+                    - [127] AXGroup expanded=false
+                      - [128] AXStaticText expanded=false = "Why I built it:\n\nThe chart tells you where the money is going.\n\nThe results tell you why, and whether the story is strong enough to hold through the pullbacks.\n\nChart first. Results second. It does the second part."
+                    - [129] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 3 likes, 1429 views"
+                      - [130] AXButton expanded=false "1 Reply. Reply"
+                      - [131] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [132] AXButton expanded=false "3 Likes. Like"
+                      - [133] AXLink expanded=false "1429 views. View post analytics" url="https://x.com/hb_stocks/status/2123000778814259266/analytics"
+                        - [134] AXStaticText expanded=false = "1.4K"
+                      - [135] AXButton expanded=false "Bookmark"
+                      - [136] AXPopUpButton expanded=false "Share post"
+                  - [137] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 1: COMMODITY OR SPECIALITY?\n\nA commodity business stays cheap, even at a low PE.\n\nA speciality business can stay expensive for years.\n\nIt classifies the business before looking at a single number. 1 reply, 2 likes, 2 bookmarks, 1204 views"
+                    - [138] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [139] AXGroup expanded=false
+                      - [140] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [142] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [143] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [144] AXImage expanded=false "Verified account"
+                    - [145] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [146] AXGroup expanded=false
+                        - [147] AXStaticText expanded=false = "@hb_stocks"
+                    - [148] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000790642237691"
+                      - [149] AXGroup subrole=AXTimeGroup expanded=false
+                        - [150] AXStaticText expanded=false = "Nov 18"
+                    - [151] AXButton expanded=false "Grok actions"
+                    - [152] AXPopUpButton expanded=false "More"
+                    - [153] AXGroup expanded=false
+                      - [154] AXStaticText expanded=false = "CHECK 1: COMMODITY OR SPECIALITY?\n\nA commodity business stays cheap, even at a low PE.\n\nA speciality business can stay expensive for years.\n\nIt classifies the business before looking at a single number."
+                    - [155] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 2 bookmarks, 1204 views"
+                      - [156] AXButton expanded=false "1 Reply. Reply"
+                      - [157] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [158] AXButton expanded=false "2 Likes. Like"
+                      - [159] AXLink expanded=false "1204 views. View post analytics" url="https://x.com/hb_stocks/status/2123000790642237691/analytics"
+                        - [160] AXStaticText expanded=false = "1.2K"
+                      - [161] AXButton expanded=false "Bookmark"
+                      - [162] AXPopUpButton expanded=false "Share post"
+                  - [163] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 2: IS THE GROUP MOVING?\n\nOne stock rising alone in a dead sector gets rejected.\n\nIt looks for 4 or 5 peers moving together, because real themes move in packs. 1 reply, 2 likes, 1084 views"
+                    - [164] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [165] AXGroup expanded=false
+                      - [166] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [167] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [168] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [169] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [170] AXImage expanded=false "Verified account"
+                    - [171] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [172] AXGroup expanded=false
+                        - [173] AXStaticText expanded=false = "@hb_stocks"
+                    - [174] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000802218590279"
+                      - [175] AXGroup subrole=AXTimeGroup expanded=false
+                        - [176] AXStaticText expanded=false = "Nov 18"
+                    - [177] AXButton expanded=false "Grok actions"
+                    - [178] AXPopUpButton expanded=false "More"
+                    - [179] AXGroup expanded=false
+                      - [180] AXStaticText expanded=false = "CHECK 2: IS THE GROUP MOVING?\n\nOne stock rising alone in a dead sector gets rejected.\n\nIt looks for 4 or 5 peers moving together, because real themes move in packs."
+                    - [181] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 1084 views"
+                      - [182] AXButton expanded=false "1 Reply. Reply"
+                      - [183] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [184] AXButton expanded=false "2 Likes. Like"
+                      - [185] AXLink expanded=false "1084 views. View post analytics" url="https://x.com/hb_stocks/status/2123000802218590279/analytics"
+                        - [186] AXStaticText expanded=false = "1K"
+                      - [187] AXButton expanded=false "Bookmark"
+                      - [188] AXPopUpButton expanded=false "Share post"
+                  - [189] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 3: WHAT\'S THE TRIGGER?\n\nNew plant, order book, acquisition, a rule change that grows the market.\n\nIt pulls management\'s own claim from the presentation and puts a number on it. 1 reply, 2 likes, 999 views"
+                    - [190] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [191] AXGroup expanded=false
+                      - [192] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [193] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [194] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [195] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [196] AXImage expanded=false "Verified account"
+                    - [197] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [198] AXGroup expanded=false
+                        - [199] AXStaticText expanded=false = "@hb_stocks"
+                    - [200] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000814046486842"
+                      - [201] AXGroup subrole=AXTimeGroup expanded=false
+                        - [202] AXStaticText expanded=false = "Nov 18"
+                    - [203] AXButton expanded=false "Grok actions"
+                    - [204] AXPopUpButton expanded=false "More"
+                    - [205] AXGroup expanded=false
+                      - [206] AXStaticText expanded=false = "CHECK 3: WHAT\'S THE TRIGGER?\n\nNew plant, order book, acquisition, a rule change that grows the market.\n\nIt pulls management\'s own claim from the presentation and puts a number on it."
+                    - [207] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 999 views"
+                      - [208] AXButton expanded=false "1 Reply. Reply"
+                      - [209] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [210] AXButton expanded=false "2 Likes. Like"
+                      - [211] AXLink expanded=false "999 views. View post analytics" url="https://x.com/hb_stocks/status/2123000814046486842/analytics"
+                        - [212] AXStaticText expanded=false = "999"
+                      - [213] AXButton expanded=false "Bookmark"
+                      - [214] AXPopUpButton expanded=false "Share post"
+                  - [215] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 4: SPEEDING UP OR SLOWING DOWN?\n\nGrowth falling from 80% to 50% still looks great on paper.\n\nThe market punishes the slowdown anyway. It flags it. 1 reply, 1 like, 928 views"
+                    - [216] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [217] AXGroup expanded=false
+                      - [218] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [219] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [220] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [221] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [222] AXImage expanded=false "Verified account"
+                    - [223] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [224] AXGroup expanded=false
+                        - [225] AXStaticText expanded=false = "@hb_stocks"
+                    - [226] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000825979326491"
+                      - [227] AXGroup subrole=AXTimeGroup expanded=false
+                        - [228] AXStaticText expanded=false = "Nov 18"
+                    - [229] AXButton expanded=false "Grok actions"
+                    - [230] AXPopUpButton expanded=false "More"
+                    - [231] AXGroup expanded=false
+                      - [232] AXStaticText expanded=false = "CHECK 4: SPEEDING UP OR SLOWING DOWN?\n\nGrowth falling from 80% to 50% still looks great on paper.\n\nThe market punishes the slowdown anyway. It flags it."
+                    - [233] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 928 views"
+                      - [234] AXButton expanded=false "1 Reply. Reply"
+                      - [235] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [236] AXButton expanded=false "1 Like. Like"
+                      - [237] AXLink expanded=false "928 views. View post analytics" url="https://x.com/hb_stocks/status/2123000825979326491/analytics"
+                        - [238] AXStaticText expanded=false = "928"
+                      - [239] AXButton expanded=false "Bookmark"
+                      - [240] AXPopUpButton expanded=false "Share post"
+                  - [241] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 5 AND 6: WHO PAID FOR THE GROWTH, AND DID THE PROFIT TURN INTO CASH?\n\nGrowth paid for with debt is a warning.\n\nProfit that never shows up as cash is a bigger one.\n\nThese are the checks almost everyone skips. 1 reply, 2 likes, 841 views"
+                    - [242] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [243] AXGroup expanded=false
+                      - [244] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [245] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [246] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [247] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [248] AXImage expanded=false "Verified account"
+                    - [249] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [250] AXGroup expanded=false
+                        - [251] AXStaticText expanded=false = "@hb_stocks"
+                    - [252] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000837639426482"
+                      - [253] AXGroup subrole=AXTimeGroup expanded=false
+                        - [254] AXStaticText expanded=false = "Nov 18"
+                    - [255] AXButton expanded=false "Grok actions"
+                    - [256] AXPopUpButton expanded=false "More"
+                    - [257] AXGroup expanded=false
+                      - [258] AXStaticText expanded=false = "CHECK 5 AND 6: WHO PAID FOR THE GROWTH, AND DID THE PROFIT TURN INTO CASH?\n\nGrowth paid for with debt is a warning.\n\nProfit that never shows up as cash is a bigger one.\n\nThese are the checks almost everyone skips."
+                    - [259] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 841 views"
+                      - [260] AXButton expanded=false "1 Reply. Reply"
+                      - [261] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [262] AXButton expanded=false "2 Likes. Like"
+                      - [263] AXLink expanded=false "841 views. View post analytics" url="https://x.com/hb_stocks/status/2123000837639426482/analytics"
+                        - [264] AXStaticText expanded=false = "841"
+                      - [265] AXButton expanded=false "Bookmark"
+                      - [266] AXPopUpButton expanded=false "Share post"
+                  - [267] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 7 AND 8: VALUATION, DONE PROPERLY\n\nNo \"PE is high, avoid\".\n\nIt works out the PEG, then a forward PE from management\'s own guidance, and shows the maths.\n\nThen it sizes the capex against today\'s revenue. 1 reply, 1 like, 758 views"
+                    - [268] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [269] AXGroup expanded=false
+                      - [270] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [271] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [272] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [273] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [274] AXImage expanded=false "Verified account"
+                    - [275] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [276] AXGroup expanded=false
+                        - [277] AXStaticText expanded=false = "@hb_stocks"
+                    - [278] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000849479942195"
+                      - [279] AXGroup subrole=AXTimeGroup expanded=false
+                        - [280] AXStaticText expanded=false = "Nov 18"
+                    - [281] AXButton expanded=false "Grok actions"
+                    - [282] AXPopUpButton expanded=false "More"
+                    - [283] AXGroup expanded=false
+                      - [284] AXStaticText expanded=false = "CHECK 7 AND 8: VALUATION, DONE PROPERLY\n\nNo \"PE is high, avoid\".\n\nIt works out the PEG, then a forward PE from management\'s own guidance, and shows the maths.\n\nThen it sizes the capex against today\'s revenue."
+                    - [285] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 758 views"
+                      - [286] AXButton expanded=false "1 Reply. Reply"
+                      - [287] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [288] AXButton expanded=false "1 Like. Like"
+                      - [289] AXLink expanded=false "758 views. View post analytics" url="https://x.com/hb_stocks/status/2123000849479942195/analytics"
+                        - [290] AXStaticText expanded=false = "758"
+                      - [291] AXButton expanded=false "Bookmark"
+                      - [292] AXPopUpButton expanded=false "Share post"
+                  - [293] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 CHECK 9 TO 11: MARKET SHARE, STAGE OF THE MOVE, AND THE GROWTH-FEAR CHECK\n\nIs it early in the move, or already up 400%?\n\nIs the company getting too big to keep growing? 1 reply, 1 like, 703 views"
+                    - [294] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [295] AXGroup expanded=false
+                      - [296] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [297] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [298] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [299] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [300] AXImage expanded=false "Verified account"
+                    - [301] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [302] AXGroup expanded=false
+                        - [303] AXStaticText expanded=false = "@hb_stocks"
+                    - [304] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000861140103269"
+                      - [305] AXGroup subrole=AXTimeGroup expanded=false
+                        - [306] AXStaticText expanded=false = "Nov 18"
+                    - [307] AXButton expanded=false "Grok actions"
+                    - [308] AXPopUpButton expanded=false "More"
+                    - [309] AXGroup expanded=false
+                      - [310] AXStaticText expanded=false = "CHECK 9 TO 11: MARKET SHARE, STAGE OF THE MOVE, AND THE GROWTH-FEAR CHECK\n\nIs it early in the move, or already up 400%?\n\nIs the company getting too big to keep growing?"
+                    - [311] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 703 views"
+                      - [312] AXButton expanded=false "1 Reply. Reply"
+                      - [313] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [314] AXButton expanded=false "1 Like. Like"
+                      - [315] AXLink expanded=false "703 views. View post analytics" url="https://x.com/hb_stocks/status/2123000861140103269/analytics"
+                        - [316] AXStaticText expanded=false = "703"
+                      - [317] AXButton expanded=false "Bookmark"
+                      - [318] AXPopUpButton expanded=false "Share post"
+                  - [319] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 THEN ONE VERDICT:\n\nLeader-grade.\nTrade only.\nWatch and read.\nReject.\n\nAnd one rule it never breaks: every number comes with a source and a date. If it can\'t find a number, it writes \"not found\". It never guesses. 1 reply, 2 likes, 811 views"
+                    - [320] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [321] AXGroup expanded=false
+                      - [322] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [323] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [324] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [325] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [326] AXImage expanded=false "Verified account"
+                    - [327] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [328] AXGroup expanded=false
+                        - [329] AXStaticText expanded=false = "@hb_stocks"
+                    - [330] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000872963830230"
+                      - [331] AXGroup subrole=AXTimeGroup expanded=false
+                        - [332] AXStaticText expanded=false = "Nov 18"
+                    - [333] AXButton expanded=false "Grok actions"
+                    - [334] AXPopUpButton expanded=false "More"
+                    - [335] AXGroup expanded=false
+                      - [336] AXStaticText expanded=false = "THEN ONE VERDICT:\n\nLeader-grade.\nTrade only.\nWatch and read.\nReject.\n\nAnd one rule it never breaks: every number comes with a source and a date. If it can\'t find a number, it writes \"not found\". It never guesses."
+                    - [337] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 811 views"
+                      - [338] AXButton expanded=false "1 Reply. Reply"
+                      - [339] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [340] AXButton expanded=false "2 Likes. Like"
+                      - [341] AXLink expanded=false "811 views. View post analytics" url="https://x.com/hb_stocks/status/2123000872963830230/analytics"
+                        - [342] AXStaticText expanded=false = "811"
+                      - [343] AXButton expanded=false "Bookmark"
+                      - [344] AXPopUpButton expanded=false "Share post"
+                  - [345] AXGroup subrole=AXDocumentArticle expanded=false "HaseebBadar_Stocks\nVerified account\n@hb_stocks Nov 18 The framework comes from the best fundamentals breakdown I\'ve heard this year.\n\nCredit and the free skill file are in the replies.\n\nBookmark this.\n\nEducational only. Not a buy or sell call. 2 replies, 3 likes, 5 bookmarks, 1019 views"
+                    - [346] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [347] AXGroup expanded=false
+                      - [348] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [349] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [350] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                      - [351] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                      - [352] AXImage expanded=false "Verified account"
+                    - [353] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                      - [354] AXGroup expanded=false
+                        - [355] AXStaticText expanded=false = "@hb_stocks"
+                    - [356] AXLink expanded=false "Nov 18" url="https://x.com/hb_stocks/status/2123000884561117409"
+                      - [357] AXGroup subrole=AXTimeGroup expanded=false
+                        - [358] AXStaticText expanded=false = "Nov 18"
+                    - [359] AXButton expanded=false "Grok actions"
+                    - [360] AXPopUpButton expanded=false "More"
+                    - [361] AXGroup expanded=false
+                      - [362] AXStaticText expanded=false = "The framework comes from the best fundamentals breakdown I\'ve heard this year.\n\nCredit and the free skill file are in the replies.\n\nBookmark this.\n\nEducational only. Not a buy or sell call."
+                    - [363] AXGroup subrole=AXApplicationGroup expanded=false "2 replies, 3 likes, 5 bookmarks, 1019 views"
+                      - [364] AXButton expanded=false "2 Replies. Reply"
+                      - [365] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [366] AXButton expanded=false "3 Likes. Like"
+                      - [367] AXLink expanded=false "1019 views. View post analytics" url="https://x.com/hb_stocks/status/2123000884561117409/analytics"
+                        - [368] AXStaticText expanded=false = "1K"
+                      - [369] AXButton expanded=false "Bookmark"
+                      - [370] AXPopUpButton expanded=false "Share post"
+          - [371] AXGroup expanded=false "Trending"
+            - [372] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [373] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [374] AXGroup expanded=false
+                  - [375] AXStaticText expanded=false = "Search"
+            - [376] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [377] AXHeading expanded=false "Relevant people" = "2"
+                - [378] AXStaticText expanded=false = "Relevant people"
+              - [379] AXList subrole=AXContentList expanded=false
+                - [380] AXGroup expanded=false
+                  - [381] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [382] AXGroup expanded=false
+                    - [383] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [384] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [385] AXLink expanded=false "HaseebBadar_Stocks\nVerified account" url="https://x.com/hb_stocks"
+                    - [386] AXStaticText expanded=false = "HaseebBadar_Stocks"
+                    - [387] AXImage expanded=false "Verified account"
+                  - [388] AXLink expanded=false "@hb_stocks" url="https://x.com/hb_stocks"
+                    - [389] AXGroup expanded=false
+                      - [390] AXStaticText expanded=false = "@hb_stocks"
+                  - [391] AXButton expanded=false "Follow @hb_stocks"
+                  - [392] AXGroup expanded=false
+                    - [393] AXStaticText expanded=false = "I write about swing trading, chart structure, risk & discipline. Full-time trader. 16M+ views on X teaching markets visually."
+            - [394] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [395] AXHeading expanded=false "Trending now" = "1"
+                - [396] AXStaticText expanded=false = "Trending now"
+              - [397] AXGroup expanded=false "Timeline: Trending now"
+                - [398] AXGroup subrole=AXEmptyGroup expanded=false
+                - [399] AXHeading expanded=false "What’s happening" = "2"
+                  - [400] AXStaticText expanded=false = "What’s happening"
+                - [401] AXLink expanded=false "Sports · Trending Draw More"
+                  - [402] AXGroup expanded=false
+                    - [403] AXStaticText expanded=false = "Sports · Trending"
+                  - [404] AXGroup expanded=false
+                    - [405] AXStaticText expanded=false = "Draw"
+                  - [406] AXPopUpButton expanded=false "More"
+                - [407] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [408] AXGroup expanded=false
+                    - [409] AXStaticText expanded=false = "Sports · Trending"
+                  - [410] AXGroup expanded=false
+                    - [411] AXStaticText expanded=false = "Rishabh Pant"
+                  - [412] AXPopUpButton expanded=false "More"
+                - [413] AXLink expanded=false "Motorsport · Trending Charles Trending with Leclerc\nMore"
+                  - [414] AXGroup expanded=false
+                    - [415] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [416] AXGroup expanded=false
+                    - [417] AXStaticText expanded=false = "Charles"
+                  - [418] AXStaticText expanded=false = "Trending with "
+                  - [419] AXLink expanded=false "Leclerc" url="https://x.com/search?q=Leclerc&src=trend_click&vertical=trends"
+                    - [420] AXStaticText expanded=false = "Leclerc"
+                  - [421] AXPopUpButton expanded=false "More"
+                - [422] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [423] AXGroup expanded=false
+                    - [424] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [425] AXGroup expanded=false
+                    - [426] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [427] AXPopUpButton expanded=false "More"
+                - [428] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [429] AXGroup expanded=false
+                    - [430] AXStaticText expanded=false = "Show more"
+            - [431] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [432] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [433] AXStaticText expanded=false = "Terms"
+              - [434] AXGroup expanded=false
+                - [435] AXStaticText expanded=false = "·"
+              - [436] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [437] AXStaticText expanded=false = "Privacy"
+              - [438] AXGroup expanded=false
+                - [439] AXStaticText expanded=false = "·"
+              - [440] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [441] AXStaticText expanded=false = "Cookies"
+              - [442] AXGroup expanded=false
+                - [443] AXStaticText expanded=false = "·"
+              - [444] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [445] AXStaticText expanded=false = "Accessibility"
+              - [446] AXGroup expanded=false
+                - [447] AXStaticText expanded=false = "·"
+              - [448] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [449] AXStaticText expanded=false = "Ads Info"
+              - [450] AXGroup expanded=false
+                - [451] AXStaticText expanded=false = "·"
+              - [452] AXPopUpButton expanded=false "More"
+              - [453] AXGroup expanded=false
+                - [454] AXStaticText expanded=false = "© 2026 X Corp."
+        - [455] AXGroup subrole=AXEmptyGroup expanded=false
+        - [456] AXGroup subrole=AXEmptyGroup expanded=false
+      - [457] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [458] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [459] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [460] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [461] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [462] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [463] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [464] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [465] AXRadioButton subrole=AXTabButton valueWritable=false "HaseebBadar_Stocks on X: \"BREAKING: I turned Claude into a fundamental analyst for NSE stocks. Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks. Here\'s what it checks ↓\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "HaseebBadar_Stocks on X: \"BREAKING: I turned Claude into a fundamental analyst for NSE stocks. Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks. Here\'s what it checks ↓\" / X" selection=[0,0]
+  - [466] AXGroup "Favorites bar"
+    - [467] AXButton "show start page" help="Show Start Page"
+    - [468] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [469] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [470] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [471] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [472] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [473] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [474] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [475] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [476] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [477] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [478] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [479] AXToolbar
+    - [480] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [481] AXButton "show sidebar" help="Show sidebar"
+      - [482] AXMenuButton "Tab Group picker"
+    - [483] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [484] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [485] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [486] AXButton "Page Menu"
+      - [487] AXButton "Add page to Reading List"
+      - [488] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/hb_stocks/status/2123000766109745364" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [489] AXButton "Reload this page"
+    - [490] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [491] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [492] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [493] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [494] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [495] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [496] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [497] AXButton subrole=AXCloseButton
+  - [498] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [499] AXButton subrole=AXMinimizeButton
+- [500] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [501] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [502] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [503] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [504] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [505] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [506] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [507] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [508] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [509] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

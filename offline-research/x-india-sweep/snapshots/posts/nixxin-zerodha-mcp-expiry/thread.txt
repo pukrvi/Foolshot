@@ -1,0 +1,28 @@
+URL: https://x.com/nixxin/status/2057797187921494199
+DATE: 2026-11-22
+MODE: Latest
+
+Nikhil Pahwa
+Verified account
+@nixxin Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3379 views
+
+Zerodha Support
+Verified account
+@AskZerodha May 22 Hi Nikhil, sorry about the inconvenience. This will be resolved in an upcoming version of MCP. Sessions will remain active throughout the day and will be reset only the next day, similar to Kite and Kite Connect API sessions. 1 reply, 1 like, 241 views
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Why? Why do I still need to login daily? I\'ve authorised my agent to analyse my portfolio and certain stocks daily. The whole point is that it shouldn\'t need me to do anything. Why even have an MCP if you\'re going to enforce this inconvenience? 1 reply, 1 like, 214 views
+
+Sandeep Hegde
+Verified account
+@SandeepHegde May 23 Be glad that that they are not enforcing Aadhaar authentication for that.
+
+These days they have started forcing Aadhaar e-sign for simple online profile changes. It will all be for consumer safety as per internal policy 😀
+
+NaaNSenseAi
+Verified account
+@NaanSenseAi May 22 Yeah MCP shouldn’t need a logout
+
+Naresh
+@narresh May 22 @grok what\'s MCP and why is it used? 1 reply, 143 views

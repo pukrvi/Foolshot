@@ -1,0 +1,45 @@
+URL: https://x.com/DanKornas/status/2069946422586122698
+DATE: 2026-11-22
+MODE: Latest
+
+Dan Kornas
+Verified account
+@DanKornas Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.
+
+AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.
+
+It helps you move from idea to a safer implementation by combining a bot-generation wizard, NSE universe fetching, backtest/live checks, and a documented set of trading-system gotchas.
+
+Key features:
+
+• Interactive bot wizard – scans existing code and asks about trade style, universe, capital, and risk tolerance
+• Zerodha/Kite workflow guidance – covers tick-size rounding, position reconciliation, stop-loss lifecycle, and credentials setup
+• Live universe fetcher – creates JSON files for Nifty 50, Nifty 100, Midcap 150, and Smallcap 250 constituents
+• Backtest-live parity checks – documents data caching, VWAP reset, candle completion, and slippage issues that break live results
+• Risk and analytics patterns – includes Kelly sizing, portfolio heat, regime detection, structured logs, and post-trade reporting
+
+It’s open-source (MIT license).
+
+Link in the reply 👇 Image 5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views
+
+Dan Kornas
+Verified account
+@DanKornas Jun 25 🔗 GitHub: github.com/javajack/skill
+---
+✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... 2 likes, 1 bookmark, 488 views" description="Dan Kornas
+Verified account
+@DanKornas Jun 25 🔗 GitHub: github.com/javajack/skill
+---
+✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... From github.com 2 likes, 1 bookmark, 488 views
+
+New Moon Algos
+Verified account
+@NewMoonAlgos Jun 26 That\'s the right split. A builder tool earns trust when it preserves the path between research and execution: costs, skipped trades, rejected orders, and state after deployment gets messy. 1 reply, 1 like, 43 views
+
+Dan Kornas
+Verified account
+@DanKornas Jun 26 Yep. The ugly logs matter: fills, rejects, costs, and what changed after deployment. 1 reply, 55 views
+
+安叫兽|Bird🕊️ 🔶 BNB
+Verified account
+@ajs6888 Jun 25 回测漂亮不算什么，实盘滑点才见真章。 1 like, 39 views

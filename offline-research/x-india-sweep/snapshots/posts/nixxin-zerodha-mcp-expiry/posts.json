@@ -1,0 +1,38 @@
+[
+ {
+  "handle": "nixxin",
+  "id": "2057797187921494199",
+  "timeText": "5:44 PM · May 22, 2026",
+  "text": "Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\\'m glad there is an MCP, but why log users out frequently "
+ },
+ {
+  "handle": "AskZerodha",
+  "id": "2057825036015452593",
+  "timeText": "May 22",
+  "text": "Hi Nikhil, sorry about the inconvenience. This will be resolved in an upcoming version of MCP. Sessions will remain active throughout the day and will be reset only the next day, similar to Kite and Kite Connect API sessions."
+ },
+ {
+  "handle": "nixxin",
+  "id": "2057845012948451678",
+  "timeText": "May 22",
+  "text": "Why? Why do I still need to login daily? I\\'ve authorised my agent to analyse my portfolio and certain stocks daily. The whole point is that it shouldn\\'t need me to do anything. Why even have an MCP if you\\'re going to enforce this inconvenience?"
+ },
+ {
+  "handle": "SandeepHegde",
+  "id": "2058010223814783207",
+  "timeText": "May 23",
+  "text": "Be glad that that they are not enforcing Aadhaar authentication for that.\n\nThese days they have started forcing Aadhaar e-sign for simple online profile changes. It will all be for consumer safety as per internal policy 😀"
+ },
+ {
+  "handle": "NaanSenseAi",
+  "id": "2057838472136892902",
+  "timeText": "May 22",
+  "text": "Yeah MCP shouldn’t need a logout"
+ },
+ {
+  "handle": "narresh",
+  "id": "2057868533653258308",
+  "timeText": "May 22",
+  "text": " what\\'s MCP and why is it used?"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "handle": "riteshzd",
+  "id": "2017954481158443051",
+  "timeText": "Feb 1",
+  "text": " MCP not giving a refresh token but an access token every time?\n\nLogging in via the web is a hassle\n"
+ },
+ {
+  "handle": "zerodha",
+  "id": "2018182508077256955",
+  "timeText": "10:09 AM · Feb 2, 2026",
+  "text": "Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual."
+ },
+ {
+  "handle": "riteshzd",
+  "id": "2018183783703572681",
+  "timeText": "Feb 2",
+  "text": "But why can’t we automate this completely? I don’t want to login to my zerodha account every time I start off a working session over claude."
+ }
+]

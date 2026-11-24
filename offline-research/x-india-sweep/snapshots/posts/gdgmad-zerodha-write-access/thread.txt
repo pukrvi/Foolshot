@@ -1,0 +1,17 @@
+URL: https://x.com/gdgmad/status/2123053642689171489
+DATE: 2026-11-22
+MODE: Latest
+
+GDG MAD
+@gdgmad Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.
+
+Hear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai
+
+RSVPed yet? 👉 devfestmumbai.com Image
+
+GDG MAD
+@gdgmad Nov 19 15 million Mumbaikars rely on it daily, and it started because one engineer wanted to know when the next train was coming.
+
+Catch Sachin Teke, the man behind mIndicator, for the story behind Mumbai\'s most beloved app at DevFest Mumbai.
+
+Register 👉 devfestmumbai.com Image 9 likes, 327 views

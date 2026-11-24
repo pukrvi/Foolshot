@@ -1,0 +1,1546 @@
+{
+ "aashish-bazaar-trader": [
+  {
+   "author": "Aashish 💙",
+   "handle": "@Aashish10_03",
+   "time": "",
+   "text": "Bazaar Trader is public.\n\n11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.\n\nAnyone can use it. Clone it, run the Python tools, or paste the GitHub URL into Claude and type “install skill”. Paper is the default. Nothing in this pack can place a live order. Free, MIT, no signup. Python 3.8+ standard library only — nothing to pip install.\n\nThis is the Indian-market sequel to Jakeschincariol’s Day Trader skill (US hours, Yahoo, SEC, Alpaca). That pack is 09:30–16:00 ET. This pack is 09:15–15:30 IST, NSE/BSE cash and F&O names, rupees, and a generic paper ticket you can type into any Indian paper UI by hand.\n\nA scan is a list of charts that match a rule, not a list of stocks to buy. Most people who day trade lose money.\n\nThe eleven:\n• /bazaar-scanner — NSE EQ bhavcopy universe, daily setups, 09:15 IST opening-range breakout\n• /bazaar-news — NSE corporate announcements, tagged in IST\n• /bazaar-entry — first completed bar beyond the range; forming bars wait\n• /bazaar-exit — stop and target in rupees, flat by 15:15 IST\n• /bazaar-timemachine — 10,000 IST-session replays\n• /bazaar-risk — one slot, skip 11:15–13:15, paper only, PASS or BLOCK\n• /bazaar-budget — size in INR, charges in the max-loss picture\n• /bazaar-broker — generic paper ticket; typed yes only; never sends the order\n• /bazaar-alerts — stop, target, 15:15 flatten, opening bell at 09:15 IST\n• /bazaar-analyst — quarterly numbers; never a buy call\n• /bazaar-smartmoney — NSE bulk/block deals and FII-DII cash (there is no Indian Pelosi feed)\n\nPipeline: scanner → news → entry → exit → time machine → budget → risk → broker.\n\nHonest fills: first print strictly after the signal, 0.15% equity slip (0.5pt on index options), stop at the traded extreme not the theoretical stop, NSE statutory charges plus a typical Rs 20/order. A 10:30 day-type label is not used on a 09:15 or 10:00 bar. Empty FII/OI stays empty. --demo is not live.\n\nWorks fully offline on tests/fixtures/. The tools do not call the network. Live NSE pages are unofficial and rate-limited — drop your own files in the same shapes.\n\nInstall:\ngithub.com/raiaashish-cod\ninstall skill\n\nor in Claude Code:\n/plugin marketplace add raiaashish-code/bazaar-trader-skill\n\nNot financial advice. A yes covers one ticket. “yes to all” is refused. A stop is a plan, not a guarantee.\n\n#ClaudeCode #ClaudeSkills #NSE #BSE #Nifty #OpenSource #PaperTrading github.com GitHub - raiaashish-code/bazaar-trader-skill 2 replies, 4 likes, 7 bookmarks, 732 views\" description=\"Aashish 💙\nVerified account\n@Aashish10_03 Bazaar Trader is public.\n\n11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.\n\nAnyone can use it. Clone it, run the Python tools, or paste the GitHub URL into Claude and type “install skill”. Paper is the default. Nothing in this pack can place a live order. Free, MIT, no signup. Python 3.8+ standard library only — nothing to pip install.\n\nThis is the Indian-market sequel to Jakeschincariol’s Day Trader skill (US hours, Yahoo, SEC, Alpaca). That pack is 09:30–16:00 ET. This pack is 09:15–15:30 IST, NSE/BSE cash and F&O names, rupees, and a generic paper ticket you can type into any Indian paper UI by hand.\n\nA scan is a list of charts that match a rule, not a list of stocks to buy. Most people who day trade lose money.\n\nThe eleven:\n• /bazaar-scanner — NSE EQ bhavcopy universe, daily setups, 09:15 IST opening-range breakout\n• /bazaar-news — NSE corporate announcements, tagged in IST\n• /bazaar-entry — first completed bar beyond the range; forming bars wait\n• /bazaar-exit — stop and target in rupees, flat by 15:15 IST\n• /bazaar-timemachine — 10,000 IST-session replays\n• /bazaar-risk — one slot, skip 11:15–13:15, paper only, PASS or BLOCK\n• /bazaar-budget — size in INR, charges in the max-loss picture\n• /bazaar-broker — generic paper ticket; typed yes only; never sends the order\n• /bazaar-alerts — stop, target, 15:15 flatten, opening bell at 09:15 IST\n• /bazaar-analyst — quarterly numbers; never a buy call\n• /bazaar-smartmoney — NSE bulk/block deals and FII-DII cash (there is no Indian Pelosi feed)\n\nPipeline: scanner → news → entry → exit → time machine → budget → risk → broker.\n\nHonest fills: first print strictly after the signal, 0.15% equity slip (0.5pt on index options), stop at the traded extreme not the theoretical stop, NSE statutory charges plus a typical Rs 20/order. A 10:30 day-type label is not used on a 09:15 or 10:00 bar. Empty FII/OI stays empty. --demo is not live.\n\nWorks fully offline on tests/fixtures/. The tools do not call the network. Live NSE pages are unofficial and rate-limited — drop your own files in the same shapes.\n\nInstall:\ngithub.com/raiaashish-cod\ninstall skill\n\nor in Claude Code:\n/plugin marketplace add raiaashish-code/bazaar-trader-skill\n\nNot financial advice. A yes covers one ticket. “yes to all” is refused. A stop is a plan, not a guarantee.\n\n#ClaudeCode #ClaudeSkills #NSE #BSE #Nifty #OpenSource #PaperTrading github.com GitHub - raiaashish-code/bazaar-trader-skill From github.com"
+  },
+  {
+   "author": "This Post is unavailable. Learn more",
+   "handle": "",
+   "time": "",
+   "text": "This Post is unavailable. Learn more"
+  },
+  {
+   "author": "Chart_Artist (RRJ)",
+   "handle": "@DhandaDharam",
+   "time": "Nov 4",
+   "text": "Wow awesome work"
+  },
+  {
+   "author": "Interactive Brokers",
+   "handle": "@IBKR",
+   "time": "",
+   "text": "React immediately to market-moving news and trade when it’s convenient for you. interactivebrokers.co.in Open an account today! 20 replies, 24 reposts, 337 likes, 100 bookmarks, 3322285 views\" description=\"Interactive Brokers\nVerified account\n@IBKR React immediately to market-moving news and trade when it’s convenient for you. interactivebrokers.co.in Open an account today! Ad from interactivebrokers.co.in"
+  }
+ ],
+ "abhip-nse-static-ip-guide": [
+  {
+   "author": "Abhijith",
+   "handle": "@abhip_me",
+   "time": "",
+   "text": "If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader developed the algo themselves. \n\nI’ve helped few clients turn their trading strategies into Python code, and I’ve also built dashboards and automations around their strategies.\n\nIf you have a strategy written down in plain English and want help building it in Python, feel free to DM me. I can help you backtest the rules, build a dashboard, or automate the parts you still do by hand. If live order execution is part of the plan, we can start by checking which setup your broker supports. Quote\n\n\nSquare profile picture\nTraders Cafe\nVerified account\n@TradersCafe_blr 18 hours ago\nNSE\\'s static IP circular in 60 seconds.\n\n- Static IP only if you code your own algo\n- Brokers must take a written undertaking\n- No exchange grievance route for algo-logic losses\n- Effective immediately\n\n#AlgoTrading #NSE\n\n\nEmbedded video\n0:53"
+  },
+  {
+   "author": "Abhijith",
+   "handle": "@abhip_me",
+   "time": "13 hours ago",
+   "text": "Woohoo!! Made another sale while I was sick, and this one took me past $500 in total sales! 🥹\n\nSix months ago, I had no second income. It might not sound like much, but seeing that notification made me so happy.\n\nCrazy how time flies. Dodo Payments"
+  }
+ ],
+ "akondi-nse-live-data-tool": [
+  {
+   "author": "Venkata Sudheer Akondi",
+   "handle": "@Akondi9999",
+   "time": "",
+   "text": "SAHI just made trading smarter — for FREE! 🚀\n📊 sahicharts.com is live\n✅ Real-time NSE data\n🤖 AI indicators & live scanners\n💻 Works on any browser\n💰 No fees, open to ALL traders\n\"Good tools = disciplined trading.\" — CEO Dale Vaz\n#SAHI #NSE #Trading #FreeTools"
+  },
+  {
+   "author": "Venkata Sudheer Akondi",
+   "handle": "@Akondi9999",
+   "time": "7 hours ago",
+   "text": "youtube.com AI After 2030: RGV Predicts a Shocking Future! | AI WILL TAKE OVER? |... AI After 2030: RGV Predicts a Shocking Future! | AI WILL TAKE OVER?...\" description=\"Venkata Sudheer Akondi\n@Akondi9999 7 hours ago Play youtube.com AI After 2030: RGV Predicts a Shocking Future! | AI WILL TAKE OVER? |... AI After 2030: RGV Predicts a Shocking Future! | AI WILL TAKE OVER?..."
+  }
+ ],
+ "aktrader-nse-mcp-server": [
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "",
+   "text": "NSE now has a free, official MCP server for AI agents\n\n36 tools, no API key:\n– Live quotes, indices & movers\n– 5 yrs EOD history, 52W range, moving averages\n– Breadth, India VIX, index P/E & P/B\n– Stock vs index: beta, correlation\n\nnseindia.com/nse-mcp\n\nAll tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..."
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)\n\n– Stock quote: LTP, OHLC, volume, 52W\n– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y\n– ~140 live indices by group\n– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)\n– Live lists: equity, SME, bonds, call auction\n– Data freshness check"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "2/ 📊 END-OF-DAY: STOCKS (5 yrs data)\n\n– Daily OHLCV + close on any date\n– Bulk quote, up to 50 symbols\n– 52W high/low\n– Moving averages (20/50/200)\n– Volume spikes & trend\n– Splits, bonuses, dividends\n– Symbol search\n– Compare up to 10 stocks\n– Stock vs index: beta, correlation"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "3/ 🏛 END-OF-DAY: MARKET & INDICES\n\n– Mood: VIX, advances vs declines\n– Breadth: A/D ratio, volume\n– Top movers & most active by date\n– ~170 indices: OHLC, P/E, P/B\n– Index history, returns 1D–2Y\n– Valuation vs past 5 yrs\n– Compare up to 10 indices: return, volatility, drawdown"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):\n\nLive: mcp.nseindia.in/cmmkt/mcp\nEOD: mcp.nseindia.in/bhavcopy/cm/mcp\n\nCash market only, no F&O or intraday candles. For info/education, not investment advice.\n\n#NSE #MCP #AI #StockMarket"
+  },
+  {
+   "author": "Keith Zhai",
+   "handle": "@KeithZhai",
+   "time": "12 hours ago",
+   "text": "any rate limit on the live quotes?"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "9 hours ago",
+   "text": "NSE hasn\\'t published a rate limit, and there are no rate-limit headers. It sits behind Akamai though, so heavy bursts can get a client stalled for a few minutes. Live data only refreshes about once a minute anyway, so caching and polling gently works best."
+  }
+ ],
+ "aktrader-nse-mcp-server-info": [
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "NSE now has a free, official MCP server for AI agents\n\n36 tools, no API key:\n– Live quotes, indices & movers\n– 5 yrs EOD history, 52W range, moving averages\n– Breadth, India VIX, index P/E & P/B\n– Stock vs index: beta, correlation\n\nnseindia.com/nse-mcp\n\nAll tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..."
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)\n\n– Stock quote: LTP, OHLC, volume, 52W\n– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y\n– ~140 live indices by group\n– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)\n– Live lists: equity, SME, bonds, call auction\n– Data freshness check"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "2/ 📊 END-OF-DAY: STOCKS (5 yrs data)\n\n– Daily OHLCV + close on any date\n– Bulk quote, up to 50 symbols\n– 52W high/low\n– Moving averages (20/50/200)\n– Volume spikes & trend\n– Splits, bonuses, dividends\n– Symbol search\n– Compare up to 10 stocks\n– Stock vs index: beta, correlation"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "19 hours ago",
+   "text": "3/ 🏛 END-OF-DAY: MARKET & INDICES\n\n– Mood: VIX, advances vs declines\n– Breadth: A/D ratio, volume\n– Top movers & most active by date\n– ~170 indices: OHLC, P/E, P/B\n– Index history, returns 1D–2Y\n– Valuation vs past 5 yrs\n– Compare up to 10 indices: return, volatility, drawdown"
+  },
+  {
+   "author": "Ajay Kumar",
+   "handle": "@AKtrader1108",
+   "time": "",
+   "text": "4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):\n\nLive: mcp.nseindia.in/cmmkt/mcp\nEOD: mcp.nseindia.in/bhavcopy/cm/mcp\n\nCash market only, no F&O or intraday candles. For info/education, not investment advice.\n\n#NSE #MCP #AI #StockMarket"
+  }
+ ],
+ "algotradingdesk-nse-retail-algo": [
+  {
+   "author": "Manish Malhotra",
+   "handle": "@algotradingdesk",
+   "time": "",
+   "text": "🚨 NSE’s New Retail Algo Trading Rules: Is Algo Trading Becoming Difficult for Ordinary Retail Traders?\n\nNSE Circular No. 58/2026 | November 20, 2026\n\n10 Critical Questions:\n\n1. Static IP access is intended only for tech-savvy retail investors who develop their own algos using programming knowledge.\n\n2. Retail traders who depend on third-party algo providers may face restrictions on Static IP access.\n\n3. Does understanding markets, options strategies and risk management no longer suffice? Must every algo trader also become a programmer?\n\n4. What happens to traders using no-code and low-code algo platforms?\n\n5. Will retail traders now need to hire programmers and build their own technology infrastructure?\n\n6. If an algo strategy is developed with professional assistance, how will the trader qualify under the new definition?\n\n7. Will smaller algo providers find it increasingly difficult to serve retail clients?\n\n8. Will compliance costs and regulatory uncertainty discourage retail participation in algo trading?\n\n9. Large institutions have technology teams and infrastructure. How will independent retail traders compete?\n\n10. Most importantly, what is the practical alternative for an ordinary retail trader who understands trading but does not know programming?\n\nMY CONCERN:\n\nInvestor protection is absolutely necessary. However, regulation must strike a balance between risk management and accessibility.\n\nAlgo trading should become safer, more transparent and more accessible — not a privilege limited to people with programming skills.\n\nSEBI and NSE must clarify how ordinary retail traders can practically access compliant third-party algo solutions under this framework.\n\nA simple question:\n\nARE WE PROTECTING RETAIL TRADERS OR CREATING NEW BARRIERS TO RETAIL ALGO TRADING?\n\nWhat is your view?\n\n#AlgoTrading #RetailTrading"
+  },
+  {
+   "author": "Manish Malhotra",
+   "handle": "@algotradingdesk",
+   "time": "4 hours ago",
+   "text": "This is not a Bollywood movie. \n\nHe has done a Right thing. In situation like this when a girl is with you don\\'t fight against 10 people because they might have hit that girl in retaliation. \n\nIt\\'s better to take few blows and get out as soon as possible. \n\nIf he had hit them Quote\nMohit\nVerified account\n@Warlock_mohit Nov 21\nDon’t get a girlfriend if you can’t save her from five or six goons. Period!!"
+  }
+ ],
+ "alphaalgo-static-ip": [
+  {
+   "author": "Alphaalgo",
+   "handle": "@Alphaalgo7",
+   "time": "",
+   "text": "🚨 NSE’s latest move on Static IP usage is something every algo trader should pay attention to.\n\nBrokers, traders and algo providers all have responsibilities under the new guidelines.\n\nFor traders building their own algos, this is especially important.\n\nAlgo trading in India is growing fast, but compliance needs to grow with it.\n\nHow do you see this impacting retail algo traders?\n\n#NSE #AlgoTrading #StockMarketIndia x.com/mayurdedhia09/ Image\nFrom Mayur Dedhia"
+  },
+  {
+   "author": "SpiritualTRADER",
+   "handle": "@Spiritual_Trad",
+   "time": "23 hours ago",
+   "text": "This is what it means so calm down a bit may be?"
+  },
+  {
+   "author": "Vikrant Singh Solanki",
+   "handle": "@vikrant_algo",
+   "time": "22 hours ago",
+   "text": "what they will achive with this ? Nothing... only making things harder for retailers. That\\'s their main motive since the start."
+  },
+  {
+   "author": "Siddhant Mohan",
+   "handle": "@siddhantmohan1",
+   "time": "",
+   "text": "Introducing open source AI code review. The review you pay $60 a developer for, now $0 and open source: 100+ scanners plus an AI reviewer that has to answer every finding, on your own Claude Code or Codex login, before you push.\n\ngithub.com/openqodex/open Embedded video Play Video. 40 seconds long"
+  },
+  {
+   "author": "Priyabrata Ghosh",
+   "handle": "@Priyabr85862078",
+   "time": "Nov 21",
+   "text": "@Tradetron1 please elaborate what is the issue?"
+  },
+  {
+   "author": "QUANTNEURON",
+   "handle": "@ALGODESKIN",
+   "time": "22 hours ago",
+   "text": "I don\\'t see any direct impact on individual algo traders. The primary objective is to regulate brokers and smaller platforms that sell algo-trading services and allow multiple users to execute algos through their platforms using individual static IP mappings.\n\nThe April circular"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "5 hours ago",
+   "text": "Far reaching impact. Quote\nSanjay Patel\nVerified account\n@thesanjay15 5 hours ago\n\"Tech-Savvy Retail Investors\" !!!\n\nSeriously, is this the best terminology the brightest minds at NSE could come up with?\n\n@NSEIndia, let me ask you something: In the age of AI, who exactly is not a tech-savvy retail investor?\n\nSEBI and the stock exchanges are supposed to protect"
+  }
+ ],
+ "dankornas-algotrader-skill": [
+  {
+   "author": "Dan Kornas",
+   "handle": "@DanKornas",
+   "time": "",
+   "text": "Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.\n\nAlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.\n\nIt helps you move from idea to a safer implementation by combining a bot-generation wizard, NSE universe fetching, backtest/live checks, and a documented set of trading-system gotchas.\n\nKey features:\n\n• Interactive bot wizard – scans existing code and asks about trade style, universe, capital, and risk tolerance\n• Zerodha/Kite workflow guidance – covers tick-size rounding, position reconciliation, stop-loss lifecycle, and credentials setup\n• Live universe fetcher – creates JSON files for Nifty 50, Nifty 100, Midcap 150, and Smallcap 250 constituents\n• Backtest-live parity checks – documents data caching, VWAP reset, candle completion, and slippage issues that break live results\n• Risk and analytics patterns – includes Kelly sizing, portfolio heat, regime detection, structured logs, and post-trade reporting\n\nIt’s open-source (MIT license).\n\nLink in the reply 👇"
+  },
+  {
+   "author": "Dan Kornas",
+   "handle": "@DanKornas",
+   "time": "Jun 25",
+   "text": "🔗 GitHub: github.com/javajack/skill\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... 2 likes, 1 bookmark, 488 views\" description=\"Dan Kornas\nVerified account\n@DanKornas Jun 25 🔗 GitHub: github.com/javajack/skill\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... From github.com"
+  },
+  {
+   "author": "New Moon Algos",
+   "handle": "@NewMoonAlgos",
+   "time": "Jun 26",
+   "text": "That\\'s the right split. A builder tool earns trust when it preserves the path between research and execution: costs, skipped trades, rejected orders, and state after deployment gets messy."
+  },
+  {
+   "author": "Dan Kornas",
+   "handle": "@DanKornas",
+   "time": "Jun 26",
+   "text": "Yep. The ugly logs matter: fills, rejects, costs, and what changed after deployment."
+  },
+  {
+   "author": "安叫兽|Bird🕊️ 🔶 BNB",
+   "handle": "@ajs6888",
+   "time": "Jun 25",
+   "text": "回测漂亮不算什么，实盘滑点才见真章。"
+  }
+ ],
+ "deepankar-kite-mcp-session": [
+  {
+   "author": "Deepankar",
+   "handle": "@DeepankarBhade",
+   "time": "",
+   "text": "how to keep kite mcp session alive"
+  }
+ ],
+ "devmagg-nse-circular-58": [
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "",
+   "text": "🚨 NSE clamps down on Static IP misuse in retail algo trading (Circular 58/2026)\n\n✅ Static IP only for tech-savvy retail clients who code their own algos. \n\n❌ Algo providers can\\'t hand it to other retail clients\n\nBrokers must now collect an undertaking. Effective immediately."
+  },
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "5 hours ago",
+   "text": "2/ Brokers must get an undertaking from each tech-savvy client. It confirms they build their own algos using programming knowledge. \n\nIt also says they have no recourse to the Exchange\\'s investor grievance mechanism for losses caused by the algo\\'s logic."
+  },
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "5 hours ago",
+   "text": "3/ Algo providers who break the rules can have their empanelment reviewed, suspended or revoked.\n\nWhy it matters: since the retail algo framework began on Apr 1, 2026, NSE has received complaints about providers giving Static IPs to ordinary retail clients, labelled as"
+  },
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "5 hours ago",
+   "text": "Why it matters: since the retail algo framework began on Apr 1, 2026, NSE has received complaints about providers giving Static IPs to ordinary retail clients, labelled as \"tech-savvy\"."
+  },
+  {
+   "author": "Vincent Hus",
+   "handle": "@vincent_hus",
+   "time": "",
+   "text": "166 open issues. 71 contributors last week. Room for more. github.com Pick your issue. 199 replies, 199 reposts, 3283 likes, 664 bookmarks, 11873182 views\" description=\"Vincent Hus\nVerified account\n@vincent_hus 166 open issues. 71 contributors last week. Room for more. github.com Pick your issue. Ad from github.com"
+  },
+  {
+   "author": "Opportunist Trader",
+   "handle": "@Opportunist_in",
+   "time": "3 hours ago",
+   "text": "I use 1cliq for order execution and purchase their own static IP. Will this affect me too?"
+  },
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "2 hours ago",
+   "text": "yes at last its third party provider they cant provide static ip for you to trade"
+  },
+  {
+   "author": "Dev",
+   "handle": "@DevMagg",
+   "time": "Nov 19",
+   "text": "🧠 ONE STRATEGY SHOULD NOT DEFINE YOUR ENTIRE PORTFOLIO.\n\nDifferent strategies behave differently in different market conditions.\n\nFor example:\n\n• Trend-following systems benefit from directional moves.\n• Mean-reversion systems look for price reversals.\n• Momentum systems seek"
+  }
+ ],
+ "dharmikgohil-claude-1L-paper": [
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "",
+   "text": "So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.\n\nWith some trading skills!\n\nand just access to live market data and a Zerodha account.\n\nWhat happened next perfectly explains why most traders lose money."
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "The AI\\'s first trade was terrible.\n\nIt saw momentum.\nJumped in.\nGot stopped out.\n−₹9,204.\nAccount down 9%.\n\nIf you\\'ve traded before, you know what usually comes next:\n\n\"Need to make it back.\"\n\nThe AI did something different.\n\nNothing."
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "For the next 90 minutes it just watched.\n\nNo averaging.\nNo revenge trade.\nNo random entries because the market was moving.\nThen it found a setup it actually liked.\nNot the breakout.\n\nThe retest after the breakout.\n\nOne trade.\n\n+₹10,403.\n\nThe entire loss recovered."
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "At that point the experiment was proving something interesting.\n\nThe AI wasn\\'t making money because it was smart.\n\nIt was making money because it was patient.\n\nThen I ruined it.\n\nI told it:\n\n\"Trade more.\""
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "Within minutes it started behaving exactly like a human trader.\n\nA quick scalp.\n\nA forced entry.\n\nA trade that looked good for 30 seconds.\n\nA fake breakout.\n\nSmall losses everywhere.\n\nNothing catastrophic.\n\nJust death by activity."
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "By afternoon all the profits from the good trade were gone.\n\nNot because the market changed.\n\nNot because the strategy failed.\n\nBecause it stopped waiting."
+  },
+  {
+   "author": "Dharmik",
+   "handle": "@dharmikgohil_",
+   "time": "Jun 3",
+   "text": "Then I gave it one final instruction:\n\n\"Either win big or lose it all.\"\n\n13 minutes before expiry it bought a lottery-ticket option.\n\nRisk: ₹4,550\n\nPotential upside: ridiculous.\n\nThe kind of trade every trader secretly dreams about.\n\nThe option expired at zero."
+  }
+ ],
+ "emrldwill-claude-gpt-35k": [
+  {
+   "author": "Hal Jordan fan account(TB+HD)",
+   "handle": "@EmrlDWill",
+   "time": "",
+   "text": "Monday ka portfolio aaj green hua .\nNo NIFTY \n\nGave a huge ass prompt to both claude and gpt and invested 35k . \nLost 600 on intraday NTPC .\nNot a trading recommendation or endorsement"
+  },
+  {
+   "author": "Phenol/Inactive",
+   "handle": "@NimbuSeth",
+   "time": "Nov 5",
+   "text": "You trade using gpt"
+  },
+  {
+   "author": "Hal Jordan fan account(TB+HD)",
+   "handle": "@EmrlDWill",
+   "time": "Nov 5",
+   "text": "first time \ni want to measure month long performance"
+  },
+  {
+   "author": "Sword of God",
+   "handle": "@pmnm2405",
+   "time": "Nov 5",
+   "text": "Options nhi krte ho bhai?"
+  },
+  {
+   "author": "Hal Jordan fan account(TB+HD)",
+   "handle": "@EmrlDWill",
+   "time": "Nov 5",
+   "text": "I have low capital"
+  },
+  {
+   "author": "ambuj",
+   "handle": "@ambuj_2032",
+   "time": "Nov 5",
+   "text": "mera dost hoke aisi harkat"
+  },
+  {
+   "author": "Hal Jordan fan account(TB+HD)",
+   "handle": "@EmrlDWill",
+   "time": "Nov 5",
+   "text": "Meine pucha tha Saar"
+  },
+  {
+   "author": "Terminator",
+   "handle": "@terminator1229",
+   "time": "Nov 5",
+   "text": "🤣🤣"
+  },
+  {
+   "author": "Hal Jordan fan account(TB+HD)",
+   "handle": "@EmrlDWill",
+   "time": "1 hour ago",
+   "text": "Hes not 6 ft bruh\nmax 5\\'9 Quote\nJeetas Posting L\n@Veazlas 21 hours ago\nRise of manlet incels against 6 feet chad and his gf!\n\nDown with sex havers!\n\nJai incel putana! Jai incelrasthta!\n\n\nEmbedded video Play Video. 1 minute 22 seconds long"
+  }
+ ],
+ "entangled-agentmesh-nse": [
+  {
+   "author": "Bharavi",
+   "handle": "@EntangledUser",
+   "time": "",
+   "text": "\"You either die a retail investor or live long enough to build \nyour own algo\" 🦇\n\nBuilt agentmesh — AI agent mesh that watches NSE 24/7 and pings \nme on Telegram when something real happens.\n\nOpen source 👇\ngithub.com/bharavi1905/ag"
+  },
+  {
+   "author": "Bharavi",
+   "handle": "@EntangledUser",
+   "time": "Mar 22",
+   "text": "Every alert ships with:\n→ Live price + 52W context\n→ ROCE, ROE, promoter holding, P/E\n→ FII sentiment modifier\n→ Transparent score: 8/10 (raw 8, FII -1, fundamentals +1)\n\nMoneyball for retail. No Bloomberg terminal needed."
+  },
+  {
+   "author": "Bharavi",
+   "handle": "@EntangledUser",
+   "time": "Mar 22",
+   "text": "Running on a ₹3,000 Raspberry Pi soon.\nConstantly improving. Not financial advice.\nAlfred doesn\\'t trade for Batman either 🦇.\n\n#buildinpublic #NSE #AI #Python #IndianStockMarket #Agents #AIAgents #Deepagents"
+  },
+  {
+   "author": "Rama Surendra",
+   "handle": "@rsurendra21",
+   "time": "Mar 22",
+   "text": "Cool, great work Bharavi as always👌"
+  }
+ ],
+ "enumula-ml-portfolio-live": [
+  {
+   "author": "Enumula Kartik 🇮🇳",
+   "handle": "@EnumulaKartik",
+   "time": "",
+   "text": "BuildWithAI #1.0\n\nMy machine learning portfolio went from an empty repo to live in 2 days. \nClaude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.\n\nThe stack:\n1. .NET 10 MVC for the site\n2. Models trained in Python (uv), exported to ONNX\n3. ONNX Runtime serving predictions inside the app, with no separate Python API \n\nWhat Claude Code did: \n→ Turned each notebook into a reproducible train.py that writes the ONNX model, the form schema, the charts and test fixtures \n\n→ Built the metadata-driven site, so a new project is a folder and a JSON entry, with no new controller code \n→ Wired every model to a live form with schema validation and rate limiting \n\n→ Wrote parity tests that check the .NET output against scikit-learn\\'s answers \n\n→ Wrote integration tests with WebApplicationFactory \n\nLive now: 7 Model Zoo projects with working forms, plus the flagship NSE market regime classifier (Nifty 200 + India VIX, walk-forward tested, illustrative). \n\nWhat made it work: \n1. A SPEC.md as the source of truth \n\n2. A CLAUDE.md holding commands, layout, and conventions, so every session started with context \n\n3. Docs and a decision log updated after every phase\n\nCheck it out here: enumulakartik.in"
+  },
+  {
+   "author": "Anderson",
+   "handle": "@justanderson",
+   "time": "Nov 16",
+   "text": "empty repo to live in 2 days is wild.. how much of the review actually changed the python side?"
+  },
+  {
+   "author": "Enumula Kartik 🇮🇳",
+   "handle": "@EnumulaKartik",
+   "time": "Nov 16",
+   "text": "Not much actually. My notebook already had code which had been reviewed multiple times. Claude Code did some restructuring and some model building code was optimised. The focus was on getting the site itself ready, and to integrate the models to run when deployed."
+  }
+ ],
+ "gdgmad-zerodha-write-access": [
+  {
+   "author": "GDG MAD",
+   "handle": "@gdgmad",
+   "time": "",
+   "text": "Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.\n\nHear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai\n\nRSVPed yet? 👉 devfestmumbai.com"
+  },
+  {
+   "author": "GDG MAD",
+   "handle": "@gdgmad",
+   "time": "Nov 19",
+   "text": "15 million Mumbaikars rely on it daily, and it started because one engineer wanted to know when the next train was coming.\n\nCatch Sachin Teke, the man behind mIndicator, for the story behind Mumbai\\'s most beloved app at DevFest Mumbai.\n\nRegister 👉 devfestmumbai.com"
+  }
+ ],
+ "haseeb-claude-fundamental-analyst": [
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "",
+   "text": "BREAKING: I turned Claude into a fundamental analyst for NSE stocks.\n\nType one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.\n\nHere\\'s what it checks ↓"
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "Why I built it:\n\nThe chart tells you where the money is going.\n\nThe results tell you why, and whether the story is strong enough to hold through the pullbacks.\n\nChart first. Results second. It does the second part."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 1: COMMODITY OR SPECIALITY?\n\nA commodity business stays cheap, even at a low PE.\n\nA speciality business can stay expensive for years.\n\nIt classifies the business before looking at a single number."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 2: IS THE GROUP MOVING?\n\nOne stock rising alone in a dead sector gets rejected.\n\nIt looks for 4 or 5 peers moving together, because real themes move in packs."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 3: WHAT\\'S THE TRIGGER?\n\nNew plant, order book, acquisition, a rule change that grows the market.\n\nIt pulls management\\'s own claim from the presentation and puts a number on it."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 4: SPEEDING UP OR SLOWING DOWN?\n\nGrowth falling from 80% to 50% still looks great on paper.\n\nThe market punishes the slowdown anyway. It flags it."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 5 AND 6: WHO PAID FOR THE GROWTH, AND DID THE PROFIT TURN INTO CASH?\n\nGrowth paid for with debt is a warning.\n\nProfit that never shows up as cash is a bigger one.\n\nThese are the checks almost everyone skips."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 7 AND 8: VALUATION, DONE PROPERLY\n\nNo \"PE is high, avoid\".\n\nIt works out the PEG, then a forward PE from management\\'s own guidance, and shows the maths.\n\nThen it sizes the capex against today\\'s revenue."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "CHECK 9 TO 11: MARKET SHARE, STAGE OF THE MOVE, AND THE GROWTH-FEAR CHECK\n\nIs it early in the move, or already up 400%?\n\nIs the company getting too big to keep growing?"
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "THEN ONE VERDICT:\n\nLeader-grade.\nTrade only.\nWatch and read.\nReject.\n\nAnd one rule it never breaks: every number comes with a source and a date. If it can\\'t find a number, it writes \"not found\". It never guesses."
+  },
+  {
+   "author": "HaseebBadar_Stocks",
+   "handle": "@hb_stocks",
+   "time": "Nov 18",
+   "text": "The framework comes from the best fundamentals breakdown I\\'ve heard this year.\n\nCredit and the free skill file are in the replies.\n\nBookmark this.\n\nEducational only. Not a buy or sell call."
+  }
+ ],
+ "hithesh-terminal-ai-agent": [
+  {
+   "author": "Hithesh Karanth",
+   "handle": "@HitheshKaranth",
+   "time": "",
+   "text": "Asked my open-source terminal\\'s AI agent for a quick read on CCL Products (NSE: CCL).\n\nIt picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.\n\nSelf-hosted, runs on local models.\n github.com/Hitheshkaranth Embedded video\n0:22"
+  }
+ ],
+ "jiyani-claude-broker-data": [
+  {
+   "author": "Mehul Jiyani",
+   "handle": "@jiyani02",
+   "time": "",
+   "text": "Must watch if you’re into algo trading or want to use AI for it.\nSaddam Bhai ( @pythontrader999 ) shows how he uses Claude to:\n• Pull broker data\n• Backtest YouTube strategies\n• Build momentum systems (ETF + Nifty 500)\nAll while doing a full-time job. Very practical session. Quote\nPythonTrader(Saddy Bhai)\nVerified account\n@pythontrader999 Sep 27\nThe amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..\n\nPodcast:youtu.be/zm-Cx67lU2M\n\nA heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️\nThe love, comments, DMs, messages"
+  }
+ ],
+ "khushal-ai-stock-screener-nse": [
+  {
+   "author": "khushal jain",
+   "handle": "@khushaljai48011",
+   "time": "",
+   "text": "I built an AI-native stock screener for NSE 🇮🇳\n\n📈 Breakout scanner + live option chain\n🤖 Chat with an AI trading agent (5 personas)\n🧠 ML-based Nifty gap predictor\n\nOpen-source, MIT licensed.\n\n🔗 github.com/85599/KJStockS\n🚀 Try it: kjstockscreener.streamlit.app\n\n⭐ if useful!"
+  }
+ ],
+ "kiruba-6step-dhan-mcp-workflow": [
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "",
+   "text": "A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.\n\nStep 1 - Connect Dhan (MCP)\nClaude can place orders, fetch positions, and pull info across NSE, BSE, MCX\n\nStep 2 - Install the Dhan skill\nThe MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)\n\nStep 3 - Download historical data\nAsk Claude to pull EOD history.\n\nStep 4 - Build the ratio file\nCreate a CSV with necessary data for backtest\n\nStep 5 - Define rules and backtest\n\nRatio breaks above 20-day high → hold NIFTYBEES\nRatio breaks below 20-day low → rotate into GOLDBEES\n\nStep 6 - Validate Quote\nKirubakaran Rajendran\nVerified account\n@kirubaakaran May 16\n₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. \n\nThat same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. \n\nHere\\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27138 views\" description=\"Kirubakaran Rajendran\nVerified account\n@kirubaakaran A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.\n\nStep 1 - Connect Dhan (MCP)\nClaude can place orders, fetch positions, and pull info across NSE, BSE, MCX\n\nStep 2 - Install the Dhan skill\nThe MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)\n\nStep 3 - Download historical data\nAsk Claude to pull EOD history.\n\nStep 4 - Build the ratio file\nCreate a CSV with necessary data for backtest\n\nStep 5 - Define rules and backtest\n\nRatio breaks above 20-day high → hold NIFTYBEES\nRatio breaks below 20-day low → rotate into GOLDBEES\n\nStep 6 - Validate Embedded video\n5:10\nQuote\nKirubakaran Rajendran\nVerified account\n@kirubaakaran May 16\n₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. \n\nThat same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. \n\nHere\\'s the strategy details 🧵"
+  },
+  {
+   "author": "T . Bajaj",
+   "handle": "@TanujBajaj8",
+   "time": "Jun 26",
+   "text": "From claude to Git to Telegram automated signals every day. Easiest way. Thanks for the idea, used it. It’s already working fine."
+  },
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "Jun 26",
+   "text": "That’s awesome"
+  },
+  {
+   "author": "Pratik Patil",
+   "handle": "@Pratikdude1911",
+   "time": "Jun 26",
+   "text": "Is option data available on dhan mcp"
+  },
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "Jun 26",
+   "text": "With Dhan skills you can download it"
+  },
+  {
+   "author": "Ramakrishnan",
+   "handle": "@Ram28Iam",
+   "time": "Jun 26",
+   "text": "Hi bro The MCP only for claude or we connect Codex too?"
+  },
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "Jun 26",
+   "text": "Yes works"
+  }
+ ],
+ "kiruba-static-ip-comment": [
+  {
+   "author": "PythonTrader(Saddy Bhai)",
+   "handle": "@pythontrader999",
+   "time": "23 hours ago",
+   "text": "Another day another circular another change, I am expecting big repurcations because of this...\n\nAnother NSE circular on retail algo trading, with possible implications for third-party platforms.\n\nStatic IPs are now only for retail clients who code their own algos.\n\nThese"
+  },
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "",
+   "text": "This was there already but hardly any algo platform providers followed it, they continued to provide static ip to their users, now they will be in trouble if they continued to do it and brokers who support it will also be in trouble. \n\nIndia is really one of the toughest place to run a business related to capital markets. Very tight regulations."
+  },
+  {
+   "author": "PythonTrader(Saddy Bhai)",
+   "handle": "@pythontrader999",
+   "time": "23 hours ago",
+   "text": "Regulations ruining the ecosystem.."
+  },
+  {
+   "author": "Hitesh Modi",
+   "handle": "@imhiteshmodi",
+   "time": "21 hours ago",
+   "text": "Most importantly all these regulations delivering more and more problems to retailers\n\nTheir losses have never been minimized \n\nThese brain less regulators only create problems by frequent policy changes as they are least bothered about its implications"
+  },
+  {
+   "author": "Nilesh Raj",
+   "handle": "@iNileshRaj",
+   "time": "",
+   "text": "Win rate: 93%\nProfit factor: 4.58x\n\nHappy with how my latest strategy held up! Backtested a Nifty monthly supertrend option selling strategy. \n\nTyped it in, and tested it for free - every trade, the drawdown, all of it.\n\nPS: Backtested results don\\'t guarantee future results. tradl.ai ​ 246 replies, 223 reposts, 3746 likes, 1975 bookmarks, 6517215 views\" description=\"Nilesh Raj\nVerified account\n@iNileshRaj Win rate: 93%\nProfit factor: 4.58x\n\nHappy with how my latest strategy held up! Backtested a Nifty monthly supertrend option selling strategy. \n\nTyped it in, and tested it for free - every trade, the drawdown, all of it.\n\nPS: Backtested results don\\'t guarantee future results. tradl.ai ​ Ad from tradl.ai"
+  },
+  {
+   "author": "Arun Kanna",
+   "handle": "@Kanna_Twister",
+   "time": "22 hours ago",
+   "text": "Algo test is hit or not in this circular.?"
+  },
+  {
+   "author": "Shivansh Kulshreshtha",
+   "handle": "@Shivanshkul1810",
+   "time": "22 hours ago",
+   "text": "Tbh this doesn’t necessarily sounds like a bad move"
+  }
+ ],
+ "kirubaakaran-gokul-nifty-bot": [
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "",
+   "text": "This mail I received today from Gokul made my day.\n\nHe started with zero coding experience.\n\nToday he runs a fully automated NIFTY weekly options bot. AWS EC2 Mumbai. Dhan API. Real time SL monitoring. Exchange SL orders. Telegram notifications on every event.\n\nDesigned, built, deployed. All by himself.\n\nThis is the shift nobody is talking about loud enough.\n\nFor 15 years, the barrier to algo trading was coding. You either learned Python for 2 years, or you paid someone, or subscribe to algo platforms or you stayed manual.\n\nThat barrier is gone.\n\nIn 2026, if you understand your strategy clearly, AI can write, debug, and deploy it for you. What cannot be outsourced is the thinking. The edge. The discipline. The why behind every rule.\n\nAI did not replace the trader. It removed the excuse. The clarity on systematic trading has to come from experience. The execution can come from Claude, Cursor, ChatGPT, whatever. But without understanding why you are entering, sizing, exiting, no AI will save you.\n\nTraders who get this early will have an unfair advantage."
+  },
+  {
+   "author": "Ryan",
+   "handle": "@ryan4799",
+   "time": "Apr 22",
+   "text": "+1 anna. My strategy is in forward testing phase. Had alot of doubts but your videos helped me with the psychology!.\nAlso read your quora threads . Those were very insightful as well"
+  },
+  {
+   "author": "Kirubakaran Rajendran",
+   "handle": "@kirubaakaran",
+   "time": "Apr 22",
+   "text": "Thanks, glad it helps 👍"
+  },
+  {
+   "author": "Shyam",
+   "handle": "@trading_wise",
+   "time": "Apr 23",
+   "text": "Nice bro. From trading influencer to AI influencer. 🙌"
+  },
+  {
+   "author": "KSR",
+   "handle": "@Marketmaker369",
+   "time": "Apr 22",
+   "text": "make one zoom on this brother or YT how to make automation, would be useful budding traders"
+  },
+  {
+   "author": "Dinesh Varma",
+   "handle": "@dinesh_varma1",
+   "time": "Apr 22",
+   "text": "I have also built a crypto BOT in 4 days, done with testing on paper trade, now trading with a test lot"
+  },
+  {
+   "author": "Selvaraj",
+   "handle": "@TechySelvaraj",
+   "time": "Apr 23",
+   "text": "Ya true, I just made automations through n8n and telegram itself , to take trades and check positions, errors, pnl eod report etc\n\nNow is the time to build anything"
+  },
+  {
+   "author": "ayan",
+   "handle": "@ayan_2587",
+   "time": "Apr 22",
+   "text": "Absolutely @kirubaakaran \nEffective use of AI tools such as Chatgpt or Codex Cli have completely transformed the way I backtest and analyze data for option strategies now. \nThese tools are really a game-changer if utilized properly. \nWhat used to take weeks of effort have now"
+  }
+ ],
+ "logesh-screener-mcp": [
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "Ask an AI for an Indian stock\\'s P/E or promoter pledge and you\\'ll get an answer. Often a confident, outdated one.\n\nI built a free, open-source fix: Claude now answers from live Screener and NSE data.\n\nHere\\'s what that looks like in one chat 🧵"
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "",
+   "text": "It\\'s called screener-mcp. It\\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 33 views\" description=\"Logesh Ramasamy\nVerified account\n@Logesh11667187 It\\'s called screener-mcp. It\\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com"
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "\"Compare ITC and HINDUNILVR on all key ratios\"\n\n2 to 6 stocks side by side, with red flags at each point in time. \n\nIn clients that support MCP Apps it renders as an interactive dashboard."
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "\"What did TCS management say about margins in Q3FY25?\"\n\nIt fetches the earnings call PDF, indexes it on your machine and returns the matching excerpts with document and page. \n\nThe embeddings run locally, no API key."
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "\"Is this fall sector-wide or just this stock?\"\n\ncompare_to_sector checks the stock\\'s return against its sector index and the Nifty 50, then gives a market-vs-company verdict."
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "When data is missing, it says so. Every tool returns a status (ok, partial or error) plus a missing_fields list, so Claude can\\'t quietly fill a blank with a guess."
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "Most of it needs no login. A free Screener.in account unlocks fundamental screens.\n\nInstall in Claude Code:\nclaude mcp add screener -s user -- uvx --from \\'screener-mcp[ai]\\' screener-mcp"
+  },
+  {
+   "author": "Logesh Ramasamy",
+   "handle": "@Logesh11667187",
+   "time": "Nov 17",
+   "text": "An analyst that reads the concall before it gives an opinion.\n\nRepo, Claude Desktop setup and all 30 tools:\ngithub.com/LogeshR15/scre\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.) github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal...\" description=\"Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 An analyst that reads the concall before it gives an opinion.\n\nRepo, Claude Desktop setup and all 30 tools:\ngithub.com/LogeshR15/scre\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.) github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com"
+  }
+ ],
+ "mohak-ailani-claude-scan-trades": [
+  {
+   "author": "Mohak Ailani",
+   "handle": "@mohak_ailani",
+   "time": "",
+   "text": "Asked claude to scan all my recommended trades and capture win/losses\n\nAmazing returns"
+  },
+  {
+   "author": "The Observer",
+   "handle": "@intellectualop",
+   "time": "5 hours ago",
+   "text": "Interesting thing is in Oct. Despite having just 28% win rate, the return still shows positive. I guess that\\'s because of position sizing?"
+  },
+  {
+   "author": "Mohak Ailani",
+   "handle": "@mohak_ailani",
+   "time": "4 hours ago",
+   "text": "Big wins in finance companies mainly"
+  },
+  {
+   "author": "Manu🎩 💥 I build things",
+   "handle": "@manuelcas000",
+   "time": "",
+   "text": "You can cut your Railway bill by ~88%.\n\n3 × 2 GB + 4 TB/mo:\nRailway ~$260 (~$200 is egress)\nKoigrid ~$30\n\nWhy: Railway charges for egress. Koigrid doesn\\'t.\n\n1. Sign up\n2. Create an API token\n3. Tell Claude Code or OpenCode to deploy koigrid.com Railway vs Koigrid: same app, −88% Sign up"
+  },
+  {
+   "author": "Dark Matter",
+   "handle": "@being_tiger_",
+   "time": "4 hours ago",
+   "text": "Where have u given these trades?"
+  },
+  {
+   "author": "Mohak Ailani",
+   "handle": "@mohak_ailani",
+   "time": "4 hours ago",
+   "text": "My alpha ally group mohakailani.com Mohak Ailani – SEBI Research Analyst | Nifty & Stock Trade Ideas 1 like, 228 views\" description=\"Mohak Ailani\nVerified account\n@mohak_ailani 4 hours ago My alpha ally group mohakailani.com Mohak Ailani – SEBI Research Analyst | Nifty & Stock Trade Ideas From mohakailani.com"
+  },
+  {
+   "author": "vns",
+   "handle": "@vasavsahgal",
+   "time": "5 hours ago",
+   "text": "Next RJ in the making"
+  },
+  {
+   "author": "The Vocal Citizen",
+   "handle": "@vocal_citizen",
+   "time": "6 hours ago",
+   "text": "Stop loss doing its magic."
+  },
+  {
+   "author": "jiten savla",
+   "handle": "@jiten_savla",
+   "time": "7 hours ago",
+   "text": "High profit despite moderate win rate shows amazing risk return ratio"
+  },
+  {
+   "author": "The curious guy",
+   "handle": "@theqriousguy007",
+   "time": "7 hours ago",
+   "text": "Hi @mohak_ailani ,\nCan you please share the same data for Global equity group as well?"
+  }
+ ],
+ "nixxin-zerodha-mcp-expiry": [
+  {
+   "author": "Nikhil Pahwa",
+   "handle": "@nixxin",
+   "time": "",
+   "text": "Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\\'m glad there is an MCP, but why log users out frequently @Nithin0dha ?"
+  },
+  {
+   "author": "Zerodha Support",
+   "handle": "@AskZerodha",
+   "time": "May 22",
+   "text": "Hi Nikhil, sorry about the inconvenience. This will be resolved in an upcoming version of MCP. Sessions will remain active throughout the day and will be reset only the next day, similar to Kite and Kite Connect API sessions."
+  },
+  {
+   "author": "Nikhil Pahwa",
+   "handle": "@nixxin",
+   "time": "May 22",
+   "text": "Why? Why do I still need to login daily? I\\'ve authorised my agent to analyse my portfolio and certain stocks daily. The whole point is that it shouldn\\'t need me to do anything. Why even have an MCP if you\\'re going to enforce this inconvenience?"
+  },
+  {
+   "author": "Sandeep Hegde",
+   "handle": "@SandeepHegde",
+   "time": "May 23",
+   "text": "Be glad that that they are not enforcing Aadhaar authentication for that.\n\nThese days they have started forcing Aadhaar e-sign for simple online profile changes. It will all be for consumer safety as per internal policy 😀"
+  },
+  {
+   "author": "NaaNSenseAi",
+   "handle": "@NaanSenseAi",
+   "time": "May 22",
+   "text": "Yeah MCP shouldn’t need a logout"
+  },
+  {
+   "author": "Naresh",
+   "handle": "@narresh",
+   "time": "May 22",
+   "text": "@grok what\\'s MCP and why is it used?"
+  }
+ ],
+ "openalgo-freeze-limits": [
+  {
+   "author": "OpenAlgo",
+   "handle": "@openalgoHQ",
+   "time": "",
+   "text": "OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\\'s open.\n\nNSE freeze limits from 2 Nov NSE Circular\nMuhurat, Trading Timing Updates\nAgent: newer models with LiteLLM 1.106.6.\nand more\n\nHow to upgrade: docs.openalgo.in/installation-g\n\nRelease notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 881 views\" description=\"OpenAlgo\nVerified account\n@openalgoHQ OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\\'s open.\n\nNSE freeze limits from 2 Nov NSE Circular\nMuhurat, Trading Timing Updates\nAgent: newer models with LiteLLM 1.106.6.\nand more\n\nHow to upgrade: docs.openalgo.in/installation-g\n\nRelease notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in"
+  },
+  {
+   "author": "OpenAlgo",
+   "handle": "@openalgoHQ",
+   "time": "7 hours ago",
+   "text": "OpenAlgo Python SDK - Internal Architecture for Backtesting + Live Trading"
+  }
+ ],
+ "pairsync-pair-trading-desk": [
+  {
+   "author": "PairSync",
+   "handle": "@PairSync",
+   "time": "",
+   "text": "2 likes"
+  },
+  {
+   "author": "The important distinction: the model’s clock is not the market’s clock",
+   "handle": "",
+   "time": "",
+   "text": "The important distinction: the model’s clock is not the market’s clock"
+  }
+ ],
+ "piyush-dhan-mcp": [
+  {
+   "author": "Piyush Chaudhry",
+   "handle": "@piyushchaudhry",
+   "time": "Jul 12",
+   "text": "How to code and deploy your strategies when you don\\'t know coding -- a good series : \n\n1/4"
+  },
+  {
+   "author": "Piyush Chaudhry",
+   "handle": "@piyushchaudhry",
+   "time": "",
+   "text": "Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows\n\n2/4 youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4502 views\" description=\"Piyush Chaudhry\nVerified account\n@piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows\n\n2/4 Play youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr..."
+  },
+  {
+   "author": "Piyush Chaudhry",
+   "handle": "@piyushchaudhry",
+   "time": "Jul 12",
+   "text": "Introducing: Dhan Skills for Agentic Coding\n\n3/4 youtube.com Introducing: Dhan Skills for Agentic Coding Building intelligent, automated market systems has officially enter... 1 reply, 2 reposts, 6 likes, 3 bookmarks, 4937 views\" description=\"Piyush Chaudhry\nVerified account\n@piyushchaudhry Jul 12 Introducing: Dhan Skills for Agentic Coding\n\n3/4 Play youtube.com Introducing: Dhan Skills for Agentic Coding Building intelligent, automated market systems has officially enter..."
+  },
+  {
+   "author": "Piyush Chaudhry",
+   "handle": "@piyushchaudhry",
+   "time": "Jul 12",
+   "text": "Introducing Dhan Cloud for Algo Traders: Deploy & Run Strategies Directly on DhanHQ\n\n4/4 youtube.com Introducing Dhan Cloud for Algo Traders: Deploy & Run Strategies... Transitioning from local code execution to high-availability cloud ... 1 reply, 7 likes, 8 bookmarks, 4177 views\" description=\"Piyush Chaudhry\nVerified account\n@piyushchaudhry Jul 12 Introducing Dhan Cloud for Algo Traders: Deploy & Run Strategies Directly on DhanHQ\n\n4/4 Play youtube.com Introducing Dhan Cloud for Algo Traders: Deploy & Run Strategies... Transitioning from local code execution to high-availability cloud ..."
+  }
+ ],
+ "pranjalsoni-3-green-days": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "how to get lucky in trading, every day, with claude\n\n3 days of real trades. 3 green days\n\npeople think i found some secret. i didn\\'t. i just stopped doing the dumb stuff\n\nevery night claude reads the market and gives me a short list. so at 9:15 i\\'m not panic scrolling charts. i already know what i\\'m looking for\n\nevery idea gets tested on 2 years of data before it gets my money. most of them die there\n\nyesterday i was sure we\\'d make more by entering earlier. tested it after close. it loses money. i\\'d have bet on it\n\nthe bot can\\'t touch real money without my yes. new stuff runs on paper first. always\n\nevery trade has a stop loss before it starts. i know the worst case before i click buy\n\nsome days there\\'s nothing good. we don\\'t trade. that\\'s fine\n\nnothing stays open overnight. i sleep\n\nday 2 my wifi changed ip mid trade and the bot couldn\\'t exit. i just sat there watching. moved everything to a server that night. never again\n\n> the luck part is mostly not losing big\n\n3 days is nothing. ask me in 3 months"
+  },
+  {
+   "author": "Rakesh Waghela",
+   "handle": "@webiyo",
+   "time": "Nov 4",
+   "text": "Please be aware that your trading sucess has also coincided with reversal in market and FIIs turning the buyers."
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "3 hours ago",
+   "text": "if this dude is permanent middle class\n\nwe all are below poverty line Quote\n@levelsio\nVerified account\n@levelsio 19 hours ago\nMore likely than permanent underclass is we will all be permanent middle class"
+  }
+ ],
+ "pranjalsoni-3600-loss": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "today lost about 3600 again, stop loss hit\n\ntwo days straight loses\n\nclaude is fucking my money\n\nall time negative now -1.6%\n\nwill do one more trade today and chill out\n\nmaybe it\\'s not for me, i would rather focus on my biz\n\nfuck this shit"
+  }
+ ],
+ "pranjalsoni-day1-announce": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "tomorrow we gonna trade again with claude and 1L capital in the Indian stock market\n\nstay tuned for updates \n\n🤞"
+  },
+  {
+   "author": "Nilesh",
+   "handle": "@nilesh070",
+   "time": "Nov 4",
+   "text": "ok.. new to investing/trading....still curious"
+  },
+  {
+   "author": "Narendra K Ram",
+   "handle": "@narenkram",
+   "time": "Nov 4",
+   "text": "I\\'m doing the same Quote\nNarendra K Ram\nVerified account\n@narenkram Nov 3\nGave Opus ₹50K and asked it to trade Nifty for a 3% gain. It actually pulled it off with a 1:1 RR.\n\nSafe to say it’s a better trader than any of us."
+  },
+  {
+   "author": "Bouncer",
+   "handle": "@BouncerForFeed",
+   "time": "",
+   "text": "I can\\'t stand AI art, so I made a plugin that removes it from your feed. imbue.com Remove AI slop with Bouncer 1652 replies, 6239 reposts, 50749 likes, 10182 bookmarks, 50860731 views\" description=\"Bouncer\nVerified account\n@BouncerForFeed I can\\'t stand AI art, so I made a plugin that removes it from your feed. imbue.com Remove AI slop with Bouncer Ad from imbue.com"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "3 hours ago",
+   "text": "if this dude is permanent middle class\n\nwe all are below poverty line Quote\n@levelsio\nVerified account\n@levelsio 19 hours ago\nMore likely than permanent underclass is we will all be permanent middle class"
+  }
+ ],
+ "pranjalsoni-day3": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "day 3 of letting claude trade my real money.\n\nday 1 went too well. first real trades, small size, closed green. i felt like a genius\n\nday 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn\\'t exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill\n\nthen i lost two market days to my own setup issues. no trades. annoying\n\nso today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn\\'t matter\n\nfirst order from the new server was 1 share. just to see if the pipes work. they did\n\nthe market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn\\'t, and that one was my idea, not the bot\\'s. cut it early\n\n> everything closed on its own before 3:15. green after charges\n\nthe best part came after close. i was sure we\\'d have made more by entering earlier. so we tested it on 2 years of data\n\ni was wrong. the obvious version loses money. one small piece held up, so that goes to paper first\n\n3 trading days, 3 green. same rules every day: my yes on every real trade, stops always on, nothing held overnight\n\nday 4 tomorrow"
+  },
+  {
+   "author": "Vansh Yadav",
+   "handle": "@vanshyadav1408",
+   "time": "Nov 4",
+   "text": "What\\'s the overall pnl?"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "Nov 4",
+   "text": "6.5k something"
+  },
+  {
+   "author": "Shashank Bhardwaj",
+   "handle": "@bhardwajshash",
+   "time": "Nov 4",
+   "text": "still planning to throw my claude at this and build my version, haven\\'t started. \n\nmind helping me with context on DM?"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "Nov 4",
+   "text": "sure, how much i should charge for this? do u think people will pay? \n\ni think it\\'s a coin flip strategy with some luck so yeah it works most of the times"
+  },
+  {
+   "author": "Naren",
+   "handle": "@n_kandala",
+   "time": "Nov 4",
+   "text": "Congratulations. Which broker are you using. Are you able to get historical data and indicator values."
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "Nov 4",
+   "text": "zeordha"
+  },
+  {
+   "author": "Catalyst",
+   "handle": "@SSha14635434",
+   "time": "Nov 4",
+   "text": "What’s total pnl post taxes and charges ?"
+  },
+  {
+   "author": "Chalapathi Rao",
+   "handle": "@chalapathi_rao1",
+   "time": "Nov 4",
+   "text": "Only 1 question - how did Claude agree to trade because in general it refuses to trade on its own.. Are you using api or subscription?"
+  }
+ ],
+ "pranjalsoni-day4": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "day 4 of letting an ai trade my real money. \n\nfirst red day\n\nwoke up late. logged in at 1pm. that one mistake decided the whole day\n\nthe bot had one good setup this morning. a stock dumping hard on big volume, short it early. it was ready at 9:45 and i was asleep. replayed it after close: would\\'ve been +11k on paper size\n\nby 1pm the market had no direction. half up, half down. our rule says don\\'t trade days like that\n\nclaude even said skip. then i said use the margin, and it found me trades anyway\n\nshorted a stock that had already fallen 6%. the market kept ripping up. stock bounced, stop hit. done\n\n> -3.6k on the day. every loss stayed inside the stop we set before entering\n\naccount is still green across 4 days. just way less green\n\nwhat changed tonight:\nthe bot now starts on its own at 8:50, login or not\nmy phone gets pinged if it\\'s not running\nno trade on a no-trade day. even if i beg\n\n3 green days, 1 red. the red one was 100% me\n\nday 5 tomorrow. waking up early"
+  },
+  {
+   "author": "Gracey Dugar",
+   "handle": "@CreativeGracey",
+   "time": "Nov 5",
+   "text": "My AI is my Dad in Stock Market @AvinashDugar"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "Nov 5",
+   "text": "nice"
+  },
+  {
+   "author": "Shwetas Dhake",
+   "handle": "@shwetasd19",
+   "time": "Nov 5",
+   "text": "Todays overall market was doing great.. if you would\\'ve started early you would\\'ve made it a great one today"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "Nov 5",
+   "text": "yep \n\nwas my mistake today not ai"
+  },
+  {
+   "author": "Aashish 💙",
+   "handle": "@Aashish10_03",
+   "time": "Nov 5",
+   "text": "real trade came at 1.40 only ... work on setup"
+  },
+  {
+   "author": "Vignesh Chinnusamy",
+   "handle": "@VickiCrazi",
+   "time": "Nov 6",
+   "text": "Can you able to explain the setup here and this will also work for the Swing Trading?"
+  },
+  {
+   "author": "Amit Kushwaha",
+   "handle": "@amitkushh",
+   "time": "Nov 5",
+   "text": "Up and down"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "3 hours ago",
+   "text": "if this dude is permanent middle class\n\nwe all are below poverty line Quote\n@levelsio\nVerified account\n@levelsio 19 hours ago\nMore likely than permanent underclass is we will all be permanent middle class"
+  }
+ ],
+ "pranjalsoni-day5": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "day 5 of letting an ai trade my real money. second red day in a row\n\nwoke up on time today. logged in. felt ready\n\nthe bot didn\\'t. a bug i shipped last night made it think the market was closed for a holiday. paper trading switched itself off at 9:16 on a normal friday\n\nfixed it, restarted, moved on\n\naround 10 we found a setup that actually held up in 2 years of data. stocks that gap hard on news and keep falling\n\nclaude said paper it first. i said go full size\n\n> stopped out in 13 minutes. -3.7k\n\nthe stock bounced right back down after. of course\n\nthen i got desperate and wanted to scalp. 1-3 minute trades, grab cash, get out\n\nso we tested it. 20k trades on 1-minute data: zero edge before costs, guaranteed loss after\n\nran it live on paper anyway with 5 lakh a trade\n\n> 72 trades in 4 hours. -30k. on paper. thank god\n\ntwo days, two lessons:\n- don\\'t trade what the rules say to skip\n- don\\'t bet big on something you found an hour ago\n\naccount is down ~1.6% over 5 days. not dead. just humbled\n\nweekend plan: test the one real setup on 5 more years of data, build a model, and hard-code the risk rules so i can\\'t override them\n\nsee you monday"
+  },
+  {
+   "author": "0xAzr",
+   "handle": "@AzrianoY1",
+   "time": "Nov 6",
+   "text": "two red days from one bug is still useful data. small size till the fix ships"
+  },
+  {
+   "author": "JTradeX",
+   "handle": "@JTradeX_paper",
+   "time": "Nov 6",
+   "text": "Shipped the bug last night and woke up to red candles? Classic."
+  },
+  {
+   "author": "Siddhant Mohan",
+   "handle": "@siddhantmohan1",
+   "time": "",
+   "text": "Introducing open source AI code review. The review you pay $60 a developer for, now $0 and open source: 100+ scanners plus an AI reviewer that has to answer every finding, on your own Claude Code or Codex login, before you push.\n\ngithub.com/openqodex/open Embedded video Play Video. 40 seconds long"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "3 hours ago",
+   "text": "if this dude is permanent middle class\n\nwe all are below poverty line Quote\n@levelsio\nVerified account\n@levelsio 19 hours ago\nMore likely than permanent underclass is we will all be permanent middle class"
+  }
+ ],
+ "pranjalsoni-limits": [
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "",
+   "text": "claude limits went from 20x to 10x\n\nuhmm\n\nai allowances are getting shorter every other day"
+  },
+  {
+   "author": "Pranjal Soni",
+   "handle": "@pranjalsoni_",
+   "time": "3 hours ago",
+   "text": "if this dude is permanent middle class\n\nwe all are below poverty line Quote\n@levelsio\nVerified account\n@levelsio 19 hours ago\nMore likely than permanent underclass is we will all be permanent middle class"
+  }
+ ],
+ "quantplay-claude-positions": [
+  {
+   "author": "Quantplay",
+   "handle": "@QuantplayHQ",
+   "time": "",
+   "text": "Asking Claude where Nifty closes on Monday gets you a guess.\n\nAsking what your open positions lose if it ends 300 points lower gets you a number you can use.\n\nWith Quantplay, Claude reads your real positions across 10+ top brokers.\n\nWhich one do you ask? quantplay.tech Quantplay: Connect any AI agent to your broker\" description=\"Quantplay\nVerified account\n@QuantplayHQ Asking Claude where Nifty closes on Monday gets you a guess.\n\nAsking what your open positions lose if it ends 300 points lower gets you a number you can use.\n\nWith Quantplay, Claude reads your real positions across 10+ top brokers.\n\nWhich one do you ask? quantplay.tech Quantplay: Connect any AI agent to your broker From quantplay.tech"
+  },
+  {
+   "author": "Quantplay",
+   "handle": "@QuantplayHQ",
+   "time": "7 hours ago",
+   "text": "Can Nifty ignore Wall Street\\'s worst week since 2020 on Monday?\n\nNasdaq fell 10% last week. Nifty rose 2.6% to a 9-month high.\n\nForeign funds bought ₹32,647 crore of Indian stocks while it happened.\n\nYes or no? quantplay.tech Quantplay: Connect any AI agent to your broker\" description=\"Quantplay\nVerified account\n@QuantplayHQ 7 hours ago Can Nifty ignore Wall Street\\'s worst week since 2020 on Monday?\n\nNasdaq fell 10% last week. Nifty rose 2.6% to a 9-month high.\n\nForeign funds bought ₹32,647 crore of Indian stocks while it happened.\n\nYes or no? quantplay.tech Quantplay: Connect any AI agent to your broker From quantplay.tech"
+  }
+ ],
+ "redbox-nse-retail-algo": [
+  {
+   "author": "RedboxGlobal India",
+   "handle": "@REDBOXINDIA",
+   "time": "",
+   "text": "NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE APPROVAL FRAMEWORK, POTENTIALLY INCREASING COSTS AND REDUCING FLEXIBILITY."
+  },
+  {
+   "author": "Piyush Parmar",
+   "handle": "@learner_air",
+   "time": "",
+   "text": "51 minutes ago That Good 👍🏼 Coz best buying when we keep the algo come above again \n0.05 paisa in bidding,so have to modify again 5 paisa up, then algo again comes above our price.🙏🏼"
+  },
+  {
+   "author": "Rosarach09",
+   "handle": "@HOllywo78040028",
+   "time": "",
+   "text": "18 minutes ago What is it means, does brokers increase their API costs or it only restricts individual traders. What about fyers, does it have licence for algo trading. @grok"
+  },
+  {
+   "author": "RIISHABH RISHI SRIVASTAV",
+   "handle": "@riishabh_rishi",
+   "time": "",
+   "text": "5 minutes ago Ye mc \n\nFii dii ka rakhail hai"
+  },
+  {
+   "author": "Vicky",
+   "handle": "@ShaktiTokas",
+   "time": "",
+   "text": "40 minutes ago @grok please explain this tweet , is it positive for retail traders"
+  },
+  {
+   "author": "Happy Trader",
+   "handle": "@HappyTraderJi",
+   "time": "19 hours ago",
+   "text": "After Gold Silver \n\nNext is Property 😭 \n\n💯"
+  },
+  {
+   "author": "StoxPlex Shubham (SEBI RA)",
+   "handle": "@StoxPlexShubham",
+   "time": "19 hours ago",
+   "text": "🇵🇸 India\\'s Aid to Palestine : ₹1650 Cr\n\n🇮🇳 Indian Football Budget : ₹120 Cr"
+  },
+  {
+   "author": "RedboxGlobal India",
+   "handle": "@REDBOXINDIA",
+   "time": "20 hours ago",
+   "text": "RBI\\'S MALHOTRA: BANKS MUST LEND MORE TO SMALL BUSINESS — RS 1,000 CR TO ONE LARGE FIRM BENEFITS ONE; SAME AMOUNT SPREAD ACROSS MSMEs DELIVERS 100X IMPACT, 1,000X ACROSS MICRO-ENTERPRISES"
+  },
+  {
+   "author": "Margin of Safety🇮🇳",
+   "handle": "@InvestorOfJAMMU",
+   "time": "10 hours ago",
+   "text": "All these 4 stocks are ready for Vertical slide as Nasdaq closed 6% lower on Friday night.\n\nIn my watchlist. Will share with subscribers in case if I see any buying opportunity in December."
+  }
+ ],
+ "sakthi-fnotrader-mcp": [
+  {
+   "author": "Sakthidoss",
+   "handle": "@Sakthidoss7",
+   "time": "",
+   "text": "What if you could backtest a NIFTY options strategy just by asking?\n\nNow you can. FNOTrader\\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.\n\nVisit --> @fnotrader_com"
+  },
+  {
+   "author": "Trader",
+   "handle": "@traderviews24",
+   "time": "Jul 25",
+   "text": "Mcx can be tested? Data is 1 min or 1sec snapshot?"
+  },
+  {
+   "author": "Sakthidoss",
+   "handle": "@Sakthidoss7",
+   "time": "Jul 25",
+   "text": "Currently backtesting is only on Equity Indices & Stocks. Data is 1min."
+  },
+  {
+   "author": "Nifty Sniper",
+   "handle": "@trading_bn",
+   "time": "Jul 24",
+   "text": "Lots of good stuffs, need one month to go through entire world of tools u provide. 👍"
+  },
+  {
+   "author": "Sakthidoss",
+   "handle": "@Sakthidoss7",
+   "time": "Jul 24",
+   "text": "Thank you 😊 please take your time."
+  },
+  {
+   "author": "SUMAN HOTA",
+   "handle": "@suman_hota",
+   "time": "Jul 24",
+   "text": "Great 👍"
+  },
+  {
+   "author": "Momentum Sniper Zone Option Trader (MOZOT)",
+   "handle": "@Raghavan0054",
+   "time": "Jul 24",
+   "text": "Live seasion on this feature would be good."
+  }
+ ],
+ "shyamdas-autonomous-indian-bot": [
+  {
+   "author": "GoodMallya",
+   "handle": "@ShyamdasMallya",
+   "time": "",
+   "text": "I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. \n\nHere\\'s the reality of building it. \n\nThe stack: FastAPI backend, Next.js dashboard, Dhan for equity trades, Zerodha for options. ₹91,000 live capital on equities. ₹1,64,000 on options. Built almost entirely using Claude Code $20+tax plan. Claude also runs as an in-process advisor, AI advising the AI mid-trade.\n The goal: ₹1,000–2,800/day combined. Not glamorous. Disciplined compounding.\n\nWhat actually happened: 15+ production bugs. In live trading. With real money. \n\nEvery bug taught something the backtests never could. \n\nThe market didn\\'t help either. US-Iran war escalation. India VIX 20+. BankNifty gap-up and gap-downs, swinging 600-1000 points intraday. We were debugging production code in wartime volatility. \n\nWhat\\'s interesting about Claude Code: the entire codebase was built conversationally. Describe the bug, get the fix. Describe the feature, get the implementation. Then argue with it when it\\'s wrong. It\\'s a genuinely different way to build. \n\nThis series documents all of it — the bugs, the P&L, the decisions, the pivots. No highlight reel. Just the actual build.\n\nFollow along if you\\'re building something hard\n\n#AlgoTrading #ClaudeCode #NSE #BANKNIFTY #BuildInPublic #Python Rachit Gupta"
+  },
+  {
+   "author": "Shah",
+   "handle": "@shahnawab",
+   "time": "Sep 17",
+   "text": "Can you put more light on how you did it and the stats of Win and Loss?"
+  },
+  {
+   "author": "GoodMallya",
+   "handle": "@ShyamdasMallya",
+   "time": "Sep 17",
+   "text": "Soon"
+  },
+  {
+   "author": "DoYouKnow",
+   "handle": "@GrowthExe",
+   "time": "Sep 24",
+   "text": "How did you pull live data from web?"
+  },
+  {
+   "author": "GoodMallya",
+   "handle": "@ShyamdasMallya",
+   "time": "Sep 24",
+   "text": "Dhan APIs, took 2 years sub."
+  },
+  {
+   "author": "Reyaz",
+   "handle": "@flytradr_guy",
+   "time": "May 13",
+   "text": "genuinely solid build and the transparency is rare. the 15 production bugs with live capital is the part most people skip over but that is where the real learning happens. when you open source it, would love to see how the strategy logic compares to what we have built in flytradr.com FlyTradr - No-Code Algorithmic Trading Platform\" description=\"Reyaz\nVerified account\n@flytradr_guy May 13 genuinely solid build and the transparency is rare. the 15 production bugs with live capital is the part most people skip over but that is where the real learning happens. when you open source it, would love to see how the strategy logic compares to what we have built in flytradr.com FlyTradr - No-Code Algorithmic Trading Platform From flytradr.com"
+  }
+ ],
+ "subuonelifee-sebi-algo-rules": [
+  {
+   "author": "subash 🤖",
+   "handle": "@subuonelifee",
+   "time": "",
+   "text": "Under the new NSE and SEBI retail algo trading rules, independent (\"tech-savvy\") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.\nWhile these rules apply to all brokers, traders who use exchange-empanelled platforms for strategies like Time-Based Straddles (TBS) can rely on the platform\\'s servers, whereas independent API coders must set up and maintain their own static IPs. \n\nWhich folks cheated? In this issue??🤦 @NSEIndia\n\n #nifty"
+  },
+  {
+   "author": "subash 🤖",
+   "handle": "@subuonelifee",
+   "time": "4 hours ago",
+   "text": "Tuesday 24 holiday in #nifty and entire stock market but remain 5 to 11:30 commodity session there , tmrw expiry in nifty which is 3rd consecutive same monday expiry.."
+  }
+ ],
+ "suhas-ashok-3yrs-ai": [
+  {
+   "author": "Suhas",
+   "handle": "@Suhas__ashok",
+   "time": "",
+   "text": "6 replies"
+  },
+  {
+   "author": "What you need, and what it costs",
+   "handle": "",
+   "time": "",
+   "text": "What you need, and what it costs"
+  }
+ ],
+ "talktovardhan-ai-nifty-indicator": [
+  {
+   "author": "LONE WOLF",
+   "handle": "@talktovardhan",
+   "time": "",
+   "text": "RETAIL TRADING IN THE AGE OF AI. \n\"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\"\n\nBecause apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀\n\nNext prompt:\n\n\"Make it 95% accurate, non-repainting, work in every market condition and give early entries with zero drawdown.\"\n\nAI: \"Absolutely!\"\n\nBacktest: Beautiful.\nEquity curve: Vertical.\nConfidence: Unlimited.\n\nLive market: SL hit in 3 candles.\n\nRetail trader: \"ChatGPT, something is wrong with your code. Fix it.\" \n\nMeanwhile, the next indicator is already under development.\n\nPerhaps the problem isn\\'t a shortage of indicators.\n\nPerhaps it\\'s a shortage of understanding.\n\n🐺"
+  },
+  {
+   "author": "MargoMDesigns🛡️",
+   "handle": "@mayaivanoff",
+   "time": "Nov 17",
+   "text": "Spot on. Most traders use #AI to skip the hard part of \nlearning market structure, and the market charges full \ntuition for that shortcut."
+  },
+  {
+   "author": "LONE WOLF",
+   "handle": "@talktovardhan",
+   "time": "Nov 17",
+   "text": "And the funny part is, the more indicators they add, the less attention they pay to the actual price."
+  },
+  {
+   "author": "Dr. Samia",
+   "handle": "@oye_samia",
+   "time": "Nov 16",
+   "text": "Understanding beats indicators every time."
+  },
+  {
+   "author": "Eesha",
+   "handle": "@MissDelulu9",
+   "time": "Nov 16",
+   "text": "Understanding beats indicator overload!"
+  },
+  {
+   "author": "Necodayi",
+   "handle": "@necodayi_",
+   "time": "Nov 16",
+   "text": "Sekiz indikatör aynı şeyi söylese de piyasa dinlemiyor sorun araçta değil sabırsızlıkta ve risk yönetiminde"
+  },
+  {
+   "author": "Adarsh",
+   "handle": "@Adarsh_Onchain",
+   "time": "Nov 16",
+   "text": "Only jim simons could make enormous profits using AI and ML when chatgpt wasn\\'t in the existence"
+  },
+  {
+   "author": "VicNexAI",
+   "handle": "@VicNexAI",
+   "time": "Nov 16",
+   "text": "Indicators don’t fail. Understanding always does."
+  },
+  {
+   "author": "Marisol Salinas",
+   "handle": "@PsicoterapiaMSC",
+   "time": "Nov 16",
+   "text": "More indicators don\\'t guarantee better decisions."
+  },
+  {
+   "author": "India Exim Bank",
+   "handle": "@IndiaEximBank",
+   "time": "",
+   "text": "Great research deserves recognition and the opportunity to make a global impact.\n\nIndia Exim Bank invites applications for the IERA Citation 2026, recognising outstanding doctoral research in international economics, trade and development.\n\nStand a chance to win ₹3,50,000 and"
+  }
+ ],
+ "tatha-kite-mcp-down": [
+  {
+   "author": "Tathagata Dey",
+   "handle": "@i_am_tatha",
+   "time": "",
+   "text": "Is @zerodha kite mcp server down?"
+  },
+  {
+   "author": "Zerodha Support",
+   "handle": "@AskZerodha",
+   "time": "May 26",
+   "text": "Hi, we\\'re working fine. Could you please create a ticket at support.zerodha.com with more details and DM us the ticket number if the issue persists? We’ll have it checked. x.com/messages/compo"
+  },
+  {
+   "author": "Tathagata Dey",
+   "handle": "@i_am_tatha",
+   "time": "May 26",
+   "text": "Thanks @AskZerodha , I dmed the ticket."
+  }
+ ],
+ "thesanjay-sebi-tech-savvy": [
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "",
+   "text": "\"Tech-Savvy Retail Investors\" !!!\n\nSeriously, is this the best terminology the brightest minds at NSE could come up with?\n\n@NSEIndia , let me ask you something: In the age of AI, who exactly is not a tech-savvy retail investor?\n\nSEBI and the stock exchanges are supposed to protect market participants, simplify processes and make participation easier for retail investors.\n\nBut what are you doing instead?\n\nEvery other circular seems designed to make the life of an ordinary retail trader more complicated, more cumbersome and more difficult.\n\nHaven\\'t you learned anything from the CAS fiasco? A policy that had to be rolled back after massive backlash from market participants.\n\n@IndiaSebi \n@SEBI_updates \n@NSEIndia \n@BSEIndia \n@MCXIndialtd \n\n#Optionstrading #Trading #Nifty #Sensex #Stockmarket #Trader #pnl #IndianStockmarket"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "2 hours ago",
+   "text": "Over and above, you have to waive your right to file grievance with regulator for losses due to any glitch in Algo even if it happens on broker/exchanges side and not our fault."
+  },
+  {
+   "author": "Dhruvil Patel",
+   "handle": "@dhruvil44",
+   "time": "",
+   "text": "49 minutes ago #SEBI IS THE MOST INCOMPETENT ORG. IT IS SIMPLE MAKING LIVES OF RETAIL WORSE BY THEIR LAWS"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "",
+   "text": "39 minutes ago It has proven it over and over again. We would be better of without them."
+  },
+  {
+   "author": "Abhishek bharti",
+   "handle": "@MehraAbhis91588",
+   "time": "3 hours ago",
+   "text": "Thats whats called market manipulation.\nJinke paiso p sarkar bni hai wo paisa wasool kr rhe hai market se"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "3 hours ago",
+   "text": "All in the name of protecting retail Investors and Traders."
+  },
+  {
+   "author": "Trine_11",
+   "handle": "@Trine_11_",
+   "time": "3 hours ago",
+   "text": "These are the same tech savvy retail who take how to use AI workshop in the age of AI…"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "2 hours ago",
+   "text": "We all need initial push to learn how to use new things in life, AI is no different."
+  },
+  {
+   "author": "Market Intelligence 🇮🇳",
+   "handle": "@snipy_in",
+   "time": "3 hours ago",
+   "text": "💯"
+  },
+  {
+   "author": "Sanjay Patel",
+   "handle": "@thesanjay15",
+   "time": "2 hours ago",
+   "text": "Sad state of affairs in Indian stock market."
+  }
+ ],
+ "tomdoerr-indian-equity-bots": [
+  {
+   "author": "Tom Dörr",
+   "handle": "@tom_doerr",
+   "time": "",
+   "text": "Generates trading bots and manages risk for Indian equity markets with Zerodha integration using Claude Code.\n\ngithub.com/javajack/skill"
+  },
+  {
+   "author": "Jaid",
+   "handle": "@Jaidcel",
+   "time": "Jul 23",
+   "text": "mid-load screenshot"
+  }
+ ],
+ "truvoso-cgnat-dynamic-ip": [
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "THE TRUVOS INVESTIGATIVE REPORT: THE WEAPONIZED IP ADDRESS TRAP 🚨\n\nCases of traders getting breached and denied payouts over \"IP Mismatch\" violations are skyrocketing across the industry. The prop industry has been quietly weaponizing this rule for years.\n\nIf you are a"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "First of all, thank you from everyone on the team for reading this. Please support this post as much as possible and share it everywhere. We need this to reach every single prop firm that is still using this broken IP rule to ban innocent traders.\n\nWe are here for you. Whatever"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "1. Understanding the Problem: The Internet Doesn\\'t Work the Way Prop Firms Think It Does\n\nMost prop firms flag and terminate accounts the second they see multiple trading accounts logging in from the same IP address. Their basic corporate logic is simple: Same IP = Same Person"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "2. Why the Rule Exists (The Legit Side)\n\nLet’s be completely fair: the IP rule is fundamentally necessary for the health of the industry. Without any IP tracking, the entire prop ecosystem would be overrun by toxic fraud.\n\nFirms need a way to detect:\n\n- Mass account management"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "3. The Ugly Reality: Weaponizing a Fake BS Rule\n\nHere is where it gets dark. While toptier firms use IP data alongside deep behavioral analysis to catch real cheaters, predatory firms use it as a backdoor trap to avoid paying profitable traders.\n\nWhen a trader suddenly makes $10k"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "",
+   "text": "4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets\n\nThis is the core technical truth that prop firms choose to ignore.\n\nIn major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks and Carrier-Grade NAT (CGNAT) systems.\n\nIn India: Telecom giants like Reliance Jio dynamically rotate public IP addresses constantly. Your IP can change every single time your phone switches towers or reconnects to data,even after this if you want Static IP then Static IPS cost 40k-1 lakh.\n\nIn Nigeria: Major networks like MTN and Airtel assign shared public IPs to thousands of users simultaneously.\n\nWhat does this mean in plain English? Two completely unrelated traders, sitting in the same neighborhood, using the same ISP network, can easily be assigned the exact same public IP address by the network tower that day.\nSame City. Same IP. Zero connection to each other.\n\nProp platforms flag this as \"group trading\" or \"account management,\" when in reality, it is just how infrastructure works in developing countries."
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "5. The Silent Victims: Wiped Out for Nothing\n\nWe are seeing horror stories daily. Genuine traders are passing massive evaluations cleanly, doing the hard work, and getting destroyed on payout day. When you become too profitable, the evidence suddenly goes out the window.\n\nCases"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "6. Message to Prop Firms: Fix Your Tech, Stop Being Lazy\n\nIf you are a prop firm executive reading this: Get a midpoint solution and update your backend. Enforcing a blanket IP rule is either sheer technical laziness or deliberate fraud.\n\n1. Real fraud detection requires a"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "7. The Trader Survival Guide: How to Protect Your Payouts\n\nUntil firms clean up their acts, you have to play defense. If you want to protect your funded accounts from being falsely banned, implement these rules immediately:\n\nGet a Dedicated VPS: If the firm allows it, purchase a"
+  },
+  {
+   "author": "Truvos",
+   "handle": "@Truvosofficial",
+   "time": "Jun 17",
+   "text": "8. The Truvos Commitment\nThis single investigative report costed our team 5 days of continuous work, 3 dedicated team members, and direct talks with 2 local provider officers to fully verify these network logs.\n\nWe do this for a better prop trading industry and a fairer ecosystem"
+  }
+ ],
+ "vishal-kite-nse-mcp-readonly": [
+  {
+   "author": "Vishal Bulbule",
+   "handle": "@vishal__bulbule",
+   "time": "",
+   "text": "I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒\n\nGoogle @antigravity + @zerodha Kite MCP + NSE MCP.\n\nAll order tools disabled via disabledTools in mcp_config.json.\n\nRead access. Zero trading permissions.\n\n#MCP #AgenticAI Embedded video\n1:01"
+  },
+  {
+   "author": "Signal Forge",
+   "handle": "@Dinamo51648539",
+   "time": "Oct 27",
+   "text": "That read-only split is a good starting point. I would also enforce it at the broker or API scope, so disabledTools is defense-in-depth rather than the only barrier. A routing bug should not be able to turn portfolio visibility into order authority."
+  },
+  {
+   "author": "Vishal Bulbule",
+   "handle": "@vishal__bulbule",
+   "time": "8 hours ago",
+   "text": "M6 with 32GB+ is blessing for Content creator & AI explorer ( still not enough for bigger Models)\n@Apple \n#AIEngineering #llm #AI #GPU"
+  }
+ ],
+ "yash-dhandev-cloud-api": [
+  {
+   "author": "Yash Gupta",
+   "handle": "@YashGup74155629",
+   "time": "",
+   "text": "Went to DhanDev Hyderabad today strictly for the tech.\n​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖"
+  },
+  {
+   "author": "Yash Gupta",
+   "handle": "@YashGup74155629",
+   "time": "Nov 20",
+   "text": "Using 6 carbon nodes in a ring with 6 hydrogen subagents sharing delocalized context. nobody owns the state, yet it\\'s remarkably stable.\n\n​i call it... benzene."
+  }
+ ],
+ "zerodha-kite-mcp-token": [
+  {
+   "author": "ritesh",
+   "handle": "@riteshzd",
+   "time": "Feb 1",
+   "text": "How are we solving for @zerodha MCP not giving a refresh token but an access token every time?\n\nLogging in via the web is a hassle\n#zerodha"
+  },
+  {
+   "author": "Zerodha",
+   "handle": "@zerodha",
+   "time": "",
+   "text": "Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual."
+  },
+  {
+   "author": "ritesh",
+   "handle": "@riteshzd",
+   "time": "Feb 2",
+   "text": "But why can’t we automate this completely? I don’t want to login to my zerodha account every time I start off a working session over claude."
+  }
+ ]
+}

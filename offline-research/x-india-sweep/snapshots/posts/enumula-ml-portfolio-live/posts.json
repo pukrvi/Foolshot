@@ -1,0 +1,20 @@
+[
+ {
+  "handle": "EnumulaKartik",
+  "id": "2122249418967818624",
+  "timeText": "2:14 PM · Nov 16, 2026",
+  "text": " that writes the ONNX model, the form schema, the charts and test fixtures \n\n→ Built the metadata-driven site, so a new project is a folder and a JSON entry, with no new controller code \n→ Wired every model to a live form with schema validation and rate limiting \n\n→ Wrote parity tests that check the .NET output against scikit-learn\\'s answers \n\n→ Wrote integration tests with WebApplicationFactory  \n\nLive now: 7 Model Zoo projects with working forms, plus the flagship NSE market regime classifier (Nifty 200 + India VIX, walk-forward tested, illustrative).  \n\nWhat made it work: \n1. A SPEC.md as the source of truth \n\n2. A CLAUDE.md holding commands, layout, and conventions, so every session started with context \n\n3. Docs and a decision log updated after every phase\n\nCheck it out here: "
+ },
+ {
+  "handle": "justanderson",
+  "id": "2122287130730713580",
+  "timeText": "Nov 16",
+  "text": "empty repo to live in 2 days is wild.. how much of the review actually changed the python side?"
+ },
+ {
+  "handle": "EnumulaKartik",
+  "id": "2122290866211651648",
+  "timeText": "Nov 16",
+  "text": "Not much actually. My notebook already had code which had been reviewed multiple times. Claude Code did some restructuring and some model building code was optimised. The focus was on getting the site itself ready, and to integrate the models to run when deployed."
+ }
+]

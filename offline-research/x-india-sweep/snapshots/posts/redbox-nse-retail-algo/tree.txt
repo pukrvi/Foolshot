@@ -1,0 +1,491 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "RedboxGlobal India on X: \"NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "RedboxGlobal India on X: \"NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE\" / X" url="https://x.com/REDBOXINDIA/status/2124454803329917239"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "RedboxGlobal India\nVerified account\n@REDBOXINDIA NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE APPROVAL FRAMEWORK, POTENTIALLY INCREASING COSTS AND REDUCING FLEXIBILITY. 6 replies, 6 reposts, 70 likes, 8 bookmarks, 27783 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/REDBOXINDIA"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "RedboxGlobal India\nVerified account" url="https://x.com/REDBOXINDIA"
+                      - [72] AXStaticText expanded=false = "RedboxGlobal India"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@REDBOXINDIA" url="https://x.com/REDBOXINDIA"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@REDBOXINDIA"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE APPROVAL FRAMEWORK, POTENTIALLY INCREASING COSTS AND REDUCING FLEXIBILITY."
+                    - [81] AXGroup expanded=false
+                      - [82] AXLink expanded=false "4:17 PM · Nov 22, 2026" url="https://x.com/REDBOXINDIA/status/2124454803329917239"
+                        - [83] AXGroup subrole=AXTimeGroup expanded=false
+                          - [84] AXStaticText expanded=false = "4:17 PM · Nov 22, 2026"
+                      - [85] AXLink expanded=false "27.7K Views" url="https://x.com/REDBOXINDIA/status/2124454803329917239/analytics"
+                        - [86] AXStaticText expanded=false = "27.7K"
+                        - [87] AXStaticText expanded=false = "Views"
+                    - [88] AXGroup subrole=AXApplicationGroup expanded=false "6 replies, 6 reposts, 70 likes, 8 bookmarks, 27783 views"
+                      - [89] AXButton expanded=false "6 Replies. Reply"
+                      - [90] AXPopUpButton expanded=false "6 reposts. Repost"
+                      - [91] AXButton expanded=false "70 Likes. Like"
+                      - [92] AXButton expanded=false "8 Bookmarks. Bookmark"
+                      - [93] AXPopUpButton expanded=false "Share post"
+                    - [94] AXPopUpButton expanded=false "Relevant"
+                    - [95] AXLink expanded=false "View quotes" url="https://x.com/REDBOXINDIA/status/2124454803329917239/quotes"
+                      - [96] AXStaticText expanded=false = "View quotes"
+                  - [97] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [98] AXGroup expanded=false
+                    - [99] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [100] AXGroup expanded=false
+                      - [101] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [102] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [103] AXGroup expanded=false
+                          - [104] AXGroup expanded=false "Puneet Vishnawat"
+                            - [105] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [106] AXGroup expanded=false
+                    - [107] AXStaticText expanded=false = "Post your reply"
+                  - [108] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [109] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [111] AXGroup subrole=AXDocumentArticle expanded=false "Piyush Parmar\n@learner_air 51 minutes ago That Good 👍🏼 Coz best buying when we keep the algo come above again \n0.05 paisa in bidding,so have to modify again 5 paisa up, then algo again comes above our price.🙏🏼 1 like, 466 views"
+                    - [112] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [113] AXGroup expanded=false
+                      - [114] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [115] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [116] AXLink expanded=false "Piyush Parmar" url="https://x.com/learner_air"
+                      - [117] AXStaticText expanded=false = "Piyush Parmar"
+                    - [118] AXLink expanded=false "@learner_air" url="https://x.com/learner_air"
+                      - [119] AXGroup expanded=false
+                        - [120] AXStaticText expanded=false = "@learner_air"
+                    - [121] AXLink expanded=false "51 minutes ago" url="https://x.com/learner_air/status/2124455492470874224"
+                      - [122] AXGroup subrole=AXTimeGroup expanded=false
+                        - [123] AXStaticText expanded=false = "51m"
+                    - [124] AXButton expanded=false "Grok actions"
+                    - [125] AXPopUpButton expanded=false "More"
+                    - [126] AXGroup expanded=false
+                      - [127] AXStaticText expanded=false = "That Good 👍🏼 Coz best buying when we keep the algo come above again \n0.05 paisa in bidding,so have to modify again 5 paisa up, then algo again comes above our price.🙏🏼"
+                    - [128] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 466 views"
+                      - [129] AXButton expanded=false "0 Replies. Reply"
+                      - [130] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [131] AXButton expanded=false "1 Like. Like"
+                      - [132] AXLink expanded=false "466 views. View post analytics" url="https://x.com/learner_air/status/2124455492470874224/analytics"
+                        - [133] AXStaticText expanded=false = "466"
+                      - [134] AXButton expanded=false "Bookmark"
+                      - [135] AXPopUpButton expanded=false "Share post"
+                  - [136] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [137] AXGroup subrole=AXDocumentArticle expanded=false "Rosarach09\n@HOllywo78040028 18 minutes ago What is it means, does brokers increase their API costs or it only restricts individual traders. What about fyers, does it have licence for algo trading. @grok 1 reply, 205 views"
+                    - [138] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [139] AXGroup expanded=false
+                      - [140] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [142] AXLink expanded=false "Rosarach09" url="https://x.com/HOllywo78040028"
+                      - [143] AXStaticText expanded=false = "Rosarach09"
+                    - [144] AXLink expanded=false "@HOllywo78040028" url="https://x.com/HOllywo78040028"
+                      - [145] AXGroup expanded=false
+                        - [146] AXStaticText expanded=false = "@HOllywo78040028"
+                    - [147] AXLink expanded=false "18 minutes ago" url="https://x.com/HOllywo78040028/status/2124463890486763856"
+                      - [148] AXGroup subrole=AXTimeGroup expanded=false
+                        - [149] AXStaticText expanded=false = "18m"
+                    - [150] AXButton expanded=false "Grok actions"
+                    - [151] AXPopUpButton expanded=false "More"
+                    - [152] AXGroup expanded=false
+                      - [153] AXStaticText expanded=false = "What is it means, does brokers increase their API costs or it only restricts individual traders. What about fyers, does it have licence for algo trading. "
+                      - [154] AXLink expanded=false "@grok" url="https://x.com/grok"
+                        - [155] AXStaticText expanded=false = "@grok"
+                    - [156] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 205 views"
+                      - [157] AXButton expanded=false "1 Reply. Reply"
+                      - [158] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [159] AXButton expanded=false "0 Likes. Like"
+                      - [160] AXLink expanded=false "205 views. View post analytics" url="https://x.com/HOllywo78040028/status/2124463890486763856/analytics"
+                        - [161] AXStaticText expanded=false = "205"
+                      - [162] AXButton expanded=false "Bookmark"
+                      - [163] AXPopUpButton expanded=false "Share post"
+                  - [164] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [165] AXGroup subrole=AXDocumentArticle expanded=false "RIISHABH RISHI SRIVASTAV\n@riishabh_rishi 5 minutes ago Ye mc \n\nFii dii ka rakhail hai"
+                    - [166] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [167] AXGroup expanded=false
+                      - [168] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [169] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [170] AXLink expanded=false "RIISHABH RISHI SRIVASTAV" url="https://x.com/riishabh_rishi"
+                      - [171] AXStaticText expanded=false = "RIISHABH RISHI SRIVASTAV"
+                    - [172] AXLink expanded=false "@riishabh_rishi" url="https://x.com/riishabh_rishi"
+                      - [173] AXGroup expanded=false
+                        - [174] AXStaticText expanded=false = "@riishabh_rishi"
+                    - [175] AXLink expanded=false "5 minutes ago" url="https://x.com/riishabh_rishi/status/2124467209988976692"
+                      - [176] AXGroup subrole=AXTimeGroup expanded=false
+                        - [177] AXStaticText expanded=false = "5m"
+                    - [178] AXButton expanded=false "Grok actions"
+                    - [179] AXPopUpButton expanded=false "More"
+                    - [180] AXGroup expanded=false
+                      - [181] AXStaticText expanded=false = "Ye mc \n\nFii dii ka rakhail hai"
+                    - [182] AXGroup subrole=AXApplicationGroup expanded=false "38 views"
+                      - [183] AXButton expanded=false "0 Replies. Reply"
+                      - [184] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [185] AXButton expanded=false "0 Likes. Like"
+                      - [186] AXLink expanded=false "38 views. View post analytics" url="https://x.com/riishabh_rishi/status/2124467209988976692/analytics"
+                        - [187] AXStaticText expanded=false = "38"
+                      - [188] AXButton expanded=false "Bookmark"
+                      - [189] AXPopUpButton expanded=false "Share post"
+                  - [190] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [191] AXGroup subrole=AXDocumentArticle expanded=false "Vicky\n@ShaktiTokas 40 minutes ago @grok please explain this tweet , is it positive for retail traders 1 reply, 360 views"
+                    - [192] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [193] AXGroup expanded=false
+                      - [194] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [195] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [196] AXLink expanded=false "Vicky" url="https://x.com/ShaktiTokas"
+                      - [197] AXStaticText expanded=false = "Vicky"
+                    - [198] AXLink expanded=false "@ShaktiTokas" url="https://x.com/ShaktiTokas"
+                      - [199] AXGroup expanded=false
+                        - [200] AXStaticText expanded=false = "@ShaktiTokas"
+                    - [201] AXLink expanded=false "40 minutes ago" url="https://x.com/ShaktiTokas/status/2124458345566523688"
+                      - [202] AXGroup subrole=AXTimeGroup expanded=false
+                        - [203] AXStaticText expanded=false = "40m"
+                    - [204] AXButton expanded=false "Grok actions"
+                    - [205] AXPopUpButton expanded=false "More"
+                    - [206] AXGroup expanded=false
+                      - [207] AXLink expanded=false "@grok" url="https://x.com/grok"
+                        - [208] AXStaticText expanded=false = "@grok"
+                      - [209] AXStaticText expanded=false = " please explain this tweet , is it positive for retail traders"
+                    - [210] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 360 views"
+                      - [211] AXButton expanded=false "1 Reply. Reply"
+                      - [212] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [213] AXButton expanded=false "0 Likes. Like"
+                      - [214] AXLink expanded=false "360 views. View post analytics" url="https://x.com/ShaktiTokas/status/2124458345566523688/analytics"
+                        - [215] AXStaticText expanded=false = "360"
+                      - [216] AXButton expanded=false "Bookmark"
+                      - [217] AXPopUpButton expanded=false "Share post"
+                  - [218] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [219] AXHeading expanded=false "Discover more" = "2"
+                    - [220] AXStaticText expanded=false = "Discover more"
+                  - [221] AXStaticText expanded=false = "Sourced from across X"
+                  - [222] AXGroup subrole=AXDocumentArticle expanded=false "Happy Trader\nVerified account\n@HappyTraderJi 19 hours ago After Gold Silver \n\nNext is Property 😭 \n\n💯 133 replies, 104 reposts, 1635 likes, 114 bookmarks, 139480 views"
+                    - [223] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [224] AXGroup expanded=false
+                      - [225] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [226] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [227] AXLink expanded=false "Happy Trader\nVerified account" url="https://x.com/HappyTraderJi"
+                      - [228] AXStaticText expanded=false = "Happy Trader"
+                      - [229] AXImage expanded=false "Verified account"
+                    - [230] AXLink expanded=false "@HappyTraderJi" url="https://x.com/HappyTraderJi"
+                      - [231] AXGroup expanded=false
+                        - [232] AXStaticText expanded=false = "@HappyTraderJi"
+                    - [233] AXLink expanded=false "19 hours ago" url="https://x.com/HappyTraderJi/status/2124175179043811640"
+                      - [234] AXGroup subrole=AXTimeGroup expanded=false
+                        - [235] AXStaticText expanded=false = "19h"
+                    - [236] AXButton expanded=false "Grok actions"
+                    - [237] AXPopUpButton expanded=false "More"
+                    - [238] AXGroup expanded=false
+                      - [239] AXStaticText expanded=false = "After Gold Silver \n\nNext is Property 😭 \n\n💯"
+                    - [240] AXGroup subrole=AXApplicationGroup expanded=false "133 replies, 104 reposts, 1635 likes, 114 bookmarks, 139480 views"
+                      - [241] AXButton expanded=false "133 Replies. Reply"
+                      - [242] AXPopUpButton expanded=false "104 reposts. Repost"
+                      - [243] AXButton expanded=false "1635 Likes. Like"
+                      - [244] AXLink expanded=false "139480 views. View post analytics" url="https://x.com/HappyTraderJi/status/2124175179043811640/analytics"
+                        - [245] AXStaticText expanded=false = "139K"
+                      - [246] AXButton expanded=false "Bookmark"
+                      - [247] AXPopUpButton expanded=false "Share post"
+                  - [248] AXGroup subrole=AXDocumentArticle expanded=false "StoxPlex Shubham (SEBI RA)\nVerified account\n@StoxPlexShubham 19 hours ago 🇵🇸 India\'s Aid to Palestine : ₹1650 Cr\n\n🇮🇳 Indian Football Budget : ₹120 Cr 11 replies, 132 reposts, 1233 likes, 12 bookmarks, 24948 views"
+                    - [249] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [250] AXGroup expanded=false
+                      - [251] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [252] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [253] AXLink expanded=false "StoxPlex Shubham (SEBI RA)\nVerified account" url="https://x.com/StoxPlexShubham"
+                      - [254] AXStaticText expanded=false = "StoxPlex Shubham (SEBI RA)"
+                      - [255] AXImage expanded=false "Verified account"
+                    - [256] AXLink expanded=false "@StoxPlexShubham" url="https://x.com/StoxPlexShubham"
+                      - [257] AXGroup expanded=false
+                        - [258] AXStaticText expanded=false = "@StoxPlexShubham"
+                    - [259] AXLink expanded=false "19 hours ago" url="https://x.com/StoxPlexShubham/status/2124169381152448678"
+                      - [260] AXGroup subrole=AXTimeGroup expanded=false
+                        - [261] AXStaticText expanded=false = "19h"
+                    - [262] AXButton expanded=false "Grok actions"
+                    - [263] AXPopUpButton expanded=false "More"
+                    - [264] AXGroup expanded=false
+                      - [265] AXStaticText expanded=false = "🇵🇸 India\'s Aid to Palestine : ₹1650 Cr\n\n🇮🇳 Indian Football Budget : ₹120 Cr"
+                    - [266] AXGroup subrole=AXApplicationGroup expanded=false "11 replies, 132 reposts, 1233 likes, 12 bookmarks, 24948 views"
+                      - [267] AXButton expanded=false "11 Replies. Reply"
+                      - [268] AXPopUpButton expanded=false "132 reposts. Repost"
+                      - [269] AXButton expanded=false "1233 Likes. Like"
+                      - [270] AXLink expanded=false "24948 views. View post analytics" url="https://x.com/StoxPlexShubham/status/2124169381152448678/analytics"
+                        - [271] AXStaticText expanded=false = "24K"
+                      - [272] AXButton expanded=false "Bookmark"
+                      - [273] AXPopUpButton expanded=false "Share post"
+                  - [274] AXGroup subrole=AXDocumentArticle expanded=false "RedboxGlobal India\nVerified account\n@REDBOXINDIA 20 hours ago RBI\'S MALHOTRA: BANKS MUST LEND MORE TO SMALL BUSINESS — RS 1,000 CR TO ONE LARGE FIRM BENEFITS ONE; SAME AMOUNT SPREAD ACROSS MSMEs DELIVERS 100X IMPACT, 1,000X ACROSS MICRO-ENTERPRISES 13 replies, 34 reposts, 385 likes, 18 bookmarks, 56111 views"
+                    - [275] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [276] AXGroup expanded=false
+                      - [277] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [278] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [279] AXLink expanded=false "RedboxGlobal India\nVerified account" url="https://x.com/REDBOXINDIA"
+                      - [280] AXStaticText expanded=false = "RedboxGlobal India"
+                      - [281] AXImage expanded=false "Verified account"
+                    - [282] AXLink expanded=false "@REDBOXINDIA" url="https://x.com/REDBOXINDIA"
+                      - [283] AXGroup expanded=false
+                        - [284] AXStaticText expanded=false = "@REDBOXINDIA"
+                    - [285] AXLink expanded=false "20 hours ago" url="https://x.com/REDBOXINDIA/status/2124162629170241873"
+                      - [286] AXGroup subrole=AXTimeGroup expanded=false
+                        - [287] AXStaticText expanded=false = "20h"
+                    - [288] AXButton expanded=false "Grok actions"
+                    - [289] AXPopUpButton expanded=false "More"
+                    - [290] AXGroup expanded=false
+                      - [291] AXStaticText expanded=false = "RBI\'S MALHOTRA: BANKS MUST LEND MORE TO SMALL BUSINESS — RS 1,000 CR TO ONE LARGE FIRM BENEFITS ONE; SAME AMOUNT SPREAD ACROSS MSMEs DELIVERS 100X IMPACT, 1,000X ACROSS MICRO-ENTERPRISES"
+                    - [292] AXGroup subrole=AXApplicationGroup expanded=false "13 replies, 34 reposts, 385 likes, 18 bookmarks, 56111 views"
+                      - [293] AXButton expanded=false "13 Replies. Reply"
+                      - [294] AXPopUpButton expanded=false "34 reposts. Repost"
+                      - [295] AXButton expanded=false "385 Likes. Like"
+                      - [296] AXLink expanded=false "56111 views. View post analytics" url="https://x.com/REDBOXINDIA/status/2124162629170241873/analytics"
+                        - [297] AXStaticText expanded=false = "56K"
+                      - [298] AXButton expanded=false "Bookmark"
+                      - [299] AXPopUpButton expanded=false "Share post"
+                  - [300] AXGroup subrole=AXDocumentArticle expanded=false "Margin of Safety🇮🇳\nVerified account\n@InvestorOfJAMMU 10 hours ago All these 4 stocks are ready for Vertical slide as Nasdaq closed 6% lower on Friday night.\n\nIn my watchlist. Will share with subscribers in case if I see any buying opportunity in December. Image 11 replies, 12 reposts, 267 likes, 59 bookmarks, 18363 views"
+                    - [301] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [302] AXGroup expanded=false
+                      - [303] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [304] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [305] AXLink expanded=false "Margin of Safety🇮🇳\nVerified account" url="https://x.com/InvestorOfJAMMU"
+                      - [306] AXStaticText expanded=false = "Margin of Safety🇮🇳"
+                      - [307] AXImage expanded=false "Verified account"
+                    - [308] AXLink expanded=false "@InvestorOfJAMMU" url="https://x.com/InvestorOfJAMMU"
+                      - [309] AXGroup expanded=false
+                        - [310] AXStaticText expanded=false = "@InvestorOfJAMMU"
+                    - [311] AXLink expanded=false "10 hours ago" url="https://x.com/InvestorOfJAMMU/status/2124316460822806763"
+                      - [312] AXGroup subrole=AXTimeGroup expanded=false
+                        - [313] AXStaticText expanded=false = "10h"
+                    - [314] AXButton expanded=false "Grok actions"
+                    - [315] AXPopUpButton expanded=false "More"
+                    - [316] AXGroup expanded=false
+                      - [317] AXStaticText expanded=false = "All these 4 stocks are ready for Vertical slide as Nasdaq closed 6% lower on Friday night.\n\nIn my watchlist. Will share with subscribers in case if I see any buying opportunity in December."
+                    - [318] AXGroup expanded=false
+                      - [319] AXLink expanded=false "Image" url="https://x.com/InvestorOfJAMMU/status/2124316460822806763/photo/1"
+                        - [320] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [321] AXGroup expanded=false
+                          - [322] AXGroup expanded=false "Image"
+                            - [323] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXsWj3paAAAXgaD?format=jpg&name=medium"
+                    - [324] AXGroup subrole=AXApplicationGroup expanded=false "11 replies, 12 reposts, 267 likes, 59 bookmarks, 18363 views"
+                      - [325] AXButton expanded=false "11 Replies. Reply"
+                      - [326] AXPopUpButton expanded=false "12 reposts. Repost"
+                      - [327] AXButton expanded=false "267 Likes. Like"
+                      - [328] AXLink expanded=false "18363 views. View post analytics" url="https://x.com/InvestorOfJAMMU/status/2124316460822806763/analytics"
+                        - [329] AXStaticText expanded=false = "18K"
+                      - [330] AXButton expanded=false "Bookmark"
+                      - [331] AXPopUpButton expanded=false "Share post"
+                  - [332] AXButton expanded=false "Show probable spam"
+          - [333] AXGroup expanded=false "Trending"
+            - [334] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [335] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [336] AXGroup expanded=false
+                  - [337] AXStaticText expanded=false = "Search"
+            - [338] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [339] AXHeading expanded=false "Relevant people" = "2"
+                - [340] AXStaticText expanded=false = "Relevant people"
+              - [341] AXList subrole=AXContentList expanded=false
+                - [342] AXGroup expanded=false
+                  - [343] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [344] AXGroup expanded=false
+                    - [345] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [346] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [347] AXLink expanded=false "RedboxGlobal India\nVerified account" url="https://x.com/REDBOXINDIA"
+                    - [348] AXStaticText expanded=false = "RedboxGlobal India"
+                    - [349] AXImage expanded=false "Verified account"
+                  - [350] AXLink expanded=false "@REDBOXINDIA" url="https://x.com/REDBOXINDIA"
+                    - [351] AXGroup expanded=false
+                      - [352] AXStaticText expanded=false = "@REDBOXINDIA"
+                  - [353] AXButton expanded=false "Follow @REDBOXINDIA"
+                  - [354] AXGroup expanded=false
+                    - [355] AXStaticText expanded=false = "Indian Financial Audio news via"
+                    - [356] AXLink expanded=false "@FirstSquawk" url="https://x.com/FirstSquawk"
+                      - [357] AXStaticText expanded=false = "@FirstSquawk"
+                    - [358] AXStaticText expanded=false = " Covering Indian breaking News Real time Telegram:"
+                    - [359] AXLink expanded=false "t.me/Indiaredboxglo" url="https://t.co/zV0CCPly8I"
+                      - [360] AXStaticText expanded=false = "t.me/Indiaredboxglo"
+            - [361] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [362] AXHeading expanded=false "Trending now" = "1"
+                - [363] AXStaticText expanded=false = "Trending now"
+              - [364] AXGroup expanded=false "Timeline: Trending now"
+                - [365] AXGroup subrole=AXEmptyGroup expanded=false
+                - [366] AXHeading expanded=false "What’s happening" = "2"
+                  - [367] AXStaticText expanded=false = "What’s happening"
+                - [368] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [369] AXGroup expanded=false
+                    - [370] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [371] AXGroup expanded=false
+                    - [372] AXStaticText expanded=false = "Charles"
+                  - [373] AXPopUpButton expanded=false "More"
+                - [374] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [375] AXGroup expanded=false
+                    - [376] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [377] AXGroup expanded=false
+                    - [378] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [379] AXPopUpButton expanded=false "More"
+                - [380] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [381] AXGroup expanded=false
+                    - [382] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [383] AXGroup expanded=false
+                    - [384] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [385] AXPopUpButton expanded=false "More"
+                - [386] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [387] AXGroup expanded=false
+                    - [388] AXStaticText expanded=false = "Sports · Trending"
+                  - [389] AXGroup expanded=false
+                    - [390] AXStaticText expanded=false = "Rishabh Pant"
+                  - [391] AXPopUpButton expanded=false "More"
+                - [392] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [393] AXGroup expanded=false
+                    - [394] AXStaticText expanded=false = "Show more"
+            - [395] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [396] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [397] AXStaticText expanded=false = "Terms"
+              - [398] AXGroup expanded=false
+                - [399] AXStaticText expanded=false = "·"
+              - [400] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [401] AXStaticText expanded=false = "Privacy"
+              - [402] AXGroup expanded=false
+                - [403] AXStaticText expanded=false = "·"
+              - [404] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [405] AXStaticText expanded=false = "Cookies"
+              - [406] AXGroup expanded=false
+                - [407] AXStaticText expanded=false = "·"
+              - [408] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [409] AXStaticText expanded=false = "Accessibility"
+              - [410] AXGroup expanded=false
+                - [411] AXStaticText expanded=false = "·"
+              - [412] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [413] AXStaticText expanded=false = "Ads Info"
+              - [414] AXGroup expanded=false
+                - [415] AXStaticText expanded=false = "·"
+              - [416] AXPopUpButton expanded=false "More"
+              - [417] AXGroup expanded=false
+                - [418] AXStaticText expanded=false = "© 2026 X Corp."
+        - [419] AXGroup subrole=AXEmptyGroup expanded=false
+        - [420] AXGroup subrole=AXEmptyGroup expanded=false
+      - [421] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [422] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [423] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [424] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [425] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [426] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [427] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [428] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [429] AXRadioButton subrole=AXTabButton valueWritable=false "RedboxGlobal India on X: \"NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "RedboxGlobal India on X: \"NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE\" / X" selection=[0,0]
+  - [430] AXGroup "Favorites bar"
+    - [431] AXButton "show start page" help="Show Start Page"
+    - [432] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [433] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [434] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [435] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [436] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [437] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [438] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [439] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [440] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [441] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [442] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [443] AXToolbar
+    - [444] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [445] AXButton "show sidebar" help="Show sidebar"
+      - [446] AXMenuButton "Tab Group picker"
+    - [447] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [448] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [449] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [450] AXButton "Page Menu"
+      - [451] AXButton "Add page to Reading List"
+      - [452] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/REDBOXINDIA/status/2124454803329917239" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [453] AXButton "Reload this page"
+    - [454] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [455] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [456] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [457] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [458] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [459] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [460] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [461] AXButton subrole=AXCloseButton
+  - [462] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [463] AXButton subrole=AXMinimizeButton
+- [464] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [465] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [466] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [467] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [468] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [469] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [470] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [471] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [472] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [473] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

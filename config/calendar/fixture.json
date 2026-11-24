@@ -1,0 +1,8 @@
+{
+  "source": "synthetic calendar for software tests only",
+  "days": {
+    "2026-01-12": {"open": "09:15", "close": "15:30"},
+    "2026-01-13": null,
+    "2026-01-14": {"open": "18:00", "close": "19:00"}
+  }
+}

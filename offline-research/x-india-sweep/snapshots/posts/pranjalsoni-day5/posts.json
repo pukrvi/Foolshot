@@ -1,0 +1,26 @@
+[
+ {
+  "handle": "pranjalsoni_",
+  "id": "2118693175116325259",
+  "timeText": "6:43 PM · Nov 6, 2026",
+  "text": "day 5 of letting an ai trade my real money. second red day in a row\n\nwoke up on time today. logged in. felt ready\n\nthe bot didn\\'t. a bug i shipped last night made it think the market was closed for a holiday. paper trading switched itself off at 9:16 on a normal friday\n\nfixed it, restarted, moved on\n\naround 10 we found a setup that actually held up in 2 years of data. stocks that gap hard on news and keep falling\n\nclaude said paper it first. i said go full size\n\n> stopped out in 13 minutes. -3.7k\n\nthe stock bounced right back down after. of course\n\nthen i got desperate and wanted to scalp. 1-3 minute trades, grab cash, get out\n\nso we tested it. 20k trades on 1-minute data: zero edge before costs, guaranteed loss after\n\nran it live on paper anyway with 5 lakh a trade\n\n> 72 trades in 4 hours. -30k. on paper. thank god\n\ntwo days, two lessons:\n- don\\'t trade what the rules say to skip\n- don\\'t bet big on something you found an hour ago\n\naccount is down ~1.6% over 5 days. not dead. just humbled\n\nweekend plan: test the one real setup on 5 more years of data, build a model, and hard-code the risk rules so i can\\'t override them\n\nsee you monday"
+ },
+ {
+  "handle": "AzrianoY1",
+  "id": "2118731841184358831",
+  "timeText": "Nov 6",
+  "text": "two red days from one bug is still useful data. small size till the fix ships"
+ },
+ {
+  "handle": "JTradeX_paper",
+  "id": "2118693341538013517",
+  "timeText": "Nov 6",
+  "text": "Shipped the bug last night and woke up to red candles? Classic."
+ },
+ {
+  "handle": "pranjalsoni_",
+  "id": "2124416058446754218",
+  "timeText": "3 hours ago",
+  "text": "More likely than permanent underclass is we will all be permanent middle class"
+ }
+]

@@ -1,0 +1,48 @@
+URL: https://x.com/DevMagg/status/2124386972504666481
+DATE: 2026-11-22
+MODE: Latest
+
+Dev
+@DevMagg 🚨 NSE clamps down on Static IP misuse in retail algo trading (Circular 58/2026)
+
+✅ Static IP only for tech-savvy retail clients who code their own algos. 
+
+❌ Algo providers can\'t hand it to other retail clients
+
+Brokers must now collect an undertaking. Effective immediately. 2 replies, 197 views
+
+Dev
+@DevMagg 5 hours ago 2/ Brokers must get an undertaking from each tech-savvy client. It confirms they build their own algos using programming knowledge. 
+
+It also says they have no recourse to the Exchange\'s investor grievance mechanism for losses caused by the algo\'s logic. 1 reply, 1 like, 39 views
+
+Dev
+@DevMagg 5 hours ago 3/ Algo providers who break the rules can have their empanelment reviewed, suspended or revoked.
+
+Why it matters: since the retail algo framework began on Apr 1, 2026, NSE has received complaints about providers giving Static IPs to ordinary retail clients, labelled as 1 reply, 40 views
+
+Dev
+@DevMagg 5 hours ago Why it matters: since the retail algo framework began on Apr 1, 2026, NSE has received complaints about providers giving Static IPs to ordinary retail clients, labelled as "tech-savvy".
+
+Vincent Hus
+Verified account
+@vincent_hus 166 open issues. 71 contributors last week. Room for more. github.com Pick your issue. 199 replies, 199 reposts, 3283 likes, 664 bookmarks, 11873182 views" description="Vincent Hus
+Verified account
+@vincent_hus 166 open issues. 71 contributors last week. Room for more. github.com Pick your issue. Ad from github.com 199 replies, 199 reposts, 3283 likes, 664 bookmarks, 11873182 views
+
+Opportunist Trader
+@Opportunist_in 3 hours ago I use 1cliq for order execution and purchase their own static IP. Will this affect me too? 1 reply, 6 views
+
+Dev
+@DevMagg 2 hours ago yes at last its third party provider they cant provide static ip for you to trade 1 reply, 1 like, 7 views
+
+Dev
+@DevMagg Nov 19 🧠 ONE STRATEGY SHOULD NOT DEFINE YOUR ENTIRE PORTFOLIO.
+
+Different strategies behave differently in different market conditions.
+
+For example:
+
+• Trend-following systems benefit from directional moves.
+• Mean-reversion systems look for price reversals.
+• Momentum systems seek 3 likes, 376 views

@@ -1,0 +1,417 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Nikhil Pahwa on X: \"Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ?\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Nikhil Pahwa on X: \"Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ?\" / X" url="https://x.com/nixxin/status/2057797187921494199"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Nikhil Pahwa\nVerified account\n@nixxin Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3379 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/nixxin"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Nikhil Pahwa\nVerified account" url="https://x.com/nixxin"
+                      - [72] AXStaticText expanded=false = "Nikhil Pahwa"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@nixxin" url="https://x.com/nixxin"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@nixxin"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently "
+                      - [81] AXLink expanded=false "@Nithin0dha" url="https://x.com/Nithin0dha"
+                        - [82] AXStaticText expanded=false = "@Nithin0dha"
+                      - [83] AXStaticText expanded=false = " ?"
+                    - [84] AXGroup expanded=false
+                      - [85] AXLink expanded=false "5:44 PM · May 22, 2026" url="https://x.com/nixxin/status/2057797187921494199"
+                        - [86] AXGroup subrole=AXTimeGroup expanded=false
+                          - [87] AXStaticText expanded=false = "5:44 PM · May 22, 2026"
+                      - [88] AXLink expanded=false "3,379 Views" url="https://x.com/nixxin/status/2057797187921494199/analytics"
+                        - [89] AXStaticText expanded=false = "3,379"
+                        - [90] AXStaticText expanded=false = "Views"
+                    - [91] AXGroup subrole=AXApplicationGroup expanded=false "4 replies, 4 likes, 1 bookmark, 3379 views"
+                      - [92] AXButton expanded=false "4 Replies. Reply"
+                      - [93] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [94] AXButton expanded=false "4 Likes. Like"
+                      - [95] AXButton expanded=false "1 Bookmark. Bookmark"
+                      - [96] AXPopUpButton expanded=false "Share post"
+                    - [97] AXPopUpButton expanded=false "Relevant"
+                  - [98] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [99] AXGroup expanded=false
+                    - [100] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [101] AXGroup expanded=false
+                      - [102] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [103] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [104] AXGroup expanded=false
+                          - [105] AXGroup expanded=false "Puneet Vishnawat"
+                            - [106] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [107] AXGroup expanded=false
+                    - [108] AXStaticText expanded=false = "Post your reply"
+                  - [109] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [111] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [112] AXGroup subrole=AXDocumentArticle expanded=false "Zerodha Support\nVerified account\n@AskZerodha May 22 Hi Nikhil, sorry about the inconvenience. This will be resolved in an upcoming version of MCP. Sessions will remain active throughout the day and will be reset only the next day, similar to Kite and Kite Connect API sessions. 1 reply, 1 like, 241 views"
+                    - [113] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [114] AXGroup expanded=false
+                      - [115] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [116] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [117] AXLink expanded=false "Zerodha Support\nVerified account" url="https://x.com/AskZerodha"
+                      - [118] AXStaticText expanded=false = "Zerodha Support"
+                      - [119] AXImage expanded=false "Verified account"
+                      - [120] AXLink expanded=false
+                        - [121] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [122] AXLink expanded=false "@AskZerodha" url="https://x.com/AskZerodha"
+                      - [123] AXGroup expanded=false
+                        - [124] AXStaticText expanded=false = "@AskZerodha"
+                    - [125] AXLink expanded=false "May 22" url="https://x.com/AskZerodha/status/2057825036015452593"
+                      - [126] AXGroup subrole=AXTimeGroup expanded=false
+                        - [127] AXStaticText expanded=false = "May 22"
+                    - [128] AXButton expanded=false "Grok actions"
+                    - [129] AXPopUpButton expanded=false "More"
+                    - [130] AXGroup expanded=false
+                      - [131] AXStaticText expanded=false = "Hi Nikhil, sorry about the inconvenience. This will be resolved in an upcoming version of MCP. Sessions will remain active throughout the day and will be reset only the next day, similar to Kite and Kite Connect API sessions."
+                    - [132] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 241 views"
+                      - [133] AXButton expanded=false "1 Reply. Reply"
+                      - [134] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [135] AXButton expanded=false "1 Like. Like"
+                      - [136] AXLink expanded=false "241 views. View post analytics" url="https://x.com/AskZerodha/status/2057825036015452593/analytics"
+                        - [137] AXStaticText expanded=false = "241"
+                      - [138] AXButton expanded=false "Bookmark"
+                      - [139] AXPopUpButton expanded=false "Share post"
+                  - [140] AXGroup subrole=AXDocumentArticle expanded=false "Nikhil Pahwa\nVerified account\n@nixxin May 22 Why? Why do I still need to login daily? I\'ve authorised my agent to analyse my portfolio and certain stocks daily. The whole point is that it shouldn\'t need me to do anything. Why even have an MCP if you\'re going to enforce this inconvenience? 1 reply, 1 like, 214 views"
+                    - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [142] AXGroup expanded=false
+                      - [143] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [144] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [145] AXLink expanded=false "Nikhil Pahwa\nVerified account" url="https://x.com/nixxin"
+                      - [146] AXStaticText expanded=false = "Nikhil Pahwa"
+                      - [147] AXImage expanded=false "Verified account"
+                    - [148] AXLink expanded=false "@nixxin" url="https://x.com/nixxin"
+                      - [149] AXGroup expanded=false
+                        - [150] AXStaticText expanded=false = "@nixxin"
+                    - [151] AXLink expanded=false "May 22" url="https://x.com/nixxin/status/2057845012948451678"
+                      - [152] AXGroup subrole=AXTimeGroup expanded=false
+                        - [153] AXStaticText expanded=false = "May 22"
+                    - [154] AXButton expanded=false "Grok actions"
+                    - [155] AXPopUpButton expanded=false "More"
+                    - [156] AXGroup expanded=false
+                      - [157] AXStaticText expanded=false = "Why? Why do I still need to login daily? I\'ve authorised my agent to analyse my portfolio and certain stocks daily. The whole point is that it shouldn\'t need me to do anything. Why even have an MCP if you\'re going to enforce this inconvenience?"
+                    - [158] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 214 views"
+                      - [159] AXButton expanded=false "1 Reply. Reply"
+                      - [160] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [161] AXButton expanded=false "1 Like. Like"
+                      - [162] AXLink expanded=false "214 views. View post analytics" url="https://x.com/nixxin/status/2057845012948451678/analytics"
+                        - [163] AXStaticText expanded=false = "214"
+                      - [164] AXButton expanded=false "Bookmark"
+                      - [165] AXPopUpButton expanded=false "Share post"
+                  - [166] AXButton expanded=false "Show replies"
+                  - [167] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [168] AXGroup subrole=AXDocumentArticle expanded=false "Sandeep Hegde\nVerified account\n@SandeepHegde May 23 Be glad that that they are not enforcing Aadhaar authentication for that.\n\nThese days they have started forcing Aadhaar e-sign for simple online profile changes. It will all be for consumer safety as per internal policy 😀"
+                    - [169] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [170] AXGroup expanded=false
+                      - [171] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [172] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [173] AXLink expanded=false "Sandeep Hegde\nVerified account" url="https://x.com/SandeepHegde"
+                      - [174] AXStaticText expanded=false = "Sandeep Hegde"
+                      - [175] AXImage expanded=false "Verified account"
+                    - [176] AXLink expanded=false "@SandeepHegde" url="https://x.com/SandeepHegde"
+                      - [177] AXGroup expanded=false
+                        - [178] AXStaticText expanded=false = "@SandeepHegde"
+                    - [179] AXLink expanded=false "May 23" url="https://x.com/SandeepHegde/status/2058010223814783207"
+                      - [180] AXGroup subrole=AXTimeGroup expanded=false
+                        - [181] AXStaticText expanded=false = "May 23"
+                    - [182] AXButton expanded=false "Grok actions"
+                    - [183] AXPopUpButton expanded=false "More"
+                    - [184] AXGroup expanded=false
+                      - [185] AXStaticText expanded=false = "Be glad that that they are not enforcing Aadhaar authentication for that.\n\nThese days they have started forcing Aadhaar e-sign for simple online profile changes. It will all be for consumer safety as per internal policy 😀"
+                    - [186] AXGroup subrole=AXApplicationGroup expanded=false "105 views"
+                      - [187] AXButton expanded=false "0 Replies. Reply"
+                      - [188] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [189] AXButton expanded=false "0 Likes. Like"
+                      - [190] AXLink expanded=false "105 views. View post analytics" url="https://x.com/SandeepHegde/status/2058010223814783207/analytics"
+                        - [191] AXStaticText expanded=false = "105"
+                      - [192] AXButton expanded=false "Bookmark"
+                      - [193] AXPopUpButton expanded=false "Share post"
+                  - [194] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [195] AXGroup subrole=AXDocumentArticle expanded=false "NaaNSenseAi\nVerified account\n@NaanSenseAi May 22 Yeah MCP shouldn’t need a logout"
+                    - [196] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [197] AXGroup expanded=false
+                      - [198] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [199] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [200] AXLink expanded=false "NaaNSenseAi\nVerified account" url="https://x.com/NaanSenseAi"
+                      - [201] AXStaticText expanded=false = "NaaNSenseAi"
+                      - [202] AXImage expanded=false "Verified account"
+                    - [203] AXLink expanded=false "@NaanSenseAi" url="https://x.com/NaanSenseAi"
+                      - [204] AXGroup expanded=false
+                        - [205] AXStaticText expanded=false = "@NaanSenseAi"
+                    - [206] AXLink expanded=false "May 22" url="https://x.com/NaanSenseAi/status/2057838472136892902"
+                      - [207] AXGroup subrole=AXTimeGroup expanded=false
+                        - [208] AXStaticText expanded=false = "May 22"
+                    - [209] AXButton expanded=false "Grok actions"
+                    - [210] AXPopUpButton expanded=false "More"
+                    - [211] AXGroup expanded=false
+                      - [212] AXStaticText expanded=false = "Yeah MCP shouldn’t need a logout"
+                    - [213] AXGroup subrole=AXApplicationGroup expanded=false "184 views"
+                      - [214] AXButton expanded=false "0 Replies. Reply"
+                      - [215] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [216] AXButton expanded=false "0 Likes. Like"
+                      - [217] AXLink expanded=false "184 views. View post analytics" url="https://x.com/NaanSenseAi/status/2057838472136892902/analytics"
+                        - [218] AXStaticText expanded=false = "184"
+                      - [219] AXButton expanded=false "Bookmark"
+                      - [220] AXPopUpButton expanded=false "Share post"
+                  - [221] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [222] AXGroup subrole=AXDocumentArticle expanded=false "Naresh\n@narresh May 22 @grok what\'s MCP and why is it used? 1 reply, 143 views"
+                    - [223] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [224] AXGroup expanded=false
+                      - [225] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [226] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [227] AXLink expanded=false "Naresh" url="https://x.com/narresh"
+                      - [228] AXStaticText expanded=false = "Naresh"
+                    - [229] AXLink expanded=false "@narresh" url="https://x.com/narresh"
+                      - [230] AXGroup expanded=false
+                        - [231] AXStaticText expanded=false = "@narresh"
+                    - [232] AXLink expanded=false "May 22" url="https://x.com/narresh/status/2057868533653258308"
+                      - [233] AXGroup subrole=AXTimeGroup expanded=false
+                        - [234] AXStaticText expanded=false = "May 22"
+                    - [235] AXButton expanded=false "Grok actions"
+                    - [236] AXPopUpButton expanded=false "More"
+                    - [237] AXGroup expanded=false
+                      - [238] AXLink expanded=false "@grok" url="https://x.com/grok"
+                        - [239] AXStaticText expanded=false = "@grok"
+                      - [240] AXStaticText expanded=false = " what\'s MCP and why is it used?"
+                    - [241] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 143 views"
+                      - [242] AXButton expanded=false "1 Reply. Reply"
+                      - [243] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [244] AXButton expanded=false "0 Likes. Like"
+                      - [245] AXLink expanded=false "143 views. View post analytics" url="https://x.com/narresh/status/2057868533653258308/analytics"
+                        - [246] AXStaticText expanded=false = "143"
+                      - [247] AXButton expanded=false "Bookmark"
+                      - [248] AXPopUpButton expanded=false "Share post"
+          - [249] AXGroup expanded=false "Trending"
+            - [250] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [251] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [252] AXGroup expanded=false
+                  - [253] AXStaticText expanded=false = "Search"
+            - [254] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [255] AXHeading expanded=false "Relevant people" = "2"
+                - [256] AXStaticText expanded=false = "Relevant people"
+              - [257] AXList subrole=AXContentList expanded=false
+                - [258] AXGroup expanded=false
+                  - [259] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [260] AXGroup expanded=false
+                    - [261] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [262] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [263] AXLink expanded=false "Nikhil Pahwa\nVerified account" url="https://x.com/nixxin"
+                    - [264] AXStaticText expanded=false = "Nikhil Pahwa"
+                    - [265] AXImage expanded=false "Verified account"
+                  - [266] AXLink expanded=false "@nixxin" url="https://x.com/nixxin"
+                    - [267] AXGroup expanded=false
+                      - [268] AXStaticText expanded=false = "@nixxin"
+                  - [269] AXButton expanded=false "Follow @nixxin"
+                  - [270] AXGroup expanded=false
+                    - [271] AXStaticText expanded=false = "AI +ve | Founder & Editor "
+                    - [272] AXLink expanded=false "@medianama" url="https://x.com/medianama"
+                      - [273] AXStaticText expanded=false = "@medianama"
+                    - [274] AXLink expanded=false "Reasoned.live" url="https://t.co/ttzERvWHIf"
+                      - [275] AXStaticText expanded=false = "Reasoned.live"
+                    - [276] AXStaticText expanded=false = " | "
+                    - [277] AXLink expanded=false "@tedfellow" url="https://x.com/tedfellow"
+                      - [278] AXStaticText expanded=false = "@tedfellow"
+                    - [279] AXLink expanded=false "@Asia21Leaders" url="https://x.com/Asia21Leaders"
+                      - [280] AXStaticText expanded=false = "@Asia21Leaders"
+                    - [281] AXStaticText expanded=false = " | started"
+                    - [282] AXLink expanded=false "savetheinternet.in" url="https://t.co/m46sMfsBzJ"
+                      - [283] AXStaticText expanded=false = "savetheinternet.in"
+                    - [284] AXStaticText expanded=false = " & "
+                    - [285] AXLink expanded=false "@internetfreedom" url="https://x.com/internetfreedom"
+                      - [286] AXStaticText expanded=false = "@internetfreedom"
+            - [287] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [288] AXHeading expanded=false "Trending now" = "1"
+                - [289] AXStaticText expanded=false = "Trending now"
+              - [290] AXGroup expanded=false "Timeline: Trending now"
+                - [291] AXGroup subrole=AXEmptyGroup expanded=false
+                - [292] AXHeading expanded=false "What’s happening" = "2"
+                  - [293] AXStaticText expanded=false = "What’s happening"
+                - [294] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [295] AXGroup expanded=false
+                    - [296] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [297] AXGroup expanded=false
+                    - [298] AXStaticText expanded=false = "Charles"
+                  - [299] AXPopUpButton expanded=false "More"
+                - [300] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [301] AXGroup expanded=false
+                    - [302] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [303] AXGroup expanded=false
+                    - [304] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [305] AXPopUpButton expanded=false "More"
+                - [306] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [307] AXGroup expanded=false
+                    - [308] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [309] AXGroup expanded=false
+                    - [310] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [311] AXPopUpButton expanded=false "More"
+                - [312] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [313] AXGroup expanded=false
+                    - [314] AXStaticText expanded=false = "Sports · Trending"
+                  - [315] AXGroup expanded=false
+                    - [316] AXStaticText expanded=false = "Rishabh Pant"
+                  - [317] AXPopUpButton expanded=false "More"
+                - [318] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [319] AXGroup expanded=false
+                    - [320] AXStaticText expanded=false = "Show more"
+            - [321] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [322] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [323] AXStaticText expanded=false = "Terms"
+              - [324] AXGroup expanded=false
+                - [325] AXStaticText expanded=false = "·"
+              - [326] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [327] AXStaticText expanded=false = "Privacy"
+              - [328] AXGroup expanded=false
+                - [329] AXStaticText expanded=false = "·"
+              - [330] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [331] AXStaticText expanded=false = "Cookies"
+              - [332] AXGroup expanded=false
+                - [333] AXStaticText expanded=false = "·"
+              - [334] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [335] AXStaticText expanded=false = "Accessibility"
+              - [336] AXGroup expanded=false
+                - [337] AXStaticText expanded=false = "·"
+              - [338] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [339] AXStaticText expanded=false = "Ads Info"
+              - [340] AXGroup expanded=false
+                - [341] AXStaticText expanded=false = "·"
+              - [342] AXPopUpButton expanded=false "More"
+              - [343] AXGroup expanded=false
+                - [344] AXStaticText expanded=false = "© 2026 X Corp."
+        - [345] AXGroup subrole=AXEmptyGroup expanded=false
+        - [346] AXGroup subrole=AXEmptyGroup expanded=false
+      - [347] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [348] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [349] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [350] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [351] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [352] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [353] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [354] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [355] AXRadioButton subrole=AXTabButton valueWritable=false "Nikhil Pahwa on X: \"Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ?\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Nikhil Pahwa on X: \"Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ?\" / X" selection=[0,0]
+  - [356] AXGroup "Favorites bar"
+    - [357] AXButton "show start page" help="Show Start Page"
+    - [358] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [359] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [360] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [361] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [362] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [363] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [364] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [365] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [366] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [367] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [368] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [369] AXToolbar
+    - [370] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [371] AXButton "show sidebar" help="Show sidebar"
+      - [372] AXMenuButton "Tab Group picker"
+    - [373] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [374] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [375] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [376] AXButton "Page Menu"
+      - [377] AXButton "Add page to Reading List"
+      - [378] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/nixxin/status/2057797187921494199" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [379] AXButton "Reload this page"
+    - [380] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [381] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [382] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [383] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [384] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [385] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [386] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [387] AXButton subrole=AXCloseButton
+  - [388] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [389] AXButton subrole=AXMinimizeButton
+- [390] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [391] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [392] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [393] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [394] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [395] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [396] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [397] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [398] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [399] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

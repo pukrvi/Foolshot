@@ -1,0 +1,297 @@
+QUERY: (claude code OR codex OR cursor OR "gemini cli") (nifty OR banknifty OR "indian market") trading
+URL: https://x.com/search?q=(claude%20code%20OR%20codex%20OR%20cursor%20OR%20%22gemini%20cli%22)%20(nifty%20OR%20banknifty%20OR%20%22indian%20market%22)%20trading&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 13
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 71 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 117 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 867 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 957 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+StockGro
+Verified account
+@stockgro Nov 6 7 replies, 7 likes, 1 bookmark, 2669 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 71 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 117 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 867 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 957 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+StockGro
+Verified account
+@stockgro Nov 6 7 replies, 7 likes, 1 bookmark, 2669 views
+
+Marketcalls
+Verified account
+@marketcallsHQ Nov 6 Is the AI bubble bursting? S&P 500 −4.36%, VIX 28.18, a KOSPI circuit breaker and FIIs covering Nifty shorts. Why cyber security risk may be the pin. 3 replies, 15 likes, 6336 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 71 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 117 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 867 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 957 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+StockGro
+Verified account
+@stockgro Nov 6 7 replies, 7 likes, 1 bookmark, 2669 views
+
+Marketcalls
+Verified account
+@marketcallsHQ Nov 6 Is the AI bubble bursting? S&P 500 −4.36%, VIX 28.18, a KOSPI circuit breaker and FIIs covering Nifty shorts. Why cyber security risk may be the pin. 3 replies, 15 likes, 6336 views
+
+Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill 2 replies, 4 likes, 7 bookmarks, 731 views" description="Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill From github.com 2 replies, 4 likes, 7 bookmarks, 731 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 867 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 957 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+StockGro
+Verified account
+@stockgro Nov 6 7 replies, 7 likes, 1 bookmark, 2669 views
+
+Marketcalls
+Verified account
+@marketcallsHQ Nov 6 Is the AI bubble bursting? S&P 500 −4.36%, VIX 28.18, a KOSPI circuit breaker and FIIs covering Nifty shorts. Why cyber security risk may be the pin. 3 replies, 15 likes, 6336 views
+
+Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill 2 replies, 4 likes, 7 bookmarks, 731 views" description="Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill From github.com 2 replies, 4 likes, 7 bookmarks, 731 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Tenshi
+@Tenshiwrf Oct 26 Replying to @VexTxs Time to get Claude to build me some trading algos. I bet Claude has learned some nifty alpha from Jane Street\'s proprietary code. 4 likes, 1553 views
+
+Vish
+Verified account
+@vish8287 Oct 25 A lot of people in this space are trying to build real AI systems right now — trading agents, research tools, automation pipelines, etc.
+
+Just came across this: Master Claude Code in 7 Days.
+
+It covers the practical side most of us actually need:
+
+- Agentic coding
+- Prompt Image 2 replies, 1 repost, 2 likes, 2 bookmarks, 361 views
+
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 957 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+StockGro
+Verified account
+@stockgro Nov 6 7 replies, 7 likes, 1 bookmark, 2669 views
+
+Marketcalls
+Verified account
+@marketcallsHQ Nov 6 Is the AI bubble bursting? S&P 500 −4.36%, VIX 28.18, a KOSPI circuit breaker and FIIs covering Nifty shorts. Why cyber security risk may be the pin. 3 replies, 15 likes, 6336 views
+
+Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill 2 replies, 4 likes, 7 bookmarks, 731 views" description="Aashish 💙
+Verified account
+@Aashish10_03 Nov 4 Bazaar Trader is public.
+
+11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.
+
+Anyone can use it. github.com GitHub - raiaashish-code/bazaar-trader-skill From github.com 2 replies, 4 likes, 7 bookmarks, 731 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Tenshi
+@Tenshiwrf Oct 26 Replying to @VexTxs Time to get Claude to build me some trading algos. I bet Claude has learned some nifty alpha from Jane Street\'s proprietary code. 4 likes, 1553 views
+
+Vish
+Verified account
+@vish8287 Oct 25 A lot of people in this space are trying to build real AI systems right now — trading agents, research tools, automation pipelines, etc.
+
+Just came across this: Master Claude Code in 7 Days.
+
+It covers the practical side most of us actually need:
+
+- Agentic coding
+- Prompt Image 2 replies, 1 repost, 2 likes, 2 bookmarks, 361 views
+
+while25
+Verified account
+@While25_ Sep 28 Problem:
+
+I am currently using 4 different tools and I am sure this is also the case with lot of people. Those are charts, broker dashboard for execution, claude for analysis and lastly if you are in Algo then VS code or colab in another tab for scripts.
+
+Idea:
+
+I am engineer my 3 likes, 384 views

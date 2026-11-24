@@ -1,0 +1,415 @@
+QUERY: (backtest OR "walk forward" OR "out of sample") (nifty OR banknifty OR "indian options") (claude OR llm OR agent)
+URL: https://x.com/search?q=(backtest%20OR%20%22walk%20forward%22%20OR%20%22out%20of%20sample%22)%20(nifty%20OR%20banknifty%20OR%20%22indian%20options%22)%20(claude%20OR%20llm%20OR%20agent)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 14
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Mehul Jiyani
+Verified account
+@jiyani02 Sep 27 Must watch if you’re into algo trading or want to use AI for it.
+Saddam Bhai ( @pythontrader999 ) shows how he uses Claude to:
+• Pull broker data
+• Backtest YouTube strategies
+• Build momentum systems (ETF + Nifty 500)
+All while doing a full-time job. Very practical session. Quote
+PythonTrader(Saddy Bhai)
+Verified account
+@pythontrader999 Sep 27
+The amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..
+
+Podcast:youtu.be/zm-Cx67lU2M
+
+A heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️
+The love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5313 views
+
+Sakthidoss
+Verified account
+@Sakthidoss7 Jul 24 What if you could backtest a NIFTY options strategy just by asking?
+
+Now you can. FNOTrader\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.
+
+Visit --> @fnotrader_com Image 4 replies, 1 repost, 12 likes, 5 bookmarks, 1494 views
+
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Mehul Jiyani
+Verified account
+@jiyani02 Sep 27 Must watch if you’re into algo trading or want to use AI for it.
+Saddam Bhai ( @pythontrader999 ) shows how he uses Claude to:
+• Pull broker data
+• Backtest YouTube strategies
+• Build momentum systems (ETF + Nifty 500)
+All while doing a full-time job. Very practical session. Quote
+PythonTrader(Saddy Bhai)
+Verified account
+@pythontrader999 Sep 27
+The amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..
+
+Podcast:youtu.be/zm-Cx67lU2M
+
+A heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️
+The love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5313 views
+
+Sakthidoss
+Verified account
+@Sakthidoss7 Jul 24 What if you could backtest a NIFTY options strategy just by asking?
+
+Now you can. FNOTrader\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.
+
+Visit --> @fnotrader_com Image 4 replies, 1 repost, 12 likes, 5 bookmarks, 1494 views
+
+Aarav
+@aaravsingh1697 Jul 16 Replying to @Hitmann_45 @rk_onkar View people in conversation Ask claude to create tv indicator to mark such a candle that where lower wick is bigger than candle body stock closes in upper 40% range and the low is lower than last 2 days low then go to screener in tv and put nifty 500 and see when indicator flags such a candle and backtest. 1 reply, 4 likes, 11 bookmarks, 420 views
+
+BredoStrategy
+Verified account
+@DoCryptoBred Jul 7 3 replies, 3 likes, 1 bookmark, 12107 views
+
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Mehul Jiyani
+Verified account
+@jiyani02 Sep 27 Must watch if you’re into algo trading or want to use AI for it.
+Saddam Bhai ( @pythontrader999 ) shows how he uses Claude to:
+• Pull broker data
+• Backtest YouTube strategies
+• Build momentum systems (ETF + Nifty 500)
+All while doing a full-time job. Very practical session. Quote
+PythonTrader(Saddy Bhai)
+Verified account
+@pythontrader999 Sep 27
+The amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..
+
+Podcast:youtu.be/zm-Cx67lU2M
+
+A heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️
+The love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5313 views
+
+Sakthidoss
+Verified account
+@Sakthidoss7 Jul 24 What if you could backtest a NIFTY options strategy just by asking?
+
+Now you can. FNOTrader\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.
+
+Visit --> @fnotrader_com Image 4 replies, 1 repost, 12 likes, 5 bookmarks, 1494 views
+
+Aarav
+@aaravsingh1697 Jul 16 Replying to @Hitmann_45 @rk_onkar View people in conversation Ask claude to create tv indicator to mark such a candle that where lower wick is bigger than candle body stock closes in upper 40% range and the low is lower than last 2 days low then go to screener in tv and put nifty 500 and see when indicator flags such a candle and backtest. 1 reply, 4 likes, 11 bookmarks, 420 views
+
+BredoStrategy
+Verified account
+@DoCryptoBred Jul 7 3 replies, 3 likes, 1 bookmark, 12107 views
+
+Dan Kornas
+Verified account
+@DanKornas Jun 25 Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.
+
+AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.
+
+It helps you move from idea to a safer Image 5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views
+
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Mehul Jiyani
+Verified account
+@jiyani02 Sep 27 Must watch if you’re into algo trading or want to use AI for it.
+Saddam Bhai ( @pythontrader999 ) shows how he uses Claude to:
+• Pull broker data
+• Backtest YouTube strategies
+• Build momentum systems (ETF + Nifty 500)
+All while doing a full-time job. Very practical session. Quote
+PythonTrader(Saddy Bhai)
+Verified account
+@pythontrader999 Sep 27
+The amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..
+
+Podcast:youtu.be/zm-Cx67lU2M
+
+A heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️
+The love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5313 views
+
+Sakthidoss
+Verified account
+@Sakthidoss7 Jul 24 What if you could backtest a NIFTY options strategy just by asking?
+
+Now you can. FNOTrader\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.
+
+Visit --> @fnotrader_com Image
+Edit image 4 replies, 1 repost, 12 likes, 5 bookmarks, 1494 views
+
+Aarav
+@aaravsingh1697 Jul 16 Replying to @Hitmann_45 @rk_onkar View people in conversation Ask claude to create tv indicator to mark such a candle that where lower wick is bigger than candle body stock closes in upper 40% range and the low is lower than last 2 days low then go to screener in tv and put nifty 500 and see when indicator flags such a candle and backtest. 1 reply, 4 likes, 11 bookmarks, 420 views
+
+BredoStrategy
+Verified account
+@DoCryptoBred Jul 7 3 replies, 3 likes, 1 bookmark, 12107 views
+
+Dan Kornas
+Verified account
+@DanKornas Jun 25 Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.
+
+AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.
+
+It helps you move from idea to a safer Image 5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views
+
+ScorpioManoj
+Verified account
+@scorpiomanojFRM May 15 #ClaudeCode #AlgoTrading #PineScript #NIFTY #MCP 
+1/ I connected TradingView to Claude Code via an MCP server on my Mac. It now reads my live charts, writes Pine Script, and iterates on strategies — all from the terminal. Full setup + why it matters 👇
+
+2/ The problem this 5 replies, 17 reposts, 131 likes, 251 bookmarks, 13716 views
+
+Dr KD
+Verified account
+@AntifragileKD Apr 13 Replying to @Manojeet_Das I used claude to backtest various forms of sip+rebalancing strategies on nifty 50 and nifty 500. 
+While this is not co
+Completely unsolved problem as such but it was not accessible earlier to retail players. 
+
+I also use it to compare and rank my own already shortlisted watchlist 2 likes, 217 views
+
+Dr. Romeet Saha
+Verified account
+@DrRomeetSaha Mar 10 I\'m trying to code my scalping trade login into Claude for #Nifty 
+Does anyone have any idea where I can download nifty historical 1m/5m data to feed it to claude in order to backtest it. (Not trading view strategy mode) Image 10 replies, 1 repost, 23 likes, 8 bookmarks, 11726 views
+
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views
+
+Mehul Jiyani
+Verified account
+@jiyani02 Sep 27 Must watch if you’re into algo trading or want to use AI for it.
+Saddam Bhai ( @pythontrader999 ) shows how he uses Claude to:
+• Pull broker data
+• Backtest YouTube strategies
+• Build momentum systems (ETF + Nifty 500)
+All while doing a full-time job. Very practical session. Quote
+PythonTrader(Saddy Bhai)
+Verified account
+@pythontrader999 Sep 27
+The amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..
+
+Podcast:youtu.be/zm-Cx67lU2M
+
+A heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️
+The love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5313 views
+
+Sakthidoss
+Verified account
+@Sakthidoss7 Jul 24 What if you could backtest a NIFTY options strategy just by asking?
+
+Now you can. FNOTrader\'s new MCP Server plugs into Claude, ChatGPT or any AI — strategy in plain English, full report back in seconds.
+
+Visit --> @fnotrader_com Image 4 replies, 1 repost, 12 likes, 5 bookmarks, 1494 views
+
+Aarav
+@aaravsingh1697 Jul 16 Replying to @Hitmann_45 @rk_onkar View people in conversation Ask claude to create tv indicator to mark such a candle that where lower wick is bigger than candle body stock closes in upper 40% range and the low is lower than last 2 days low then go to screener in tv and put nifty 500 and see when indicator flags such a candle and backtest. 1 reply, 4 likes, 11 bookmarks, 420 views
+
+BredoStrategy
+Verified account
+@DoCryptoBred Jul 7 3 replies, 3 likes, 1 bookmark, 12107 views
+
+Dan Kornas
+Verified account
+@DanKornas Jun 25 Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.
+
+AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.
+
+It helps you move from idea to a safer Image
+Edit image 5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views
+
+ScorpioManoj
+Verified account
+@scorpiomanojFRM May 15 #ClaudeCode #AlgoTrading #PineScript #NIFTY #MCP 
+1/ I connected TradingView to Claude Code via an MCP server on my Mac. It now reads my live charts, writes Pine Script, and iterates on strategies — all from the terminal. Full setup + why it matters 👇
+
+2/ The problem this 5 replies, 17 reposts, 131 likes, 251 bookmarks, 13716 views
+
+Dr KD
+Verified account
+@AntifragileKD Apr 13 Replying to @Manojeet_Das I used claude to backtest various forms of sip+rebalancing strategies on nifty 50 and nifty 500. 
+While this is not co
+Completely unsolved problem as such but it was not accessible earlier to retail players. 
+
+I also use it to compare and rank my own already shortlisted watchlist 2 likes, 217 views
+
+Dr. Romeet Saha
+Verified account
+@DrRomeetSaha Mar 10 I\'m trying to code my scalping trade login into Claude for #Nifty 
+Does anyone have any idea where I can download nifty historical 1m/5m data to feed it to claude in order to backtest it. (Not trading view strategy mode) Image 10 replies, 1 repost, 23 likes, 8 bookmarks, 11726 views
+
+Anthropic Claude
+Verified account
+@ABearishBulllll Jul 21, 2022 3088th thread have been just launched today on Twitter on below, only to help people lose money -
+
+“𝗡𝗶𝗳𝘁𝘆-𝗕𝗮𝗻𝗸𝗻𝗶𝗳𝘁𝘆 𝗢𝗽𝘁𝗶𝗼𝗻 𝗕𝘂𝘆𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆
+
+Complete Backtest and Indicator link”
+
+Make sure you don’t follow it.
+
+#nifty #banknifty 1 like

@@ -1,0 +1,355 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Vishal Bulbule on X: \"I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade.  Google @antigravity + @zerodha Kite MCP + NSE MCP. All order tools disabled via disabledTools in mcp_config.json. Read access. Zero trading permissions. #MCP #AgenticAI https://t.co/CROWFUYHvC\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Vishal Bulbule on X: \"I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒 Google @antigravity + @zerodha Kite MCP + NSE MCP. All order tools disabled via disabledTools in mcp_config.json. Read access. Zero trading permissions. #MCP #AgenticAI https://t.co/CROWFUYHvC\" / X" url="https://x.com/vishal__bulbule/status/2115050342899732935"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Vishal Bulbule\n@vishal__bulbule I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒\n\nGoogle @antigravity + @zerodha Kite MCP + NSE MCP.\n\nAll order tools disabled via disabledTools in mcp_config.json.\n\nRead access. Zero trading permissions.\n\n#MCP #AgenticAI Embedded video\n1:01 1 reply, 2 likes, 117 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/vishal__bulbule"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Vishal Bulbule" url="https://x.com/vishal__bulbule"
+                      - [72] AXStaticText expanded=false = "Vishal Bulbule"
+                    - [73] AXLink expanded=false "@vishal__bulbule" url="https://x.com/vishal__bulbule"
+                      - [74] AXGroup expanded=false
+                        - [75] AXStaticText expanded=false = "@vishal__bulbule"
+                    - [76] AXButton expanded=false "Grok actions"
+                    - [77] AXPopUpButton expanded=false "More"
+                    - [78] AXGroup expanded=false
+                      - [79] AXStaticText expanded=false = "I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒\n\nGoogle "
+                      - [80] AXLink expanded=false "@antigravity" url="https://x.com/antigravity"
+                        - [81] AXStaticText expanded=false = "@antigravity"
+                      - [82] AXStaticText expanded=false = " + "
+                      - [83] AXLink expanded=false "@zerodha" url="https://x.com/zerodha"
+                        - [84] AXStaticText expanded=false = "@zerodha"
+                      - [85] AXStaticText expanded=false = "  Kite MCP + NSE MCP.\n\nAll order tools disabled via disabledTools in mcp_config.json.\n\nRead access. Zero trading permissions.\n\n"
+                      - [86] AXLink expanded=false "#MCP" url="https://x.com/hashtag/MCP?src=hashtag_click"
+                        - [87] AXStaticText expanded=false = "#MCP"
+                      - [88] AXLink expanded=false "#AgenticAI" url="https://x.com/hashtag/AgenticAI?src=hashtag_click"
+                        - [89] AXStaticText expanded=false = "#AgenticAI"
+                    - [90] AXGroup expanded=false
+                      - [91] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [92] AXGroup expanded=false
+                        - [93] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [94] AXGroup expanded=false
+                          - [95] AXGroup expanded=false
+                            - [96] AXGroup subrole=AXEmptyGroup expanded=false "Embedded video" url="blob:https://x.com/d2ef33a1-a185-41f9-ae84-ed4284859bf8"
+                          - [97] AXGroup expanded=false
+                            - [98] AXGroup subrole=AXEmptyGroup expanded=false
+                            - [99] AXGroup expanded=false
+                              - [100] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [101] AXGroup subrole=AXEmptyGroup expanded=false
+                            - [102] AXGroup expanded=false
+                              - [103] AXGroup expanded=false
+                                - [104] AXStaticText expanded=false = "1:01"
+                            - [105] AXGroup subrole=AXEmptyGroup expanded=false
+                            - [106] AXGroup subrole=AXEmptyGroup expanded=false
+                            - [107] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [108] AXGroup expanded=false
+                      - [109] AXLink expanded=false "5:27 PM · Oct 27, 2026" url="https://x.com/vishal__bulbule/status/2115050342899732935"
+                        - [110] AXGroup subrole=AXTimeGroup expanded=false
+                          - [111] AXStaticText expanded=false = "5:27 PM · Oct 27, 2026"
+                      - [112] AXLink expanded=false "117 Views" url="https://x.com/vishal__bulbule/status/2115050342899732935/analytics"
+                        - [113] AXStaticText expanded=false = "117"
+                        - [114] AXStaticText expanded=false = "Views"
+                    - [115] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 117 views"
+                      - [116] AXButton expanded=false "1 Reply. Reply"
+                      - [117] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [118] AXButton expanded=false "2 Likes. Like"
+                      - [119] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [120] AXPopUpButton expanded=false "Share post"
+                  - [121] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [122] AXGroup expanded=false
+                    - [123] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [124] AXGroup expanded=false
+                      - [125] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [126] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [127] AXGroup expanded=false
+                          - [128] AXGroup expanded=false "Puneet Vishnawat"
+                            - [129] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [130] AXGroup expanded=false
+                    - [131] AXStaticText expanded=false = "Post your reply"
+                  - [132] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [133] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [134] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [135] AXGroup subrole=AXDocumentArticle expanded=false "Signal Forge\nVerified account\n@Dinamo51648539 Oct 27 That read-only split is a good starting point. I would also enforce it at the broker or API scope, so disabledTools is defense-in-depth rather than the only barrier. A routing bug should not be able to turn portfolio visibility into order authority. 2 likes, 45 views"
+                    - [136] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [137] AXGroup expanded=false
+                      - [138] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [139] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [140] AXLink expanded=false "Signal Forge\nVerified account" url="https://x.com/Dinamo51648539"
+                      - [141] AXStaticText expanded=false = "Signal Forge"
+                      - [142] AXImage expanded=false "Verified account"
+                    - [143] AXLink expanded=false "@Dinamo51648539" url="https://x.com/Dinamo51648539"
+                      - [144] AXGroup expanded=false
+                        - [145] AXStaticText expanded=false = "@Dinamo51648539"
+                    - [146] AXLink expanded=false "Oct 27" url="https://x.com/Dinamo51648539/status/2115053966174433494"
+                      - [147] AXGroup subrole=AXTimeGroup expanded=false
+                        - [148] AXStaticText expanded=false = "Oct 27"
+                    - [149] AXButton expanded=false "Grok actions"
+                    - [150] AXPopUpButton expanded=false "More"
+                    - [151] AXGroup expanded=false
+                      - [152] AXStaticText expanded=false = "That read-only split is a good starting point. I would also enforce it at the broker or API scope, so disabledTools is defense-in-depth rather than the only barrier. A routing bug should not be able to turn portfolio visibility into order authority."
+                    - [153] AXGroup subrole=AXApplicationGroup expanded=false "2 likes, 45 views"
+                      - [154] AXButton expanded=false "0 Replies. Reply"
+                      - [155] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [156] AXButton expanded=false "2 Likes. Like"
+                      - [157] AXLink expanded=false "45 views. View post analytics" url="https://x.com/Dinamo51648539/status/2115053966174433494/analytics"
+                        - [158] AXStaticText expanded=false = "45"
+                      - [159] AXButton expanded=false "Bookmark"
+                      - [160] AXPopUpButton expanded=false "Share post"
+                  - [161] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [162] AXHeading expanded=false "Discover more" = "2"
+                    - [163] AXStaticText expanded=false = "Discover more"
+                  - [164] AXStaticText expanded=false = "Sourced from across X"
+                  - [165] AXGroup subrole=AXDocumentArticle expanded=false "Vishal Bulbule\n@vishal__bulbule 8 hours ago M6 with 32GB+ is blessing for Content creator & AI explorer ( still not enough for bigger Models)\n@Apple \n#AIEngineering #llm #AI #GPU 1 like, 28 views"
+                    - [166] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [167] AXGroup expanded=false
+                      - [168] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [169] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [170] AXLink expanded=false "Vishal Bulbule" url="https://x.com/vishal__bulbule"
+                      - [171] AXStaticText expanded=false = "Vishal Bulbule"
+                    - [172] AXLink expanded=false "@vishal__bulbule" url="https://x.com/vishal__bulbule"
+                      - [173] AXGroup expanded=false
+                        - [174] AXStaticText expanded=false = "@vishal__bulbule"
+                    - [175] AXLink expanded=false "8 hours ago" url="https://x.com/vishal__bulbule/status/2124341185859011006"
+                      - [176] AXGroup subrole=AXTimeGroup expanded=false
+                        - [177] AXStaticText expanded=false = "8h"
+                    - [178] AXButton expanded=false "Grok actions"
+                    - [179] AXPopUpButton expanded=false "More"
+                    - [180] AXGroup expanded=false
+                      - [181] AXStaticText expanded=false = "M6 with 32GB+ is blessing for Content creator & AI explorer ( still not enough for bigger Models)\n"
+                      - [182] AXLink expanded=false "@Apple" url="https://x.com/Apple"
+                        - [183] AXStaticText expanded=false = "@Apple"
+                      - [184] AXLink expanded=false "#AIEngineering" url="https://x.com/hashtag/AIEngineering?src=hashtag_click"
+                        - [185] AXStaticText expanded=false = "#AIEngineering"
+                      - [186] AXLink expanded=false "#llm" url="https://x.com/hashtag/llm?src=hashtag_click"
+                        - [187] AXStaticText expanded=false = "#llm"
+                      - [188] AXLink expanded=false "#AI" url="https://x.com/hashtag/AI?src=hashtag_click"
+                        - [189] AXStaticText expanded=false = "#AI"
+                      - [190] AXLink expanded=false "#GPU" url="https://x.com/hashtag/GPU?src=hashtag_click"
+                        - [191] AXStaticText expanded=false = "#GPU"
+                    - [192] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 28 views"
+                      - [193] AXButton expanded=false "0 Replies. Reply"
+                      - [194] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [195] AXButton expanded=false "1 Like. Like"
+                      - [196] AXLink expanded=false "28 views. View post analytics" url="https://x.com/vishal__bulbule/status/2124341185859011006/analytics"
+                        - [197] AXStaticText expanded=false = "28"
+                      - [198] AXButton expanded=false "Bookmark"
+                      - [199] AXPopUpButton expanded=false "Share post"
+          - [200] AXGroup expanded=false "Trending"
+            - [201] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [202] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [203] AXGroup expanded=false
+                  - [204] AXStaticText expanded=false = "Search"
+            - [205] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [206] AXHeading expanded=false "Relevant people" = "2"
+                - [207] AXStaticText expanded=false = "Relevant people"
+              - [208] AXList subrole=AXContentList expanded=false
+                - [209] AXGroup expanded=false
+                  - [210] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [211] AXGroup expanded=false
+                    - [212] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [213] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [214] AXLink expanded=false "Vishal Bulbule" url="https://x.com/vishal__bulbule"
+                    - [215] AXStaticText expanded=false = "Vishal Bulbule"
+                  - [216] AXLink expanded=false "@vishal__bulbule" url="https://x.com/vishal__bulbule"
+                    - [217] AXGroup expanded=false
+                      - [218] AXStaticText expanded=false = "@vishal__bulbule"
+                  - [219] AXButton expanded=false "Follow @vishal__bulbule"
+                  - [220] AXGroup expanded=false
+                    - [221] AXStaticText expanded=false = "Founder "
+                    - [222] AXLink expanded=false "@TechTrapture" url="https://x.com/TechTrapture"
+                      - [223] AXStaticText expanded=false = "@TechTrapture"
+                    - [224] AXStaticText expanded=false = " | Building responsible Agentic AI for enterprises | AI safety & cloud-native architecture | Intelligence without guardrails is a liability"
+            - [225] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [226] AXHeading expanded=false "Trending now" = "1"
+                - [227] AXStaticText expanded=false = "Trending now"
+              - [228] AXGroup expanded=false "Timeline: Trending now"
+                - [229] AXGroup subrole=AXEmptyGroup expanded=false
+                - [230] AXHeading expanded=false "What’s happening" = "2"
+                  - [231] AXStaticText expanded=false = "What’s happening"
+                - [232] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [233] AXGroup expanded=false
+                    - [234] AXStaticText expanded=false = "Sports · Trending"
+                  - [235] AXGroup expanded=false
+                    - [236] AXStaticText expanded=false = "Rishabh Pant"
+                  - [237] AXPopUpButton expanded=false "More"
+                - [238] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [239] AXGroup expanded=false
+                    - [240] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [241] AXGroup expanded=false
+                    - [242] AXStaticText expanded=false = "Charles"
+                  - [243] AXPopUpButton expanded=false "More"
+                - [244] AXLink expanded=false "Sports · Trending Draw More"
+                  - [245] AXGroup expanded=false
+                    - [246] AXStaticText expanded=false = "Sports · Trending"
+                  - [247] AXGroup expanded=false
+                    - [248] AXStaticText expanded=false = "Draw"
+                  - [249] AXPopUpButton expanded=false "More"
+                - [250] AXLink expanded=false "Trending in India #INDAvPAKA More"
+                  - [251] AXGroup expanded=false
+                    - [252] AXStaticText expanded=false = "Trending in India"
+                  - [253] AXGroup expanded=false
+                    - [254] AXStaticText expanded=false = "#INDAvPAKA"
+                  - [255] AXPopUpButton expanded=false "More"
+                - [256] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [257] AXGroup expanded=false
+                    - [258] AXStaticText expanded=false = "Show more"
+            - [259] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [260] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [261] AXStaticText expanded=false = "Terms"
+              - [262] AXGroup expanded=false
+                - [263] AXStaticText expanded=false = "·"
+              - [264] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [265] AXStaticText expanded=false = "Privacy"
+              - [266] AXGroup expanded=false
+                - [267] AXStaticText expanded=false = "·"
+              - [268] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [269] AXStaticText expanded=false = "Cookies"
+              - [270] AXGroup expanded=false
+                - [271] AXStaticText expanded=false = "·"
+              - [272] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [273] AXStaticText expanded=false = "Accessibility"
+              - [274] AXGroup expanded=false
+                - [275] AXStaticText expanded=false = "·"
+              - [276] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [277] AXStaticText expanded=false = "Ads Info"
+              - [278] AXGroup expanded=false
+                - [279] AXStaticText expanded=false = "·"
+              - [280] AXPopUpButton expanded=false "More"
+              - [281] AXGroup expanded=false
+                - [282] AXStaticText expanded=false = "© 2026 X Corp."
+        - [283] AXGroup subrole=AXEmptyGroup expanded=false
+        - [284] AXGroup subrole=AXEmptyGroup expanded=false
+      - [285] AXScrollBar expanded=false = "0.008097166"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [286] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [287] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [288] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [289] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [290] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [291] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [292] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [293] AXRadioButton subrole=AXTabButton valueWritable=false "Vishal Bulbule on X: \"I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade.  Google @antigravity + @zerodha Kite MCP + NSE MCP. All order tools disabled via disabledTools in mcp_config.json. Read access. Zero trading permissions. #MCP #AgenticAI https://t.co/CROWFUYHvC\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Vishal Bulbule on X: \"I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade.  Google @antigravity + @zerodha Kite MCP + NSE MCP. All order tools disabled via disabledTools in mcp_config.json. Read access. Zero trading permissions. #MCP #AgenticAI https://t.co/CROWFUYHvC\" / X" selection=[0,0]
+  - [294] AXGroup "Favorites bar"
+    - [295] AXButton "show start page" help="Show Start Page"
+    - [296] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [297] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [298] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [299] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [300] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [301] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [302] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [303] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [304] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [305] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [306] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [307] AXToolbar
+    - [308] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [309] AXButton "show sidebar" help="Show sidebar"
+      - [310] AXMenuButton "Tab Group picker"
+    - [311] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [312] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [313] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [314] AXButton "Page Menu"
+      - [315] AXButton "Add page to Reading List"
+      - [316] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/vishal__bulbule/status/2115050342899732935" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [317] AXButton "Reload this page"
+    - [318] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [319] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [320] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [321] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [322] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [323] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [324] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [325] AXButton subrole=AXCloseButton
+  - [326] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [327] AXButton subrole=AXMinimizeButton
+- [328] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [329] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [330] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [331] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [332] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [333] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [334] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [335] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [336] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [337] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

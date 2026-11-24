@@ -1,0 +1,373 @@
+QUERY: ("paper trading" OR "live trading") (claude OR gpt OR gemini OR grok OR deepseek) (india OR nse OR nifty)
+URL: https://x.com/search?q=(%22paper%20trading%22%20OR%20%22live%20trading%22)%20(claude%20OR%20gpt%20OR%20gemini%20OR%20grok%20OR%20deepseek)%20(india%20OR%20nse%20OR%20nifty)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 12
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 653 views
+
+Mahesh Narayanan M S
+Verified account
+@MaheshMNMS Oct 31 1 full month. Multiple strategies. A live trading book.
+
+Gross P&L: +₹5.26 lakh
+Maximum capital deployed: ₹65 lakh
+
+The result is one part of the story. The more interesting part is how the book was built.
+
+It combines option buying and selling, with directional and 7 replies, 3 reposts, 22 likes, 23 bookmarks, 2678 views
+
+starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views" description="starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Embedded video Play Video. 54 seconds long
+Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views
+
+sks
+Verified account
+@sks_dev Jul 28 Replying to @jaiswal_adt Choose stocks from Nifty 50, 100, 500
+Read their fundamentals 
+Check moving average exponential indicator for 9 days, 20 days and 50days. 
+Check RSI
+Use claude or chatgpt to understand the above terms and Read the graphs with adding those indicators through chatgpt or claude 
+Do 1 reply, 2 likes, 64 views
+
+Boring Alpha
+Verified account
+@BoringAlpha_ Jun 23 2 reposts, 2 likes, 853 views
+
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 653 views
+
+Mahesh Narayanan M S
+Verified account
+@MaheshMNMS Oct 31 1 full month. Multiple strategies. A live trading book.
+
+Gross P&L: +₹5.26 lakh
+Maximum capital deployed: ₹65 lakh
+
+The result is one part of the story. The more interesting part is how the book was built.
+
+It combines option buying and selling, with directional and 7 replies, 3 reposts, 22 likes, 23 bookmarks, 2678 views
+
+starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views" description="starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Embedded video
+0:51
+Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views
+
+sks
+Verified account
+@sks_dev Jul 28 Replying to @jaiswal_adt Choose stocks from Nifty 50, 100, 500
+Read their fundamentals 
+Check moving average exponential indicator for 9 days, 20 days and 50days. 
+Check RSI
+Use claude or chatgpt to understand the above terms and Read the graphs with adding those indicators through chatgpt or claude 
+Do 1 reply, 2 likes, 64 views
+
+Boring Alpha
+Verified account
+@BoringAlpha_ Jun 23 2 reposts, 2 likes, 853 views
+
+Dharmik
+@dharmikgohil_ Jun 3 So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.
+
+With some trading skills!
+
+and just access to live market data and a Zerodha account.
+
+What happened next perfectly explains why most traders lose money. 1 reply, 4 likes, 321 views
+
+GoodMallya
+Verified account
+@ShyamdasMallya Mar 26 I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. Rachit Gupta 4 replies, 2 likes, 2 bookmarks, 761 views
+
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 653 views
+
+Mahesh Narayanan M S
+Verified account
+@MaheshMNMS Oct 31 1 full month. Multiple strategies. A live trading book.
+
+Gross P&L: +₹5.26 lakh
+Maximum capital deployed: ₹65 lakh
+
+The result is one part of the story. The more interesting part is how the book was built.
+
+It combines option buying and selling, with directional and 7 replies, 3 reposts, 22 likes, 23 bookmarks, 2678 views
+
+starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views" description="starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Embedded video
+
+Seek slider
+Play
+0:03 / 0:54 Unmute Volume slider Video Settings Picture-in-Picture Full screen
+Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views
+
+sks
+Verified account
+@sks_dev Jul 28 Replying to @jaiswal_adt Choose stocks from Nifty 50, 100, 500
+Read their fundamentals 
+Check moving average exponential indicator for 9 days, 20 days and 50days. 
+Check RSI
+Use claude or chatgpt to understand the above terms and Read the graphs with adding those indicators through chatgpt or claude 
+Do 1 reply, 2 likes, 64 views
+
+Boring Alpha
+Verified account
+@BoringAlpha_ Jun 23 2 reposts, 2 likes, 853 views
+
+Dharmik
+@dharmikgohil_ Jun 3 So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.
+
+With some trading skills!
+
+and just access to live market data and a Zerodha account.
+
+What happened next perfectly explains why most traders lose money. 1 reply, 4 likes, 321 views
+
+GoodMallya
+Verified account
+@ShyamdasMallya Mar 26 I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. Rachit Gupta 4 replies, 2 likes, 2 bookmarks, 761 views
+
+Jacob Zhao
+Verified account
+@0xjacobzhao Mar 4 6 replies, 7 reposts, 22 likes, 14 bookmarks, 10659 views
+
+
+Mahesh Narayanan M S
+Verified account
+@MaheshMNMS Oct 31 1 full month. Multiple strategies. A live trading book.
+
+Gross P&L: +₹5.26 lakh
+Maximum capital deployed: ₹65 lakh
+
+The result is one part of the story. The more interesting part is how the book was built.
+
+It combines option buying and selling, with directional and 7 replies, 3 reposts, 22 likes, 23 bookmarks, 2678 views
+
+starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views" description="starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Embedded video
+
+Seek slider
+Play
+0:03 / 0:54 Unmute Volume slider Video Settings Picture-in-Picture Full screen
+Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views
+
+sks
+Verified account
+@sks_dev Jul 28 Replying to @jaiswal_adt Choose stocks from Nifty 50, 100, 500
+Read their fundamentals 
+Check moving average exponential indicator for 9 days, 20 days and 50days. 
+Check RSI
+Use claude or chatgpt to understand the above terms and Read the graphs with adding those indicators through chatgpt or claude 
+Do 1 reply, 2 likes, 64 views
+
+Boring Alpha
+Verified account
+@BoringAlpha_ Jun 23 2 reposts, 2 likes, 853 views
+
+Dharmik
+@dharmikgohil_ Jun 3 So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.
+
+With some trading skills!
+
+and just access to live market data and a Zerodha account.
+
+What happened next perfectly explains why most traders lose money. 1 reply, 4 likes, 321 views
+
+GoodMallya
+Verified account
+@ShyamdasMallya Mar 26 I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. Rachit Gupta 4 replies, 2 likes, 2 bookmarks, 761 views
+
+Jacob Zhao
+Verified account
+@0xjacobzhao Mar 4 6 replies, 7 reposts, 22 likes, 14 bookmarks, 10659 views
+
+IOSG Ventures
+Verified account
+@IOSGVC Mar 3 4 replies, 7 reposts, 50 likes, 44 bookmarks, 5333 views
+
+Teng Yan
+Verified account
+@tengyanAI Dec 11, 2024 9 replies, 39 reposts, 265 likes, 282 bookmarks, 36031 views
+
+
+starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views" description="starmex
+Verified account
+@starmexxx Sep 12 vibe-trading is a free open source framework where fable 5.1 pulls fundamentals, gpt-5.6 runs backtests, opus 5 manages portfolios, and kimi k3 places trades across 14 broker connectors, and 33k developers already installed it while sam altman charges $500/mo for astra gpt
+
+three Embedded video
+
+Seek slider
+Play
+0:03 / 0:54 Unmute Volume slider Video Settings Picture-in-Picture Full screen
+Quote
+starmex
+Verified account
+@starmexxx Sep 11
+
+Article cover image Article
+GPT-6 ASTRA AND FABLE 5.1 BOTH WENT TO $10/$50. KIMI K3 IS STILL $3/$15.
+I found out when the invoice came, not when the blog posts did. Don\'t make the same mistake.
+Follow & Bookmark this - I\'m @starmexxx, I track how AI tools are creating new income streams most people... 19 replies, 45 likes, 30 bookmarks, 3049 views
+
+sks
+Verified account
+@sks_dev Jul 28 Replying to @jaiswal_adt Choose stocks from Nifty 50, 100, 500
+Read their fundamentals 
+Check moving average exponential indicator for 9 days, 20 days and 50days. 
+Check RSI
+Use claude or chatgpt to understand the above terms and Read the graphs with adding those indicators through chatgpt or claude 
+Do 1 reply, 2 likes, 64 views
+
+Boring Alpha
+Verified account
+@BoringAlpha_ Jun 23 2 reposts, 2 likes, 853 views
+
+Dharmik
+@dharmikgohil_ Jun 3 So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.
+
+With some trading skills!
+
+and just access to live market data and a Zerodha account.
+
+What happened next perfectly explains why most traders lose money. 1 reply, 4 likes, 321 views
+
+GoodMallya
+Verified account
+@ShyamdasMallya Mar 26 I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. Rachit Gupta 4 replies, 2 likes, 2 bookmarks, 761 views
+
+Jacob Zhao
+Verified account
+@0xjacobzhao Mar 4 6 replies, 7 reposts, 22 likes, 14 bookmarks, 10659 views
+
+IOSG Ventures
+Verified account
+@IOSGVC Mar 3 4 replies, 7 reposts, 50 likes, 44 bookmarks, 5333 views
+
+Teng Yan
+Verified account
+@tengyanAI Dec 11, 2024 9 replies, 39 reposts, 265 likes, 282 bookmarks, 36031 views
+
+Anthropic Claude
+Verified account
+@ABearishBulllll May 15, 2022 Ek din saare Twitter Gurus ko Sebi ki office main bethke trading karwaunga woh bhi Live wala. Bada shaunq hai inko Live Trading ka.
+
+#nifty #banknifty 3 likes
+
+Anthropic Claude
+Verified account
+@ABearishBulllll May 10, 2022 Live Trading By Twitter Gurus.
+
+🫣🫤
+
+#nifty #banknifty Embedded video Play Video. 13 seconds long 3 likes

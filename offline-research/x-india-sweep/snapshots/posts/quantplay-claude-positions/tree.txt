@@ -1,0 +1,311 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Quantplay on X: \"Asking Claude where Nifty closes on Monday gets you a guess. Asking what your open positions lose if it ends 300 points lower gets you a number you can use. With Quantplay, Claude reads your real positions across 10+ top brokers. Which one do you ask? https://t.co/4kZ2W6YBLu\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Quantplay on X: \"Asking Claude where Nifty closes on Monday gets you a guess. Asking what your open positions lose if it ends 300 points lower gets you a number you can use. With Quantplay, Claude reads your real positions across 10+ top brokers. Which one do you ask? https://t.co/4kZ2W6YBLu\" / X" url="https://x.com/QuantplayHQ/status/2124135583350206486"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Quantplay\nVerified account\n@QuantplayHQ Asking Claude where Nifty closes on Monday gets you a guess.\n\nAsking what your open positions lose if it ends 300 points lower gets you a number you can use.\n\nWith Quantplay, Claude reads your real positions across 10+ top brokers.\n\nWhich one do you ask? quantplay.tech Quantplay: Connect any AI agent to your broker" description="Quantplay\nVerified account\n@QuantplayHQ Asking Claude where Nifty closes on Monday gets you a guess.\n\nAsking what your open positions lose if it ends 300 points lower gets you a number you can use.\n\nWith Quantplay, Claude reads your real positions across 10+ top brokers.\n\nWhich one do you ask? quantplay.tech Quantplay: Connect any AI agent to your broker From quantplay.tech"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/QuantplayHQ"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Quantplay\nVerified account" url="https://x.com/QuantplayHQ"
+                      - [72] AXStaticText expanded=false = "Quantplay"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@QuantplayHQ" url="https://x.com/QuantplayHQ"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@QuantplayHQ"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "Asking Claude where Nifty closes on Monday gets you a guess.\n\nAsking what your open positions lose if it ends 300 points lower gets you a number you can use.\n\nWith Quantplay, Claude reads your real positions across 10+ top brokers.\n\nWhich one do you ask?"
+                    - [81] AXGroup expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker"
+                      - [82] AXGroup expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker"
+                        - [83] AXLink expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker" url="https://t.co/4kZ2W6YBLu"
+                          - [84] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [85] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [86] AXGroup expanded=false
+                            - [87] AXStaticText expanded=false = "Quantplay: Connect any AI agent to your broker"
+                      - [88] AXLink expanded=false "From quantplay.tech" url="https://t.co/4kZ2W6YBLu"
+                        - [89] AXStaticText expanded=false = "From quantplay.tech"
+                    - [90] AXGroup expanded=false
+                      - [91] AXLink expanded=false "7:09 PM · Nov 21, 2026" url="https://x.com/QuantplayHQ/status/2124135583350206486"
+                        - [92] AXGroup subrole=AXTimeGroup expanded=false
+                          - [93] AXStaticText expanded=false = "7:09 PM · Nov 21, 2026"
+                      - [94] AXLink expanded=false "115 Views" url="https://x.com/QuantplayHQ/status/2124135583350206486/analytics"
+                        - [95] AXStaticText expanded=false = "115"
+                        - [96] AXStaticText expanded=false = "Views"
+                    - [97] AXGroup subrole=AXApplicationGroup expanded=false "115 views"
+                      - [98] AXButton expanded=false "0 Replies. Reply"
+                      - [99] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [100] AXButton expanded=false "0 Likes. Like"
+                      - [101] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [102] AXPopUpButton expanded=false "Share post"
+                  - [103] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [104] AXGroup expanded=false
+                    - [105] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [106] AXGroup expanded=false
+                      - [107] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [108] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [109] AXGroup expanded=false
+                          - [110] AXGroup expanded=false "Puneet Vishnawat"
+                            - [111] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [112] AXGroup expanded=false
+                    - [113] AXStaticText expanded=false = "Post your reply"
+                  - [114] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [115] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [116] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [117] AXHeading expanded=false "Discover more" = "2"
+                    - [118] AXStaticText expanded=false = "Discover more"
+                  - [119] AXStaticText expanded=false = "Sourced from across X"
+                  - [120] AXGroup subrole=AXDocumentArticle expanded=false "Quantplay\nVerified account\n@QuantplayHQ 7 hours ago Can Nifty ignore Wall Street\'s worst week since 2020 on Monday?\n\nNasdaq fell 10% last week. Nifty rose 2.6% to a 9-month high.\n\nForeign funds bought ₹32,647 crore of Indian stocks while it happened.\n\nYes or no? quantplay.tech Quantplay: Connect any AI agent to your broker" description="Quantplay\nVerified account\n@QuantplayHQ 7 hours ago Can Nifty ignore Wall Street\'s worst week since 2020 on Monday?\n\nNasdaq fell 10% last week. Nifty rose 2.6% to a 9-month high.\n\nForeign funds bought ₹32,647 crore of Indian stocks while it happened.\n\nYes or no? quantplay.tech Quantplay: Connect any AI agent to your broker From quantplay.tech"
+                    - [121] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [122] AXGroup expanded=false
+                      - [123] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [124] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [125] AXLink expanded=false "Quantplay\nVerified account" url="https://x.com/QuantplayHQ"
+                      - [126] AXStaticText expanded=false = "Quantplay"
+                      - [127] AXImage expanded=false "Verified account"
+                    - [128] AXLink expanded=false "@QuantplayHQ" url="https://x.com/QuantplayHQ"
+                      - [129] AXGroup expanded=false
+                        - [130] AXStaticText expanded=false = "@QuantplayHQ"
+                    - [131] AXLink expanded=false "7 hours ago" url="https://x.com/QuantplayHQ/status/2124346899167953368"
+                      - [132] AXGroup subrole=AXTimeGroup expanded=false
+                        - [133] AXStaticText expanded=false = "7h"
+                    - [134] AXButton expanded=false "Grok actions"
+                    - [135] AXPopUpButton expanded=false "More"
+                    - [136] AXGroup expanded=false
+                      - [137] AXStaticText expanded=false = "Can Nifty ignore Wall Street\'s worst week since 2020 on Monday?\n\nNasdaq fell 10% last week. Nifty rose 2.6% to a 9-month high.\n\nForeign funds bought ₹32,647 crore of Indian stocks while it happened.\n\nYes or no?"
+                    - [138] AXGroup expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker"
+                      - [139] AXGroup expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker"
+                        - [140] AXLink expanded=false "quantplay.tech Quantplay: Connect any AI agent to your broker" url="https://t.co/4kZ2W6YBLu"
+                          - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [142] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [143] AXGroup expanded=false
+                            - [144] AXStaticText expanded=false = "Quantplay: Connect any AI agent to your broker"
+                      - [145] AXLink expanded=false "From quantplay.tech" url="https://t.co/4kZ2W6YBLu"
+                        - [146] AXStaticText expanded=false = "From quantplay.tech"
+                    - [147] AXGroup subrole=AXApplicationGroup expanded=false "91 views"
+                      - [148] AXButton expanded=false "0 Replies. Reply"
+                      - [149] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [150] AXButton expanded=false "0 Likes. Like"
+                      - [151] AXLink expanded=false "91 views. View post analytics" url="https://x.com/QuantplayHQ/status/2124346899167953368/analytics"
+                        - [152] AXStaticText expanded=false = "91"
+                      - [153] AXButton expanded=false "Bookmark"
+                      - [154] AXPopUpButton expanded=false "Share post"
+          - [155] AXGroup expanded=false "Trending"
+            - [156] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [157] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [158] AXGroup expanded=false
+                  - [159] AXStaticText expanded=false = "Search"
+            - [160] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [161] AXHeading expanded=false "Relevant people" = "2"
+                - [162] AXStaticText expanded=false = "Relevant people"
+              - [163] AXList subrole=AXContentList expanded=false
+                - [164] AXGroup expanded=false
+                  - [165] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [166] AXGroup expanded=false
+                    - [167] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [168] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [169] AXLink expanded=false "Quantplay\nVerified account" url="https://x.com/QuantplayHQ"
+                    - [170] AXStaticText expanded=false = "Quantplay"
+                    - [171] AXImage expanded=false "Verified account"
+                  - [172] AXLink expanded=false "@QuantplayHQ" url="https://x.com/QuantplayHQ"
+                    - [173] AXGroup expanded=false
+                      - [174] AXStaticText expanded=false = "@QuantplayHQ"
+                  - [175] AXButton expanded=false "Follow @QuantplayHQ"
+                  - [176] AXGroup expanded=false
+                    - [177] AXStaticText expanded=false = "Advanced Tools for Traders and Investors seeking excellence"
+            - [178] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [179] AXHeading expanded=false "Trending now" = "1"
+                - [180] AXStaticText expanded=false = "Trending now"
+              - [181] AXGroup expanded=false "Timeline: Trending now"
+                - [182] AXGroup subrole=AXEmptyGroup expanded=false
+                - [183] AXHeading expanded=false "What’s happening" = "2"
+                  - [184] AXStaticText expanded=false = "What’s happening"
+                - [185] AXLink expanded=false "Sports · Trending Draw More"
+                  - [186] AXGroup expanded=false
+                    - [187] AXStaticText expanded=false = "Sports · Trending"
+                  - [188] AXGroup expanded=false
+                    - [189] AXStaticText expanded=false = "Draw"
+                  - [190] AXPopUpButton expanded=false "More"
+                - [191] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [192] AXGroup expanded=false
+                    - [193] AXStaticText expanded=false = "Sports · Trending"
+                  - [194] AXGroup expanded=false
+                    - [195] AXStaticText expanded=false = "Rishabh Pant"
+                  - [196] AXPopUpButton expanded=false "More"
+                - [197] AXLink expanded=false "Motorsport · Trending Charles Trending with Leclerc\nMore"
+                  - [198] AXGroup expanded=false
+                    - [199] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [200] AXGroup expanded=false
+                    - [201] AXStaticText expanded=false = "Charles"
+                  - [202] AXStaticText expanded=false = "Trending with "
+                  - [203] AXLink expanded=false "Leclerc" url="https://x.com/search?q=Leclerc&src=trend_click&vertical=trends"
+                    - [204] AXStaticText expanded=false = "Leclerc"
+                  - [205] AXPopUpButton expanded=false "More"
+                - [206] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [207] AXGroup expanded=false
+                    - [208] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [209] AXGroup expanded=false
+                    - [210] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [211] AXPopUpButton expanded=false "More"
+                - [212] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [213] AXGroup expanded=false
+                    - [214] AXStaticText expanded=false = "Show more"
+            - [215] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [216] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [217] AXStaticText expanded=false = "Terms"
+              - [218] AXGroup expanded=false
+                - [219] AXStaticText expanded=false = "·"
+              - [220] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [221] AXStaticText expanded=false = "Privacy"
+              - [222] AXGroup expanded=false
+                - [223] AXStaticText expanded=false = "·"
+              - [224] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [225] AXStaticText expanded=false = "Cookies"
+              - [226] AXGroup expanded=false
+                - [227] AXStaticText expanded=false = "·"
+              - [228] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [229] AXStaticText expanded=false = "Accessibility"
+              - [230] AXGroup expanded=false
+                - [231] AXStaticText expanded=false = "·"
+              - [232] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [233] AXStaticText expanded=false = "Ads Info"
+              - [234] AXGroup expanded=false
+                - [235] AXStaticText expanded=false = "·"
+              - [236] AXPopUpButton expanded=false "More"
+              - [237] AXGroup expanded=false
+                - [238] AXStaticText expanded=false = "© 2026 X Corp."
+        - [239] AXGroup subrole=AXEmptyGroup expanded=false
+        - [240] AXGroup subrole=AXEmptyGroup expanded=false
+      - [241] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [242] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [243] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [244] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [245] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [246] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [247] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [248] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [249] AXRadioButton subrole=AXTabButton valueWritable=false "Quantplay on X: \"Asking Claude where Nifty closes on Monday gets you a guess. Asking what your open positions lose if it ends 300 points lower gets you a number you can use. With Quantplay, Claude reads your real positions across 10+ top brokers. Which one do you ask? https://t.co/4kZ2W6YBLu\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Quantplay on X: \"Asking Claude where Nifty closes on Monday gets you a guess. Asking what your open positions lose if it ends 300 points lower gets you a number you can use. With Quantplay, Claude reads your real positions across 10+ top brokers. Which one do you ask? https://t.co/4kZ2W6YBLu\" / X" selection=[0,0]
+  - [250] AXGroup "Favorites bar"
+    - [251] AXButton "show start page" help="Show Start Page"
+    - [252] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [253] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [254] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [255] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [256] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [257] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [258] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [259] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [260] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [261] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [262] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [263] AXToolbar
+    - [264] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [265] AXButton "show sidebar" help="Show sidebar"
+      - [266] AXMenuButton "Tab Group picker"
+    - [267] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [268] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [269] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [270] AXButton "Page Menu"
+      - [271] AXButton "Add page to Reading List"
+      - [272] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/QuantplayHQ/status/2124135583350206486" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [273] AXButton "Reload this page"
+    - [274] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [275] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [276] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [277] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [278] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [279] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [280] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [281] AXButton subrole=AXCloseButton
+  - [282] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [283] AXButton subrole=AXMinimizeButton
+- [284] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [285] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [286] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [287] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [288] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [289] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [290] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [291] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [292] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [293] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

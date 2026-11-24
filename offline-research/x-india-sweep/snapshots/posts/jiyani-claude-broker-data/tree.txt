@@ -1,0 +1,321 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Mehul Jiyani on X: \"Must watch if you’re into algo trading or want to use AI for it. Saddam Bhai (@pythontrader999) shows how he uses Claude to: • Pull broker data • Backtest YouTube strategies • Build momentum systems (ETF + Nifty 500) All while doing a full-time job. Very practical session.\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Mehul Jiyani on X: \"Must watch if you’re into algo trading or want to use AI for it. Saddam Bhai (@pythontrader999) shows how he uses Claude to: • Pull broker data • Backtest YouTube strategies • Build momentum systems (ETF + Nifty 500) All while doing a full-time job. Very practical session.\" / X" url="https://x.com/jiyani02/status/2104062477369847846"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Mehul Jiyani\nVerified account\n@jiyani02 Must watch if you’re into algo trading or want to use AI for it.\nSaddam Bhai ( @pythontrader999 ) shows how he uses Claude to:\n• Pull broker data\n• Backtest YouTube strategies\n• Build momentum systems (ETF + Nifty 500)\nAll while doing a full-time job. Very practical session. Quote\nPythonTrader(Saddy Bhai)\nVerified account\n@pythontrader999 Sep 27\nThe amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..\n\nPodcast:youtu.be/zm-Cx67lU2M\n\nA heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️\nThe love, comments, DMs, messages, 3 reposts, 21 likes, 15 bookmarks, 5314 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/jiyani02"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Mehul Jiyani\nVerified account" url="https://x.com/jiyani02"
+                      - [72] AXStaticText expanded=false = "Mehul Jiyani"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@jiyani02" url="https://x.com/jiyani02"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@jiyani02"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "Must watch if you’re into algo trading or want to use AI for it.\nSaddam Bhai ("
+                      - [81] AXLink expanded=false "@pythontrader999" url="https://x.com/pythontrader999"
+                        - [82] AXStaticText expanded=false = "@pythontrader999"
+                      - [83] AXStaticText expanded=false = ") shows how he uses Claude to:\n•  Pull broker data\n•  Backtest YouTube strategies\n•  Build momentum systems (ETF + Nifty 500)\nAll while doing a full-time job. Very practical session."
+                    - [84] AXGroup expanded=false "Quote\nPythonTrader(Saddy Bhai)\nVerified account\n@pythontrader999 Sep 27\nThe amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..\n\nPodcast:youtu.be/zm-Cx67lU2M\n\nA heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️\nThe love, comments, DMs, messages,"
+                      - [85] AXGroup expanded=false
+                        - [86] AXStaticText expanded=false = "Quote"
+                      - [87] AXLink expanded=false "PythonTrader(Saddy Bhai)\nVerified account\n\nSep 27\nThe amount of responce I am getting fr my 1st Face 2 Face podcast with @elearnmarkets is overwhelming..\n\nPodcast:youtu.be/zm-Cx67lU2M\n\nA heartfelt THANK YOU to everyone and especially to Vivek Ji and his team @vivbajaj fr making this happen❤️\nThe love, comments, DMs, messages,"
+                        - [88] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [89] AXGroup expanded=false
+                          - [90] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [91] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [92] AXStaticText expanded=false = "PythonTrader(Saddy Bhai)"
+                        - [93] AXImage expanded=false "Verified account"
+                        - [94] AXGroup expanded=false
+                          - [95] AXGroup expanded=false
+                            - [96] AXStaticText expanded=false = "@pythontrader999"
+                        - [97] AXGroup expanded=false "Sep 27"
+                          - [98] AXGroup subrole=AXTimeGroup expanded=false
+                            - [99] AXStaticText expanded=false = "Sep 27"
+                        - [100] AXStaticText expanded=false = "The amount of responce I am getting fr my 1st Face 2 Face podcast with "
+                        - [101] AXStaticText expanded=false = "@elearnmarkets"
+                        - [102] AXStaticText expanded=false = " is overwhelming..\n\nPodcast:"
+                        - [103] AXStaticText expanded=false = "youtu.be/zm-Cx67lU2M"
+                        - [104] AXStaticText expanded=false = "\n\nA heartfelt THANK YOU to everyone and especially to Vivek Ji and his team "
+                        - [105] AXStaticText expanded=false = "@vivbajaj"
+                        - [106] AXStaticText expanded=false = " fr making this happen❤️\nThe love, comments, DMs, messages,"
+                    - [107] AXGroup expanded=false
+                      - [108] AXLink expanded=false "9:46 AM · Sep 27, 2026" url="https://x.com/jiyani02/status/2104062477369847846"
+                        - [109] AXGroup subrole=AXTimeGroup expanded=false
+                          - [110] AXStaticText expanded=false = "9:46 AM · Sep 27, 2026"
+                      - [111] AXLink expanded=false "5,314 Views" url="https://x.com/jiyani02/status/2104062477369847846/analytics"
+                        - [112] AXStaticText expanded=false = "5,314"
+                        - [113] AXStaticText expanded=false = "Views"
+                    - [114] AXGroup subrole=AXApplicationGroup expanded=false "3 reposts, 21 likes, 15 bookmarks, 5314 views"
+                      - [115] AXButton expanded=false "0 Replies. Reply"
+                      - [116] AXPopUpButton expanded=false "3 reposts. Repost"
+                      - [117] AXButton expanded=false "21 Likes. Like"
+                      - [118] AXButton expanded=false "15 Bookmarks. Bookmark"
+                      - [119] AXPopUpButton expanded=false "Share post"
+                  - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [121] AXGroup expanded=false
+                    - [122] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [123] AXGroup expanded=false
+                      - [124] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [125] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [126] AXGroup expanded=false
+                          - [127] AXGroup expanded=false "Puneet Vishnawat"
+                            - [128] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [129] AXGroup expanded=false
+                    - [130] AXStaticText expanded=false = "Post your reply"
+                  - [131] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [132] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+          - [133] AXGroup expanded=false "Trending"
+            - [134] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [135] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [136] AXGroup expanded=false
+                  - [137] AXStaticText expanded=false = "Search"
+            - [138] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [139] AXHeading expanded=false "Relevant people" = "2"
+                - [140] AXStaticText expanded=false = "Relevant people"
+              - [141] AXList subrole=AXContentList expanded=false
+                - [142] AXGroup expanded=false
+                  - [143] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [144] AXGroup expanded=false
+                    - [145] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [146] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [147] AXLink expanded=false "Mehul Jiyani\nVerified account" url="https://x.com/jiyani02"
+                    - [148] AXStaticText expanded=false = "Mehul Jiyani"
+                    - [149] AXImage expanded=false "Verified account"
+                  - [150] AXLink expanded=false "@jiyani02" url="https://x.com/jiyani02"
+                    - [151] AXGroup expanded=false
+                      - [152] AXStaticText expanded=false = "@jiyani02"
+                  - [153] AXButton expanded=false "Follow @jiyani02"
+                  - [154] AXGroup expanded=false
+                    - [155] AXStaticText expanded=false = "SEBI Registered Research Analyst I Founder -TradersCafe I Option Writer I Talks about trading and stock market"
+                - [156] AXGroup expanded=false
+                  - [157] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [158] AXGroup expanded=false
+                    - [159] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [160] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [161] AXLink expanded=false "PythonTrader(Saddy Bhai)\nVerified account" url="https://x.com/pythontrader999"
+                    - [162] AXStaticText expanded=false = "PythonTrader(Saddy Bhai)"
+                    - [163] AXImage expanded=false "Verified account"
+                  - [164] AXLink expanded=false "@pythontrader999" url="https://x.com/pythontrader999"
+                    - [165] AXGroup expanded=false
+                      - [166] AXStaticText expanded=false = "@pythontrader999"
+                  - [167] AXButton expanded=false "Follow @pythontrader999"
+                  - [168] AXGroup expanded=false
+                    - [169] AXStaticText expanded=false = "FNO & Algo Trader My team can automate your strategies(DM) YT:"
+                    - [170] AXLink expanded=false "youtube.com/@onewhotrades" url="https://t.co/Emp61z6eVY"
+                      - [171] AXStaticText expanded=false = "youtube.com/@onewhotrades"
+                    - [172] AXStaticText expanded=false = "F2FPodcast: "
+                    - [173] AXLink expanded=false "youtu.be/zm-Cx67lU2M" url="https://t.co/X3x4pF1as3"
+                      - [174] AXStaticText expanded=false = "youtu.be/zm-Cx67lU2M"
+                - [175] AXGroup expanded=false
+                  - [176] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [177] AXGroup expanded=false
+                    - [178] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [179] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [180] AXLink expanded=false "Vivek Bajaj\nVerified account" url="https://x.com/vivbajaj"
+                    - [181] AXStaticText expanded=false = "Vivek Bajaj"
+                    - [182] AXImage expanded=false "Verified account"
+                  - [183] AXLink expanded=false "@vivbajaj" url="https://x.com/vivbajaj"
+                    - [184] AXGroup expanded=false
+                      - [185] AXStaticText expanded=false = "@vivbajaj"
+                  - [186] AXButton expanded=false "Follow @vivbajaj"
+                  - [187] AXGroup expanded=false
+                    - [188] AXStaticText expanded=false = "Learner , Entrepreneur , Trader , Investor , Author , Health Conscious, Karma believer 🙏, Family Man ❤️ My Whatsapp Channel link:"
+                    - [189] AXLink expanded=false "whatsapp.com/channel/0029Va" url="https://t.co/5o1s3QVj4M"
+                      - [190] AXStaticText expanded=false = "whatsapp.com/channel/0029Va"
+            - [191] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [192] AXHeading expanded=false "Trending now" = "1"
+                - [193] AXStaticText expanded=false = "Trending now"
+              - [194] AXGroup expanded=false "Timeline: Trending now"
+                - [195] AXGroup subrole=AXEmptyGroup expanded=false
+                - [196] AXHeading expanded=false "What’s happening" = "2"
+                  - [197] AXStaticText expanded=false = "What’s happening"
+                - [198] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [199] AXGroup expanded=false
+                    - [200] AXStaticText expanded=false = "Sports · Trending"
+                  - [201] AXGroup expanded=false
+                    - [202] AXStaticText expanded=false = "Rishabh Pant"
+                  - [203] AXPopUpButton expanded=false "More"
+                - [204] AXLink expanded=false "Sports · Trending Draw More"
+                  - [205] AXGroup expanded=false
+                    - [206] AXStaticText expanded=false = "Sports · Trending"
+                  - [207] AXGroup expanded=false
+                    - [208] AXStaticText expanded=false = "Draw"
+                  - [209] AXPopUpButton expanded=false "More"
+                - [210] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [211] AXGroup expanded=false
+                    - [212] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [213] AXGroup expanded=false
+                    - [214] AXStaticText expanded=false = "Charles"
+                  - [215] AXPopUpButton expanded=false "More"
+                - [216] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [217] AXGroup expanded=false
+                    - [218] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [219] AXGroup expanded=false
+                    - [220] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [221] AXPopUpButton expanded=false "More"
+                - [222] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [223] AXGroup expanded=false
+                    - [224] AXStaticText expanded=false = "Show more"
+            - [225] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [226] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [227] AXStaticText expanded=false = "Terms"
+              - [228] AXGroup expanded=false
+                - [229] AXStaticText expanded=false = "·"
+              - [230] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [231] AXStaticText expanded=false = "Privacy"
+              - [232] AXGroup expanded=false
+                - [233] AXStaticText expanded=false = "·"
+              - [234] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [235] AXStaticText expanded=false = "Cookies"
+              - [236] AXGroup expanded=false
+                - [237] AXStaticText expanded=false = "·"
+              - [238] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [239] AXStaticText expanded=false = "Accessibility"
+              - [240] AXGroup expanded=false
+                - [241] AXStaticText expanded=false = "·"
+              - [242] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [243] AXStaticText expanded=false = "Ads Info"
+              - [244] AXGroup expanded=false
+                - [245] AXStaticText expanded=false = "·"
+              - [246] AXPopUpButton expanded=false "More"
+              - [247] AXGroup expanded=false
+                - [248] AXStaticText expanded=false = "© 2026 X Corp."
+        - [249] AXGroup subrole=AXEmptyGroup expanded=false
+        - [250] AXGroup subrole=AXEmptyGroup expanded=false
+      - [251] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [252] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [253] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [254] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [255] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [256] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [257] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [258] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [259] AXRadioButton subrole=AXTabButton valueWritable=false "Mehul Jiyani on X: \"Must watch if you’re into algo trading or want to use AI for it. Saddam Bhai (@pythontrader999) shows how he uses Claude to: • Pull broker data • Backtest YouTube strategies • Build momentum systems (ETF + Nifty 500) All while doing a full-time job. Very practical session.\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Mehul Jiyani on X: \"Must watch if you’re into algo trading or want to use AI for it. Saddam Bhai (@pythontrader999) shows how he uses Claude to: • Pull broker data • Backtest YouTube strategies • Build momentum systems (ETF + Nifty 500) All while doing a full-time job. Very practical session.\" / X" selection=[0,0]
+  - [260] AXGroup "Favorites bar"
+    - [261] AXButton "show start page" help="Show Start Page"
+    - [262] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [263] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [264] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [265] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [266] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [267] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [268] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [269] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [270] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [271] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [272] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [273] AXToolbar
+    - [274] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [275] AXButton "show sidebar" help="Show sidebar"
+      - [276] AXMenuButton "Tab Group picker"
+    - [277] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [278] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [279] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [280] AXButton "Page Menu"
+      - [281] AXButton "Add page to Reading List"
+      - [282] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/jiyani02/status/2104062477369847846" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [283] AXButton "Reload this page"
+    - [284] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [285] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [286] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [287] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [288] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [289] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [290] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [291] AXButton subrole=AXCloseButton
+  - [292] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [293] AXButton subrole=AXMinimizeButton
+- [294] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [295] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [296] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [297] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [298] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [299] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [300] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [301] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [302] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [303] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

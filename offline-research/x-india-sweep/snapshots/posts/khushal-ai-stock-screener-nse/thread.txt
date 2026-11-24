@@ -1,0 +1,17 @@
+URL: https://x.com/khushaljai48011/status/2094736832676471024
+DATE: 2026-11-22
+MODE: Latest
+
+khushal jain
+@khushaljai48011 I built an AI-native stock screener for NSE 🇮🇳
+
+📈 Breakout scanner + live option chain
+🤖 Chat with an AI trading agent (5 personas)
+🧠 ML-based Nifty gap predictor
+
+Open-source, MIT licensed.
+
+🔗 github.com/85599/KJStockS
+🚀 Try it: kjstockscreener.streamlit.app
+
+⭐ if useful! Image 2 likes, 2 bookmarks, 170 views

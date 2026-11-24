@@ -1,0 +1,388 @@
+QUERY: (mcp OR "model context protocol") (zerodha OR dhan OR nse OR nifty OR "indian broker")
+URL: https://x.com/search?q=(mcp%20OR%20%22model%20context%20protocol%22)%20(zerodha%20OR%20dhan%20OR%20nse%20OR%20nifty%20OR%20%22indian%20broker%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 12
+
+𝙍𝘼𝙅𝙀𝙎𝙃 𝙋𝘼𝙍𝙄𝙆𝙃
+Verified account
+@imacuriosguy 6 hours ago Self employed? Your books probably hide errors you\'ll never have time to find.
+
+I let an AI dig through ours for a weekend. Here is what turned up, and why I\'m not worried about privacy. 6 likes, 1 bookmark, 424 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago Replying to @AKtrader1108 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):
+
+Live: mcp.nseindia.in/cmmkt/mcp
+EOD: mcp.nseindia.in/bhavcopy/cm/mcp
+
+Cash market only, no F&O or intraday candles. For info/education, not investment advice.
+
+#NSE #MCP #AI #StockMarket
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago NSE now has a free, official MCP server for AI agents
+
+36 tools, no API key:
+– Live quotes, indices & movers
+– 5 yrs EOD history, 52W range, moving averages
+– Breadth, India VIX, index P/E & P/B
+– Stock vs index: beta, correlation
+
+nseindia.com/nse-mcp
+
+All tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 62 views
+
+Boardy
+Verified account
+@boardyai 20 hours ago Replying to @akashagr7 if the mcp needs daily indian-stock researchers i know a pm who built his own nse/bse filings pipeline, want an intro? x ate the dm, tap below Send us a private message
+
+Yash Gupta
+@YashGup74155629 20 hours ago Went to DhanDev Hyderabad today strictly for the tech.
+​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖
+
+Shame works…
+@Ceepz 23 hours ago Replying to @Ceepz It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too. 1 like, 61 views
+
+Hirobyl
+@hirobyl Nov 21 One hub for projects, clients and AI agents. 🚀
+Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP.
+bit.ly/AppSumoBF
+#AppSumo #BlackFriday #Nifty #ProjectManagement #Agency #AIAgents #thelostoffer Image
+
+
+𝙍𝘼𝙅𝙀𝙎𝙃 𝙋𝘼𝙍𝙄𝙆𝙃
+Verified account
+@imacuriosguy 6 hours ago Self employed? Your books probably hide errors you\'ll never have time to find.
+
+I let an AI dig through ours for a weekend. Here is what turned up, and why I\'m not worried about privacy. 6 likes, 1 bookmark, 424 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago Replying to @AKtrader1108 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):
+
+Live: mcp.nseindia.in/cmmkt/mcp
+EOD: mcp.nseindia.in/bhavcopy/cm/mcp
+
+Cash market only, no F&O or intraday candles. For info/education, not investment advice.
+
+#NSE #MCP #AI #StockMarket
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago NSE now has a free, official MCP server for AI agents
+
+36 tools, no API key:
+– Live quotes, indices & movers
+– 5 yrs EOD history, 52W range, moving averages
+– Breadth, India VIX, index P/E & P/B
+– Stock vs index: beta, correlation
+
+nseindia.com/nse-mcp
+
+All tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 62 views
+
+Boardy
+Verified account
+@boardyai 20 hours ago Replying to @akashagr7 if the mcp needs daily indian-stock researchers i know a pm who built his own nse/bse filings pipeline, want an intro? x ate the dm, tap below Send us a private message
+
+Yash Gupta
+@YashGup74155629 20 hours ago Went to DhanDev Hyderabad today strictly for the tech.
+​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖
+
+Shame works…
+@Ceepz 23 hours ago Replying to @Ceepz It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too. 1 like, 61 views
+
+Hirobyl
+@hirobyl Nov 21 One hub for projects, clients and AI agents. 🚀
+Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP.
+bit.ly/AppSumoBF
+#AppSumo #BlackFriday #Nifty #ProjectManagement #Agency #AIAgents #thelostoffer Image
+
+PairSync
+Verified account
+@PairSync Nov 20 Persistent Systems rose 4.9% and Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%, as Indian IT bucks a global AI selloff. The Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%.
+
+One wider spread from our MCP, NSE refit 18 Nov:
+
+• AUBANK vs MANAPPURAM (NSE): Quote
+PairSync
+Verified account
+@PairSync Nov 20
+⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM
+
+Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons).
+
+
+𝙍𝘼𝙅𝙀𝙎𝙃 𝙋𝘼𝙍𝙄𝙆𝙃
+Verified account
+@imacuriosguy 6 hours ago Self employed? Your books probably hide errors you\'ll never have time to find.
+
+I let an AI dig through ours for a weekend. Here is what turned up, and why I\'m not worried about privacy. 6 likes, 1 bookmark, 424 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago Replying to @AKtrader1108 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):
+
+Live: mcp.nseindia.in/cmmkt/mcp
+EOD: mcp.nseindia.in/bhavcopy/cm/mcp
+
+Cash market only, no F&O or intraday candles. For info/education, not investment advice.
+
+#NSE #MCP #AI #StockMarket
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago NSE now has a free, official MCP server for AI agents
+
+36 tools, no API key:
+– Live quotes, indices & movers
+– 5 yrs EOD history, 52W range, moving averages
+– Breadth, India VIX, index P/E & P/B
+– Stock vs index: beta, correlation
+
+nseindia.com/nse-mcp
+
+All tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 62 views
+
+Boardy
+Verified account
+@boardyai 20 hours ago Replying to @akashagr7 if the mcp needs daily indian-stock researchers i know a pm who built his own nse/bse filings pipeline, want an intro? x ate the dm, tap below Send us a private message
+
+Yash Gupta
+@YashGup74155629 20 hours ago Went to DhanDev Hyderabad today strictly for the tech.
+​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖
+
+Shame works…
+@Ceepz 23 hours ago Replying to @Ceepz It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too. 1 like, 61 views
+
+Hirobyl
+@hirobyl Nov 21 One hub for projects, clients and AI agents. 🚀
+Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP.
+bit.ly/AppSumoBF
+#AppSumo #BlackFriday #Nifty #ProjectManagement #Agency #AIAgents #thelostoffer Image
+
+PairSync
+Verified account
+@PairSync Nov 20 Persistent Systems rose 4.9% and Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%, as Indian IT bucks a global AI selloff. The Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%.
+
+One wider spread from our MCP, NSE refit 18 Nov:
+
+• AUBANK vs MANAPPURAM (NSE): Quote
+PairSync
+Verified account
+@PairSync Nov 20
+⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM
+
+Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons).
+
+PairSync
+Verified account
+@PairSync Nov 20 ⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons). 1 repost, 186 views
+
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago Replying to @AKtrader1108 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):
+
+Live: mcp.nseindia.in/cmmkt/mcp
+EOD: mcp.nseindia.in/bhavcopy/cm/mcp
+
+Cash market only, no F&O or intraday candles. For info/education, not investment advice.
+
+#NSE #MCP #AI #StockMarket
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago NSE now has a free, official MCP server for AI agents
+
+36 tools, no API key:
+– Live quotes, indices & movers
+– 5 yrs EOD history, 52W range, moving averages
+– Breadth, India VIX, index P/E & P/B
+– Stock vs index: beta, correlation
+
+nseindia.com/nse-mcp
+
+All tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 62 views
+
+Boardy
+Verified account
+@boardyai 20 hours ago Replying to @akashagr7 if the mcp needs daily indian-stock researchers i know a pm who built his own nse/bse filings pipeline, want an intro? x ate the dm, tap below Send us a private message
+
+Yash Gupta
+@YashGup74155629 20 hours ago Went to DhanDev Hyderabad today strictly for the tech.
+​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖
+
+Shame works…
+@Ceepz 23 hours ago Replying to @Ceepz It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too. 1 like, 61 views
+
+Hirobyl
+@hirobyl Nov 21 One hub for projects, clients and AI agents. 🚀
+Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP.
+bit.ly/AppSumoBF
+#AppSumo #BlackFriday #Nifty #ProjectManagement #Agency #AIAgents #thelostoffer Image
+
+PairSync
+Verified account
+@PairSync Nov 20 Persistent Systems rose 4.9% and Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%, as Indian IT bucks a global AI selloff. The Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%.
+
+One wider spread from our MCP, NSE refit 18 Nov:
+
+• AUBANK vs MANAPPURAM (NSE): Quote
+PairSync
+Verified account
+@PairSync Nov 20
+⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM
+
+Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons).
+
+PairSync
+Verified account
+@PairSync Nov 20 ⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons). 1 repost, 186 views
+
+PairSync
+Verified account
+@PairSync Nov 20 NSE - NIFTY UP 10.7% IN 13 SESSIONS, WHILE THE AI TRADE WOBBLES ELSEWHERE
+MARKET AND PAIR TRADING COMMENTARY
+
+Here is the odd one: Geojit\'s chief strategist called the Nifty the only high-performing major market this month, up 10.7% in 13 trading days. Today it slipped about The National Stock Exchange of India building in Mumbai
+
+˗ˏˋ 藤川 忠彦 ˎˊ˗
+Verified account
+@fujikawa Nov 20 Anthropic\'s Nasdaq listing and $2 trillion valuation, along with the European Commission\'s rollout of Matrix to 40,000 people, made the top of today\'s Hacker News. I\'ll explain in Japanese everything from spam countermeasures for garage notifications and a Rails vulnerability to 1 reply, 1 repost, 23 likes, 38064 views
+
+
+Yash Gupta
+@YashGup74155629 20 hours ago Went to DhanDev Hyderabad today strictly for the tech.
+​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by @DhanHQ ! 🛠️🤖
+
+Shame works…
+@Ceepz 23 hours ago Replying to @Ceepz It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too. 1 like, 61 views
+
+Hirobyl
+@hirobyl Nov 21 One hub for projects, clients and AI agents. 🚀
+Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP.
+bit.ly/AppSumoBF
+#AppSumo #BlackFriday #Nifty #ProjectManagement #Agency #AIAgents #thelostoffer Image
+
+PairSync
+Verified account
+@PairSync Nov 20 Persistent Systems rose 4.9% and Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%, as Indian IT bucks a global AI selloff. The Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%.
+
+One wider spread from our MCP, NSE refit 18 Nov:
+
+• AUBANK vs MANAPPURAM (NSE): Quote
+PairSync
+Verified account
+@PairSync Nov 20
+⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM
+
+Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons).
+
+PairSync
+Verified account
+@PairSync Nov 20 ⚡ PairSync India Market Flash
+
+📈 Persistent Systems +4.9% as Indian IT bucks a global AI selloff
+
+• Nifty IT is up 2.6%, with Coforge +4.0% and TCS +2.3%
+
+• Nasdaq fell 2.25% overnight, and Seoul\'s KOSPI dropped 4.7%
+
+🔗 Related PairSync spread:
+
+• AUBANK (NSE) vs MANAPPURAM Electronics City Phase 1 in Bengaluru, an Indian IT campus cluster (photo: Christian Lederer, CC BY 3.0, Wikimedia Commons). 1 repost, 186 views
+
+PairSync
+Verified account
+@PairSync Nov 20 NSE - NIFTY UP 10.7% IN 13 SESSIONS, WHILE THE AI TRADE WOBBLES ELSEWHERE
+MARKET AND PAIR TRADING COMMENTARY
+
+Here is the odd one: Geojit\'s chief strategist called the Nifty the only high-performing major market this month, up 10.7% in 13 trading days. Today it slipped about The National Stock Exchange of India building in Mumbai
+
+˗ˏˋ 藤川 忠彦 ˎˊ˗
+Verified account
+@fujikawa Nov 20 Anthropic\'s Nasdaq listing and $2 trillion valuation, along with the European Commission\'s rollout of Matrix to 40,000 people, made the top of today\'s Hacker News. I\'ll explain in Japanese everything from spam countermeasures for garage notifications and a Rails vulnerability to 1 reply, 1 repost, 23 likes, 38064 views
+
+PairSync
+Verified account
+@PairSync Nov 19 LT Foods +9.4% after agreeing to acquire US packager MK Foods for $5.8 million, cash-free and debt-free.
+
+One wider spread from our MCP, NSE refit 17 Nov 2026:
+
+• ABREL (NSE) vs AWL (NSE): spread sits +2.38σ from its mean, wider than the ±2σ band many statistical models Quote
+PairSync
+Verified account
+@PairSync Nov 19
+⚡ PairSync India Market Flash
+
+📈 LT Foods +9.4% after agreeing to acquire US packager MK Foods
+
+• Its US unit, LT Foods Americas, will take a 100% stake in MK Foods Holdings for $5.8 million, cash-free and debt-free
+• The deal is expected to complete within three months,
+
+Image 1 reply, 106 views

@@ -1,0 +1,68 @@
+[
+ {
+  "handle": "hb_stocks",
+  "id": "2123000766109745364",
+  "timeText": "4:00 PM · Nov 18, 2026",
+  "text": "BREAKING: I turned Claude into a fundamental analyst for NSE stocks.\n\nType one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.\n\nHere\\'s what it checks ↓"
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000778814259266",
+  "timeText": "Nov 18",
+  "text": "Why I built it:\n\nThe chart tells you where the money is going.\n\nThe results tell you why, and whether the story is strong enough to hold through the pullbacks.\n\nChart first. Results second. It does the second part."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000790642237691",
+  "timeText": "Nov 18",
+  "text": "CHECK 1: COMMODITY OR SPECIALITY?\n\nA commodity business stays cheap, even at a low PE.\n\nA speciality business can stay expensive for years.\n\nIt classifies the business before looking at a single number."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000802218590279",
+  "timeText": "Nov 18",
+  "text": "CHECK 2: IS THE GROUP MOVING?\n\nOne stock rising alone in a dead sector gets rejected.\n\nIt looks for 4 or 5 peers moving together, because real themes move in packs."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000814046486842",
+  "timeText": "Nov 18",
+  "text": "CHECK 3: WHAT\\'S THE TRIGGER?\n\nNew plant, order book, acquisition, a rule change that grows the market.\n\nIt pulls management\\'s own claim from the presentation and puts a number on it."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000825979326491",
+  "timeText": "Nov 18",
+  "text": "CHECK 4: SPEEDING UP OR SLOWING DOWN?\n\nGrowth falling from 80% to 50% still looks great on paper.\n\nThe market punishes the slowdown anyway. It flags it."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000837639426482",
+  "timeText": "Nov 18",
+  "text": "CHECK 5 AND 6: WHO PAID FOR THE GROWTH, AND DID THE PROFIT TURN INTO CASH?\n\nGrowth paid for with debt is a warning.\n\nProfit that never shows up as cash is a bigger one.\n\nThese are the checks almost everyone skips."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000849479942195",
+  "timeText": "Nov 18",
+  "text": "CHECK 7 AND 8: VALUATION, DONE PROPERLY\n\nNo \"PE is high, avoid\".\n\nIt works out the PEG, then a forward PE from management\\'s own guidance, and shows the maths.\n\nThen it sizes the capex against today\\'s revenue."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000861140103269",
+  "timeText": "Nov 18",
+  "text": "CHECK 9 TO 11: MARKET SHARE, STAGE OF THE MOVE, AND THE GROWTH-FEAR CHECK\n\nIs it early in the move, or already up 400%?\n\nIs the company getting too big to keep growing?"
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000872963830230",
+  "timeText": "Nov 18",
+  "text": "THEN ONE VERDICT:\n\nLeader-grade.\nTrade only.\nWatch and read.\nReject.\n\nAnd one rule it never breaks: every number comes with a source and a date. If it can\\'t find a number, it writes \"not found\". It never guesses."
+ },
+ {
+  "handle": "hb_stocks",
+  "id": "2123000884561117409",
+  "timeText": "Nov 18",
+  "text": "The framework comes from the best fundamentals breakdown I\\'ve heard this year.\n\nCredit and the free skill file are in the replies.\n\nBookmark this.\n\nEducational only. Not a buy or sell call."
+ }
+]

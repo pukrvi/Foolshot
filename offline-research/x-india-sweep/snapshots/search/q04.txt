@@ -1,0 +1,337 @@
+QUERY: (nifty OR banknifty) (claude OR chatgpt OR "ai agent") (backtest OR strategy OR pnl OR "paper trading" OR "live trading")
+URL: https://x.com/search?q=(nifty%20OR%20banknifty)%20(claude%20OR%20chatgpt%20OR%20%22ai%20agent%22)%20(backtest%20OR%20strategy%20OR%20pnl%20OR%20%22paper%20trading%22%20OR%20%22live%20trading%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 12
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 70 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 866 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 237 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 956 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 70 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 866 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 237 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 956 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Mark Quadros - B2B Video Strategist
+Verified account
+@dherealmark Nov 16 Hormozi spent about $4M on the content machine behind a brand doing over $250M a year. I broke down every step and rebuilt it with AI. 77 replies, 54 reposts, 89 likes, 70 bookmarks, 5488 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 70 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 866 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 237 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 956 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Mark Quadros - B2B Video Strategist
+Verified account
+@dherealmark Nov 16 Hormozi spent about $4M on the content machine behind a brand doing over $250M a year. I broke down every step and rebuilt it with AI. 77 replies, 54 reposts, 89 likes, 70 bookmarks, 5488 views
+
+LONE WOLF
+Verified account
+@talktovardhan Nov 16 RETAIL TRADING IN THE AGE OF AI. 
+"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci."
+
+Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀
+
+Next prompt: 40 replies, 16 reposts, 59 likes, 2 bookmarks, 787 views
+
+Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons" description="Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons From ponsfamily.com
+
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 866 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 237 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 956 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Mark Quadros - B2B Video Strategist
+Verified account
+@dherealmark Nov 16 Hormozi spent about $4M on the content machine behind a brand doing over $250M a year. I broke down every step and rebuilt it with AI. 77 replies, 54 reposts, 89 likes, 70 bookmarks, 5488 views
+
+LONE WOLF
+Verified account
+@talktovardhan Nov 16 RETAIL TRADING IN THE AGE OF AI. 
+"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci."
+
+Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀
+
+Next prompt: 40 replies, 16 reposts, 59 likes, 2 bookmarks, 787 views
+
+Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons" description="Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons From ponsfamily.com
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+Travis Wright
+Verified account
+@teedubya Nov 7 I\'m 53. Gen X. I\'ve been building things on the internet since most people thought it was a fad.
+
+I\'m a marketing technologist, entrepreneur, futurist, author, podcaster, and relentless builder. I\'ve spent 30+ years at the intersection of technology, media, marketing, and human Image 45 replies, 14 reposts, 107 likes, 22 bookmarks, 5523 views
+
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 866 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 237 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 956 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 748 views
+
+Mark Quadros - B2B Video Strategist
+Verified account
+@dherealmark Nov 16 Hormozi spent about $4M on the content machine behind a brand doing over $250M a year. I broke down every step and rebuilt it with AI. 77 replies, 54 reposts, 89 likes, 70 bookmarks, 5488 views
+
+LONE WOLF
+Verified account
+@talktovardhan Nov 16 RETAIL TRADING IN THE AGE OF AI. 
+"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci."
+
+Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀
+
+Next prompt: 40 replies, 16 reposts, 59 likes, 2 bookmarks, 787 views
+
+Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons" description="Long Launches
+Verified account
+@LongLaunches Nov 15 THE TAPE November 15, 2026
+
+• Eco pulse, trailing 24h: 181 pad launches on LONG, up from 180 the prior day, 6096 bonding-pool swaps chain-wide, and $722.9K in pool volume with 21 swaps unpriced, so the figure is understated. Whale-size pool trades of $2.5K or more: 45 ponsfamily.com Pons (PONS) | Pons From ponsfamily.com
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 652 views
+
+Travis Wright
+Verified account
+@teedubya Nov 7 I\'m 53. Gen X. I\'ve been building things on the internet since most people thought it was a fad.
+
+I\'m a marketing technologist, entrepreneur, futurist, author, podcaster, and relentless builder. I\'ve spent 30+ years at the intersection of technology, media, marketing, and human Image 45 replies, 14 reposts, 107 likes, 22 bookmarks, 5523 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27163 views

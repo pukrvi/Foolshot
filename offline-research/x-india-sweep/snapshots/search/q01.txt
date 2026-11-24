@@ -1,0 +1,358 @@
+QUERY: (claude OR chatgpt OR "ai agent" OR llm) (nifty OR banknifty OR sensex OR "indian market" OR "indian stock") (trade OR trading OR trader) -filter:replies
+URL: https://x.com/search?q=(claude%20OR%20chatgpt%20OR%20%22ai%20agent%22%20OR%20llm)%20(nifty%20OR%20banknifty%20OR%20sensex%20OR%20%22indian%20market%22%20OR%20%22indian%20stock%22)%20(trade%20OR%20trading%20OR%20trader)%20-filter%3Areplies&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 14
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 68 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 115 views
+
+One Turn News
+Verified account
+@OneTurnNews Nov 21 1 like, 3568 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 864 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 236 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 68 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 115 views
+
+One Turn News
+Verified account
+@OneTurnNews Nov 21 1 like, 3568 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 864 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 236 views
+
+StockGro
+Verified account
+@stockgro Nov 20 1 reply, 1 repost, 5 likes, 1 bookmark, 2371 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 955 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 68 views
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 115 views
+
+One Turn News
+Verified account
+@OneTurnNews Nov 21 1 like, 3568 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 864 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 236 views
+
+StockGro
+Verified account
+@stockgro Nov 20 1 reply, 1 repost, 5 likes, 1 bookmark, 2371 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 955 views
+
+𝙏𝙝𝙚 𝙆𝙧𝙞𝙨𝙝 𝙍𝙚𝙥𝙤𝙧𝙩
+Verified account
+@IamBkrish Nov 19 🧾 𝐀𝐍𝐓𝐇𝐑𝐎𝐏𝐈𝐂 𝐋𝐈𝐒𝐓𝐒 𝐓𝐎𝐍𝐈𝐆𝐇𝐓: 𝐀𝐍 $𝟖𝟏 𝐁𝐍 𝐓𝐄𝐒𝐓 𝐎𝐅 𝐓𝐇𝐄 𝐀𝐈 𝐓𝐑𝐀𝐃𝐄
+
+Anthropic, the company behind Claude, priced its IPO at $83 a share, per its final prospectus filed with the SEC. That is above the $70-78 range it pitched to investors.
+
+It 1 like, 272 views
+
+Anil Kokku
+Verified account
+@Anilkokku999 Nov 19 MARKET CLOSE | 19 NOV 2026
+
+India rallies. Global markets remain cautious. AI takes centre stage.
+
+Indian equities staged a strong recovery today, despite mixed global cues.
+
+📊 India
+Nifty 50: 25,514.30 (+1.14%)
+Sensex: 83,021.75 (+1.21%)
+
+What led the rally?
+• Auto stocks led
+
+
+One Turn News
+Verified account
+@OneTurnNews Nov 21 1 like, 3568 views
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 864 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 236 views
+
+StockGro
+Verified account
+@stockgro Nov 20 1 reply, 1 repost, 5 likes, 1 bookmark, 2371 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 955 views
+
+𝙏𝙝𝙚 𝙆𝙧𝙞𝙨𝙝 𝙍𝙚𝙥𝙤𝙧𝙩
+Verified account
+@IamBkrish Nov 19 🧾 𝐀𝐍𝐓𝐇𝐑𝐎𝐏𝐈𝐂 𝐋𝐈𝐒𝐓𝐒 𝐓𝐎𝐍𝐈𝐆𝐇𝐓: 𝐀𝐍 $𝟖𝟏 𝐁𝐍 𝐓𝐄𝐒𝐓 𝐎𝐅 𝐓𝐇𝐄 𝐀𝐈 𝐓𝐑𝐀𝐃𝐄
+
+Anthropic, the company behind Claude, priced its IPO at $83 a share, per its final prospectus filed with the SEC. That is above the $70-78 range it pitched to investors.
+
+It 1 like, 272 views
+
+Anil Kokku
+Verified account
+@Anilkokku999 Nov 19 MARKET CLOSE | 19 NOV 2026
+
+India rallies. Global markets remain cautious. AI takes centre stage.
+
+Indian equities staged a strong recovery today, despite mixed global cues.
+
+📊 India
+Nifty 50: 25,514.30 (+1.14%)
+Sensex: 83,021.75 (+1.21%)
+
+What led the rally?
+• Auto stocks led
+
+WorldOrderWatcher
+Verified account
+@StayInformedNow Nov 19 🚀 MARKET PULSE: Nov 19 — AI Boom Meets Rate Reality Check! 🔥
+
+🇺🇸 Wall Street Wakes Up: Anthropic ( $ANT ) IPO is the blockbuster of the decade! Priced at $83/share (above $70-78 range), raising a record ~$81.3B — the largest IPO ever, valuing the Claude AI pioneer at ~$1.5T fully
+
+Gokul Chhabra
+Verified account
+@ChhabraGokul Nov 19 Trading With Claude AI
+
+#claude #nifty #livetrading #banknifty #stockmarket Embedded video Play Video. 1 minute 14 seconds long 1 like, 88 views
+
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 Jane Street did not "make" $39.6 billion last year. That figure is net trading revenue, the money in the door before the firm pays a single employee.
+
+Jane Street paid its roughly 3,500 people $9.4 billion in 2025, about $2.7 million each on average. Its earnings before interest, Quote
+Ruuj
+Verified account
+@RuOnChain1 Nov 18
+Quant firms have quietly become the biggest money makers in finance.
+
+Jane Street made $39.6 billion last year, and this year it has already passed $40 billion. Two Sigma manages about $65 billion for its investors.
+
+I put 14 of the biggest trading firms on one chart, from the x.com/ruonchain1/sta…
+
+Image
+
+Brian Skellenger on all Platforms
+Verified account
+@brianskellenger Nov 20 1 like, 2 bookmarks, 864 views
+
+Niveditha Reddy
+Verified account
+@hariniv2505 Nov 20 Which AI model is best for understanding trader language?
+
+I’m developing an AI-assisted options research and simulation platform for Indian index options.
+
+The AI needs to understand trader instructions such as:
+
+* “Create a NIFTY short straddle with a 25% stop-loss on each 4 replies, 2 likes, 2 bookmarks, 236 views
+
+StockGro
+Verified account
+@stockgro Nov 20 1 reply, 1 repost, 5 likes, 1 bookmark, 2371 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 955 views
+
+𝙏𝙝𝙚 𝙆𝙧𝙞𝙨𝙝 𝙍𝙚𝙥𝙤𝙧𝙩
+Verified account
+@IamBkrish Nov 19 🧾 𝐀𝐍𝐓𝐇𝐑𝐎𝐏𝐈𝐂 𝐋𝐈𝐒𝐓𝐒 𝐓𝐎𝐍𝐈𝐆𝐇𝐓: 𝐀𝐍 $𝟖𝟏 𝐁𝐍 𝐓𝐄𝐒𝐓 𝐎𝐅 𝐓𝐇𝐄 𝐀𝐈 𝐓𝐑𝐀𝐃𝐄
+
+Anthropic, the company behind Claude, priced its IPO at $83 a share, per its final prospectus filed with the SEC. That is above the $70-78 range it pitched to investors.
+
+It 1 like, 272 views
+
+Anil Kokku
+Verified account
+@Anilkokku999 Nov 19 MARKET CLOSE | 19 NOV 2026
+
+India rallies. Global markets remain cautious. AI takes centre stage.
+
+Indian equities staged a strong recovery today, despite mixed global cues.
+
+📊 India
+Nifty 50: 25,514.30 (+1.14%)
+Sensex: 83,021.75 (+1.21%)
+
+What led the rally?
+• Auto stocks led
+
+WorldOrderWatcher
+Verified account
+@StayInformedNow Nov 19 🚀 MARKET PULSE: Nov 19 — AI Boom Meets Rate Reality Check! 🔥
+
+🇺🇸 Wall Street Wakes Up: Anthropic ( $ANT ) IPO is the blockbuster of the decade! Priced at $83/share (above $70-78 range), raising a record ~$81.3B — the largest IPO ever, valuing the Claude AI pioneer at ~$1.5T fully
+
+Gokul Chhabra
+Verified account
+@ChhabraGokul Nov 19 Trading With Claude AI
+
+#claude #nifty #livetrading #banknifty #stockmarket Embedded video Play Video. 1 minute 14 seconds long 1 like, 88 views
+
+Truthy 🐐 ꧁IP꧂
+@inked011 Nov 19 Why is no1 talking about ANTHROPIC (CLAUDE) available in global futures trading section in coindcx ??
+#nifty #AnthropicIPO #nasdaq #crypto #btc #eth #sol 1 reply, 79 views
+
+Tradeswift
+Verified account
+@tradeswift Nov 19 Daily Morning Market Brief
+Date: 19/11/2026
+
+Markets are expected to remain under pressure following yesterday’s weak session, as hawkish commentary from policymakers over the possibility of further rate hikes weighed on investor sentiment. Concerns intensified after a couple of Image
+Sandeep Jain Tradeswift and Nishant Jain 2 reposts, 6 likes, 1 bookmark, 1991 views

@@ -1,0 +1,460 @@
+QUERY: ("dhan mcp" OR "kite mcp" OR "zerodha mcp" OR "upstox mcp" OR "groww mcp")
+URL: https://x.com/search?q=(%22dhan%20mcp%22%20OR%20%22kite%20mcp%22%20OR%20%22zerodha%20mcp%22%20OR%20%22upstox%20mcp%22%20OR%20%22groww%20mcp%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 16
+
+GDG MAD
+@gdgmad Nov 18 Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.
+
+Hear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai
+
+RSVPed yet? 👉 devfestmumbai.com Image
+
+Vishal Bulbule
+@vishal__bulbule Oct 27 I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video Play Video. 1 minute 7 seconds long 1 reply, 2 likes, 116 views
+
+shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI 1 reply, 2 likes, 72 views" description="shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI From kitepilot.shsxnk.com 1 reply, 2 likes, 72 views
+
+Ishatv Sharma
+Verified account
+@Ishatvv Oct 20 Leveraging Zerodha (kite) MCP is an absolute game changer, never thought i\'d be learning about my investing pattern in such depth.
+Still feel that i\'m under-utilising it.
+
+#zerodha 1 reply, 5 likes, 131 views
+
+Deepankar
+Verified account
+@DeepankarBhade Sep 18 how to keep kite mcp session alive 3 likes, 318 views
+
+Ayush Agrawal
+Verified account
+@iMicrocap Jul 18 zerodha.com/z-connect/feat
+
+Good read on Connecting Kite to Claude zerodha.com Connect your Zerodha account to AI assistants with Kite MCP You can now connect your Zerodha account to AI assistants like Claude, Cursor, and Windsurf completely free of charge with the new Kite Model Context 1 repost, 9 likes, 23 bookmarks, 2327 views
+
+
+GDG MAD
+@gdgmad Nov 18 Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.
+
+Hear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai
+
+RSVPed yet? 👉 devfestmumbai.com Image
+
+Vishal Bulbule
+@vishal__bulbule Oct 27 I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video
+1:05 1 reply, 2 likes, 116 views
+
+shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI 1 reply, 2 likes, 72 views" description="shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI From kitepilot.shsxnk.com 1 reply, 2 likes, 72 views
+
+Ishatv Sharma
+Verified account
+@Ishatvv Oct 20 Leveraging Zerodha (kite) MCP is an absolute game changer, never thought i\'d be learning about my investing pattern in such depth.
+Still feel that i\'m under-utilising it.
+
+#zerodha 1 reply, 5 likes, 131 views
+
+Deepankar
+Verified account
+@DeepankarBhade Sep 18 how to keep kite mcp session alive 3 likes, 318 views
+
+Ayush Agrawal
+Verified account
+@iMicrocap Jul 18 zerodha.com/z-connect/feat
+
+Good read on Connecting Kite to Claude zerodha.com Connect your Zerodha account to AI assistants with Kite MCP You can now connect your Zerodha account to AI assistants like Claude, Cursor, and Windsurf completely free of charge with the new Kite Model Context 1 repost, 9 likes, 23 bookmarks, 2327 views
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 202 views
+
+Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views" description="Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 Play youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jul 3 Replying to @witcheer - model: OpenAI GPT 5.4/Deepseek V4 Flash for most agents. Qwen3.6 for the main reasoning one.
+ - memory: Honcho
+- interface: Discord
+- orchestration: direct tool calling
+- Skills: have a whole bunch of personal skills created. Using more of API\'s than MCPs for interacting with 1 reply, 16 likes, 8 bookmarks, 4827 views
+
+
+GDG MAD
+@gdgmad Nov 18 Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.
+
+Hear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai
+
+RSVPed yet? 👉 devfestmumbai.com Image
+
+Vishal Bulbule
+@vishal__bulbule Oct 27 I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video
+
+Seek slider
+Play
+0:03 / 1:07 Unmute Volume slider Video Settings Picture-in-Picture Full screen 1 reply, 2 likes, 116 views
+
+shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI 1 reply, 2 likes, 72 views" description="shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI From kitepilot.shsxnk.com 1 reply, 2 likes, 72 views
+
+Ishatv Sharma
+Verified account
+@Ishatvv Oct 20 Leveraging Zerodha (kite) MCP is an absolute game changer, never thought i\'d be learning about my investing pattern in such depth.
+Still feel that i\'m under-utilising it.
+
+#zerodha 1 reply, 5 likes, 131 views
+
+Deepankar
+Verified account
+@DeepankarBhade Sep 18 how to keep kite mcp session alive 3 likes, 318 views
+
+Ayush Agrawal
+Verified account
+@iMicrocap Jul 18 zerodha.com/z-connect/feat
+
+Good read on Connecting Kite to Claude zerodha.com Connect your Zerodha account to AI assistants with Kite MCP You can now connect your Zerodha account to AI assistants like Claude, Cursor, and Windsurf completely free of charge with the new Kite Model Context 1 repost, 9 likes, 23 bookmarks, 2327 views
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 202 views
+
+Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views" description="Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 Play youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jul 3 Replying to @witcheer - model: OpenAI GPT 5.4/Deepseek V4 Flash for most agents. Qwen3.6 for the main reasoning one.
+ - memory: Honcho
+- interface: Discord
+- orchestration: direct tool calling
+- Skills: have a whole bunch of personal skills created. Using more of API\'s than MCPs for interacting with 1 reply, 16 likes, 8 bookmarks, 4827 views
+
+Zerodha
+Verified account
+@zerodha Jul 2 Replying to @boidawonda Hi, Kite MCP is working fine from our end. Could you please send us a DM with your details and a brief description of the issue you\'re facing? We\'ll check and assist you further. links.zerodha.com/twitter-dm 1 reply, 299 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views" description="Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Embedded video Play Video. 5 minutes 16 seconds long
+Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views
+
+
+GDG MAD
+@gdgmad Nov 18 Giving AI write access to your Zerodha account is brave. Locking the write path in code is smart.
+
+Hear Rahul Rao, Country Lead at CloudRock, dissect Kite MCP, alert logs, and building read-only agents near real money at DevFestMumbai
+
+RSVPed yet? 👉 devfestmumbai.com Image
+
+Vishal Bulbule
+@vishal__bulbule Oct 27 I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video
+
+Seek slider
+Play
+0:03 / 1:07 Unmute Volume slider Video Settings Picture-in-Picture Full screen 1 reply, 2 likes, 116 views
+
+shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI 1 reply, 2 likes, 72 views" description="shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI From kitepilot.shsxnk.com 1 reply, 2 likes, 72 views
+
+Ishatv Sharma
+Verified account
+@Ishatvv Oct 20 Leveraging Zerodha (kite) MCP is an absolute game changer, never thought i\'d be learning about my investing pattern in such depth.
+Still feel that i\'m under-utilising it.
+
+#zerodha 1 reply, 5 likes, 131 views
+
+Deepankar
+Verified account
+@DeepankarBhade Sep 18 how to keep kite mcp session alive 3 likes, 318 views
+
+Ayush Agrawal
+Verified account
+@iMicrocap Jul 18 zerodha.com/z-connect/feat
+
+Good read on Connecting Kite to Claude zerodha.com Connect your Zerodha account to AI assistants with Kite MCP You can now connect your Zerodha account to AI assistants like Claude, Cursor, and Windsurf completely free of charge with the new Kite Model Context 1 repost, 9 likes, 23 bookmarks, 2327 views
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 202 views
+
+Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views" description="Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 Play youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jul 3 Replying to @witcheer - model: OpenAI GPT 5.4/Deepseek V4 Flash for most agents. Qwen3.6 for the main reasoning one.
+ - memory: Honcho
+- interface: Discord
+- orchestration: direct tool calling
+- Skills: have a whole bunch of personal skills created. Using more of API\'s than MCPs for interacting with 1 reply, 16 likes, 8 bookmarks, 4827 views
+
+Zerodha
+Verified account
+@zerodha Jul 2 Replying to @boidawonda Hi, Kite MCP is working fine from our end. Could you please send us a DM with your details and a brief description of the issue you\'re facing? We\'ll check and assist you further. links.zerodha.com/twitter-dm 1 reply, 299 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views" description="Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Embedded video Play Video. 5 minutes 16 seconds long
+Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 Last week I was in Bangalore for the Dhan Dev event, and I got to talk about how anyone can use AI to validate and backtest trading ideas without writing a single line of code themselves.
+
+The core of my talk was simple. Most traders have ideas. But the gap between having an idea 12 replies, 5 reposts, 102 likes, 36 bookmarks, 35083 views
+
+
+Vishal Bulbule
+@vishal__bulbule Oct 27 I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video
+
+Seek slider
+Play
+0:03 / 1:07 Unmute Volume slider Video Settings Picture-in-Picture Full screen 1 reply, 2 likes, 116 views
+
+shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI 1 reply, 2 likes, 72 views" description="shsxnk
+@shsxnk Oct 27 Replying to @Nithin0dha @Nithin0dh haven\'t used api yet
+ earlier i had built something using kite mcp kitepilot.shsxnk.com Talk to your Zerodha portfolio with AI From kitepilot.shsxnk.com 1 reply, 2 likes, 72 views
+
+Ishatv Sharma
+Verified account
+@Ishatvv Oct 20 Leveraging Zerodha (kite) MCP is an absolute game changer, never thought i\'d be learning about my investing pattern in such depth.
+Still feel that i\'m under-utilising it.
+
+#zerodha 1 reply, 5 likes, 131 views
+
+Deepankar
+Verified account
+@DeepankarBhade Sep 18 how to keep kite mcp session alive 3 likes, 318 views
+
+Ayush Agrawal
+Verified account
+@iMicrocap Jul 18 zerodha.com/z-connect/feat
+
+Good read on Connecting Kite to Claude zerodha.com Connect your Zerodha account to AI assistants with Kite MCP You can now connect your Zerodha account to AI assistants like Claude, Cursor, and Windsurf completely free of charge with the new Kite Model Context 1 repost, 9 likes, 23 bookmarks, 2327 views
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 202 views
+
+Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views" description="Piyush Chaudhry
+Verified account
+@piyushchaudhry Jul 12 Replying to @piyushchaudhry Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows
+
+2/4 Play youtube.com Introducing: Dhan MCP For AI Agents & Agent-Native Trading Workflows Building automated trading workflows has officially evolved past tr... 1 reply, 3 reposts, 11 likes, 15 bookmarks, 4501 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jul 3 Replying to @witcheer - model: OpenAI GPT 5.4/Deepseek V4 Flash for most agents. Qwen3.6 for the main reasoning one.
+ - memory: Honcho
+- interface: Discord
+- orchestration: direct tool calling
+- Skills: have a whole bunch of personal skills created. Using more of API\'s than MCPs for interacting with 1 reply, 16 likes, 8 bookmarks, 4827 views
+
+Zerodha
+Verified account
+@zerodha Jul 2 Replying to @boidawonda Hi, Kite MCP is working fine from our end. Could you please send us a DM with your details and a brief description of the issue you\'re facing? We\'ll check and assist you further. links.zerodha.com/twitter-dm 1 reply, 299 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views" description="Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill Embedded video Play Video. 5 minutes 16 seconds long
+Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27137 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 Last week I was in Bangalore for the Dhan Dev event, and I got to talk about how anyone can use AI to validate and backtest trading ideas without writing a single line of code themselves.
+
+The core of my talk was simple. Most traders have ideas. But the gap between having an idea 12 replies, 5 reposts, 102 likes, 36 bookmarks, 35083 views
+
+Sumit Yadav
+@sumityadav8181 Jun 20 Replying to @saketh1998 Kite MCP and claude is amazing, everyone should try. 2 likes, 1 bookmark, 771 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jun 3 My month with AI: May 2026 Edition
+
+Focused mostly on Agents this month, and a little bit of vibe coding. All projects are still WIP and nothing feels complete yet. Many being dogfooded. Some abandoned (for now). P.s. 
+
+The link for my vibe coding workshop in Delhi (this Friday) 12 replies, 2 reposts, 13 likes, 13 bookmarks, 7379 views
+
+Tathagata Dey
+@i_am_tatha May 26 Is @zerodha kite mcp server down? 1 reply, 2 likes, 259 views
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3378 views

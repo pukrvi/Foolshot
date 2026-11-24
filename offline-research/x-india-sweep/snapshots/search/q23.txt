@@ -1,0 +1,377 @@
+QUERY: from:hb_stocks (nse OR data OR backtest)
+URL: https://x.com/search?q=from%3Ahb_stocks%20(nse%20OR%20data%20OR%20backtest)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 13
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 19 Replying to @DawnCladLion Yes, it is kind of, but not in exact numbers, because, by all clear data analysis, when you know a stock is going to pause and consolidate, then there is no point holding it. Whereas a target of a particular number or percentage that you place on it, just for the sake of locking 1 like, 47 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 Replying to @hb_stocks WHAT THE SHEET DOES
+
+Paste up to 50 NSE symbols.
+
+It pulls 3 months of daily closes, finds every day the Nifty fell 1% or more, and counts how many of those days each stock beat the index. 1 reply, 2 likes, 1 bookmark, 890 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 BREAKING: I turned Claude into a fundamental analyst for NSE stocks.
+
+Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.
+
+Here\'s what it checks ↓ 2 replies, 12 reposts, 77 likes, 158 bookmarks, 11128 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks Live NSE prices, free:
+
+=GOOGLEFINANCE("NSE:TCS","price")
+
+Swap in any NSE symbol. Prices refresh on their own (with a short delay).
+
+Your watchlist now updates itself. 2 replies, 22 likes, 28 bookmarks, 9135 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 2. THE 52-WEEK HIGH LIST
+
+Every day, NSE publishes the stocks hitting new 52-week highs. Free.
+
+Most traders think these are "too expensive". In practice, strong stocks often keep getting stronger.
+
+Read it every evening and notice which names keep showing up. 1 reply, 3 likes, 2 bookmarks, 630 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 8. RUN YOUR OWN SPIES
+
+Book 1 builds an entire intelligence network. The king never relied on rumours.
+
+For traders: read the data yourself. Bulk deals, volume, the chart. Not WhatsApp forwards. Image 1 reply, 2 likes, 1 bookmark, 253 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 15 Replying to @rajaamit28 Sir, I am not an options trader, so I would be the wrong person to comment on this, but why don\'t you backtest it properly? Try and see how it works. When you can figure out a way, don\'t put your hard-earned money in while you are testing. You can paper trade as well to check
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks A doctor doesn\'t guess from how you look. He orders the blood test, then reads the report.
+
+Yet traders guess from a price chart while the full report sits free on NSE.
+
+I teach the process the same way: plain language, visual metaphors. No jargon, no tips, no targets.
+
+If you\'re tradewithhaseeb.com Mastering Swing Trading — A Step-by-Step Guide from Basics to Mastery 1 reply, 2 likes, 8 bookmarks, 1046 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks TL;DR, the 6 prompts:
+
+1. Big up days + delivery %
+2. Volume dry-up near the highs
+3. Stock vs the Nifty, 1/3/6 months
+4. Every 15%+ pullback and its recovery
+5. The 5 biggest volume days
+6. Price vs the 10, 20 and 50-day averages
+
+Free data. Plain English. Save this. Image 1 reply, 4 likes, 4 bookmarks, 975 views
+
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 19 Replying to @DawnCladLion Yes, it is kind of, but not in exact numbers, because, by all clear data analysis, when you know a stock is going to pause and consolidate, then there is no point holding it. Whereas a target of a particular number or percentage that you place on it, just for the sake of locking 1 like, 47 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 Replying to @hb_stocks WHAT THE SHEET DOES
+
+Paste up to 50 NSE symbols.
+
+It pulls 3 months of daily closes, finds every day the Nifty fell 1% or more, and counts how many of those days each stock beat the index. 1 reply, 2 likes, 1 bookmark, 890 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 BREAKING: I turned Claude into a fundamental analyst for NSE stocks.
+
+Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.
+
+Here\'s what it checks ↓ 2 replies, 12 reposts, 77 likes, 158 bookmarks, 11128 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks Live NSE prices, free:
+
+=GOOGLEFINANCE("NSE:TCS","price")
+
+Swap in any NSE symbol. Prices refresh on their own (with a short delay).
+
+Your watchlist now updates itself. 2 replies, 22 likes, 28 bookmarks, 9135 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 2. THE 52-WEEK HIGH LIST
+
+Every day, NSE publishes the stocks hitting new 52-week highs. Free.
+
+Most traders think these are "too expensive". In practice, strong stocks often keep getting stronger.
+
+Read it every evening and notice which names keep showing up. 1 reply, 3 likes, 2 bookmarks, 630 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 8. RUN YOUR OWN SPIES
+
+Book 1 builds an entire intelligence network. The king never relied on rumours.
+
+For traders: read the data yourself. Bulk deals, volume, the chart. Not WhatsApp forwards. Image 1 reply, 2 likes, 1 bookmark, 253 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 15 Replying to @rajaamit28 Sir, I am not an options trader, so I would be the wrong person to comment on this, but why don\'t you backtest it properly? Try and see how it works. When you can figure out a way, don\'t put your hard-earned money in while you are testing. You can paper trade as well to check
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks A doctor doesn\'t guess from how you look. He orders the blood test, then reads the report.
+
+Yet traders guess from a price chart while the full report sits free on NSE.
+
+I teach the process the same way: plain language, visual metaphors. No jargon, no tips, no targets.
+
+If you\'re tradewithhaseeb.com Mastering Swing Trading — A Step-by-Step Guide from Basics to Mastery 1 reply, 2 likes, 8 bookmarks, 1046 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks TL;DR, the 6 prompts:
+
+1. Big up days + delivery %
+2. Volume dry-up near the highs
+3. Stock vs the Nifty, 1/3/6 months
+4. Every 15%+ pullback and its recovery
+5. The 5 biggest volume days
+6. Price vs the 10, 20 and 50-day averages
+
+Free data. Plain English. Save this. Image 1 reply, 4 likes, 4 bookmarks, 975 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks Sellers: BNP Paribas Financial Markets and Goldman Sachs Investments Mauritius.
+
+Buyers: UTI Mutual Fund and Nippon India Mutual Fund.
+
+All at around ₹3,200. The stock closed at ₹3,800 on 8 Nov.
+
+One prompt, one NSE page, and you can see exactly who swapped places. 1 reply, 2 likes, 1196 views
+
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 19 Replying to @DawnCladLion Yes, it is kind of, but not in exact numbers, because, by all clear data analysis, when you know a stock is going to pause and consolidate, then there is no point holding it. Whereas a target of a particular number or percentage that you place on it, just for the sake of locking 1 like, 47 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 Replying to @hb_stocks WHAT THE SHEET DOES
+
+Paste up to 50 NSE symbols.
+
+It pulls 3 months of daily closes, finds every day the Nifty fell 1% or more, and counts how many of those days each stock beat the index. 1 reply, 2 likes, 1 bookmark, 890 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 BREAKING: I turned Claude into a fundamental analyst for NSE stocks.
+
+Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.
+
+Here\'s what it checks ↓ 2 replies, 12 reposts, 77 likes, 158 bookmarks, 11128 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks Live NSE prices, free:
+
+=GOOGLEFINANCE("NSE:TCS","price")
+
+Swap in any NSE symbol. Prices refresh on their own (with a short delay).
+
+Your watchlist now updates itself. 2 replies, 22 likes, 28 bookmarks, 9135 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 2. THE 52-WEEK HIGH LIST
+
+Every day, NSE publishes the stocks hitting new 52-week highs. Free.
+
+Most traders think these are "too expensive". In practice, strong stocks often keep getting stronger.
+
+Read it every evening and notice which names keep showing up. 1 reply, 3 likes, 2 bookmarks, 630 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 8. RUN YOUR OWN SPIES
+
+Book 1 builds an entire intelligence network. The king never relied on rumours.
+
+For traders: read the data yourself. Bulk deals, volume, the chart. Not WhatsApp forwards. Image 1 reply, 2 likes, 1 bookmark, 253 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 15 Replying to @rajaamit28 Sir, I am not an options trader, so I would be the wrong person to comment on this, but why don\'t you backtest it properly? Try and see how it works. When you can figure out a way, don\'t put your hard-earned money in while you are testing. You can paper trade as well to check
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks A doctor doesn\'t guess from how you look. He orders the blood test, then reads the report.
+
+Yet traders guess from a price chart while the full report sits free on NSE.
+
+I teach the process the same way: plain language, visual metaphors. No jargon, no tips, no targets.
+
+If you\'re tradewithhaseeb.com Mastering Swing Trading — A Step-by-Step Guide from Basics to Mastery 1 reply, 2 likes, 8 bookmarks, 1046 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks TL;DR, the 6 prompts:
+
+1. Big up days + delivery %
+2. Volume dry-up near the highs
+3. Stock vs the Nifty, 1/3/6 months
+4. Every 15%+ pullback and its recovery
+5. The 5 biggest volume days
+6. Price vs the 10, 20 and 50-day averages
+
+Free data. Plain English. Save this. Image 1 reply, 4 likes, 4 bookmarks, 975 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks Sellers: BNP Paribas Financial Markets and Goldman Sachs Investments Mauritius.
+
+Buyers: UTI Mutual Fund and Nippon India Mutual Fund.
+
+All at around ₹3,200. The stock closed at ₹3,800 on 8 Nov.
+
+One prompt, one NSE page, and you can see exactly who swapped places. 1 reply, 2 likes, 1196 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks STEP 1: GET THE DATA (60 SECONDS)
+
+1. Open NSE\'s Security-wise Archives (Equities)
+2. Choose "Security-wise Price volume & Deliverable position data"
+3. Enter the symbol, pick 1Y, click Download (.csv)
+
+Want to compare with the index? Download the Nifty 50 history from NSE\'s Image 1 reply, 4 likes, 8 bookmarks, 2481 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks Most traders open NSE, check the price and leave.
+
+But every stock\'s daily price, volume and delivery % for a full year is a free download.
+
+In a spreadsheet, nobody reads it. In Claude, it answers you in seconds.
+
+I tested every prompt below on one real stock: BSE Ltd, Nov 2025 1 reply, 5 likes, 3 bookmarks, 2736 views
+
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 18 BREAKING: I turned Claude into a fundamental analyst for NSE stocks.
+
+Type one stock name. It reads the results, the investor presentation and the concall, then grades the stock in 11 checks.
+
+Here\'s what it checks ↓ 2 replies, 12 reposts, 77 likes, 158 bookmarks, 11128 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks Live NSE prices, free:
+
+=GOOGLEFINANCE("NSE:TCS","price")
+
+Swap in any NSE symbol. Prices refresh on their own (with a short delay).
+
+Your watchlist now updates itself. 2 replies, 22 likes, 28 bookmarks, 9135 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 2. THE 52-WEEK HIGH LIST
+
+Every day, NSE publishes the stocks hitting new 52-week highs. Free.
+
+Most traders think these are "too expensive". In practice, strong stocks often keep getting stronger.
+
+Read it every evening and notice which names keep showing up. 1 reply, 3 likes, 2 bookmarks, 630 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 16 Replying to @hb_stocks 8. RUN YOUR OWN SPIES
+
+Book 1 builds an entire intelligence network. The king never relied on rumours.
+
+For traders: read the data yourself. Bulk deals, volume, the chart. Not WhatsApp forwards. Image 1 reply, 2 likes, 1 bookmark, 253 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 15 Replying to @rajaamit28 Sir, I am not an options trader, so I would be the wrong person to comment on this, but why don\'t you backtest it properly? Try and see how it works. When you can figure out a way, don\'t put your hard-earned money in while you are testing. You can paper trade as well to check
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks A doctor doesn\'t guess from how you look. He orders the blood test, then reads the report.
+
+Yet traders guess from a price chart while the full report sits free on NSE.
+
+I teach the process the same way: plain language, visual metaphors. No jargon, no tips, no targets.
+
+If you\'re tradewithhaseeb.com Mastering Swing Trading — A Step-by-Step Guide from Basics to Mastery 1 reply, 2 likes, 8 bookmarks, 1046 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks TL;DR, the 6 prompts:
+
+1. Big up days + delivery %
+2. Volume dry-up near the highs
+3. Stock vs the Nifty, 1/3/6 months
+4. Every 15%+ pullback and its recovery
+5. The 5 biggest volume days
+6. Price vs the 10, 20 and 50-day averages
+
+Free data. Plain English. Save this. Image 1 reply, 4 likes, 4 bookmarks, 975 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks Sellers: BNP Paribas Financial Markets and Goldman Sachs Investments Mauritius.
+
+Buyers: UTI Mutual Fund and Nippon India Mutual Fund.
+
+All at around ₹3,200. The stock closed at ₹3,800 on 8 Nov.
+
+One prompt, one NSE page, and you can see exactly who swapped places. 1 reply, 2 likes, 1196 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks STEP 1: GET THE DATA (60 SECONDS)
+
+1. Open NSE\'s Security-wise Archives (Equities)
+2. Choose "Security-wise Price volume & Deliverable position data"
+3. Enter the symbol, pick 1Y, click Download (.csv)
+
+Want to compare with the index? Download the Nifty 50 history from NSE\'s Image 1 reply, 4 likes, 8 bookmarks, 2481 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 Replying to @hb_stocks Most traders open NSE, check the price and leave.
+
+But every stock\'s daily price, volume and delivery % for a full year is a free download.
+
+In a spreadsheet, nobody reads it. In Claude, it answers you in seconds.
+
+I tested every prompt below on one real stock: BSE Ltd, Nov 2025 1 reply, 5 likes, 3 bookmarks, 2736 views
+
+HaseebBadar_Stocks
+Verified account
+@hb_stocks Nov 14 🚨 BREAKING: The most valuable trading feature nobody in India is using:
+
+NSE data + Claude.
+
+Download any stock\'s history from NSE for free, drop it into Claude, and ask it questions in plain English.
+
+Here\'s the step-by-step guide, with the exact prompts: Image 10 replies, 31 reposts, 230 likes, 513 bookmarks, 24530 views

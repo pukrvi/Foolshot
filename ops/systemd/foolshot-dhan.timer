@@ -1,0 +1,7 @@
+[Unit]
+Description=Check Dhan account access each morning at 08:45 IST
+[Timer]
+OnCalendar=*-*-* 08:45:00 Asia/Kolkata
+Persistent=true
+[Install]
+WantedBy=timers.target

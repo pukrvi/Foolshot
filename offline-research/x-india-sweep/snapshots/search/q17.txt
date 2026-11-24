@@ -1,0 +1,375 @@
+QUERY: ("trading agent" OR "multi-agent") (india OR nse OR nifty OR "indian market")
+URL: https://x.com/search?q=(%22trading%20agent%22%20OR%20%22multi-agent%22)%20(india%20OR%20nse%20OR%20nifty%20OR%20%22indian%20market%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 12
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @n_skene and @UKDRI I build this kind of plumbing: multi-agent orchestration, document pipelines, and evals for when agents get it wrong. ex founding eng/CTO, Python + Postgres. I\'m in India and open to moving to the UK. would the roles consider that? github.com Captain272 - Overview Captain272 has 64 repositories available. Follow their code on GitHub.
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,..." description="Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,... From github.com
+
+Shalini Goyal
+Verified account
+@goyalshaliniuk 4 hours ago AI agents get powerful when you give them the right tools.
+
+Here are 10 GitHub repositories that can upgrade what your agents can actually do:
+
+→ 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲
+Give agents web-browsing capabilities to navigate sites, click buttons, fill forms, and extract data. Embedded video Play Video Play
+GIF 12 replies, 12 reposts, 28 likes, 16 bookmarks, 777 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 18 hours ago 🚨 New AI Job
+Applied Scientist @ Amazon
+📍 Bengaluru, India
+🕐 Posted <1h ago
+🧠 LLM agents, multimodal models, fine-tuning, RAG
+Build the multi-agent system behind Amazon KDP\'s author support assistant.
+Apply ↓
+linkedin.com/jobs/view/4485
+#AIJobs #GenAI in.linkedin.com Applied Scientist at Amazon — Bengaluru, Karnataka, India | LinkedIn Jobs Apply for Applied Scientist at Amazon in Bengaluru, Karnataka, India. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 17 views
+
+Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts 1 reply, 1 repost, 46 views" description="Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts From youtube.com 1 reply, 1 repost, 46 views
+
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @n_skene and @UKDRI I build this kind of plumbing: multi-agent orchestration, document pipelines, and evals for when agents get it wrong. ex founding eng/CTO, Python + Postgres. I\'m in India and open to moving to the UK. would the roles consider that? github.com Captain272 - Overview Captain272 has 64 repositories available. Follow their code on GitHub.
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,..." description="Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,... From github.com
+
+Shalini Goyal
+Verified account
+@goyalshaliniuk 4 hours ago AI agents get powerful when you give them the right tools.
+
+Here are 10 GitHub repositories that can upgrade what your agents can actually do:
+
+→ 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲
+Give agents web-browsing capabilities to navigate sites, click buttons, fill forms, and extract data. Embedded video Pause
+GIF 12 replies, 12 reposts, 28 likes, 16 bookmarks, 777 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 18 hours ago 🚨 New AI Job
+Applied Scientist @ Amazon
+📍 Bengaluru, India
+🕐 Posted <1h ago
+🧠 LLM agents, multimodal models, fine-tuning, RAG
+Build the multi-agent system behind Amazon KDP\'s author support assistant.
+Apply ↓
+linkedin.com/jobs/view/4485
+#AIJobs #GenAI in.linkedin.com Applied Scientist at Amazon — Bengaluru, Karnataka, India | LinkedIn Jobs Apply for Applied Scientist at Amazon in Bengaluru, Karnataka, India. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 17 views
+
+Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts 1 reply, 1 repost, 46 views" description="Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts From youtube.com 1 reply, 1 repost, 46 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 22 hours ago 🚨 New AI Job
+AI Platform Engineer @ DwellFi
+📍 Remote — India
+🕐 Posted 3 hours ago
+🧠 LLMs, LangChain, RAG, Multi-agent systems
+Build FastAPI backend systems and AI agents for a SOC-2 certified fintech platform.
+Apply ↓
+linkedin.com/jobs/view/4492
+#AIJobs #AIHiring in.linkedin.com AI Platform Engineer (India - Remote) at DwellFi — India | LinkedIn Jobs Apply for AI Platform Engineer (India - Remote) at DwellFi in India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI Nov 21 🚨 New AI Job
+AI And Generative AI Senior Developer @ EY
+📍 Kochi, India (On-site)
+🕐 Posted 13h ago
+🧠 LLMs, Agentic AI, RAG, LangGraph
+Architect enterprise multi-agent AI platforms in production.
+Apply ↓
+linkedin.com/jobs/view/4491
+#AIJobs #AIHiring in.linkedin.com AI And Generative AI Senior Developer at EY — Kochi, Kerala, India | LinkedIn Jobs Apply for AI And Generative AI Senior Developer at EY in Kochi, Kerala, India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 20 views
+
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @n_skene and @UKDRI I build this kind of plumbing: multi-agent orchestration, document pipelines, and evals for when agents get it wrong. ex founding eng/CTO, Python + Postgres. I\'m in India and open to moving to the UK. would the roles consider that? github.com Captain272 - Overview Captain272 has 64 repositories available. Follow their code on GitHub.
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,..." description="Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,... From github.com
+
+Shalini Goyal
+Verified account
+@goyalshaliniuk 4 hours ago AI agents get powerful when you give them the right tools.
+
+Here are 10 GitHub repositories that can upgrade what your agents can actually do:
+
+→ 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲
+Give agents web-browsing capabilities to navigate sites, click buttons, fill forms, and extract data. Embedded video Play
+GIF 12 replies, 12 reposts, 28 likes, 16 bookmarks, 777 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 18 hours ago 🚨 New AI Job
+Applied Scientist @ Amazon
+📍 Bengaluru, India
+🕐 Posted <1h ago
+🧠 LLM agents, multimodal models, fine-tuning, RAG
+Build the multi-agent system behind Amazon KDP\'s author support assistant.
+Apply ↓
+linkedin.com/jobs/view/4485
+#AIJobs #GenAI in.linkedin.com Applied Scientist at Amazon — Bengaluru, Karnataka, India | LinkedIn Jobs Apply for Applied Scientist at Amazon in Bengaluru, Karnataka, India. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 17 views
+
+Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts 1 reply, 1 repost, 46 views" description="Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts From youtube.com 1 reply, 1 repost, 46 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 22 hours ago 🚨 New AI Job
+AI Platform Engineer @ DwellFi
+📍 Remote — India
+🕐 Posted 3 hours ago
+🧠 LLMs, LangChain, RAG, Multi-agent systems
+Build FastAPI backend systems and AI agents for a SOC-2 certified fintech platform.
+Apply ↓
+linkedin.com/jobs/view/4492
+#AIJobs #AIHiring in.linkedin.com AI Platform Engineer (India - Remote) at DwellFi — India | LinkedIn Jobs Apply for AI Platform Engineer (India - Remote) at DwellFi in India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI Nov 21 🚨 New AI Job
+AI And Generative AI Senior Developer @ EY
+📍 Kochi, India (On-site)
+🕐 Posted 13h ago
+🧠 LLMs, Agentic AI, RAG, LangGraph
+Architect enterprise multi-agent AI platforms in production.
+Apply ↓
+linkedin.com/jobs/view/4491
+#AIJobs #AIHiring in.linkedin.com AI And Generative AI Senior Developer at EY — Kochi, Kerala, India | LinkedIn Jobs Apply for AI And Generative AI Senior Developer at EY in Kochi, Kerala, India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 20 views
+
+Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1073 views" description="Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1073 views
+
+Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1001 views" description="Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1001 views
+
+
+Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,..." description="Captain Abhijeeth
+@CaptainAbhijee1 4 hours ago Replying to @abel_ai_lab agent-native infra is what I do. built a multi-agent orchestrator and its data pipelines solo as founding eng/CTO, ran inference queues for 300k users, and my own agent runtime is open source: github.com/Captain272/claw. I\'m in India and would relocate. how do I apply? github.com GitHub - Captain272/claw: System-wide voice agent for macOS: hotkey, talk, it acts. FastAPI core,... From github.com
+
+Shalini Goyal
+Verified account
+@goyalshaliniuk 4 hours ago AI agents get powerful when you give them the right tools.
+
+Here are 10 GitHub repositories that can upgrade what your agents can actually do:
+
+→ 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲
+Give agents web-browsing capabilities to navigate sites, click buttons, fill forms, and extract data. Embedded video Play
+GIF 12 replies, 12 reposts, 28 likes, 16 bookmarks, 777 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 18 hours ago 🚨 New AI Job
+Applied Scientist @ Amazon
+📍 Bengaluru, India
+🕐 Posted <1h ago
+🧠 LLM agents, multimodal models, fine-tuning, RAG
+Build the multi-agent system behind Amazon KDP\'s author support assistant.
+Apply ↓
+linkedin.com/jobs/view/4485
+#AIJobs #GenAI in.linkedin.com Applied Scientist at Amazon — Bengaluru, Karnataka, India | LinkedIn Jobs Apply for Applied Scientist at Amazon in Bengaluru, Karnataka, India. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 17 views
+
+Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts 1 reply, 1 repost, 46 views" description="Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts From youtube.com 1 reply, 1 repost, 46 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 22 hours ago 🚨 New AI Job
+AI Platform Engineer @ DwellFi
+📍 Remote — India
+🕐 Posted 3 hours ago
+🧠 LLMs, LangChain, RAG, Multi-agent systems
+Build FastAPI backend systems and AI agents for a SOC-2 certified fintech platform.
+Apply ↓
+linkedin.com/jobs/view/4492
+#AIJobs #AIHiring in.linkedin.com AI Platform Engineer (India - Remote) at DwellFi — India | LinkedIn Jobs Apply for AI Platform Engineer (India - Remote) at DwellFi in India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI Nov 21 🚨 New AI Job
+AI And Generative AI Senior Developer @ EY
+📍 Kochi, India (On-site)
+🕐 Posted 13h ago
+🧠 LLMs, Agentic AI, RAG, LangGraph
+Architect enterprise multi-agent AI platforms in production.
+Apply ↓
+linkedin.com/jobs/view/4491
+#AIJobs #AIHiring in.linkedin.com AI And Generative AI Senior Developer at EY — Kochi, Kerala, India | LinkedIn Jobs Apply for AI And Generative AI Senior Developer at EY in Kochi, Kerala, India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 20 views
+
+Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1073 views" description="Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1073 views
+
+Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1001 views" description="Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1001 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 962 views
+
+
+Shalini Goyal
+Verified account
+@goyalshaliniuk 4 hours ago AI agents get powerful when you give them the right tools.
+
+Here are 10 GitHub repositories that can upgrade what your agents can actually do:
+
+→ 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲
+Give agents web-browsing capabilities to navigate sites, click buttons, fill forms, and extract data. Embedded video Play
+GIF 12 replies, 12 reposts, 28 likes, 16 bookmarks, 777 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 18 hours ago 🚨 New AI Job
+Applied Scientist @ Amazon
+📍 Bengaluru, India
+🕐 Posted <1h ago
+🧠 LLM agents, multimodal models, fine-tuning, RAG
+Build the multi-agent system behind Amazon KDP\'s author support assistant.
+Apply ↓
+linkedin.com/jobs/view/4485
+#AIJobs #GenAI in.linkedin.com Applied Scientist at Amazon — Bengaluru, Karnataka, India | LinkedIn Jobs Apply for Applied Scientist at Amazon in Bengaluru, Karnataka, India. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 17 views
+
+Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts 1 reply, 1 repost, 46 views" description="Devraj Gupta
+Verified account
+@aiwithjsdev 21 hours ago Hit the 16GB unified memory wall on my Mac Mini M4. 🛑 Running #LocalAI multi-agent workflows (Jarvis + ComfyUI) natively is choking without a 24GB VRAM buffer.
+I\'m officially hunting for a used RTX 3090 in India (Budget: ₹50k | $600).
+Watch the breakdown: youtube.com Why I Need an RTX 3090 for Local AI (Mac Mini M4 Limits) 💻🔥 | #shorts From youtube.com 1 reply, 1 repost, 46 views
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI 22 hours ago 🚨 New AI Job
+AI Platform Engineer @ DwellFi
+📍 Remote — India
+🕐 Posted 3 hours ago
+🧠 LLMs, LangChain, RAG, Multi-agent systems
+Build FastAPI backend systems and AI agents for a SOC-2 certified fintech platform.
+Apply ↓
+linkedin.com/jobs/view/4492
+#AIJobs #AIHiring in.linkedin.com AI Platform Engineer (India - Remote) at DwellFi — India | LinkedIn Jobs Apply for AI Platform Engineer (India - Remote) at DwellFi in India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.
+
+The Arthi AI Collective
+Verified account
+@TheArthiAI Nov 21 🚨 New AI Job
+AI And Generative AI Senior Developer @ EY
+📍 Kochi, India (On-site)
+🕐 Posted 13h ago
+🧠 LLMs, Agentic AI, RAG, LangGraph
+Architect enterprise multi-agent AI platforms in production.
+Apply ↓
+linkedin.com/jobs/view/4491
+#AIJobs #AIHiring in.linkedin.com AI And Generative AI Senior Developer at EY — Kochi, Kerala, India | LinkedIn Jobs Apply for AI And Generative AI Senior Developer at EY in Kochi, Kerala, India. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn. 1 reply, 20 views
+
+Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1073 views" description="Cliff Sieben
+Verified account
+@CliffS58597 Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1073 views
+
+Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran 1 reply, 1001 views" description="Cliff
+Verified account
+@BrotherCliffS Nov 20 NEWSDIGEST - Friday November 20, 2026
+
+Coverage window: new developments since the Thursday digest (about 7:50 AM PT Thursday November 19) through about 8:21 AM PT Friday November 20. All times are Pacific Time (PT) unless marked as local time, ET or GMT. Stories from the axios.com Trump to Axios: I\'m "not rushing into a decision" on Iran From axios.com 1 reply, 1001 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 962 views
+
+Digital India Corporation
+Verified account
+@DigitalIndiaCrp Nov 19 🚀 From Learning to AI Innovation | DAY 3 Highlights
+
+Digital India Corporation (DIC), in collaboration with Amazon Web Services (AWS), successfully conducted a three-day advanced technical training programme on AI-Driven Development Lifecycle (AI-DLC) and Building Advanced Ministry of Electronics & IT and 2 others 1 reply, 198 views
+
+The Insight Seeker
+Verified account
+@blbabu Nov 19 $1 trillion moving in circles. Two-thirds of it borrowed.
+
+The IMF says the world economy is standing on one leg, and that leg is AI.
+
+Who’s spending, who’s borrowing, and how this could end.
+
+#AI #Nvidia #Economy #IMF 1 reply, 1 repost, 1 like, 1 bookmark, 1114 views

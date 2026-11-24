@@ -1,0 +1,8 @@
+[
+ {
+  "handle": "PairSync",
+  "id": "2122679573511057725",
+  "timeText": "6:43 PM · Nov 17, 2026",
+  "text": "Build me a crypto pairs research dashboard using PairDesk Builder. Start from the current pinned release, read the manifest and bench rules, and ask whether I want the Grok VM or a local build. Use one SQLite database. Keep refit dates and price-feed timestamps visible, preserve saved snapshots, and run the supplied verification checks. Start with daily research; discuss a separate feed before adding higher-frequency observation. No live-money execution."
+ }
+]

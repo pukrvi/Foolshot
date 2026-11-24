@@ -1,0 +1,86 @@
+URL: https://x.com/kirubaakaran/status/2070491176311070942
+DATE: 2026-11-22
+MODE: Latest
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)
+
+Step 3 - Download historical data
+Ask Claude to pull EOD history.
+
+Step 4 - Build the ratio file
+Create a CSV with necessary data for backtest
+
+Step 5 - Define rules and backtest
+
+Ratio breaks above 20-day high → hold NIFTYBEES
+Ratio breaks below 20-day low → rotate into GOLDBEES
+
+Step 6 - Validate Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27138 views" description="Kirubakaran Rajendran
+Verified account
+@kirubaakaran A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)
+
+Step 3 - Download historical data
+Ask Claude to pull EOD history.
+
+Step 4 - Build the ratio file
+Create a CSV with necessary data for backtest
+
+Step 5 - Define rules and backtest
+
+Ratio breaks above 20-day high → hold NIFTYBEES
+Ratio breaks below 20-day low → rotate into GOLDBEES
+
+Step 6 - Validate Embedded video
+5:10
+Quote
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran May 16
+₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here\'s the strategy details 🧵 10 replies, 21 reposts, 179 likes, 391 bookmarks, 27138 views
+
+T . Bajaj
+@TanujBajaj8 Jun 26 From claude to Git to Telegram automated signals every day. Easiest way. Thanks for the idea, used it. It’s already working fine. Image 1 reply, 1 repost, 5 likes, 1 bookmark, 912 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 That’s awesome 1 like, 535 views
+
+Pratik Patil
+@Pratikdude1911 Jun 26 Is option data available on dhan mcp 1 reply, 536 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 With Dhan skills you can download it
+
+Ramakrishnan
+@Ram28Iam Jun 26 Hi bro The MCP only for claude or we connect Codex too? 1 reply, 425 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Jun 26 Yes works Image

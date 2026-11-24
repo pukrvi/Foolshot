@@ -1,0 +1,377 @@
+QUERY: from:shivanshco (claude OR dhan OR trading)
+URL: https://x.com/search?q=from%3Ashivanshco%20(claude%20OR%20dhan%20OR%20trading)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 20
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now.
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 747 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 29 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 20 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ ah i meant this in regards to "i woke up late so missed early trends"
+
+point being you dont have to be awake for claude to execute the trades 1 reply, 168 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ try running it on a vm maybe? i run it on my mac mini thats on 24.7
+
+its actually one of the better parts about this entire experiment, i\'m not needed at all unless i need to push claude in researching in a certain direction 1 reply, 3 likes, 1 bookmark, 427 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 2 replies, 1 repost, 1 bookmark, 3238 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Claude really wanted to not trade today like not at all lol
+
+We spent loads of time yesterday trying to figure patterns for fridays or 2 dtes, chart patterns, stop/target/size grids, entry filters, a dozen gradient boost models but nothing super worthy came out of it 2 replies, 1 repost, 9 likes, 1 bookmark, 6724 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Dhan PNL link:
+
+get.dhan.co/JBSNF05014/po/
+
+Will add these for every day going forward get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 4 replies, 19 likes, 11 bookmarks, 4281 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @pranjalsoni_ let claude cook 1 like, 101 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Overall netted +11.2k after taxes and fees
+
+Total profit so far: ~25k on 1L capital
+
+Might not trade tomorrow if claude can\'t figure a strategy for 2 dte but let\'s see if it can! 1 reply, 11 likes, 1 bookmark, 4004 views
+
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now.
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 747 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 29 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 20 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ ah i meant this in regards to "i woke up late so missed early trends"
+
+point being you dont have to be awake for claude to execute the trades 1 reply, 168 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ try running it on a vm maybe? i run it on my mac mini thats on 24.7
+
+its actually one of the better parts about this entire experiment, i\'m not needed at all unless i need to push claude in researching in a certain direction 1 reply, 3 likes, 1 bookmark, 427 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 2 replies, 1 repost, 1 bookmark, 3238 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Claude really wanted to not trade today like not at all lol
+
+We spent loads of time yesterday trying to figure patterns for fridays or 2 dtes, chart patterns, stop/target/size grids, entry filters, a dozen gradient boost models but nothing super worthy came out of it 2 replies, 1 repost, 9 likes, 1 bookmark, 6724 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Dhan PNL link:
+
+get.dhan.co/JBSNF05014/po/
+
+Will add these for every day going forward get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 4 replies, 19 likes, 11 bookmarks, 4281 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @pranjalsoni_ let claude cook 1 like, 101 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Overall netted +11.2k after taxes and fees
+
+Total profit so far: ~25k on 1L capital
+
+Might not trade tomorrow if claude can\'t figure a strategy for 2 dte but let\'s see if it can! 1 reply, 11 likes, 1 bookmark, 4004 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco No IP related issues today so it was done trading by the time I woke up lol
+
+First trade at 09:40 failed to a false breakout and cost a tight stop (−4,327)
+
+Second trade at 10:07 on the same 73500 call caught a super clean move lasting 19 minutes (+15,591) 1 reply, 9 likes, 3 bookmarks, 3913 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco This might sound crazy but last night, I was forcing claude to come up with a research breakthrough
+
+"look for breakthroughs. think of it as inventing a vaccine or curing cancer. we need to get to a breakthrough. think from first principles..." 1 reply, 25 likes, 8 bookmarks, 6834 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Harshvardh1390 around 10-20% fable limit used on the claude max plan 1 reply, 2 likes, 865 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @pranjalsoni_ well are you challenging my claude for a 1v1 lol 1 reply, 4 likes, 1040 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Sudhanshu_gtm thats basically claude in a nutshell lol
+
+using it because the sub makes it affordable 1 like, 826 views
+
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now.
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 747 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 29 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 20 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ ah i meant this in regards to "i woke up late so missed early trends"
+
+point being you dont have to be awake for claude to execute the trades 1 reply, 168 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ try running it on a vm maybe? i run it on my mac mini thats on 24.7
+
+its actually one of the better parts about this entire experiment, i\'m not needed at all unless i need to push claude in researching in a certain direction 1 reply, 3 likes, 1 bookmark, 427 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 2 replies, 1 repost, 1 bookmark, 3238 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Claude really wanted to not trade today like not at all lol
+
+We spent loads of time yesterday trying to figure patterns for fridays or 2 dtes, chart patterns, stop/target/size grids, entry filters, a dozen gradient boost models but nothing super worthy came out of it 2 replies, 1 repost, 9 likes, 1 bookmark, 6724 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Dhan PNL link:
+
+get.dhan.co/JBSNF05014/po/
+
+Will add these for every day going forward get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 4 replies, 19 likes, 11 bookmarks, 4281 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @pranjalsoni_ let claude cook 1 like, 101 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Overall netted +11.2k after taxes and fees
+
+Total profit so far: ~25k on 1L capital
+
+Might not trade tomorrow if claude can\'t figure a strategy for 2 dte but let\'s see if it can! 1 reply, 11 likes, 1 bookmark, 4004 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco No IP related issues today so it was done trading by the time I woke up lol
+
+First trade at 09:40 failed to a false breakout and cost a tight stop (−4,327)
+
+Second trade at 10:07 on the same 73500 call caught a super clean move lasting 19 minutes (+15,591) 1 reply, 9 likes, 3 bookmarks, 3913 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco This might sound crazy but last night, I was forcing claude to come up with a research breakthrough
+
+"look for breakthroughs. think of it as inventing a vaccine or curing cancer. we need to get to a breakthrough. think from first principles..." 1 reply, 25 likes, 8 bookmarks, 6834 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Harshvardh1390 around 10-20% fable limit used on the claude max plan 1 reply, 2 likes, 865 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @pranjalsoni_ well are you challenging my claude for a 1v1 lol 1 reply, 4 likes, 1040 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Sudhanshu_gtm thats basically claude in a nutshell lol
+
+using it because the sub makes it affordable 1 like, 826 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Deion_Dz this is more about day trading/scalping than investing so dont think corporate fillings would help here
+
+but thats interesting.. might run a similar experiment but for investing at some point 1 reply, 1 bookmark, 741 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @scalperpanda claude fetched 2 year 1min chart data from the dhan api i think 1 reply, 1 like, 1 bookmark, 432 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @AKrishnaAkhil and @sauravabc16 i see what you mean. i dont think it ever refused trading to me. Quote
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28
+Replying to @0xChanakya when did you last try - i\'d say claude has been super lenient since the last few weeks
+
+like it would deny some coding tasks like sshing into a machine a few weeks ago but now its pretty chill especially with the bypass permissions mode
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Faraz38257101 that\'s what the experiment is about i\'d say
+
+i\'ve had winning streaks of 10-12 days myself before i lost it all when i used to trade by hand
+
+reason i lost was lack of emotional control, hoping this setup wouldnt get into that trap
+
+i think for me there\'s some sort of vix + 3 likes, 1 bookmark, 1117 views
+
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 29 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Nov 4 Replying to @shivanshco So here\'s the deal so far, it has a v v clear backtested strategy for expiry days but for non expiry days, it has a ruleset thats now shaping towards becoming a mess as in it has so many smaller rulesets derrived from small and not so convincing findings that it keeps figuring 1 reply, 20 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ ah i meant this in regards to "i woke up late so missed early trends"
+
+point being you dont have to be awake for claude to execute the trades 1 reply, 168 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @pranjalsoni_ try running it on a vm maybe? i run it on my mac mini thats on 24.7
+
+its actually one of the better parts about this entire experiment, i\'m not needed at all unless i need to push claude in researching in a certain direction 1 reply, 3 likes, 1 bookmark, 427 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Dhan PNL link: get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 2 replies, 1 repost, 1 bookmark, 3238 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 30 Replying to @shivanshco Claude really wanted to not trade today like not at all lol
+
+We spent loads of time yesterday trying to figure patterns for fridays or 2 dtes, chart patterns, stop/target/size grids, entry filters, a dozen gradient boost models but nothing super worthy came out of it 2 replies, 1 repost, 9 likes, 1 bookmark, 6724 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Dhan PNL link:
+
+get.dhan.co/JBSNF05014/po/
+
+Will add these for every day going forward get.dhan.co Check my Positions on Dhan These are my positions on Dhan, what do you think? Let me know or even better, share your positions on Dhan with me! Not on Dhan? Join Now. 4 replies, 19 likes, 11 bookmarks, 4281 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @pranjalsoni_ let claude cook 1 like, 101 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco Overall netted +11.2k after taxes and fees
+
+Total profit so far: ~25k on 1L capital
+
+Might not trade tomorrow if claude can\'t figure a strategy for 2 dte but let\'s see if it can! 1 reply, 11 likes, 1 bookmark, 4004 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco No IP related issues today so it was done trading by the time I woke up lol
+
+First trade at 09:40 failed to a false breakout and cost a tight stop (−4,327)
+
+Second trade at 10:07 on the same 73500 call caught a super clean move lasting 19 minutes (+15,591) 1 reply, 9 likes, 3 bookmarks, 3913 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 29 Replying to @shivanshco This might sound crazy but last night, I was forcing claude to come up with a research breakthrough
+
+"look for breakthroughs. think of it as inventing a vaccine or curing cancer. we need to get to a breakthrough. think from first principles..." 1 reply, 25 likes, 8 bookmarks, 6834 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Harshvardh1390 around 10-20% fable limit used on the claude max plan 1 reply, 2 likes, 865 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @pranjalsoni_ well are you challenging my claude for a 1v1 lol 1 reply, 4 likes, 1040 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Sudhanshu_gtm thats basically claude in a nutshell lol
+
+using it because the sub makes it affordable 1 like, 826 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Deion_Dz this is more about day trading/scalping than investing so dont think corporate fillings would help here
+
+but thats interesting.. might run a similar experiment but for investing at some point 1 reply, 1 bookmark, 741 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @scalperpanda claude fetched 2 year 1min chart data from the dhan api i think 1 reply, 1 like, 1 bookmark, 432 views
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @AKrishnaAkhil and @sauravabc16 i see what you mean. i dont think it ever refused trading to me. Quote
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28
+Replying to @0xChanakya when did you last try - i\'d say claude has been super lenient since the last few weeks
+
+like it would deny some coding tasks like sshing into a machine a few weeks ago but now its pretty chill especially with the bypass permissions mode
+
+Shivansh Mehendiratta
+Verified account
+@shivanshco Oct 28 Replying to @Faraz38257101 that\'s what the experiment is about i\'d say
+
+i\'ve had winning streaks of 10-12 days myself before i lost it all when i used to trade by hand
+
+reason i lost was lack of emotional control, hoping this setup wouldnt get into that trap
+
+i think for me there\'s some sort of vix + 3 likes, 1 bookmark, 1117 views

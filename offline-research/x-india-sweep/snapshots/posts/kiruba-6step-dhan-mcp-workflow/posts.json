@@ -1,0 +1,44 @@
+[
+ {
+  "handle": "kirubaakaran",
+  "id": "2070491176311070942",
+  "timeText": "6:25 PM · Jun 26, 2026",
+  "text": "A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.\n\nStep 1 - Connect Dhan (MCP)\nClaude can place orders, fetch positions, and pull info across NSE, BSE, MCX\n\nStep 2 - Install the Dhan skill\nThe MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)\n\nStep 3 - Download historical data\nAsk Claude to pull EOD history.\n\nStep 4 - Build the ratio file\nCreate a CSV with necessary data for backtest\n\nStep 5 - Define rules and backtest\n\nRatio breaks above 20-day high → hold NIFTYBEES\nRatio breaks below 20-day low → rotate into GOLDBEES\n\nStep 6 - Validate"
+ },
+ {
+  "handle": "TanujBajaj8",
+  "id": "2070492376494465374",
+  "timeText": "Jun 26",
+  "text": "From claude to Git to Telegram automated signals every day. Easiest way. Thanks for the idea, used it. It’s already working fine."
+ },
+ {
+  "handle": "kirubaakaran",
+  "id": "2070513720758026496",
+  "timeText": "Jun 26",
+  "text": "Kirubakaran Rajendran"
+ },
+ {
+  "handle": "Pratikdude1911",
+  "id": "2070497624160170419",
+  "timeText": "Jun 26",
+  "text": "Is option data available on dhan mcp"
+ },
+ {
+  "handle": "kirubaakaran",
+  "id": "2070513780593943031",
+  "timeText": "Jun 26",
+  "text": "With Dhan skills you can download it"
+ },
+ {
+  "handle": "Ram28Iam",
+  "id": "2070517448911229028",
+  "timeText": "Jun 26",
+  "text": "Hi bro The MCP only for claude or we connect Codex too?"
+ },
+ {
+  "handle": "kirubaakaran",
+  "id": "2070519444678570127",
+  "timeText": "Jun 26",
+  "text": "Kirubakaran Rajendran"
+ }
+]

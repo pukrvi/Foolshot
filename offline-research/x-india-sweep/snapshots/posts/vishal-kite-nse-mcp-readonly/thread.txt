@@ -1,0 +1,24 @@
+URL: https://x.com/vishal__bulbule/status/2115050342899732935
+DATE: 2026-11-22
+MODE: Latest
+
+Vishal Bulbule
+@vishal__bulbule I gave an AI agent access to my real stock portfolio. It can read everything. It cannot trade. 🔒
+
+Google @antigravity + @zerodha Kite MCP + NSE MCP.
+
+All order tools disabled via disabledTools in mcp_config.json.
+
+Read access. Zero trading permissions.
+
+#MCP #AgenticAI Embedded video
+1:01 1 reply, 2 likes, 117 views
+
+Signal Forge
+Verified account
+@Dinamo51648539 Oct 27 That read-only split is a good starting point. I would also enforce it at the broker or API scope, so disabledTools is defense-in-depth rather than the only barrier. A routing bug should not be able to turn portfolio visibility into order authority. 2 likes, 45 views
+
+Vishal Bulbule
+@vishal__bulbule 8 hours ago M6 with 32GB+ is blessing for Content creator & AI explorer ( still not enough for bigger Models)
+@Apple 
+#AIEngineering #llm #AI #GPU 1 like, 28 views

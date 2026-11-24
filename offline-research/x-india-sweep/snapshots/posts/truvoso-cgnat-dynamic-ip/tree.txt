@@ -1,0 +1,536 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Truvos on X: \"4. The Geo-Technical Nightmare: Dynamic IPs &amp; CGNAT in Emerging Markets This is the core technical truth that prop firms choose to ignore. In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks https://t.co/FKbfdg3kX6\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Truvos on X: \"4. The Geo-Technical Nightmare: Dynamic IPs &amp; CGNAT in Emerging Markets This is the core technical truth that prop firms choose to ignore. In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks https://t.co/FKbfdg3kX6\" / X" url="https://x.com/Truvosofficial/status/2067149413370454335"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 THE TRUVOS INVESTIGATIVE REPORT: THE WEAPONIZED IP ADDRESS TRAP 🚨\n\nCases of traders getting breached and denied payouts over \"IP Mismatch\" violations are skyrocketing across the industry. The prop industry has been quietly weaponizing this rule for years.\n\nIf you are a Image 1 reply, 3 reposts, 5 likes, 3 bookmarks, 982 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [68] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [69] AXStaticText expanded=false = "Truvos"
+                      - [70] AXImage expanded=false "Verified account"
+                    - [71] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [72] AXGroup expanded=false
+                        - [73] AXStaticText expanded=false = "@Truvosofficial"
+                    - [74] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149392050782633"
+                      - [75] AXGroup subrole=AXTimeGroup expanded=false
+                        - [76] AXStaticText expanded=false = "Jun 17"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "THE TRUVOS INVESTIGATIVE REPORT: THE WEAPONIZED IP ADDRESS TRAP 🚨\n\nCases of traders getting breached and denied payouts over \"IP Mismatch\" violations are skyrocketing across the industry. The prop industry has been quietly weaponizing this rule for years.\n\nIf you are a"
+                    - [81] AXButton expanded=false "Show more"
+                    - [82] AXGroup expanded=false
+                      - [83] AXLink expanded=false "Image" url="https://x.com/Truvosofficial/status/2067149392050782633/photo/1"
+                        - [84] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [85] AXGroup expanded=false
+                          - [86] AXGroup expanded=false "Image"
+                            - [87] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HK_8IsdagAAyxLk?format=jpg&name=medium"
+                    - [88] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 3 reposts, 5 likes, 3 bookmarks, 982 views"
+                      - [89] AXButton expanded=false "1 Reply. Reply"
+                      - [90] AXPopUpButton expanded=false "3 reposts. Repost"
+                      - [91] AXButton expanded=false "5 Likes. Like"
+                      - [92] AXLink expanded=false "982 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149392050782633/analytics"
+                        - [93] AXStaticText expanded=false = "982"
+                      - [94] AXButton expanded=false "Bookmark"
+                      - [95] AXPopUpButton expanded=false "Share post"
+                  - [96] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 First of all, thank you from everyone on the team for reading this. Please support this post as much as possible and share it everywhere. We need this to reach every single prop firm that is still using this broken IP rule to ban innocent traders.\n\nWe are here for you. Whatever 1 reply, 4 likes, 2 bookmarks, 98 views"
+                    - [97] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [98] AXGroup expanded=false
+                      - [99] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [100] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [101] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [102] AXStaticText expanded=false = "Truvos"
+                      - [103] AXImage expanded=false "Verified account"
+                    - [104] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [105] AXGroup expanded=false
+                        - [106] AXStaticText expanded=false = "@Truvosofficial"
+                    - [107] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149395787964466"
+                      - [108] AXGroup subrole=AXTimeGroup expanded=false
+                        - [109] AXStaticText expanded=false = "Jun 17"
+                    - [110] AXButton expanded=false "Grok actions"
+                    - [111] AXPopUpButton expanded=false "More"
+                    - [112] AXGroup expanded=false
+                      - [113] AXStaticText expanded=false = "First of all, thank you from everyone on the team for reading this. Please support this post as much as possible and share it everywhere. We need this to reach every single prop firm that is still using this broken IP rule to ban innocent traders.\n\nWe are here for you. Whatever"
+                    - [114] AXButton expanded=false "Show more"
+                    - [115] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 2 bookmarks, 98 views"
+                      - [116] AXButton expanded=false "1 Reply. Reply"
+                      - [117] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [118] AXButton expanded=false "4 Likes. Like"
+                      - [119] AXLink expanded=false "98 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149395787964466/analytics"
+                        - [120] AXStaticText expanded=false = "98"
+                      - [121] AXButton expanded=false "Bookmark"
+                      - [122] AXPopUpButton expanded=false "Share post"
+                  - [123] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 1. Understanding the Problem: The Internet Doesn\'t Work the Way Prop Firms Think It Does\n\nMost prop firms flag and terminate accounts the second they see multiple trading accounts logging in from the same IP address. Their basic corporate logic is simple: Same IP = Same Person Image 1 reply, 4 likes, 234 views"
+                    - [124] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [125] AXGroup expanded=false
+                      - [126] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [127] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [128] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [129] AXStaticText expanded=false = "Truvos"
+                      - [130] AXImage expanded=false "Verified account"
+                    - [131] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [132] AXGroup expanded=false
+                        - [133] AXStaticText expanded=false = "@Truvosofficial"
+                    - [134] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149400078774316"
+                      - [135] AXGroup subrole=AXTimeGroup expanded=false
+                        - [136] AXStaticText expanded=false = "Jun 17"
+                    - [137] AXButton expanded=false "Grok actions"
+                    - [138] AXPopUpButton expanded=false "More"
+                    - [139] AXGroup expanded=false
+                      - [140] AXStaticText expanded=false = "1. Understanding the Problem: The Internet Doesn\'t Work the Way Prop Firms Think It Does\n\nMost prop firms flag and terminate accounts the second they see multiple trading accounts logging in from the same IP address. Their basic corporate logic is simple: Same IP = Same Person"
+                    - [141] AXButton expanded=false "Show more"
+                    - [142] AXGroup expanded=false
+                      - [143] AXLink expanded=false "Image" url="https://x.com/Truvosofficial/status/2067149400078774316/photo/1"
+                        - [144] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [145] AXGroup expanded=false
+                          - [146] AXGroup expanded=false "Image"
+                            - [147] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HK_9UPTaMAAJhxt?format=png&name=small"
+                    - [148] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 234 views"
+                      - [149] AXButton expanded=false "1 Reply. Reply"
+                      - [150] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [151] AXButton expanded=false "4 Likes. Like"
+                      - [152] AXLink expanded=false "234 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149400078774316/analytics"
+                        - [153] AXStaticText expanded=false = "234"
+                      - [154] AXButton expanded=false "Bookmark"
+                      - [155] AXPopUpButton expanded=false "Share post"
+                  - [156] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 2. Why the Rule Exists (The Legit Side)\n\nLet’s be completely fair: the IP rule is fundamentally necessary for the health of the industry. Without any IP tracking, the entire prop ecosystem would be overrun by toxic fraud.\n\nFirms need a way to detect:\n\n- Mass account management 1 reply, 4 likes, 66 views"
+                    - [157] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [158] AXGroup expanded=false
+                      - [159] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [160] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [161] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [162] AXStaticText expanded=false = "Truvos"
+                      - [163] AXImage expanded=false "Verified account"
+                    - [164] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [165] AXGroup expanded=false
+                        - [166] AXStaticText expanded=false = "@Truvosofficial"
+                    - [167] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149403652026540"
+                      - [168] AXGroup subrole=AXTimeGroup expanded=false
+                        - [169] AXStaticText expanded=false = "Jun 17"
+                    - [170] AXButton expanded=false "Grok actions"
+                    - [171] AXPopUpButton expanded=false "More"
+                    - [172] AXGroup expanded=false
+                      - [173] AXStaticText expanded=false = "2. Why the Rule Exists (The Legit Side)\n\nLet’s be completely fair: the IP rule is fundamentally necessary for the health of the industry. Without any IP tracking, the entire prop ecosystem would be overrun by toxic fraud.\n\nFirms need a way to detect:\n\n- Mass account management"
+                    - [174] AXButton expanded=false "Show more"
+                    - [175] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 66 views"
+                      - [176] AXButton expanded=false "1 Reply. Reply"
+                      - [177] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [178] AXButton expanded=false "4 Likes. Like"
+                      - [179] AXLink expanded=false "66 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149403652026540/analytics"
+                        - [180] AXStaticText expanded=false = "66"
+                      - [181] AXButton expanded=false "Bookmark"
+                      - [182] AXPopUpButton expanded=false "Share post"
+                  - [183] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 3. The Ugly Reality: Weaponizing a Fake BS Rule\n\nHere is where it gets dark. While toptier firms use IP data alongside deep behavioral analysis to catch real cheaters, predatory firms use it as a backdoor trap to avoid paying profitable traders.\n\nWhen a trader suddenly makes $10k Image 1 reply, 4 likes, 62 views"
+                    - [184] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [185] AXGroup expanded=false
+                      - [186] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [187] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [188] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [189] AXStaticText expanded=false = "Truvos"
+                      - [190] AXImage expanded=false "Verified account"
+                    - [191] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [192] AXGroup expanded=false
+                        - [193] AXStaticText expanded=false = "@Truvosofficial"
+                    - [194] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149408412860753"
+                      - [195] AXGroup subrole=AXTimeGroup expanded=false
+                        - [196] AXStaticText expanded=false = "Jun 17"
+                    - [197] AXButton expanded=false "Grok actions"
+                    - [198] AXPopUpButton expanded=false "More"
+                    - [199] AXGroup expanded=false
+                      - [200] AXStaticText expanded=false = "3. The Ugly Reality: Weaponizing a Fake BS Rule\n\nHere is where it gets dark. While toptier firms use IP data alongside deep behavioral analysis to catch real cheaters, predatory firms use it as a backdoor trap to avoid paying profitable traders.\n\nWhen a trader suddenly makes $10k"
+                    - [201] AXButton expanded=false "Show more"
+                    - [202] AXGroup expanded=false
+                      - [203] AXLink expanded=false "Image" url="https://x.com/Truvosofficial/status/2067149408412860753/photo/1"
+                        - [204] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [205] AXGroup expanded=false
+                          - [206] AXGroup expanded=false "Image"
+                            - [207] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HK_9KcVakAAL_uC?format=jpg&name=medium"
+                    - [208] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 62 views"
+                      - [209] AXButton expanded=false "1 Reply. Reply"
+                      - [210] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [211] AXButton expanded=false "4 Likes. Like"
+                      - [212] AXLink expanded=false "62 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149408412860753/analytics"
+                        - [213] AXStaticText expanded=false = "62"
+                      - [214] AXButton expanded=false "Bookmark"
+                      - [215] AXPopUpButton expanded=false "Share post"
+                  - [216] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial 4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets\n\nThis is the core technical truth that prop firms choose to ignore.\n\nIn major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks and Carrier-Grade NAT (CGNAT) systems.\n\nIn India: Telecom giants like Reliance Jio dynamically rotate public IP addresses constantly. Your IP can change every single time your phone switches towers or reconnects to data,even after this if you want Static IP then Static IPS cost 40k-1 lakh.\n\nIn Nigeria: Major networks like MTN and Airtel assign shared public IPs to thousands of users simultaneously.\n\nWhat does this mean in plain English? Two completely unrelated traders, sitting in the same neighborhood, using the same ISP network, can easily be assigned the exact same public IP address by the network tower that day.\nSame City. Same IP. Zero connection to each other.\n\nProp platforms flag this as \"group trading\" or \"account management,\" when in reality, it is just how infrastructure works in developing countries. Image 1 reply, 4 likes, 141 views"
+                    - [217] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [218] AXGroup expanded=false
+                      - [219] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [220] AXGroup expanded=false
+                        - [221] AXLink focused expanded=false url="https://x.com/Truvosofficial"
+                          - [222] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [223] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [224] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [225] AXStaticText expanded=false = "Truvos"
+                      - [226] AXImage expanded=false "Verified account"
+                    - [227] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [228] AXGroup expanded=false
+                        - [229] AXStaticText expanded=false = "@Truvosofficial"
+                    - [230] AXButton expanded=false "Grok actions"
+                    - [231] AXPopUpButton expanded=false "More"
+                    - [232] AXGroup expanded=false
+                      - [233] AXStaticText expanded=false = "4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets\n\nThis is the core technical truth that prop firms choose to ignore.\n\nIn major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks and Carrier-Grade NAT (CGNAT) systems.\n\nIn India: Telecom giants like Reliance Jio dynamically rotate public IP addresses constantly. Your IP can change every single time your phone switches towers or reconnects to data,even after this if you want Static IP then Static IPS cost 40k-1 lakh.\n\nIn Nigeria: Major networks like MTN and Airtel assign shared public IPs to thousands of users simultaneously.\n\nWhat does this mean in plain English? Two completely unrelated traders, sitting in the same neighborhood, using the same ISP network, can easily be assigned the exact same public IP address by the network tower that day.\nSame City. Same IP. Zero connection to each other.\n\nProp platforms flag this as \"group trading\" or \"account management,\" when in reality, it is just how infrastructure works in developing countries."
+                    - [234] AXGroup expanded=false
+                      - [235] AXLink expanded=false "Image" url="https://x.com/Truvosofficial/status/2067149413370454335/photo/1"
+                        - [236] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [237] AXGroup expanded=false
+                          - [238] AXGroup expanded=false "Image"
+                            - [239] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HK_9FXkbEAArEFq?format=png&name=medium"
+                    - [240] AXGroup expanded=false
+                      - [241] AXLink expanded=false "1:06 PM · Jun 17, 2026" url="https://x.com/Truvosofficial/status/2067149413370454335"
+                        - [242] AXGroup subrole=AXTimeGroup expanded=false
+                          - [243] AXStaticText expanded=false = "1:06 PM · Jun 17, 2026"
+                      - [244] AXLink expanded=false "141 Views" url="https://x.com/Truvosofficial/status/2067149413370454335/analytics"
+                        - [245] AXStaticText expanded=false = "141"
+                        - [246] AXStaticText expanded=false = "Views"
+                    - [247] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 141 views"
+                      - [248] AXButton expanded=false "1 Reply. Reply"
+                      - [249] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [250] AXButton expanded=false "4 Likes. Like"
+                      - [251] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [252] AXPopUpButton expanded=false "Share post"
+                  - [253] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [254] AXGroup expanded=false
+                    - [255] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [256] AXGroup expanded=false
+                      - [257] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [258] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [259] AXGroup expanded=false
+                          - [260] AXGroup expanded=false "Puneet Vishnawat"
+                            - [261] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [262] AXGroup expanded=false
+                    - [263] AXStaticText expanded=false = "Post your reply"
+                  - [264] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [265] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [266] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [267] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 5. The Silent Victims: Wiped Out for Nothing\n\nWe are seeing horror stories daily. Genuine traders are passing massive evaluations cleanly, doing the hard work, and getting destroyed on payout day. When you become too profitable, the evidence suddenly goes out the window.\n\nCases Image 1 reply, 4 likes, 60 views"
+                    - [268] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [269] AXGroup expanded=false
+                      - [270] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [271] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [272] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [273] AXStaticText expanded=false = "Truvos"
+                      - [274] AXImage expanded=false "Verified account"
+                    - [275] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [276] AXGroup expanded=false
+                        - [277] AXStaticText expanded=false = "@Truvosofficial"
+                    - [278] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149418022019118"
+                      - [279] AXGroup subrole=AXTimeGroup expanded=false
+                        - [280] AXStaticText expanded=false = "Jun 17"
+                    - [281] AXButton expanded=false "Grok actions"
+                    - [282] AXPopUpButton expanded=false "More"
+                    - [283] AXGroup expanded=false
+                      - [284] AXStaticText expanded=false = "5. The Silent Victims: Wiped Out for Nothing\n\nWe are seeing horror stories daily. Genuine traders are passing massive evaluations cleanly, doing the hard work, and getting destroyed on payout day. When you become too profitable, the evidence suddenly goes out the window.\n\nCases"
+                    - [285] AXButton expanded=false "Show more"
+                    - [286] AXGroup expanded=false
+                      - [287] AXLink expanded=false "Image" url="https://x.com/Truvosofficial/status/2067149418022019118/photo/1"
+                        - [288] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [289] AXGroup expanded=false
+                          - [290] AXGroup expanded=false "Image"
+                            - [291] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HK_7ZQua0AAK-RR?format=jpg&name=medium"
+                    - [292] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 60 views"
+                      - [293] AXButton expanded=false "1 Reply. Reply"
+                      - [294] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [295] AXButton expanded=false "4 Likes. Like"
+                      - [296] AXLink expanded=false "60 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149418022019118/analytics"
+                        - [297] AXStaticText expanded=false = "60"
+                      - [298] AXButton expanded=false "Bookmark"
+                      - [299] AXPopUpButton expanded=false "Share post"
+                  - [300] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 6. Message to Prop Firms: Fix Your Tech, Stop Being Lazy\n\nIf you are a prop firm executive reading this: Get a midpoint solution and update your backend. Enforcing a blanket IP rule is either sheer technical laziness or deliberate fraud.\n\n1. Real fraud detection requires a 1 reply, 4 likes, 65 views"
+                    - [301] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [302] AXGroup expanded=false
+                      - [303] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [304] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [305] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [306] AXStaticText expanded=false = "Truvos"
+                      - [307] AXImage expanded=false "Verified account"
+                    - [308] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [309] AXGroup expanded=false
+                        - [310] AXStaticText expanded=false = "@Truvosofficial"
+                    - [311] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149421637517333"
+                      - [312] AXGroup subrole=AXTimeGroup expanded=false
+                        - [313] AXStaticText expanded=false = "Jun 17"
+                    - [314] AXButton expanded=false "Grok actions"
+                    - [315] AXPopUpButton expanded=false "More"
+                    - [316] AXGroup expanded=false
+                      - [317] AXStaticText expanded=false = "6. Message to Prop Firms: Fix Your Tech, Stop Being Lazy\n\nIf you are a prop firm executive reading this: Get a midpoint solution and update your backend. Enforcing a blanket IP rule is either sheer technical laziness or deliberate fraud.\n\n1. Real fraud detection requires a"
+                    - [318] AXButton expanded=false "Show more"
+                    - [319] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 65 views"
+                      - [320] AXButton expanded=false "1 Reply. Reply"
+                      - [321] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [322] AXButton expanded=false "4 Likes. Like"
+                      - [323] AXLink expanded=false "65 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149421637517333/analytics"
+                        - [324] AXStaticText expanded=false = "65"
+                      - [325] AXButton expanded=false "Bookmark"
+                      - [326] AXPopUpButton expanded=false "Share post"
+                  - [327] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 7. The Trader Survival Guide: How to Protect Your Payouts\n\nUntil firms clean up their acts, you have to play defense. If you want to protect your funded accounts from being falsely banned, implement these rules immediately:\n\nGet a Dedicated VPS: If the firm allows it, purchase a 1 reply, 5 likes, 144 views"
+                    - [328] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [329] AXGroup expanded=false
+                      - [330] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [331] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [332] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [333] AXStaticText expanded=false = "Truvos"
+                      - [334] AXImage expanded=false "Verified account"
+                    - [335] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [336] AXGroup expanded=false
+                        - [337] AXStaticText expanded=false = "@Truvosofficial"
+                    - [338] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149424770634005"
+                      - [339] AXGroup subrole=AXTimeGroup expanded=false
+                        - [340] AXStaticText expanded=false = "Jun 17"
+                    - [341] AXButton expanded=false "Grok actions"
+                    - [342] AXPopUpButton expanded=false "More"
+                    - [343] AXGroup expanded=false
+                      - [344] AXStaticText expanded=false = "7. The Trader Survival Guide: How to Protect Your Payouts\n\nUntil firms clean up their acts, you have to play defense. If you want to protect your funded accounts from being falsely banned, implement these rules immediately:\n\nGet a Dedicated VPS: If the firm allows it, purchase a"
+                    - [345] AXButton expanded=false "Show more"
+                    - [346] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 5 likes, 144 views"
+                      - [347] AXButton expanded=false "1 Reply. Reply"
+                      - [348] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [349] AXButton expanded=false "5 Likes. Like"
+                      - [350] AXLink expanded=false "144 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149424770634005/analytics"
+                        - [351] AXStaticText expanded=false = "144"
+                      - [352] AXButton expanded=false "Bookmark"
+                      - [353] AXPopUpButton expanded=false "Share post"
+                  - [354] AXGroup subrole=AXDocumentArticle expanded=false "Truvos\nVerified account\n@Truvosofficial Jun 17 8. The Truvos Commitment\nThis single investigative report costed our team 5 days of continuous work, 3 dedicated team members, and direct talks with 2 local provider officers to fully verify these network logs.\n\nWe do this for a better prop trading industry and a fairer ecosystem 4 likes, 80 views"
+                    - [355] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [356] AXGroup expanded=false
+                      - [357] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [358] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [359] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                      - [360] AXStaticText expanded=false = "Truvos"
+                      - [361] AXImage expanded=false "Verified account"
+                    - [362] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                      - [363] AXGroup expanded=false
+                        - [364] AXStaticText expanded=false = "@Truvosofficial"
+                    - [365] AXLink expanded=false "Jun 17" url="https://x.com/Truvosofficial/status/2067149427677229193"
+                      - [366] AXGroup subrole=AXTimeGroup expanded=false
+                        - [367] AXStaticText expanded=false = "Jun 17"
+                    - [368] AXButton expanded=false "Grok actions"
+                    - [369] AXPopUpButton expanded=false "More"
+                    - [370] AXGroup expanded=false
+                      - [371] AXStaticText expanded=false = "8. The Truvos Commitment\nThis single investigative report costed our team 5 days of continuous work, 3 dedicated team members, and direct talks with 2 local provider officers to fully verify these network logs.\n\nWe do this for a better prop trading industry and a fairer ecosystem"
+                    - [372] AXButton expanded=false "Show more"
+                    - [373] AXGroup subrole=AXApplicationGroup expanded=false "4 likes, 80 views"
+                      - [374] AXButton expanded=false "0 Replies. Reply"
+                      - [375] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [376] AXButton expanded=false "4 Likes. Like"
+                      - [377] AXLink expanded=false "80 views. View post analytics" url="https://x.com/Truvosofficial/status/2067149427677229193/analytics"
+                        - [378] AXStaticText expanded=false = "80"
+                      - [379] AXButton expanded=false "Bookmark"
+                      - [380] AXPopUpButton expanded=false "Share post"
+          - [381] AXGroup expanded=false "Trending"
+            - [382] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [383] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [384] AXGroup expanded=false
+                  - [385] AXStaticText expanded=false = "Search"
+            - [386] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [387] AXHeading expanded=false "Relevant people" = "2"
+                - [388] AXStaticText expanded=false = "Relevant people"
+              - [389] AXList subrole=AXContentList expanded=false
+                - [390] AXGroup expanded=false
+                  - [391] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [392] AXGroup expanded=false
+                    - [393] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [394] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [395] AXLink expanded=false "Truvos\nVerified account" url="https://x.com/Truvosofficial"
+                    - [396] AXStaticText expanded=false = "Truvos"
+                    - [397] AXImage expanded=false "Verified account"
+                  - [398] AXLink expanded=false "@Truvosofficial" url="https://x.com/Truvosofficial"
+                    - [399] AXGroup expanded=false
+                      - [400] AXStaticText expanded=false = "@Truvosofficial"
+                  - [401] AXButton expanded=false "Follow @Truvosofficial"
+                  - [402] AXGroup expanded=false
+                    - [403] AXStaticText expanded=false = "The Future Of ?? COMING VERY SOON. Join the waitlist ↓"
+                    - [404] AXLink expanded=false "discord.gg/NsX4vsCf58" url="https://t.co/oqjZW3MZXN"
+                      - [405] AXStaticText expanded=false = "discord.gg/NsX4vsCf58"
+            - [406] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [407] AXHeading expanded=false "Trending now" = "1"
+                - [408] AXStaticText expanded=false = "Trending now"
+              - [409] AXGroup expanded=false "Timeline: Trending now"
+                - [410] AXGroup subrole=AXEmptyGroup expanded=false
+                - [411] AXHeading expanded=false "What’s happening" = "2"
+                  - [412] AXStaticText expanded=false = "What’s happening"
+                - [413] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [414] AXGroup expanded=false
+                    - [415] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [416] AXGroup expanded=false
+                    - [417] AXStaticText expanded=false = "Charles"
+                  - [418] AXPopUpButton expanded=false "More"
+                - [419] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [420] AXGroup expanded=false
+                    - [421] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [422] AXGroup expanded=false
+                    - [423] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [424] AXPopUpButton expanded=false "More"
+                - [425] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [426] AXGroup expanded=false
+                    - [427] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [428] AXGroup expanded=false
+                    - [429] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [430] AXPopUpButton expanded=false "More"
+                - [431] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [432] AXGroup expanded=false
+                    - [433] AXStaticText expanded=false = "Sports · Trending"
+                  - [434] AXGroup expanded=false
+                    - [435] AXStaticText expanded=false = "Rishabh Pant"
+                  - [436] AXPopUpButton expanded=false "More"
+                - [437] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [438] AXGroup expanded=false
+                    - [439] AXStaticText expanded=false = "Show more"
+            - [440] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [441] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [442] AXStaticText expanded=false = "Terms"
+              - [443] AXGroup expanded=false
+                - [444] AXStaticText expanded=false = "·"
+              - [445] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [446] AXStaticText expanded=false = "Privacy"
+              - [447] AXGroup expanded=false
+                - [448] AXStaticText expanded=false = "·"
+              - [449] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [450] AXStaticText expanded=false = "Cookies"
+              - [451] AXGroup expanded=false
+                - [452] AXStaticText expanded=false = "·"
+              - [453] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [454] AXStaticText expanded=false = "Accessibility"
+              - [455] AXGroup expanded=false
+                - [456] AXStaticText expanded=false = "·"
+              - [457] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [458] AXStaticText expanded=false = "Ads Info"
+              - [459] AXGroup expanded=false
+                - [460] AXStaticText expanded=false = "·"
+              - [461] AXPopUpButton expanded=false "More"
+              - [462] AXGroup expanded=false
+                - [463] AXStaticText expanded=false = "© 2026 X Corp."
+        - [464] AXGroup subrole=AXEmptyGroup expanded=false
+        - [465] AXGroup subrole=AXEmptyGroup expanded=false
+      - [466] AXScrollBar expanded=false = "0.5438441"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [467] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [468] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [469] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [470] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [471] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [472] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [473] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [474] AXRadioButton subrole=AXTabButton valueWritable=false "Truvos on X: \"4. The Geo-Technical Nightmare: Dynamic IPs &amp; CGNAT in Emerging Markets This is the core technical truth that prop firms choose to ignore. In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks https://t.co/FKbfdg3kX6\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Truvos on X: \"4. The Geo-Technical Nightmare: Dynamic IPs &amp; CGNAT in Emerging Markets This is the core technical truth that prop firms choose to ignore. In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks https://t.co/FKbfdg3kX6\" / X" selection=[0,0]
+  - [475] AXGroup "Favorites bar"
+    - [476] AXButton "show start page" help="Show Start Page"
+    - [477] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [478] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [479] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [480] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [481] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [482] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [483] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [484] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [485] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [486] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [487] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [488] AXToolbar
+    - [489] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [490] AXButton "show sidebar" help="Show sidebar"
+      - [491] AXMenuButton "Tab Group picker"
+    - [492] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [493] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [494] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [495] AXButton "Page Menu"
+      - [496] AXButton "Add page to Reading List"
+      - [497] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/Truvosofficial/status/2067149413370454335" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [498] AXButton "Reload this page"
+    - [499] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [500] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [501] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [502] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [503] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [504] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [505] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [506] AXButton subrole=AXCloseButton
+  - [507] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [508] AXButton subrole=AXMinimizeButton
+- [509] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [510] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [511] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [512] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [513] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [514] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [515] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [516] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [517] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [518] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

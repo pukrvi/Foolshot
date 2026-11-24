@@ -1,0 +1,32 @@
+URL: https://x.com/EntangledUser/status/2035451829073608764
+DATE: 2026-11-22
+MODE: Latest
+
+Bharavi
+@EntangledUser "You either die a retail investor or live long enough to build 
+your own algo" 🦇
+
+Built agentmesh — AI agent mesh that watches NSE 24/7 and pings 
+me on Telegram when something real happens.
+
+Open source 👇
+github.com/bharavi1905/ag Image 2 replies, 2 reposts, 4 likes, 95 views
+
+Bharavi
+@EntangledUser Mar 22 Every alert ships with:
+→ Live price + 52W context
+→ ROCE, ROE, promoter holding, P/E
+→ FII sentiment modifier
+→ Transparent score: 8/10 (raw 8, FII -1, fundamentals +1)
+
+Moneyball for retail. No Bloomberg terminal needed. 1 reply, 1 like, 53 views
+
+Bharavi
+@EntangledUser Mar 22 Running on a ₹3,000 Raspberry Pi soon.
+Constantly improving. Not financial advice.
+Alfred doesn\'t trade for Batman either 🦇.
+
+#buildinpublic #NSE #AI #Python #IndianStockMarket #Agents #AIAgents #Deepagents 1 like, 51 views
+
+Rama Surendra
+@rsurendra21 Mar 22 Cool, great work Bharavi as always👌 1 like, 15 views

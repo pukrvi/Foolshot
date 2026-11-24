@@ -1,0 +1,278 @@
+QUERY: (zerodha OR dhan OR nse) (mcp OR "ai agent") ("session" OR "token" OR "login" OR "expired")
+URL: https://x.com/search?q=(zerodha%20OR%20dhan%20OR%20nse)%20(mcp%20OR%20%22ai%20agent%22)%20(%22session%22%20OR%20%22token%22%20OR%20%22login%22%20OR%20%22expired%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 10
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 203 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jun 3 My month with AI: May 2026 Edition
+
+Focused mostly on Agents this month, and a little bit of vibe coding. All projects are still WIP and nothing feels complete yet. Many being dogfooded. Some abandoned (for now). P.s. 
+
+The link for my vibe coding workshop in Delhi (this Friday) 12 replies, 2 reposts, 13 likes, 13 bookmarks, 7379 views
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3378 views
+
+Sangam Pandey
+Verified account
+@SangamOnMarkets Mar 14 2 likes, 103 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 13 Meta acquiring Moltbook signals something bigger:
+
+#AI agents interacting with other AI agents at scale.
+
+But crypto reacted instantly.
+An unrelated MOLT token pumped hard despite no official link.
+
+Narrative trading at its finest.
+
+Do you think AI agent tokens could dominate the Image 1 reply, 3 likes, 25 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 10 #Bitcoin just broke back above $70K, and the market is waking up again.
+
+Meanwhile, $WP (WhisperFi) is set to list on #BingX tomorrow.
+
+The project is positioning itself as a Web3 AI + DeFi aggregation experiment with an open AI agent ecosystem.
+
+Still early, not much token data 4 likes, 47 views
+
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 203 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jun 3 My month with AI: May 2026 Edition
+
+Focused mostly on Agents this month, and a little bit of vibe coding. All projects are still WIP and nothing feels complete yet. Many being dogfooded. Some abandoned (for now). P.s. 
+
+The link for my vibe coding workshop in Delhi (this Friday) 12 replies, 2 reposts, 13 likes, 13 bookmarks, 7379 views
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3378 views
+
+Sangam Pandey
+Verified account
+@SangamOnMarkets Mar 14 2 likes, 103 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 13 Meta acquiring Moltbook signals something bigger:
+
+#AI agents interacting with other AI agents at scale.
+
+But crypto reacted instantly.
+An unrelated MOLT token pumped hard despite no official link.
+
+Narrative trading at its finest.
+
+Do you think AI agent tokens could dominate the Image 1 reply, 3 likes, 25 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 10 #Bitcoin just broke back above $70K, and the market is waking up again.
+
+Meanwhile, $WP (WhisperFi) is set to list on #BingX tomorrow.
+
+The project is positioning itself as a Web3 AI + DeFi aggregation experiment with an open AI agent ecosystem.
+
+Still early, not much token data 4 likes, 47 views
+
+Zerodha
+Verified account
+@zerodha Feb 2 Replying to @riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual. 1 reply, 975 views
+
+Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views" description="Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments From coinbase.com 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views
+
+
+Divy
+@aiwithme0001 Jul 15 Facing issues while connecting Kite MCP to Claude, there is a problem in the session as it is not authenticating my account through the login.
+
+@zerodha 1 reply, 1 repost, 3 likes, 203 views
+
+Nikhil Pahwa
+Verified account
+@nixxin Jun 3 My month with AI: May 2026 Edition
+
+Focused mostly on Agents this month, and a little bit of vibe coding. All projects are still WIP and nothing feels complete yet. Many being dogfooded. Some abandoned (for now). P.s. 
+
+The link for my vibe coding workshop in Delhi (this Friday) 12 replies, 2 reposts, 13 likes, 13 bookmarks, 7379 views
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3378 views
+
+Sangam Pandey
+Verified account
+@SangamOnMarkets Mar 14 2 likes, 103 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 13 Meta acquiring Moltbook signals something bigger:
+
+#AI agents interacting with other AI agents at scale.
+
+But crypto reacted instantly.
+An unrelated MOLT token pumped hard despite no official link.
+
+Narrative trading at its finest.
+
+Do you think AI agent tokens could dominate the Image 1 reply, 3 likes, 25 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 10 #Bitcoin just broke back above $70K, and the market is waking up again.
+
+Meanwhile, $WP (WhisperFi) is set to list on #BingX tomorrow.
+
+The project is positioning itself as a Web3 AI + DeFi aggregation experiment with an open AI agent ecosystem.
+
+Still early, not much token data 4 likes, 47 views
+
+Zerodha
+Verified account
+@zerodha Feb 2 Replying to @riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual. 1 reply, 975 views
+
+Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views" description="Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments From coinbase.com 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views
+
+Zerodha
+Verified account
+@zerodha Jun 23, 2025 Hi Vijay, thanks for the feedback. Sessions usually remain active unless there’s another session already running. Regarding historical data, you can now export it by using Claude or VS Code via MCP to download the data as a CSV file.
+
+TradingAlgo
+Verified account
+@Souvik131 May 23, 2025 Zerodha just launched something called “MCP” – It lets AI read your trading account
+
+Sounds fancy, but 
+❌ Cant place order 
+❌ Not F&O ready
+
+So I built one that really trades 👇
+✅ Auto Login 
+✅ Places orders 
+✅ Built for F&O 
+✅ Open-source
+
+[link](github.com/souvik131/kite) Image 12 replies, 17 reposts, 81 likes, 98 bookmarks, 11618 views
+
+
+Nikhil Pahwa
+Verified account
+@nixxin May 22 Zerodha MCP is quite irritating. Expires twice a day (more?) and have to login again. I\'m glad there is an MCP, but why log users out frequently @Nithin0dha ? 4 replies, 4 likes, 1 bookmark, 3378 views
+
+Sangam Pandey
+Verified account
+@SangamOnMarkets Mar 14 2 likes, 103 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 13 Meta acquiring Moltbook signals something bigger:
+
+#AI agents interacting with other AI agents at scale.
+
+But crypto reacted instantly.
+An unrelated MOLT token pumped hard despite no official link.
+
+Narrative trading at its finest.
+
+Do you think AI agent tokens could dominate the Image 1 reply, 3 likes, 25 views
+
+Aliu Ogundare (DHAN)
+Verified account
+@AliuOgunda44574 Mar 10 #Bitcoin just broke back above $70K, and the market is waking up again.
+
+Meanwhile, $WP (WhisperFi) is set to list on #BingX tomorrow.
+
+The project is positioning itself as a Web3 AI + DeFi aggregation experiment with an open AI agent ecosystem.
+
+Still early, not much token data 4 likes, 47 views
+
+Zerodha
+Verified account
+@zerodha Feb 2 Replying to @riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual. 1 reply, 975 views
+
+Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views" description="Berkan
+Verified account
+@cryptostocks247 Oct 27, 2025 Qoraal muhiim ah 🔥
+
+Guys Waxaa jira catalyst cusub I hope inaad la socotaan waa mashruuc coinbase ee x402.
+
+Waa maxay ? 
+
+Sanadkaan bilowgiisa, Coinbase waxay soo bandhigtey x402, taasoo ah a system cusub oo finally bedelayaayo systemkii hore ee dadka yaqaano mar walba la kulmi coinbase.com Introducing x402: a new standard for internet-native payments From coinbase.com 3 replies, 3 reposts, 37 likes, 4 bookmarks, 2999 views
+
+Zerodha
+Verified account
+@zerodha Jun 23, 2025 Hi Vijay, thanks for the feedback. Sessions usually remain active unless there’s another session already running. Regarding historical data, you can now export it by using Claude or VS Code via MCP to download the data as a CSV file.
+
+TradingAlgo
+Verified account
+@Souvik131 May 23, 2025 Zerodha just launched something called “MCP” – It lets AI read your trading account
+
+Sounds fancy, but 
+❌ Cant place order 
+❌ Not F&O ready
+
+So I built one that really trades 👇
+✅ Auto Login 
+✅ Places orders 
+✅ Built for F&O 
+✅ Open-source
+
+[link](github.com/souvik131/kite) Image 12 replies, 17 reposts, 81 likes, 98 bookmarks, 11618 views

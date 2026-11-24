@@ -1,0 +1,335 @@
+QUERY: (nifty OR banknifty) ("stopped out" OR "square off" OR "auto square" OR "token expired" OR "ip whitelist")
+URL: https://x.com/search?q=(nifty%20OR%20banknifty)%20(%22stopped%20out%22%20OR%20%22square%20off%22%20OR%20%22auto%20square%22%20OR%20%22token%20expired%22%20OR%20%22ip%20whitelist%22)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 9
+
+josephtoutoo
+Verified account
+@joseph58320011 21 hours ago Backtest (simulated): index options system, 1 Apr to 1 Aug 2026, Kite data, fixed lots.
+
+NIFTY: 22 trades, 18% win, -₹32.6k
+BANKNIFTY: 29 trades, 14% win, -₹1.00L
+SENSEX: 32 trades, 22% win, +₹5.5k
+BANKEX: 33 trades, 15% win, -₹1.40L
+Total: -₹2.67L, max DD -₹3.72L
+
+A slow 1 like, 46 views
+
+Valuation Trader Atul (विकल्प व्यापारी)
+@Pessimistic4321 Nov 21 Replying to @protraderharsh If Zerodha user then will be able to place one lot nifty buy order at max price of 10 paise which will cost Rs 6.50 and brokerage including GST will be 23.60 for buying that option. 
+Option will become worthless as square off brokerage not available. So total cost Rs 30.10 1 like, 390 views
+
+Suresh vaghela
+@Suresh26729508 Nov 21 Replying to @WealthEnrich The real sattebaji was going on not in AI but in Bank Nifty in india. The Fiis have caught the bear cartel in Nifty Bank . So now they are brutally trapped in F&O. The real game looking this only. Once they are completely ruined, they will square off theirs. 2 likes, 188 views
+
+Kiranjit Das
+Verified account
+@KdSimplyAmple Nov 20 A perfect day as a 30-year-old options trader in India :- 
+
+06:00 – Wake up and check GIFT Nifty. Immediately develop a bearish bias.
+
+07:00 – Check US markets, crude, DXY and Asian markets. Find 17 reasons why Nifty should fall.
+
+08:00 – Watch a YouTube video titled "How to 87 replies, 81 reposts, 694 likes, 212 bookmarks, 46060 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @praveengirotra Who would have thought Banknifty out of all Index would shoot up this crazy? This Bull market will be written down in golden words in the history of Indian Stock Markets. 1 reply, 4 likes, 147 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @finstriveclub doesn\'t look like. Nifty again broke out and near 25600
+
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views" description="Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Image
+Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views
+
+parag parikh
+@pparagp Nov 17 Only Nifty and banknifty play going on. Otherwise broder market midcap and smallcap nifty not increase. Only nifty and banknifty increase sameday they square off and market level suddenly nifty fo down 150 points from top and bsnknifty 300 points.
+
+Madhur Joshi
+Verified account
+@Madhur2379 Nov 17 Replying to @TradeThatFlow I am directinal seller so what do you think best range to sell premiums like 3 dollar premium or 4 extra. I mostly got stopped out due to volatility compare to nifty which not much volatile 1 reply, 1 like, 37 views
+
+
+josephtoutoo
+Verified account
+@joseph58320011 21 hours ago Backtest (simulated): index options system, 1 Apr to 1 Aug 2026, Kite data, fixed lots.
+
+NIFTY: 22 trades, 18% win, -₹32.6k
+BANKNIFTY: 29 trades, 14% win, -₹1.00L
+SENSEX: 32 trades, 22% win, +₹5.5k
+BANKEX: 33 trades, 15% win, -₹1.40L
+Total: -₹2.67L, max DD -₹3.72L
+
+A slow 1 like, 46 views
+
+Valuation Trader Atul (विकल्प व्यापारी)
+@Pessimistic4321 Nov 21 Replying to @protraderharsh If Zerodha user then will be able to place one lot nifty buy order at max price of 10 paise which will cost Rs 6.50 and brokerage including GST will be 23.60 for buying that option. 
+Option will become worthless as square off brokerage not available. So total cost Rs 30.10 1 like, 390 views
+
+Suresh vaghela
+@Suresh26729508 Nov 21 Replying to @WealthEnrich The real sattebaji was going on not in AI but in Bank Nifty in india. The Fiis have caught the bear cartel in Nifty Bank . So now they are brutally trapped in F&O. The real game looking this only. Once they are completely ruined, they will square off theirs. 2 likes, 188 views
+
+Kiranjit Das
+Verified account
+@KdSimplyAmple Nov 20 A perfect day as a 30-year-old options trader in India :- 
+
+06:00 – Wake up and check GIFT Nifty. Immediately develop a bearish bias.
+
+07:00 – Check US markets, crude, DXY and Asian markets. Find 17 reasons why Nifty should fall.
+
+08:00 – Watch a YouTube video titled "How to 87 replies, 81 reposts, 694 likes, 212 bookmarks, 46060 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @praveengirotra Who would have thought Banknifty out of all Index would shoot up this crazy? This Bull market will be written down in golden words in the history of Indian Stock Markets. 1 reply, 4 likes, 147 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @finstriveclub doesn\'t look like. Nifty again broke out and near 25600
+
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views" description="Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Image
+Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views
+
+parag parikh
+@pparagp Nov 17 Only Nifty and banknifty play going on. Otherwise broder market midcap and smallcap nifty not increase. Only nifty and banknifty increase sameday they square off and market level suddenly nifty fo down 150 points from top and bsnknifty 300 points.
+
+Madhur Joshi
+Verified account
+@Madhur2379 Nov 17 Replying to @TradeThatFlow I am directinal seller so what do you think best range to sell premiums like 3 dollar premium or 4 extra. I mostly got stopped out due to volatility compare to nifty which not much volatile 1 reply, 1 like, 37 views
+
+
+josephtoutoo
+Verified account
+@joseph58320011 21 hours ago Backtest (simulated): index options system, 1 Apr to 1 Aug 2026, Kite data, fixed lots.
+
+NIFTY: 22 trades, 18% win, -₹32.6k
+BANKNIFTY: 29 trades, 14% win, -₹1.00L
+SENSEX: 32 trades, 22% win, +₹5.5k
+BANKEX: 33 trades, 15% win, -₹1.40L
+Total: -₹2.67L, max DD -₹3.72L
+
+A slow 1 like, 46 views
+
+Valuation Trader Atul (विकल्प व्यापारी)
+@Pessimistic4321 Nov 21 Replying to @protraderharsh If Zerodha user then will be able to place one lot nifty buy order at max price of 10 paise which will cost Rs 6.50 and brokerage including GST will be 23.60 for buying that option. 
+Option will become worthless as square off brokerage not available. So total cost Rs 30.10 1 like, 390 views
+
+Suresh vaghela
+@Suresh26729508 Nov 21 Replying to @WealthEnrich The real sattebaji was going on not in AI but in Bank Nifty in india. The Fiis have caught the bear cartel in Nifty Bank . So now they are brutally trapped in F&O. The real game looking this only. Once they are completely ruined, they will square off theirs. 2 likes, 188 views
+
+Kiranjit Das
+Verified account
+@KdSimplyAmple Nov 20 A perfect day as a 30-year-old options trader in India :- 
+
+06:00 – Wake up and check GIFT Nifty. Immediately develop a bearish bias.
+
+07:00 – Check US markets, crude, DXY and Asian markets. Find 17 reasons why Nifty should fall.
+
+08:00 – Watch a YouTube video titled "How to 87 replies, 81 reposts, 694 likes, 212 bookmarks, 46060 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @praveengirotra Who would have thought Banknifty out of all Index would shoot up this crazy? This Bull market will be written down in golden words in the history of Indian Stock Markets. 1 reply, 4 likes, 147 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @finstriveclub doesn\'t look like. Nifty again broke out and near 25600
+
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views" description="Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Image
+Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views
+
+parag parikh
+@pparagp Nov 17 Only Nifty and banknifty play going on. Otherwise broder market midcap and smallcap nifty not increase. Only nifty and banknifty increase sameday they square off and market level suddenly nifty fo down 150 points from top and bsnknifty 300 points.
+
+Madhur Joshi
+Verified account
+@Madhur2379 Nov 17 Replying to @TradeThatFlow I am directinal seller so what do you think best range to sell premiums like 3 dollar premium or 4 extra. I mostly got stopped out due to volatility compare to nifty which not much volatile 1 reply, 1 like, 37 views
+
+
+josephtoutoo
+Verified account
+@joseph58320011 21 hours ago Backtest (simulated): index options system, 1 Apr to 1 Aug 2026, Kite data, fixed lots.
+
+NIFTY: 22 trades, 18% win, -₹32.6k
+BANKNIFTY: 29 trades, 14% win, -₹1.00L
+SENSEX: 32 trades, 22% win, +₹5.5k
+BANKEX: 33 trades, 15% win, -₹1.40L
+Total: -₹2.67L, max DD -₹3.72L
+
+A slow 1 like, 46 views
+
+Valuation Trader Atul (विकल्प व्यापारी)
+@Pessimistic4321 Nov 21 Replying to @protraderharsh If Zerodha user then will be able to place one lot nifty buy order at max price of 10 paise which will cost Rs 6.50 and brokerage including GST will be 23.60 for buying that option. 
+Option will become worthless as square off brokerage not available. So total cost Rs 30.10 1 like, 390 views
+
+Suresh vaghela
+@Suresh26729508 Nov 21 Replying to @WealthEnrich The real sattebaji was going on not in AI but in Bank Nifty in india. The Fiis have caught the bear cartel in Nifty Bank . So now they are brutally trapped in F&O. The real game looking this only. Once they are completely ruined, they will square off theirs. 2 likes, 188 views
+
+Kiranjit Das
+Verified account
+@KdSimplyAmple Nov 20 A perfect day as a 30-year-old options trader in India :- 
+
+06:00 – Wake up and check GIFT Nifty. Immediately develop a bearish bias.
+
+07:00 – Check US markets, crude, DXY and Asian markets. Find 17 reasons why Nifty should fall.
+
+08:00 – Watch a YouTube video titled "How to 87 replies, 81 reposts, 694 likes, 212 bookmarks, 46060 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @praveengirotra Who would have thought Banknifty out of all Index would shoot up this crazy? This Bull market will be written down in golden words in the history of Indian Stock Markets. 1 reply, 4 likes, 147 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @finstriveclub doesn\'t look like. Nifty again broke out and near 25600
+
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views" description="Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Image
+Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views
+
+parag parikh
+@pparagp Nov 17 Only Nifty and banknifty play going on. Otherwise broder market midcap and smallcap nifty not increase. Only nifty and banknifty increase sameday they square off and market level suddenly nifty fo down 150 points from top and bsnknifty 300 points.
+
+Madhur Joshi
+Verified account
+@Madhur2379 Nov 17 Replying to @TradeThatFlow I am directinal seller so what do you think best range to sell premiums like 3 dollar premium or 4 extra. I mostly got stopped out due to volatility compare to nifty which not much volatile 1 reply, 1 like, 37 views
+
+
+josephtoutoo
+Verified account
+@joseph58320011 21 hours ago Backtest (simulated): index options system, 1 Apr to 1 Aug 2026, Kite data, fixed lots.
+
+NIFTY: 22 trades, 18% win, -₹32.6k
+BANKNIFTY: 29 trades, 14% win, -₹1.00L
+SENSEX: 32 trades, 22% win, +₹5.5k
+BANKEX: 33 trades, 15% win, -₹1.40L
+Total: -₹2.67L, max DD -₹3.72L
+
+A slow 1 like, 46 views
+
+Valuation Trader Atul (विकल्प व्यापारी)
+@Pessimistic4321 Nov 21 Replying to @protraderharsh If Zerodha user then will be able to place one lot nifty buy order at max price of 10 paise which will cost Rs 6.50 and brokerage including GST will be 23.60 for buying that option. 
+Option will become worthless as square off brokerage not available. So total cost Rs 30.10 1 like, 390 views
+
+Suresh vaghela
+@Suresh26729508 Nov 21 Replying to @WealthEnrich The real sattebaji was going on not in AI but in Bank Nifty in india. The Fiis have caught the bear cartel in Nifty Bank . So now they are brutally trapped in F&O. The real game looking this only. Once they are completely ruined, they will square off theirs. 2 likes, 188 views
+
+Kiranjit Das
+Verified account
+@KdSimplyAmple Nov 20 A perfect day as a 30-year-old options trader in India :- 
+
+06:00 – Wake up and check GIFT Nifty. Immediately develop a bearish bias.
+
+07:00 – Check US markets, crude, DXY and Asian markets. Find 17 reasons why Nifty should fall.
+
+08:00 – Watch a YouTube video titled "How to 87 replies, 81 reposts, 694 likes, 212 bookmarks, 46060 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @praveengirotra Who would have thought Banknifty out of all Index would shoot up this crazy? This Bull market will be written down in golden words in the history of Indian Stock Markets. 1 reply, 4 likes, 147 views
+
+Intraday Square off
+@DomukhaPar Nov 20 Replying to @finstriveclub doesn\'t look like. Nifty again broke out and near 25600
+
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views" description="Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17 45 zone saved me 2 times 
+Anything can happen during a CAS candle, so I placed an order with a strict 3-point stop-loss. The reversal happened exactly at the 45 zone. Once the price crossed 50, I moved my stop-loss to cost-to-cost (C2C) and kept trailing it.
+I expected it to move Image
+Quote
+Rajendranarlapati
+Verified account
+@Rajendranarlap1 Nov 17
+
+Image
+Cas candle Down 👇 #cascandle , #nrtradersetup #nifty 2 likes, 365 views
+
+parag parikh
+@pparagp Nov 17 Only Nifty and banknifty play going on. Otherwise broder market midcap and smallcap nifty not increase. Only nifty and banknifty increase sameday they square off and market level suddenly nifty fo down 150 points from top and bsnknifty 300 points.
+
+Madhur Joshi
+Verified account
+@Madhur2379 Nov 17 Replying to @TradeThatFlow I am directinal seller so what do you think best range to sell premiums like 3 dollar premium or 4 extra. I mostly got stopped out due to volatility compare to nifty which not much volatile 1 reply, 1 like, 37 views

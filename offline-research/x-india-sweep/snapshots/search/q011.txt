@@ -1,0 +1,200 @@
+QUERY: ("trading bot" OR "algo trading") (india OR nse) (ai OR llm OR agent) -filter:replies
+URL: https://x.com/search?q=(%22trading%20bot%22%20OR%20%22algo%20trading%22)%20(india%20OR%20nse)%20(ai%20OR%20llm%20OR%20agent)%20-filter%3Areplies&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 5
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 119 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+Raajeev Anand | Crypto × AI
+Verified account
+@raajeevanand Nov 18 Can you really make $1 million in crypto?
+
+Yes. About 241,700 people had by mid-2025, per Henley & Partners. About 60% of them were Bitcoin holders.
+
+But the odds for a typical small account are far lower than the screenshots suggest. Honest guide 👇 1 reply, 1 repost, 5 likes, 6062 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Nov 17 MCX is now live in Signals AI.
+
+Type it in plain English:
+"Buy Crude Oil Mini when RSI 14 crosses above 30 on 15 min, exit at 11 PM"
+
+Signals AI builds it. Backtest it, then algo trade it with your broker.
+
+How it works: docs.algotest.in/mcx-trading/si Image 2 reposts, 3 likes, 773 views
+
+Mario
+Verified account
+@MartinDaya3 Nov 16 @grok I already have an existing AI-powered NSE trading bot codebase.
+
+I want you to:
+
+1. Review the entire existing codebase and understand the architecture.
+2. Identify all bugs, errors, missing integrations and logic issues.
+3. Debug and fix the existing code without 1 reply, 12 views
+
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 119 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+Raajeev Anand | Crypto × AI
+Verified account
+@raajeevanand Nov 18 Can you really make $1 million in crypto?
+
+Yes. About 241,700 people had by mid-2025, per Henley & Partners. About 60% of them were Bitcoin holders.
+
+But the odds for a typical small account are far lower than the screenshots suggest. Honest guide 👇 1 reply, 1 repost, 5 likes, 6062 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Nov 17 MCX is now live in Signals AI.
+
+Type it in plain English:
+"Buy Crude Oil Mini when RSI 14 crosses above 30 on 15 min, exit at 11 PM"
+
+Signals AI builds it. Backtest it, then algo trade it with your broker.
+
+How it works: docs.algotest.in/mcx-trading/si Image 2 reposts, 3 likes, 773 views
+
+Mario
+Verified account
+@MartinDaya3 Nov 16 @grok I already have an existing AI-powered NSE trading bot codebase.
+
+I want you to:
+
+1. Review the entire existing codebase and understand the architecture.
+2. Identify all bugs, errors, missing integrations and logic issues.
+3. Debug and fix the existing code without 1 reply, 12 views
+
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 119 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+Raajeev Anand | Crypto × AI
+Verified account
+@raajeevanand Nov 18 Can you really make $1 million in crypto?
+
+Yes. About 241,700 people had by mid-2025, per Henley & Partners. About 60% of them were Bitcoin holders.
+
+But the odds for a typical small account are far lower than the screenshots suggest. Honest guide 👇 1 reply, 1 repost, 5 likes, 6062 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Nov 17 MCX is now live in Signals AI.
+
+Type it in plain English:
+"Buy Crude Oil Mini when RSI 14 crosses above 30 on 15 min, exit at 11 PM"
+
+Signals AI builds it. Backtest it, then algo trade it with your broker.
+
+How it works: docs.algotest.in/mcx-trading/si Image 2 reposts, 3 likes, 773 views
+
+Mario
+Verified account
+@MartinDaya3 Nov 16 @grok I already have an existing AI-powered NSE trading bot codebase.
+
+I want you to:
+
+1. Review the entire existing codebase and understand the architecture.
+2. Identify all bugs, errors, missing integrations and logic issues.
+3. Debug and fix the existing code without 1 reply, 12 views
+
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 119 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+Raajeev Anand | Crypto × AI
+Verified account
+@raajeevanand Nov 18 Can you really make $1 million in crypto?
+
+Yes. About 241,700 people had by mid-2025, per Henley & Partners. About 60% of them were Bitcoin holders.
+
+But the odds for a typical small account are far lower than the screenshots suggest. Honest guide 👇 1 reply, 1 repost, 5 likes, 6062 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Nov 17 MCX is now live in Signals AI.
+
+Type it in plain English:
+"Buy Crude Oil Mini when RSI 14 crosses above 30 on 15 min, exit at 11 PM"
+
+Signals AI builds it. Backtest it, then algo trade it with your broker.
+
+How it works: docs.algotest.in/mcx-trading/si Image 2 reposts, 3 likes, 773 views
+
+Mario
+Verified account
+@MartinDaya3 Nov 16 @grok I already have an existing AI-powered NSE trading bot codebase.
+
+I want you to:
+
+1. Review the entire existing codebase and understand the architecture.
+2. Identify all bugs, errors, missing integrations and logic issues.
+3. Debug and fix the existing code without 1 reply, 12 views
+
+
+subash 🤖
+Verified account
+@subuonelifee 8 hours ago Under the new NSE and SEBI retail algo trading rules, independent ("tech-savvy") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code.
+While these rules apply to all brokers, traders who use 1 repost, 1 like, 119 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+Raajeev Anand | Crypto × AI
+Verified account
+@raajeevanand Nov 18 Can you really make $1 million in crypto?
+
+Yes. About 241,700 people had by mid-2025, per Henley & Partners. About 60% of them were Bitcoin holders.
+
+But the odds for a typical small account are far lower than the screenshots suggest. Honest guide 👇 1 reply, 1 repost, 5 likes, 6062 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Nov 17 MCX is now live in Signals AI.
+
+Type it in plain English:
+"Buy Crude Oil Mini when RSI 14 crosses above 30 on 15 min, exit at 11 PM"
+
+Signals AI builds it. Backtest it, then algo trade it with your broker.
+
+How it works: docs.algotest.in/mcx-trading/si Image 2 reposts, 3 likes, 773 views
+
+Mario
+Verified account
+@MartinDaya3 Nov 16 @grok I already have an existing AI-powered NSE trading bot codebase.
+
+I want you to:
+
+1. Review the entire existing codebase and understand the architecture.
+2. Identify all bugs, errors, missing integrations and logic issues.
+3. Debug and fix the existing code without 1 reply, 12 views

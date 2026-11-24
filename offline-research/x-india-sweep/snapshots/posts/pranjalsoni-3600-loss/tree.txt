@@ -1,0 +1,262 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Pranjal Soni on X: \"today lost about 3600 again, stop loss hit two days straight loses claude is fucking my money all time negative now -1.6% will do one more trade today and chill out maybe it\'s not for me, i would rather focus on my biz fuck this shit\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Pranjal Soni on X: \"today lost about 3600 again, stop loss hit two days straight loses claude is fucking my money all time negative now -1.6% will do one more trade today and chill out maybe it\'s not for me, i would rather focus on my biz fuck this shit\" / X" url="https://x.com/pranjalsoni_/status/2118596731550257386"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Pranjal Soni\nVerified account\n@pranjalsoni_ today lost about 3600 again, stop loss hit\n\ntwo days straight loses\n\nclaude is fucking my money\n\nall time negative now -1.6%\n\nwill do one more trade today and chill out\n\nmaybe it\'s not for me, i would rather focus on my biz\n\nfuck this shit 1 repost, 10 likes, 3 bookmarks, 3017 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/pranjalsoni_"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Pranjal Soni\nVerified account" url="https://x.com/pranjalsoni_"
+                      - [72] AXStaticText expanded=false = "Pranjal Soni"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@pranjalsoni_" url="https://x.com/pranjalsoni_"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@pranjalsoni_"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "today lost about 3600 again, stop loss hit\n\ntwo days straight loses\n\nclaude is fucking my money\n\nall time negative now -1.6%\n\nwill do one more trade today and chill out\n\nmaybe it\'s not for me, i would rather focus on my biz\n\nfuck this shit"
+                    - [81] AXGroup expanded=false
+                      - [82] AXLink expanded=false "12:19 PM · Nov 6, 2026" url="https://x.com/pranjalsoni_/status/2118596731550257386"
+                        - [83] AXGroup subrole=AXTimeGroup expanded=false
+                          - [84] AXStaticText expanded=false = "12:19 PM · Nov 6, 2026"
+                      - [85] AXLink expanded=false "3,017 Views" url="https://x.com/pranjalsoni_/status/2118596731550257386/analytics"
+                        - [86] AXStaticText expanded=false = "3,017"
+                        - [87] AXStaticText expanded=false = "Views"
+                    - [88] AXGroup subrole=AXApplicationGroup expanded=false "1 repost, 10 likes, 3 bookmarks, 3017 views"
+                      - [89] AXButton expanded=false "0 Replies. Reply"
+                      - [90] AXPopUpButton expanded=false "1 repost. Repost"
+                      - [91] AXButton expanded=false "10 Likes. Like"
+                      - [92] AXButton expanded=false "3 Bookmarks. Bookmark"
+                      - [93] AXPopUpButton expanded=false "Share post"
+                  - [94] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [95] AXGroup expanded=false
+                    - [96] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [97] AXGroup expanded=false
+                      - [98] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [99] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [100] AXGroup expanded=false
+                          - [101] AXGroup expanded=false "Puneet Vishnawat"
+                            - [102] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [103] AXGroup expanded=false
+                    - [104] AXStaticText expanded=false = "Post your reply"
+                  - [105] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [106] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+          - [107] AXGroup expanded=false "Trending"
+            - [108] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [109] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [110] AXGroup expanded=false
+                  - [111] AXStaticText expanded=false = "Search"
+            - [112] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [113] AXHeading expanded=false "Relevant people" = "2"
+                - [114] AXStaticText expanded=false = "Relevant people"
+              - [115] AXList subrole=AXContentList expanded=false
+                - [116] AXGroup expanded=false
+                  - [117] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [118] AXGroup expanded=false
+                    - [119] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [121] AXLink expanded=false "Pranjal Soni\nVerified account" url="https://x.com/pranjalsoni_"
+                    - [122] AXStaticText expanded=false = "Pranjal Soni"
+                    - [123] AXImage expanded=false "Verified account"
+                  - [124] AXLink expanded=false "@pranjalsoni_" url="https://x.com/pranjalsoni_"
+                    - [125] AXGroup expanded=false
+                      - [126] AXStaticText expanded=false = "@pranjalsoni_"
+                  - [127] AXButton expanded=false "Follow @pranjalsoni_"
+                  - [128] AXGroup expanded=false
+                    - [129] AXStaticText expanded=false = "chief vibe engineer at "
+                    - [130] AXLink expanded=false "vibedream.ai" url="https://t.co/XfrsMZrUqC"
+                      - [131] AXStaticText expanded=false = "vibedream.ai"
+            - [132] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [133] AXHeading expanded=false "Trending now" = "1"
+                - [134] AXStaticText expanded=false = "Trending now"
+              - [135] AXGroup expanded=false "Timeline: Trending now"
+                - [136] AXGroup subrole=AXEmptyGroup expanded=false
+                - [137] AXHeading expanded=false "What’s happening" = "2"
+                  - [138] AXStaticText expanded=false = "What’s happening"
+                - [139] AXLink expanded=false "Sports · Trending Draw More"
+                  - [140] AXGroup expanded=false
+                    - [141] AXStaticText expanded=false = "Sports · Trending"
+                  - [142] AXGroup expanded=false
+                    - [143] AXStaticText expanded=false = "Draw"
+                  - [144] AXPopUpButton expanded=false "More"
+                - [145] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [146] AXGroup expanded=false
+                    - [147] AXStaticText expanded=false = "Sports · Trending"
+                  - [148] AXGroup expanded=false
+                    - [149] AXStaticText expanded=false = "Rishabh Pant"
+                  - [150] AXPopUpButton expanded=false "More"
+                - [151] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [152] AXGroup expanded=false
+                    - [153] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [154] AXGroup expanded=false
+                    - [155] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [156] AXPopUpButton expanded=false "More"
+                - [157] AXLink expanded=false "Trending in India राजकीय यात्रा More"
+                  - [158] AXGroup expanded=false
+                    - [159] AXStaticText expanded=false = "Trending in India"
+                  - [160] AXGroup expanded=false
+                    - [161] AXStaticText expanded=false = "राजकीय यात्रा"
+                  - [162] AXPopUpButton expanded=false "More"
+                - [163] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [164] AXGroup expanded=false
+                    - [165] AXStaticText expanded=false = "Show more"
+            - [166] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [167] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [168] AXStaticText expanded=false = "Terms"
+              - [169] AXGroup expanded=false
+                - [170] AXStaticText expanded=false = "·"
+              - [171] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [172] AXStaticText expanded=false = "Privacy"
+              - [173] AXGroup expanded=false
+                - [174] AXStaticText expanded=false = "·"
+              - [175] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [176] AXStaticText expanded=false = "Cookies"
+              - [177] AXGroup expanded=false
+                - [178] AXStaticText expanded=false = "·"
+              - [179] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [180] AXStaticText expanded=false = "Accessibility"
+              - [181] AXGroup expanded=false
+                - [182] AXStaticText expanded=false = "·"
+              - [183] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [184] AXStaticText expanded=false = "Ads Info"
+              - [185] AXGroup expanded=false
+                - [186] AXStaticText expanded=false = "·"
+              - [187] AXPopUpButton expanded=false "More"
+              - [188] AXGroup expanded=false
+                - [189] AXStaticText expanded=false = "© 2026 X Corp."
+        - [190] AXGroup subrole=AXEmptyGroup expanded=false
+        - [191] AXGroup subrole=AXEmptyGroup expanded=false
+      - [192] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [193] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [194] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [195] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [196] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [197] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [198] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [199] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [200] AXRadioButton subrole=AXTabButton valueWritable=false "Pranjal Soni on X: \"today lost about 3600 again, stop loss hit two days straight loses claude is fucking my money all time negative now -1.6% will do one more trade today and chill out maybe it\'s not for me, i would rather focus on my biz fuck this shit\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Pranjal Soni on X: \"today lost about 3600 again, stop loss hit two days straight loses claude is fucking my money all time negative now -1.6% will do one more trade today and chill out maybe it\'s not for me, i would rather focus on my biz fuck this shit\" / X" selection=[0,0]
+  - [201] AXGroup "Favorites bar"
+    - [202] AXButton "show start page" help="Show Start Page"
+    - [203] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [204] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [205] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [206] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [207] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [208] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [209] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [210] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [211] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [212] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [213] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [214] AXToolbar
+    - [215] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [216] AXButton "show sidebar" help="Show sidebar"
+      - [217] AXMenuButton "Tab Group picker"
+    - [218] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [219] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [220] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [221] AXButton "Page Menu"
+      - [222] AXButton "Add page to Reading List"
+      - [223] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/pranjalsoni_/status/2118596731550257386" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [224] AXButton "Reload this page"
+    - [225] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [226] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [227] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [228] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [229] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [230] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [231] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [232] AXButton subrole=AXCloseButton
+  - [233] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [234] AXButton subrole=AXMinimizeButton
+- [235] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [236] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [237] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [238] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [239] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [240] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [241] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [242] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [243] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [244] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

@@ -1,0 +1,333 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Zerodha on X: \"@riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual.\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Zerodha on X: \"@riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual.\" / X" url="https://x.com/zerodha/status/2018182508077256955"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "ritesh\n@riteshzd Feb 1 How are we solving for @zerodha MCP not giving a refresh token but an access token every time?\n\nLogging in via the web is a hassle\n#zerodha 1 reply, 1064 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [68] AXLink expanded=false "ritesh" url="https://x.com/riteshzd"
+                      - [69] AXStaticText expanded=false = "ritesh"
+                    - [70] AXLink expanded=false "@riteshzd" url="https://x.com/riteshzd"
+                      - [71] AXGroup expanded=false
+                        - [72] AXStaticText expanded=false = "@riteshzd"
+                    - [73] AXLink expanded=false "Feb 1" url="https://x.com/riteshzd/status/2017954481158443051"
+                      - [74] AXGroup subrole=AXTimeGroup expanded=false
+                        - [75] AXStaticText expanded=false = "Feb 1"
+                    - [76] AXButton expanded=false "Grok actions"
+                    - [77] AXPopUpButton expanded=false "More"
+                    - [78] AXGroup expanded=false
+                      - [79] AXStaticText expanded=false = "How are we solving for "
+                      - [80] AXLink expanded=false "@zerodha" url="https://x.com/zerodha"
+                        - [81] AXStaticText expanded=false = "@zerodha"
+                      - [82] AXStaticText expanded=false = " MCP not giving a refresh token but an access token every time?\n\nLogging in via the web is a hassle\n"
+                      - [83] AXLink expanded=false "#zerodha" url="https://x.com/hashtag/zerodha?src=hashtag_click"
+                        - [84] AXStaticText expanded=false = "#zerodha"
+                    - [85] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1064 views"
+                      - [86] AXButton expanded=false "1 Reply. Reply"
+                      - [87] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [88] AXButton expanded=false "0 Likes. Like"
+                      - [89] AXLink expanded=false "1064 views. View post analytics" url="https://x.com/riteshzd/status/2017954481158443051/analytics"
+                        - [90] AXStaticText expanded=false = "1K"
+                      - [91] AXButton expanded=false "Bookmark"
+                      - [92] AXPopUpButton expanded=false "Share post"
+                  - [93] AXGroup subrole=AXDocumentArticle expanded=false "Zerodha\nVerified account\n@zerodha Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual. 1 reply, 976 views"
+                    - [94] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [95] AXGroup expanded=false
+                      - [96] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [97] AXGroup expanded=false
+                        - [98] AXLink focused expanded=false "Square profile picture" url="https://x.com/zerodha"
+                          - [99] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [100] AXGroup expanded=false
+                            - [101] AXGroup expanded=false "Square profile picture"
+                              - [102] AXImage expanded=false "Square profile picture" url="https://pbs.twimg.com/profile_images/878157243958480896/02ktQOXf_x96.jpg"
+                    - [103] AXLink expanded=false "Zerodha\nVerified account" url="https://x.com/zerodha"
+                      - [104] AXStaticText expanded=false = "Zerodha"
+                      - [105] AXImage expanded=false "Verified account"
+                    - [106] AXLink expanded=false "@zerodha" url="https://x.com/zerodha"
+                      - [107] AXGroup expanded=false
+                        - [108] AXStaticText expanded=false = "@zerodha"
+                    - [109] AXButton expanded=false "Grok actions"
+                    - [110] AXPopUpButton expanded=false "More"
+                    - [111] AXGroup expanded=false
+                      - [112] AXStaticText expanded=false = "Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual."
+                    - [113] AXGroup expanded=false
+                      - [114] AXLink expanded=false "10:09 AM · Feb 2, 2026" url="https://x.com/zerodha/status/2018182508077256955"
+                        - [115] AXGroup subrole=AXTimeGroup expanded=false
+                          - [116] AXStaticText expanded=false = "10:09 AM · Feb 2, 2026"
+                      - [117] AXLink expanded=false "976 Views" url="https://x.com/zerodha/status/2018182508077256955/analytics"
+                        - [118] AXStaticText expanded=false = "976"
+                        - [119] AXStaticText expanded=false = "Views"
+                    - [120] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 976 views"
+                      - [121] AXButton expanded=false "1 Reply. Reply"
+                      - [122] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [123] AXButton expanded=false "0 Likes. Like"
+                      - [124] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [125] AXPopUpButton expanded=false "Share post"
+                  - [126] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [127] AXGroup expanded=false
+                    - [128] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [129] AXGroup expanded=false
+                      - [130] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [131] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [132] AXGroup expanded=false
+                          - [133] AXGroup expanded=false "Puneet Vishnawat"
+                            - [134] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [135] AXGroup expanded=false
+                    - [136] AXStaticText expanded=false = "Post your reply"
+                  - [137] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [138] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [139] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [140] AXGroup subrole=AXDocumentArticle expanded=false "ritesh\n@riteshzd Feb 2 But why can’t we automate this completely? I don’t want to login to my zerodha account every time I start off a working session over claude."
+                    - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [142] AXGroup expanded=false
+                      - [143] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [144] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [145] AXLink expanded=false "ritesh" url="https://x.com/riteshzd"
+                      - [146] AXStaticText expanded=false = "ritesh"
+                    - [147] AXLink expanded=false "@riteshzd" url="https://x.com/riteshzd"
+                      - [148] AXGroup expanded=false
+                        - [149] AXStaticText expanded=false = "@riteshzd"
+                    - [150] AXLink expanded=false "Feb 2" url="https://x.com/riteshzd/status/2018183783703572681"
+                      - [151] AXGroup subrole=AXTimeGroup expanded=false
+                        - [152] AXStaticText expanded=false = "Feb 2"
+                    - [153] AXButton expanded=false "Grok actions"
+                    - [154] AXPopUpButton expanded=false "More"
+                    - [155] AXGroup expanded=false
+                      - [156] AXStaticText expanded=false = "But why can’t we automate this completely? I don’t want to login to my zerodha account every time I start off a working session over claude."
+                    - [157] AXGroup subrole=AXApplicationGroup expanded=false "52 views"
+                      - [158] AXButton expanded=false "0 Replies. Reply"
+                      - [159] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [160] AXButton expanded=false "0 Likes. Like"
+                      - [161] AXLink expanded=false "52 views. View post analytics" url="https://x.com/riteshzd/status/2018183783703572681/analytics"
+                        - [162] AXStaticText expanded=false = "52"
+                      - [163] AXButton expanded=false "Bookmark"
+                      - [164] AXPopUpButton expanded=false "Share post"
+          - [165] AXGroup expanded=false "Trending"
+            - [166] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [167] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [168] AXGroup expanded=false
+                  - [169] AXStaticText expanded=false = "Search"
+            - [170] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [171] AXHeading expanded=false "Relevant people" = "2"
+                - [172] AXStaticText expanded=false = "Relevant people"
+              - [173] AXList subrole=AXContentList expanded=false
+                - [174] AXGroup expanded=false
+                  - [175] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [176] AXGroup expanded=false
+                    - [177] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [178] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [179] AXLink expanded=false "Zerodha\nVerified account" url="https://x.com/zerodha"
+                    - [180] AXStaticText expanded=false = "Zerodha"
+                    - [181] AXImage expanded=false "Verified account"
+                  - [182] AXLink expanded=false "@zerodha" url="https://x.com/zerodha"
+                    - [183] AXGroup expanded=false
+                      - [184] AXStaticText expanded=false = "@zerodha"
+                  - [185] AXButton expanded=false "Follow @zerodha"
+                  - [186] AXGroup expanded=false
+                    - [187] AXStaticText expanded=false = "Welcome to your friendly neighbourhood brokerage. Zerodha Broking Limited | SEBI Registration No.: INZ000031633 | DP Registration No.: IN-DP-431-2019"
+                - [188] AXGroup expanded=false
+                  - [189] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [190] AXGroup expanded=false
+                    - [191] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [192] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [193] AXLink expanded=false "ritesh" url="https://x.com/riteshzd"
+                    - [194] AXStaticText expanded=false = "ritesh"
+                  - [195] AXLink expanded=false "@riteshzd" url="https://x.com/riteshzd"
+                    - [196] AXGroup expanded=false
+                      - [197] AXStaticText expanded=false = "@riteshzd"
+                  - [198] AXButton expanded=false "Follow @riteshzd"
+                  - [199] AXGroup expanded=false
+                    - [200] AXStaticText expanded=false = "Building Razorpay. Ex-Myntra IIM Bangalore Alum. Chelsea fan. Books are my way to avoid people."
+            - [201] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [202] AXHeading expanded=false "Trending now" = "1"
+                - [203] AXStaticText expanded=false = "Trending now"
+              - [204] AXGroup expanded=false "Timeline: Trending now"
+                - [205] AXGroup subrole=AXEmptyGroup expanded=false
+                - [206] AXHeading expanded=false "What’s happening" = "2"
+                  - [207] AXStaticText expanded=false = "What’s happening"
+                - [208] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [209] AXGroup expanded=false
+                    - [210] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [211] AXGroup expanded=false
+                    - [212] AXStaticText expanded=false = "Charles"
+                  - [213] AXPopUpButton expanded=false "More"
+                - [214] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [215] AXGroup expanded=false
+                    - [216] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [217] AXGroup expanded=false
+                    - [218] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [219] AXPopUpButton expanded=false "More"
+                - [220] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [221] AXGroup expanded=false
+                    - [222] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [223] AXGroup expanded=false
+                    - [224] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [225] AXPopUpButton expanded=false "More"
+                - [226] AXLink expanded=false "Business & finance · Trending Nifty 50 More"
+                  - [227] AXGroup expanded=false
+                    - [228] AXStaticText expanded=false = "Business & finance · Trending"
+                  - [229] AXGroup expanded=false
+                    - [230] AXStaticText expanded=false = "Nifty 50"
+                  - [231] AXPopUpButton expanded=false "More"
+                - [232] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [233] AXGroup expanded=false
+                    - [234] AXStaticText expanded=false = "Show more"
+            - [235] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [236] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [237] AXStaticText expanded=false = "Terms"
+              - [238] AXGroup expanded=false
+                - [239] AXStaticText expanded=false = "·"
+              - [240] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [241] AXStaticText expanded=false = "Privacy"
+              - [242] AXGroup expanded=false
+                - [243] AXStaticText expanded=false = "·"
+              - [244] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [245] AXStaticText expanded=false = "Cookies"
+              - [246] AXGroup expanded=false
+                - [247] AXStaticText expanded=false = "·"
+              - [248] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [249] AXStaticText expanded=false = "Accessibility"
+              - [250] AXGroup expanded=false
+                - [251] AXStaticText expanded=false = "·"
+              - [252] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [253] AXStaticText expanded=false = "Ads Info"
+              - [254] AXGroup expanded=false
+                - [255] AXStaticText expanded=false = "·"
+              - [256] AXPopUpButton expanded=false "More"
+              - [257] AXGroup expanded=false
+                - [258] AXStaticText expanded=false = "© 2026 X Corp."
+        - [259] AXGroup subrole=AXEmptyGroup expanded=false
+        - [260] AXGroup subrole=AXEmptyGroup expanded=false
+        - [261] AXGroup subrole=AXEmptyGroup expanded=false
+        - [262] AXGroup subrole=AXEmptyGroup expanded=false
+      - [263] AXScrollBar expanded=false = "0.3532934"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [264] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [265] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [266] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [267] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [268] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [269] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [270] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [271] AXRadioButton subrole=AXTabButton valueWritable=false "Zerodha on X: \"@riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual.\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Zerodha on X: \"@riteshzd Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual.\" / X" selection=[0,0]
+  - [272] AXGroup "Favorites bar"
+    - [273] AXButton "show start page" help="Show Start Page"
+    - [274] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [275] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [276] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [277] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [278] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [279] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [280] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [281] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [282] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [283] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [284] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [285] AXToolbar
+    - [286] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [287] AXButton "show sidebar" help="Show sidebar"
+      - [288] AXMenuButton "Tab Group picker"
+    - [289] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [290] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [291] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [292] AXButton "Page Menu"
+      - [293] AXButton "Add page to Reading List"
+      - [294] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/zerodha/status/2018182508077256955" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [295] AXButton "Reload this page"
+    - [296] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [297] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [298] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [299] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [300] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [301] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [302] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [303] AXButton subrole=AXCloseButton
+  - [304] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [305] AXButton subrole=AXMinimizeButton
+- [306] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [307] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [308] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [309] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [310] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [311] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [312] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [313] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [314] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [315] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

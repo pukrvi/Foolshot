@@ -1,0 +1,38 @@
+[
+ {
+  "handle": "ShyamdasMallya",
+  "id": "2037000763495637307",
+  "timeText": "8:26 AM · Mar 26, 2026",
+  "text": "I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own.                                                                                                                  \n\nHere\\'s the reality of building it.                                                                                                                                             \n\nThe stack: FastAPI backend, Next.js dashboard, Dhan for equity trades, Zerodha for options. ₹91,000 live capital on equities. ₹1,64,000 on options. Built almost entirely using Claude Code $20+tax plan. Claude also runs as an in-process advisor, AI advising the AI mid-trade.\n                                                                                                                              The goal: ₹1,000–2,800/day combined. Not glamorous. Disciplined compounding.\n\nWhat actually happened: 15+ production bugs. In live trading. With real money.                                                                                                   \n\nEvery bug taught something the backtests never could.     \n\nThe market didn\\'t help either. US-Iran war escalation. India VIX 20+. BankNifty gap-up and gap-downs, swinging 600-1000 points intraday. We were debugging production code in wartime volatility.      \n\nWhat\\'s interesting about Claude Code: the entire codebase was built conversationally. Describe the bug, get the fix. Describe the feature, get the implementation. Then argue with it when it\\'s wrong. It\\'s a genuinely different way to build.                                                                                                   \n\nThis series documents all of it — the bugs, the P&L, the decisions, the pivots. No highlight reel. Just the actual build.\n\nFollow along if you\\'re building something hard\n\n"
+ },
+ {
+  "handle": "shahnawab",
+  "id": "2100469888125182149",
+  "timeText": "Sep 17",
+  "text": "Can you put more light on how you did it and the stats of Win and Loss?"
+ },
+ {
+  "handle": "ShyamdasMallya",
+  "id": "2100511944893698212",
+  "timeText": "Sep 17",
+  "text": ""
+ },
+ {
+  "handle": "GrowthExe",
+  "id": "2103119987724685812",
+  "timeText": "Sep 24",
+  "text": "How did you pull live data from web?"
+ },
+ {
+  "handle": "ShyamdasMallya",
+  "id": "2103137755807338932",
+  "timeText": "Sep 24",
+  "text": "Dhan APIs, took 2 years sub."
+ },
+ {
+  "handle": "flytradr_guy",
+  "id": "2054295399519969281",
+  "timeText": "May 13",
+  "text": "genuinely solid build and the transparency is rare. the 15 production bugs with live capital is the part most people skip over but that is where the real learning happens. when you open source it, would love to see how the strategy logic compares to what we have built in"
+ }
+]

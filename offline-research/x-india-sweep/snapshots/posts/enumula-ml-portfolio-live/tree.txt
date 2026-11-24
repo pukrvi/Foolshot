@@ -1,0 +1,326 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Enumula Kartik 🇮🇳 on X: \"BuildWithAI #1.0 My machine learning portfolio went from an empty repo to live in 2 days. Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process. The stack: 1. .NET 10 MVC for the site 2. Models trained in Python (uv), https://t.co/tRtPiYl4YA\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Enumula Kartik 🇮🇳 on X: \"BuildWithAI #1.0 My machine learning portfolio went from an empty repo to live in 2 days. Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process. The stack: 1. .NET 10 MVC for the site 2. Models trained in Python (uv), https://t.co/tRtPiYl4YA\" / X" url="https://x.com/EnumulaKartik/status/2122249418967818624"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Enumula Kartik 🇮🇳\nVerified account\n@EnumulaKartik BuildWithAI #1.0\n\nMy machine learning portfolio went from an empty repo to live in 2 days. \nClaude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.\n\nThe stack:\n1. .NET 10 MVC for the site\n2. Models trained in Python (uv), exported to ONNX\n3. ONNX Runtime serving predictions inside the app, with no separate Python API \n\nWhat Claude Code did: \n→ Turned each notebook into a reproducible train.py that writes the ONNX model, the form schema, the charts and test fixtures \n\n→ Built the metadata-driven site, so a new project is a folder and a JSON entry, with no new controller code \n→ Wired every model to a live form with schema validation and rate limiting \n\n→ Wrote parity tests that check the .NET output against scikit-learn\'s answers \n\n→ Wrote integration tests with WebApplicationFactory \n\nLive now: 7 Model Zoo projects with working forms, plus the flagship NSE market regime classifier (Nifty 200 + India VIX, walk-forward tested, illustrative). \n\nWhat made it work: \n1. A SPEC.md as the source of truth \n\n2. A CLAUDE.md holding commands, layout, and conventions, so every session started with context \n\n3. Docs and a decision log updated after every phase\n\nCheck it out here: enumulakartik.in Image 1 reply, 41 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/EnumulaKartik"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Enumula Kartik 🇮🇳\nVerified account" url="https://x.com/EnumulaKartik"
+                      - [72] AXStaticText expanded=false = "Enumula Kartik 🇮🇳"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@EnumulaKartik" url="https://x.com/EnumulaKartik"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@EnumulaKartik"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "BuildWithAI #1.0\n\nMy machine learning portfolio went from an empty repo to live in 2 days. \nClaude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.\n\nThe stack:\n1. .NET 10 MVC for the site\n2. Models trained in Python (uv), exported to ONNX\n3. ONNX Runtime serving predictions inside the app, with no separate Python API \n\nWhat Claude Code did: \n→ Turned each notebook into a reproducible "
+                      - [81] AXLink expanded=false "train.py" url="https://t.co/2UHZAO5SNF"
+                        - [82] AXStaticText expanded=false = "train.py"
+                      - [83] AXStaticText expanded=false = " that writes the ONNX model, the form schema, the charts and test fixtures \n\n→ Built the metadata-driven site, so a new project is a folder and a JSON entry, with no new controller code \n→ Wired every model to a live form with schema validation and rate limiting \n\n→ Wrote parity tests that check the .NET output against scikit-learn\'s answers \n\n→ Wrote integration tests with WebApplicationFactory  \n\nLive now: 7 Model Zoo projects with working forms, plus the flagship NSE market regime classifier (Nifty 200 + India VIX, walk-forward tested, illustrative).  \n\nWhat made it work: \n1. A SPEC.md as the source of truth \n\n2. A CLAUDE.md holding commands, layout, and conventions, so every session started with context \n\n3. Docs and a decision log updated after every phase\n\nCheck it out here: "
+                      - [84] AXLink expanded=false "enumulakartik.in" url="https://t.co/RAllKj25tH"
+                        - [85] AXStaticText expanded=false = "enumulakartik.in"
+                    - [86] AXGroup expanded=false
+                      - [87] AXLink expanded=false "Image" url="https://x.com/EnumulaKartik/status/2122249418967818624/photo/1"
+                        - [88] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [89] AXGroup expanded=false
+                          - [90] AXGroup expanded=false "Image"
+                            - [91] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXO-i_WaIAIL-pp?format=jpg&name=medium"
+                    - [92] AXGroup expanded=false
+                      - [93] AXLink expanded=false "2:14 PM · Nov 16, 2026" url="https://x.com/EnumulaKartik/status/2122249418967818624"
+                        - [94] AXGroup subrole=AXTimeGroup expanded=false
+                          - [95] AXStaticText expanded=false = "2:14 PM · Nov 16, 2026"
+                      - [96] AXLink expanded=false "41 Views" url="https://x.com/EnumulaKartik/status/2122249418967818624/analytics"
+                        - [97] AXStaticText expanded=false = "41"
+                        - [98] AXStaticText expanded=false = "Views"
+                    - [99] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 41 views"
+                      - [100] AXButton expanded=false "1 Reply. Reply"
+                      - [101] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [102] AXButton expanded=false "0 Likes. Like"
+                      - [103] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [104] AXPopUpButton expanded=false "Share post"
+                  - [105] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [106] AXGroup expanded=false
+                    - [107] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [108] AXGroup expanded=false
+                      - [109] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [111] AXGroup expanded=false
+                          - [112] AXGroup expanded=false "Puneet Vishnawat"
+                            - [113] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [114] AXGroup expanded=false
+                    - [115] AXStaticText expanded=false = "Post your reply"
+                  - [116] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [117] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [118] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [119] AXGroup subrole=AXDocumentArticle expanded=false "Anderson\nVerified account\n@justanderson Nov 16 empty repo to live in 2 days is wild.. how much of the review actually changed the python side? 1 reply, 8 views"
+                    - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [121] AXGroup expanded=false
+                      - [122] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [123] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [124] AXLink expanded=false "Anderson\nVerified account" url="https://x.com/justanderson"
+                      - [125] AXStaticText expanded=false = "Anderson"
+                      - [126] AXImage expanded=false "Verified account"
+                    - [127] AXLink expanded=false "@justanderson" url="https://x.com/justanderson"
+                      - [128] AXGroup expanded=false
+                        - [129] AXStaticText expanded=false = "@justanderson"
+                    - [130] AXLink expanded=false "Nov 16" url="https://x.com/justanderson/status/2122287130730713580"
+                      - [131] AXGroup subrole=AXTimeGroup expanded=false
+                        - [132] AXStaticText expanded=false = "Nov 16"
+                    - [133] AXButton expanded=false "Grok actions"
+                    - [134] AXPopUpButton expanded=false "More"
+                    - [135] AXGroup expanded=false
+                      - [136] AXStaticText expanded=false = "empty repo to live in 2 days is wild.. how much of the review actually changed the python side?"
+                    - [137] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 8 views"
+                      - [138] AXButton expanded=false "1 Reply. Reply"
+                      - [139] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [140] AXButton expanded=false "0 Likes. Like"
+                      - [141] AXLink expanded=false "8 views. View post analytics" url="https://x.com/justanderson/status/2122287130730713580/analytics"
+                        - [142] AXStaticText expanded=false = "8"
+                      - [143] AXButton expanded=false "Bookmark"
+                      - [144] AXPopUpButton expanded=false "Share post"
+                  - [145] AXGroup subrole=AXDocumentArticle expanded=false "Enumula Kartik 🇮🇳\nVerified account\n@EnumulaKartik Nov 16 Not much actually. My notebook already had code which had been reviewed multiple times. Claude Code did some restructuring and some model building code was optimised. The focus was on getting the site itself ready, and to integrate the models to run when deployed. 1 like, 17 views"
+                    - [146] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [147] AXGroup expanded=false
+                      - [148] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [149] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [150] AXLink expanded=false "Enumula Kartik 🇮🇳\nVerified account" url="https://x.com/EnumulaKartik"
+                      - [151] AXStaticText expanded=false = "Enumula Kartik 🇮🇳"
+                      - [152] AXImage expanded=false "Verified account"
+                    - [153] AXLink expanded=false "@EnumulaKartik" url="https://x.com/EnumulaKartik"
+                      - [154] AXGroup expanded=false
+                        - [155] AXStaticText expanded=false = "@EnumulaKartik"
+                    - [156] AXLink expanded=false "Nov 16" url="https://x.com/EnumulaKartik/status/2122290866211651648"
+                      - [157] AXGroup subrole=AXTimeGroup expanded=false
+                        - [158] AXStaticText expanded=false = "Nov 16"
+                    - [159] AXButton expanded=false "Grok actions"
+                    - [160] AXPopUpButton expanded=false "More"
+                    - [161] AXGroup expanded=false
+                      - [162] AXStaticText expanded=false = "Not much actually. My notebook already had code which had been reviewed multiple times. Claude Code did some restructuring and some model building code was optimised. The focus was on getting the site itself ready, and to integrate the models to run when deployed."
+                    - [163] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 17 views"
+                      - [164] AXButton expanded=false "0 Replies. Reply"
+                      - [165] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [166] AXButton expanded=false "1 Like. Like"
+                      - [167] AXLink expanded=false "17 views. View post analytics" url="https://x.com/EnumulaKartik/status/2122290866211651648/analytics"
+                        - [168] AXStaticText expanded=false = "17"
+                      - [169] AXButton expanded=false "Bookmark"
+                      - [170] AXPopUpButton expanded=false "Share post"
+          - [171] AXGroup expanded=false "Trending"
+            - [172] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [173] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [174] AXGroup expanded=false
+                  - [175] AXStaticText expanded=false = "Search"
+            - [176] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [177] AXHeading expanded=false "Relevant people" = "2"
+                - [178] AXStaticText expanded=false = "Relevant people"
+              - [179] AXList subrole=AXContentList expanded=false
+                - [180] AXGroup expanded=false
+                  - [181] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [182] AXGroup expanded=false
+                    - [183] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [184] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [185] AXLink expanded=false "Enumula Kartik 🇮🇳\nVerified account" url="https://x.com/EnumulaKartik"
+                    - [186] AXStaticText expanded=false = "Enumula Kartik 🇮🇳"
+                    - [187] AXImage expanded=false "Verified account"
+                  - [188] AXLink expanded=false "@EnumulaKartik" url="https://x.com/EnumulaKartik"
+                    - [189] AXGroup expanded=false
+                      - [190] AXStaticText expanded=false = "@EnumulaKartik"
+                  - [191] AXButton expanded=false "Follow @EnumulaKartik"
+                  - [192] AXGroup expanded=false
+                    - [193] AXStaticText expanded=false = "Simplifying AI & ML for Businesses. Systematic Trader. Writing about what actually works. Building "
+                    - [194] AXLink expanded=false "monkish.in" url="https://t.co/MtW1SfJyWa"
+                      - [195] AXStaticText expanded=false = "monkish.in"
+            - [196] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [197] AXHeading expanded=false "Trending now" = "1"
+                - [198] AXStaticText expanded=false = "Trending now"
+              - [199] AXGroup expanded=false "Timeline: Trending now"
+                - [200] AXGroup subrole=AXEmptyGroup expanded=false
+                - [201] AXHeading expanded=false "What’s happening" = "2"
+                  - [202] AXStaticText expanded=false = "What’s happening"
+                - [203] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [204] AXGroup expanded=false
+                    - [205] AXStaticText expanded=false = "Sports · Trending"
+                  - [206] AXGroup expanded=false
+                    - [207] AXStaticText expanded=false = "Rishabh Pant"
+                  - [208] AXPopUpButton expanded=false "More"
+                - [209] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [210] AXGroup expanded=false
+                    - [211] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [212] AXGroup expanded=false
+                    - [213] AXStaticText expanded=false = "Charles"
+                  - [214] AXPopUpButton expanded=false "More"
+                - [215] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [216] AXGroup expanded=false
+                    - [217] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [218] AXGroup expanded=false
+                    - [219] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [220] AXPopUpButton expanded=false "More"
+                - [221] AXLink expanded=false "Sports · Trending Draw More"
+                  - [222] AXGroup expanded=false
+                    - [223] AXStaticText expanded=false = "Sports · Trending"
+                  - [224] AXGroup expanded=false
+                    - [225] AXStaticText expanded=false = "Draw"
+                  - [226] AXPopUpButton expanded=false "More"
+                - [227] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [228] AXGroup expanded=false
+                    - [229] AXStaticText expanded=false = "Show more"
+            - [230] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [231] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [232] AXStaticText expanded=false = "Terms"
+              - [233] AXGroup expanded=false
+                - [234] AXStaticText expanded=false = "·"
+              - [235] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [236] AXStaticText expanded=false = "Privacy"
+              - [237] AXGroup expanded=false
+                - [238] AXStaticText expanded=false = "·"
+              - [239] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [240] AXStaticText expanded=false = "Cookies"
+              - [241] AXGroup expanded=false
+                - [242] AXStaticText expanded=false = "·"
+              - [243] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [244] AXStaticText expanded=false = "Accessibility"
+              - [245] AXGroup expanded=false
+                - [246] AXStaticText expanded=false = "·"
+              - [247] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [248] AXStaticText expanded=false = "Ads Info"
+              - [249] AXGroup expanded=false
+                - [250] AXStaticText expanded=false = "·"
+              - [251] AXPopUpButton expanded=false "More"
+              - [252] AXGroup expanded=false
+                - [253] AXStaticText expanded=false = "© 2026 X Corp."
+        - [254] AXGroup subrole=AXEmptyGroup expanded=false
+        - [255] AXGroup subrole=AXEmptyGroup expanded=false
+      - [256] AXScrollBar expanded=false = "0.006715917"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [257] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [258] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [259] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [260] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [261] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [262] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [263] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [264] AXRadioButton subrole=AXTabButton valueWritable=false "Enumula Kartik 🇮🇳 on X: \"BuildWithAI #1.0 My machine learning portfolio went from an empty repo to live in 2 days. Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process. The stack: 1. .NET 10 MVC for the site 2. Models trained in Python (uv), https://t.co/tRtPiYl4YA\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Enumula Kartik 🇮🇳 on X: \"BuildWithAI #1.0 My machine learning portfolio went from an empty repo to live in 2 days. Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process. The stack: 1. .NET 10 MVC for the site 2. Models trained in Python (uv), https://t.co/tRtPiYl4YA\" / X" selection=[0,0]
+  - [265] AXGroup "Favorites bar"
+    - [266] AXButton "show start page" help="Show Start Page"
+    - [267] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [268] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [269] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [270] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [271] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [272] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [273] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [274] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [275] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [276] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [277] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [278] AXToolbar
+    - [279] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [280] AXButton "show sidebar" help="Show sidebar"
+      - [281] AXMenuButton "Tab Group picker"
+    - [282] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [283] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [284] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [285] AXButton "Page Menu"
+      - [286] AXButton "Add page to Reading List"
+      - [287] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/EnumulaKartik/status/2122249418967818624" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [288] AXButton "Reload this page"
+    - [289] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [290] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [291] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [292] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [293] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [294] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [295] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [296] AXButton subrole=AXCloseButton
+  - [297] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [298] AXButton subrole=AXMinimizeButton
+- [299] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [300] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [301] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [302] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [303] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [304] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [305] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [306] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [307] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [308] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

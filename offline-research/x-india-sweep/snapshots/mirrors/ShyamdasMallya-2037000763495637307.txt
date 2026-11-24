@@ -1,0 +1,124 @@
+URL: https://teapawt.net/ShyamdasMallya/status/2037000763495637307
+FETCHED: 2026-11-22
+
+GoodMallya (@ShyamdasMallya): "I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. 
+
+Here's the reality of building it. 
+
+The stack: FastAPI backend, Next.js dashboard, Dhan for equity trades, Zerodha for options. ₹91,000 live capital on equities. ₹1,64,000 on options. Built almost entirely using Claude Code $20+tax plan. Claude also runs as an in-process advisor, AI advising the AI mid-trade.
+ The goal: ₹1,000–2,800/day combined. Not glamorous. Disciplined compounding.
+
+What actually happened: 15+ production bugs. In live trading. With real money. 
+
+Every bug taught something the backtests never could. 
+
+The market didn't help either. US-Iran war escalation. India VIX 20+. BankNifty gap-up and gap-downs, swinging 600-1000 points intraday. We were debugging production code in wartime volatility. 
+
+What's interesting about Claude Code: the entire codebase was built conversationally. Describe the bug, get the fix. Describe the feature, get the implementation. Then argue with it when it's wrong. It's a genuinely different way to build. 
+
+This series documents all of it — the bugs, the P&L, the decisions, the pivots. No highlight reel. Just the actual build.
+
+Follow along if you're building something hard
+
+#AlgoTrading #ClaudeCode #NSE #BANKNIFTY #BuildInPublic #Python" | teapawt teapawt 
+ $ 
+
+ GoodMallya 
+ 
+ @ShyamdasMallya Mar 26 
+
+ I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. 
+
+Here's the reality of building it. 
+
+The stack: FastAPI backend, Next.js dashboard, Dhan for equity trades, Zerodha for options. ₹91,000 live capital on equities. ₹1,64,000 on options. Built almost entirely using Claude Code $20+tax plan. Claude also runs as an in-process advisor, AI advising the AI mid-trade.
+ The goal: ₹1,000–2,800/day combined. Not glamorous. Disciplined compounding.
+
+What actually happened: 15+ production bugs. In live trading. With real money. 
+
+Every bug taught something the backtests never could. 
+
+The market didn't help either. US-Iran war escalation. India VIX 20+. BankNifty gap-up and gap-downs, swinging 600-1000 points intraday. We were debugging production code in wartime volatility. 
+
+What's interesting about Claude Code: the entire codebase was built conversationally. Describe the bug, get the fix. Describe the feature, get the implementation. Then argue with it when it's wrong. It's a genuinely different way to build. 
+
+This series documents all of it — the bugs, the P&L, the decisions, the pivots. No highlight reel. Just the actual build.
+
+Follow along if you're building something hard
+
+ #AlgoTrading #ClaudeCode #NSE #BANKNIFTY #BuildInPublic #Python 
+ ALT Zerodha and Dhan trades
+
+ Mar 26, 2026 · 2:56 AM UTC
+ 4
+ 
+ 2
+ 763
+ Relevant Recent Likes 
+
+ Back to the original post: GoodMallya I built a fully autonomous stock trading bot for the Indian market. No human intervention during the trading day. It scans 565 NSE stocks every 2 minutes, picks trades, places real orders, monitors positions, and exits all on its own. 
+
+Here's the reality of building it. 
+
+The stack: FastAPI backend, Next.js dashboard, Dhan for equity trades, Zerodha for options. ₹91,000 live capital on equities. ₹1,64,000 on options. Built almost entirely using Claude Code $20+tax plan. Claude also runs as an in-process advisor, AI advising the AI mid-trade.
+ The goal: ₹1,000–2,800/day combined. Not glamorous. Disciplined compounding.
+
+What actually happened: 15+ production bugs. In live trading. With real money. 
+
+Every bug taught something the backtests never could. 
+
+The market didn't help either. US-Iran war escalation. India VIX 20+. BankNifty gap-up and gap-downs, swinging 600-1000 points intraday. We were debugging production code in wartime volatility. 
+
+What's interesting about Claude Code: the entire codebase was built conversationally. Describe the bug, get the fix. Describe the feature, get the implementation. Then argue with it when it's wrong. It's a genuinely different way to build. 
+
+This series documents all of it — the bugs, the P&L, the decisions, the pivots. No highlight reel. Just the actual build.
+
+Follow along if you're building something hard
+
+#AlgoTrading #ClaudeCode #NSE #BANKNIFTY #BuildInPublic #Python Reyaz 
+ @flytradr_guy May 12 
+
+ genuinely solid build and the transparency is rare. the 15 production bugs with live capital is the part most people skip over but that is where the real learning happens. when you open source it, would love to see how the strategy logic compares to what we have built in FlyTradr. we let you do all of this without writing the code yourself, same end goal, backtesting to live deploy for NSE. flytradr.com 
+
+ FlyTradr - No-Code Algorithmic Trading Platform
+ Build, test, simulate, and automate trading strategies without coding with FlyTradr.
+ flytradr.com 
+
+ 39
+
+ DoYouKnow @GrowthExe Sep 24 
+
+ How did you pull live data from web?
+ 1
+
+ 53
+
+ GoodMallya 
+ @ShyamdasMallya Sep 24 
+
+ Dhan APIs, took 2 years sub.
+
+ 50
+
+ Shah @shahnawab Sep 17 
+
+ Can you put more light on how you did it and the stats of Win and Loss?
+ 1
+
+ 39
+
+ GoodMallya 
+ @ShyamdasMallya Sep 17 
+
+ Soon
+ 1
+
+ 44
+
+ Shah @shahnawab Sep 17 
+
+ Great.
+
+I am also working on this. Will update soon.
+
+ 20

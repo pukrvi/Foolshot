@@ -1,0 +1,37 @@
+URL: https://x.com/abhip_me/status/2124307631041097886
+DATE: 2026-11-22
+MODE: Latest
+
+Abhijith
+Verified account
+@abhip_me If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader developed the algo themselves. 
+
+I’ve helped few clients turn their trading strategies into Python code, and I’ve also built dashboards and automations around their strategies.
+
+If you have a strategy written down in plain English and want help building it in Python, feel free to DM me. I can help you backtest the rules, build a dashboard, or automate the parts you still do by hand. If live order execution is part of the plan, we can start by checking which setup your broker supports. Quote
+
+
+Square profile picture
+Traders Cafe
+Verified account
+@TradersCafe_blr 18 hours ago
+NSE\'s static IP circular in 60 seconds.
+
+- Static IP only if you code your own algo
+- Brokers must take a written undertaking
+- No exchange grievance route for algo-logic losses
+- Effective immediately
+
+#AlgoTrading #NSE
+
+
+Embedded video
+0:53 1 reply, 4 likes, 125 views
+
+Abhijith
+Verified account
+@abhip_me 13 hours ago Woohoo!! Made another sale while I was sick, and this one took me past $500 in total sales! 🥹
+
+Six months ago, I had no second income. It might not sound like much, but seeing that notification made me so happy.
+
+Crazy how time flies. Dodo Payments 6 likes, 127 views

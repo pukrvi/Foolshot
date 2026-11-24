@@ -1,0 +1,361 @@
+QUERY: (github.com) (nifty OR banknifty OR zerodha OR dhan OR nse) (claude OR llm OR agent OR backtest)
+URL: https://x.com/search?q=(github.com)%20(nifty%20OR%20banknifty%20OR%20zerodha%20OR%20dhan%20OR%20nse)%20(claude%20OR%20llm%20OR%20agent%20OR%20backtest)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 10
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 752 views
+
+Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 32 views" description="Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com 1 reply, 32 views
+
+OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 880 views" description="OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 880 views
+
+Hithesh Karanth
+@HitheshKaranth Oct 2 Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video Play Video. 30 seconds long 1 repost, 3 likes, 302 views
+
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 752 views
+
+Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 32 views" description="Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com 1 reply, 32 views
+
+OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 880 views" description="OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 880 views
+
+Hithesh Karanth
+@HitheshKaranth Oct 2 Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video Play Video. 30 seconds long 1 repost, 3 likes, 302 views
+
+khushal jain
+@khushaljai48011 Sep 1 I built an AI-native stock screener for NSE 🇮🇳
+
+📈 Breakout scanner + live option chain
+🤖 Chat with an AI trading agent (5 personas)
+🧠 ML-based Nifty gap predictor
+
+Open-source, MIT licensed.
+
+🔗 github.com/85599/KJStockS
+🚀 Try it: kjstockscreener.streamlit.app
+
+⭐ if useful! Image 2 likes, 2 bookmarks, 169 views
+
+Tom Dörr
+Verified account
+@tom_doerr Jul 23 Generates trading bots and manages risk for Indian equity markets with Zerodha integration using Claude Code.
+
+github.com/javajack/skill Image 1 reply, 2 reposts, 58 likes, 77 bookmarks, 7787 views
+
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 752 views
+
+Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 32 views" description="Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com 1 reply, 32 views
+
+OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 880 views" description="OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 880 views
+
+Hithesh Karanth
+@HitheshKaranth Oct 2 Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video
+0:27 1 repost, 3 likes, 302 views
+
+khushal jain
+@khushaljai48011 Sep 1 I built an AI-native stock screener for NSE 🇮🇳
+
+📈 Breakout scanner + live option chain
+🤖 Chat with an AI trading agent (5 personas)
+🧠 ML-based Nifty gap predictor
+
+Open-source, MIT licensed.
+
+🔗 github.com/85599/KJStockS
+🚀 Try it: kjstockscreener.streamlit.app
+
+⭐ if useful! Image 2 likes, 2 bookmarks, 169 views
+
+Tom Dörr
+Verified account
+@tom_doerr Jul 23 Generates trading bots and manages risk for Indian equity markets with Zerodha integration using Claude Code.
+
+github.com/javajack/skill Image 1 reply, 2 reposts, 58 likes, 77 bookmarks, 7787 views
+
+Hari Rajesh
+@haricane8133 Jun 25 4 likes, 1 bookmark, 845 views
+
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 752 views
+
+Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 32 views" description="Logesh Ramasamy
+Verified account
+@Logesh11667187 Nov 17 Replying to @Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.
+
+You ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com 1 reply, 32 views
+
+OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 880 views" description="OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 880 views
+
+Hithesh Karanth
+@HitheshKaranth Oct 2 Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video
+0:25 1 repost, 3 likes, 302 views
+
+khushal jain
+@khushaljai48011 Sep 1 I built an AI-native stock screener for NSE 🇮🇳
+
+📈 Breakout scanner + live option chain
+🤖 Chat with an AI trading agent (5 personas)
+🧠 ML-based Nifty gap predictor
+
+Open-source, MIT licensed.
+
+🔗 github.com/85599/KJStockS
+🚀 Try it: kjstockscreener.streamlit.app
+
+⭐ if useful! Image 2 likes, 2 bookmarks, 169 views
+
+Tom Dörr
+Verified account
+@tom_doerr Jul 23 Generates trading bots and manages risk for Indian equity markets with Zerodha integration using Claude Code.
+
+github.com/javajack/skill Image 1 reply, 2 reposts, 58 likes, 77 bookmarks, 7787 views
+
+Hari Rajesh
+@haricane8133 Jun 25 4 likes, 1 bookmark, 845 views
+
+Hari Rajesh
+@haricane8133 Jun 3 1 reply, 2 likes, 2 bookmarks, 5517 views
+
+zostaff
+Verified account
+@zostaff May 25 21 replies, 71 reposts, 445 likes, 1080 bookmarks, 868402 views
+
+
+OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 880 views" description="OpenAlgo
+Verified account
+@openalgoHQ Oct 31 OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 880 views
+
+Hithesh Karanth
+@HitheshKaranth Oct 2 Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video
+
+Seek slider
+Play
+0:05 / 0:30 Unmute Volume slider Video Settings Picture-in-Picture Full screen 1 repost, 3 likes, 302 views
+
+khushal jain
+@khushaljai48011 Sep 1 I built an AI-native stock screener for NSE 🇮🇳
+
+📈 Breakout scanner + live option chain
+🤖 Chat with an AI trading agent (5 personas)
+🧠 ML-based Nifty gap predictor
+
+Open-source, MIT licensed.
+
+🔗 github.com/85599/KJStockS
+🚀 Try it: kjstockscreener.streamlit.app
+
+⭐ if useful! Image 2 likes, 2 bookmarks, 169 views
+
+Tom Dörr
+Verified account
+@tom_doerr Jul 23 Generates trading bots and manages risk for Indian equity markets with Zerodha integration using Claude Code.
+
+github.com/javajack/skill Image 1 reply, 2 reposts, 58 likes, 77 bookmarks, 7787 views
+
+Hari Rajesh
+@haricane8133 Jun 25 4 likes, 1 bookmark, 845 views
+
+Hari Rajesh
+@haricane8133 Jun 3 1 reply, 2 likes, 2 bookmarks, 5517 views
+
+zostaff
+Verified account
+@zostaff May 25 21 replies, 71 reposts, 445 likes, 1080 bookmarks, 868402 views
+
+Bharavi
+@EntangledUser Mar 22 "You either die a retail investor or live long enough to build 
+your own algo" 🦇
+
+Built agentmesh — AI agent mesh that watches NSE 24/7 and pings 
+me on Telegram when something real happens.
+
+Open source 👇
+github.com/bharavi1905/ag Image 2 replies, 2 reposts, 4 likes, 95 views

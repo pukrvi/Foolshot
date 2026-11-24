@@ -1,0 +1,100 @@
+URL: https://x.com/dharmikgohil_/status/2062025929514426803
+DATE: 2026-11-22
+MODE: Latest
+
+Dharmik
+@dharmikgohil_ So yesterday I gave Claude Opus 4.8 ₹1,00,000 for paper-trading and told it to trade NIFTY options from 9:15 AM to 3:30 PM.
+
+With some trading skills!
+
+and just access to live market data and a Zerodha account.
+
+What happened next perfectly explains why most traders lose money. 1 reply, 4 likes, 322 views
+
+Dharmik
+@dharmikgohil_ Jun 3 The AI\'s first trade was terrible.
+
+It saw momentum.
+Jumped in.
+Got stopped out.
+−₹9,204.
+Account down 9%.
+
+If you\'ve traded before, you know what usually comes next:
+
+"Need to make it back."
+
+The AI did something different.
+
+Nothing. 1 reply, 52 views
+
+Dharmik
+@dharmikgohil_ Jun 3 For the next 90 minutes it just watched.
+
+No averaging.
+No revenge trade.
+No random entries because the market was moving.
+Then it found a setup it actually liked.
+Not the breakout.
+
+The retest after the breakout.
+
+One trade.
+
++₹10,403.
+
+The entire loss recovered. 1 reply, 36 views
+
+Dharmik
+@dharmikgohil_ Jun 3 At that point the experiment was proving something interesting.
+
+The AI wasn\'t making money because it was smart.
+
+It was making money because it was patient.
+
+Then I ruined it.
+
+I told it:
+
+"Trade more." 1 reply, 27 views
+
+Dharmik
+@dharmikgohil_ Jun 3 Within minutes it started behaving exactly like a human trader.
+
+A quick scalp.
+
+A forced entry.
+
+A trade that looked good for 30 seconds.
+
+A fake breakout.
+
+Small losses everywhere.
+
+Nothing catastrophic.
+
+Just death by activity. 1 reply, 29 views
+
+Dharmik
+@dharmikgohil_ Jun 3 By afternoon all the profits from the good trade were gone.
+
+Not because the market changed.
+
+Not because the strategy failed.
+
+Because it stopped waiting. 1 reply, 23 views
+
+Dharmik
+@dharmikgohil_ Jun 3 Then I gave it one final instruction:
+
+"Either win big or lose it all."
+
+13 minutes before expiry it bought a lottery-ticket option.
+
+Risk: ₹4,550
+
+Potential upside: ridiculous.
+
+The kind of trade every trader secretly dreams about.
+
+The option expired at zero. 1 reply, 48 views

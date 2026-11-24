@@ -1,0 +1,16 @@
+URL: https://x.com/zerodha/status/2018182508077256955
+DATE: 2026-11-22
+MODE: Latest
+
+ritesh
+@riteshzd Feb 1 How are we solving for @zerodha MCP not giving a refresh token but an access token every time?
+
+Logging in via the web is a hassle
+#zerodha 1 reply, 1064 views
+
+Zerodha
+Verified account
+@zerodha Hi, access token/refresh token are fully handled by Zerodha on the backend for Kite MCP. You don’t need to manage them manually. Just log in with your Kite credentials and use MCP as usual. 1 reply, 976 views
+
+ritesh
+@riteshzd Feb 2 But why can’t we automate this completely? I don’t want to login to my zerodha account every time I start off a working session over claude.

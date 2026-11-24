@@ -1,0 +1,62 @@
+URL: https://x.com/pranjalsoni_/status/2118693175116325259
+DATE: 2026-11-22
+MODE: Latest
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ day 5 of letting an ai trade my real money. second red day in a row
+
+woke up on time today. logged in. felt ready
+
+the bot didn\'t. a bug i shipped last night made it think the market was closed for a holiday. paper trading switched itself off at 9:16 on a normal friday
+
+fixed it, restarted, moved on
+
+around 10 we found a setup that actually held up in 2 years of data. stocks that gap hard on news and keep falling
+
+claude said paper it first. i said go full size
+
+> stopped out in 13 minutes. -3.7k
+
+the stock bounced right back down after. of course
+
+then i got desperate and wanted to scalp. 1-3 minute trades, grab cash, get out
+
+so we tested it. 20k trades on 1-minute data: zero edge before costs, guaranteed loss after
+
+ran it live on paper anyway with 5 lakh a trade
+
+> 72 trades in 4 hours. -30k. on paper. thank god
+
+two days, two lessons:
+- don\'t trade what the rules say to skip
+- don\'t bet big on something you found an hour ago
+
+account is down ~1.6% over 5 days. not dead. just humbled
+
+weekend plan: test the one real setup on 5 more years of data, build a model, and hard-code the risk rules so i can\'t override them
+
+see you monday 5 replies, 2 likes, 1 bookmark, 623 views
+
+0xAzr
+Verified account
+@AzrianoY1 Nov 6 two red days from one bug is still useful data. small size till the fix ships
+
+JTradeX
+@JTradeX_paper Nov 6 Shipped the bug last night and woke up to red candles? Classic.
+
+Siddhant Mohan
+Verified account
+@siddhantmohan1 Introducing open source AI code review. The review you pay $60 a developer for, now $0 and open source: 100+ scanners plus an AI reviewer that has to answer every finding, on your own Claude Code or Codex login, before you push.
+
+github.com/openqodex/open Embedded video Play Video. 40 seconds long 84 replies, 195 reposts, 2382 likes, 3314 bookmarks, 1808187 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ 3 hours ago if this dude is permanent middle class
+
+we all are below poverty line Quote
+@levelsio
+Verified account
+@levelsio 19 hours ago
+More likely than permanent underclass is we will all be permanent middle class 2 likes, 115 views

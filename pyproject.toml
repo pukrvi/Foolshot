@@ -1,0 +1,10 @@
+[project]
+name = "foolshot"
+version = "0.1.0"
+description = "Offline replay foundation for the Foolshot experiment"
+requires-python = ">=3.12,<3.13"
+dependencies = ["pydantic==2.14.3", "PyYAML==6.0.3"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,447 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Ajay Kumar on X: \"NSE now has a free, official MCP server for AI agents 36 tools, no API key: – Live quotes, indices &amp; movers – 5 yrs EOD history, 52W range, moving averages – Breadth, India VIX, index P/E &amp; P/B – Stock vs index: beta, correlation https://t.co/1i2YSakTYW All tools 🧵👇\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Ajay Kumar on X: \"NSE now has a free, official MCP server for AI agents 36 tools, no API key: – Live quotes, indices &amp; movers – 5 yrs EOD history, 52W range, moving averages – Breadth, India VIX, index P/E &amp; P/B – Stock vs index: beta, correlation https://t.co/1i2YSakTYW All tools 🧵👇\" / X" url="https://x.com/AKtrader1108/status/2124168217946178021"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 NSE now has a free, official MCP server for AI agents\n\n36 tools, no API key:\n– Live quotes, indices & movers\n– 5 yrs EOD history, 52W range, moving averages\n– Breadth, India VIX, index P/E & P/B\n– Stock vs index: beta, correlation\n\nnseindia.com/nse-mcp\n\nAll tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 63 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/AKtrader1108"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [72] AXStaticText expanded=false = "Ajay Kumar"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@AKtrader1108"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "NSE now has a free, official MCP server for AI agents\n\n36 tools, no API key:\n– Live quotes, indices & movers\n– 5 yrs EOD history, 52W range, moving averages\n– Breadth, India VIX, index P/E & P/B\n– Stock vs index: beta, correlation\n\n"
+                      - [81] AXLink expanded=false "nseindia.com/nse-mcp" url="https://t.co/1i2YSakTYW"
+                        - [82] AXStaticText expanded=false = "nseindia.com/nse-mcp"
+                      - [83] AXStaticText expanded=false = "\n\nAll tools 🧵👇"
+                    - [84] AXGroup expanded=false "nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..."
+                      - [85] AXGroup expanded=false "nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..."
+                        - [86] AXLink expanded=false "nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..." url="https://t.co/1i2YSakTYW"
+                          - [87] AXGroup expanded=false
+                            - [88] AXStaticText expanded=false = "nseindia.in"
+                          - [89] AXGroup expanded=false
+                            - [90] AXStaticText expanded=false = "NSE - National Stock Exchange of India Ltd"
+                          - [91] AXStaticText expanded=false = "NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and..."
+                    - [92] AXGroup expanded=false
+                      - [93] AXLink expanded=false "This is the latest version of this post. Last edited 9:19 PM · Nov 21, 2026" url="https://x.com/AKtrader1108/status/2124168217946178021/history"
+                        - [94] AXStaticText expanded=false = "Last edited"
+                        - [95] AXGroup subrole=AXTimeGroup expanded=false
+                          - [96] AXStaticText expanded=false = "9:19 PM · Nov 21, 2026"
+                      - [97] AXLink expanded=false "63 Views" url="https://x.com/AKtrader1108/status/2124168217946178021/analytics"
+                        - [98] AXStaticText expanded=false = "63"
+                        - [99] AXStaticText expanded=false = "Views"
+                    - [100] AXGroup subrole=AXApplicationGroup expanded=false "2 replies, 1 like, 63 views"
+                      - [101] AXButton expanded=false "2 Replies. Reply"
+                      - [102] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [103] AXButton expanded=false "1 Like. Like"
+                      - [104] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [105] AXPopUpButton expanded=false "Share post"
+                    - [106] AXPopUpButton expanded=false "Relevant"
+                  - [107] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [108] AXGroup expanded=false
+                    - [109] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [110] AXGroup expanded=false
+                      - [111] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [112] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [113] AXGroup expanded=false
+                          - [114] AXGroup expanded=false "Puneet Vishnawat"
+                            - [115] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [116] AXGroup expanded=false
+                    - [117] AXStaticText expanded=false = "Post your reply"
+                  - [118] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [119] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [121] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 19 hours ago 1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)\n\n– Stock quote: LTP, OHLC, volume, 52W\n– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y\n– ~140 live indices by group\n– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)\n– Live lists: equity, SME, bonds, call auction\n– Data freshness check 1 reply, 53 views"
+                    - [122] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [123] AXGroup expanded=false
+                      - [124] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [125] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [126] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [127] AXStaticText expanded=false = "Ajay Kumar"
+                      - [128] AXImage expanded=false "Verified account"
+                    - [129] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [130] AXGroup expanded=false
+                        - [131] AXStaticText expanded=false = "@AKtrader1108"
+                    - [132] AXLink expanded=false "19 hours ago" url="https://x.com/AKtrader1108/status/2124168665121615872"
+                      - [133] AXGroup subrole=AXTimeGroup expanded=false
+                        - [134] AXStaticText expanded=false = "19h"
+                    - [135] AXButton expanded=false "Grok actions"
+                    - [136] AXPopUpButton expanded=false "More"
+                    - [137] AXGroup expanded=false
+                      - [138] AXStaticText expanded=false = "1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)\n\n– Stock quote: LTP, OHLC, volume, 52W\n– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y\n– ~140 live indices by group\n– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)\n– Live lists: equity, SME, bonds, call auction\n– Data freshness check"
+                    - [139] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 53 views"
+                      - [140] AXButton expanded=false "1 Reply. Reply"
+                      - [141] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [142] AXButton expanded=false "0 Likes. Like"
+                      - [143] AXLink expanded=false "53 views. View post analytics" url="https://x.com/AKtrader1108/status/2124168665121615872/analytics"
+                        - [144] AXStaticText expanded=false = "53"
+                      - [145] AXButton expanded=false "Bookmark"
+                      - [146] AXPopUpButton expanded=false "Share post"
+                  - [147] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 19 hours ago 2/ 📊 END-OF-DAY: STOCKS (5 yrs data)\n\n– Daily OHLCV + close on any date\n– Bulk quote, up to 50 symbols\n– 52W high/low\n– Moving averages (20/50/200)\n– Volume spikes & trend\n– Splits, bonuses, dividends\n– Symbol search\n– Compare up to 10 stocks\n– Stock vs index: beta, correlation 1 reply, 4 views"
+                    - [148] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [149] AXGroup expanded=false
+                      - [150] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [151] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [152] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [153] AXStaticText expanded=false = "Ajay Kumar"
+                      - [154] AXImage expanded=false "Verified account"
+                    - [155] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [156] AXGroup expanded=false
+                        - [157] AXStaticText expanded=false = "@AKtrader1108"
+                    - [158] AXLink expanded=false "19 hours ago" url="https://x.com/AKtrader1108/status/2124169368292487246"
+                      - [159] AXGroup subrole=AXTimeGroup expanded=false
+                        - [160] AXStaticText expanded=false = "19h"
+                    - [161] AXButton expanded=false "Grok actions"
+                    - [162] AXPopUpButton expanded=false "More"
+                    - [163] AXGroup expanded=false
+                      - [164] AXStaticText expanded=false = "2/ 📊 END-OF-DAY: STOCKS (5 yrs data)\n\n– Daily OHLCV + close on any date\n– Bulk quote, up to 50 symbols\n– 52W high/low\n– Moving averages (20/50/200)\n– Volume spikes & trend\n– Splits, bonuses, dividends\n– Symbol search\n– Compare up to 10 stocks\n– Stock vs index: beta, correlation"
+                    - [165] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 views"
+                      - [166] AXButton expanded=false "1 Reply. Reply"
+                      - [167] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [168] AXButton expanded=false "0 Likes. Like"
+                      - [169] AXLink expanded=false "4 views. View post analytics" url="https://x.com/AKtrader1108/status/2124169368292487246/analytics"
+                        - [170] AXStaticText expanded=false = "4"
+                      - [171] AXButton expanded=false "Bookmark"
+                      - [172] AXPopUpButton expanded=false "Share post"
+                  - [173] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 19 hours ago 3/ 🏛 END-OF-DAY: MARKET & INDICES\n\n– Mood: VIX, advances vs declines\n– Breadth: A/D ratio, volume\n– Top movers & most active by date\n– ~170 indices: OHLC, P/E, P/B\n– Index history, returns 1D–2Y\n– Valuation vs past 5 yrs\n– Compare up to 10 indices: return, volatility, drawdown 1 reply, 6 views"
+                    - [174] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [175] AXGroup expanded=false
+                      - [176] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [177] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [178] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [179] AXStaticText expanded=false = "Ajay Kumar"
+                      - [180] AXImage expanded=false "Verified account"
+                    - [181] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [182] AXGroup expanded=false
+                        - [183] AXStaticText expanded=false = "@AKtrader1108"
+                    - [184] AXLink expanded=false "19 hours ago" url="https://x.com/AKtrader1108/status/2124169459032011132"
+                      - [185] AXGroup subrole=AXTimeGroup expanded=false
+                        - [186] AXStaticText expanded=false = "19h"
+                    - [187] AXButton expanded=false "Grok actions"
+                    - [188] AXPopUpButton expanded=false "More"
+                    - [189] AXGroup expanded=false
+                      - [190] AXStaticText expanded=false = "3/ 🏛 END-OF-DAY: MARKET & INDICES\n\n– Mood: VIX, advances vs declines\n– Breadth: A/D ratio, volume\n– Top movers & most active by date\n– ~170 indices: OHLC, P/E, P/B\n– Index history, returns 1D–2Y\n– Valuation vs past 5 yrs\n– Compare up to 10 indices: return, volatility, drawdown"
+                    - [191] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 6 views"
+                      - [192] AXButton expanded=false "1 Reply. Reply"
+                      - [193] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [194] AXButton expanded=false "0 Likes. Like"
+                      - [195] AXLink expanded=false "6 views. View post analytics" url="https://x.com/AKtrader1108/status/2124169459032011132/analytics"
+                        - [196] AXStaticText expanded=false = "6"
+                      - [197] AXButton expanded=false "Bookmark"
+                      - [198] AXPopUpButton expanded=false "Share post"
+                  - [199] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 19 hours ago 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):\n\nLive: mcp.nseindia.in/cmmkt/mcp\nEOD: mcp.nseindia.in/bhavcopy/cm/mcp\n\nCash market only, no F&O or intraday candles. For info/education, not investment advice.\n\n#NSE #MCP #AI #StockMarket"
+                    - [200] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [201] AXGroup expanded=false
+                      - [202] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [203] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [204] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [205] AXStaticText expanded=false = "Ajay Kumar"
+                      - [206] AXImage expanded=false "Verified account"
+                    - [207] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [208] AXGroup expanded=false
+                        - [209] AXStaticText expanded=false = "@AKtrader1108"
+                    - [210] AXLink expanded=false "19 hours ago" url="https://x.com/AKtrader1108/status/2124169593681760624"
+                      - [211] AXGroup subrole=AXTimeGroup expanded=false
+                        - [212] AXStaticText expanded=false = "19h"
+                    - [213] AXButton expanded=false "Grok actions"
+                    - [214] AXPopUpButton expanded=false "More"
+                    - [215] AXGroup expanded=false
+                      - [216] AXStaticText expanded=false = "4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):\n\nLive: "
+                      - [217] AXLink expanded=false "mcp.nseindia.in/cmmkt/mcp" url="https://t.co/TuqcPgYOGf"
+                        - [218] AXStaticText expanded=false = "mcp.nseindia.in/cmmkt/mcp"
+                      - [219] AXStaticText expanded=false = "\nEOD: "
+                      - [220] AXLink expanded=false "mcp.nseindia.in/bhavcopy/cm/mcp" url="https://t.co/aNBQT3orQQ"
+                        - [221] AXStaticText expanded=false = "mcp.nseindia.in/bhavcopy/cm/mcp"
+                      - [222] AXStaticText expanded=false = "\n\nCash market only, no F&O or intraday candles. For info/education, not investment advice.\n\n"
+                      - [223] AXLink expanded=false "#NSE" url="https://x.com/hashtag/NSE?src=hashtag_click"
+                        - [224] AXStaticText expanded=false = "#NSE"
+                      - [225] AXLink expanded=false "#MCP" url="https://x.com/hashtag/MCP?src=hashtag_click"
+                        - [226] AXStaticText expanded=false = "#MCP"
+                      - [227] AXLink expanded=false "#AI" url="https://x.com/hashtag/AI?src=hashtag_click"
+                        - [228] AXStaticText expanded=false = "#AI"
+                      - [229] AXLink expanded=false "#StockMarket" url="https://x.com/hashtag/StockMarket?src=hashtag_click"
+                        - [230] AXStaticText expanded=false = "#StockMarket"
+                    - [231] AXGroup subrole=AXApplicationGroup expanded=false "21 views"
+                      - [232] AXButton expanded=false "0 Replies. Reply"
+                      - [233] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [234] AXButton expanded=false "0 Likes. Like"
+                      - [235] AXLink expanded=false "21 views. View post analytics" url="https://x.com/AKtrader1108/status/2124169593681760624/analytics"
+                        - [236] AXStaticText expanded=false = "21"
+                      - [237] AXButton expanded=false "Bookmark"
+                      - [238] AXPopUpButton expanded=false "Share post"
+                  - [239] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [240] AXGroup subrole=AXDocumentArticle expanded=false "Keith Zhai\nVerified account\n@KeithZhai 12 hours ago any rate limit on the live quotes? 1 reply, 1 like, 33 views"
+                    - [241] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [242] AXGroup expanded=false
+                      - [243] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [244] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [245] AXLink expanded=false "Keith Zhai\nVerified account" url="https://x.com/KeithZhai"
+                      - [246] AXStaticText expanded=false = "Keith Zhai"
+                      - [247] AXImage expanded=false "Verified account"
+                      - [248] AXLink expanded=false
+                        - [249] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [250] AXLink expanded=false "@KeithZhai" url="https://x.com/KeithZhai"
+                      - [251] AXGroup expanded=false
+                        - [252] AXStaticText expanded=false = "@KeithZhai"
+                    - [253] AXLink expanded=false "12 hours ago" url="https://x.com/KeithZhai/status/2124274071080956068"
+                      - [254] AXGroup subrole=AXTimeGroup expanded=false
+                        - [255] AXStaticText expanded=false = "12h"
+                    - [256] AXButton expanded=false "Grok actions"
+                    - [257] AXPopUpButton expanded=false "More"
+                    - [258] AXGroup expanded=false
+                      - [259] AXStaticText expanded=false = "any rate limit on the live quotes?"
+                    - [260] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 33 views"
+                      - [261] AXButton expanded=false "1 Reply. Reply"
+                      - [262] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [263] AXButton expanded=false "1 Like. Like"
+                      - [264] AXLink expanded=false "33 views. View post analytics" url="https://x.com/KeithZhai/status/2124274071080956068/analytics"
+                        - [265] AXStaticText expanded=false = "33"
+                      - [266] AXButton expanded=false "Bookmark"
+                      - [267] AXPopUpButton expanded=false "Share post"
+                  - [268] AXGroup subrole=AXDocumentArticle expanded=false "Ajay Kumar\nVerified account\n@AKtrader1108 9 hours ago NSE hasn\'t published a rate limit, and there are no rate-limit headers. It sits behind Akamai though, so heavy bursts can get a client stalled for a few minutes. Live data only refreshes about once a minute anyway, so caching and polling gently works best."
+                    - [269] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [270] AXGroup expanded=false
+                      - [271] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [272] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [273] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                      - [274] AXStaticText expanded=false = "Ajay Kumar"
+                      - [275] AXImage expanded=false "Verified account"
+                    - [276] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                      - [277] AXGroup expanded=false
+                        - [278] AXStaticText expanded=false = "@AKtrader1108"
+                    - [279] AXLink expanded=false "9 hours ago" url="https://x.com/AKtrader1108/status/2124329386790805622"
+                      - [280] AXGroup subrole=AXTimeGroup expanded=false
+                        - [281] AXStaticText expanded=false = "9h"
+                    - [282] AXButton expanded=false "Grok actions"
+                    - [283] AXPopUpButton expanded=false "More"
+                    - [284] AXGroup expanded=false
+                      - [285] AXStaticText expanded=false = "NSE hasn\'t published a rate limit, and there are no rate-limit headers. It sits behind Akamai though, so heavy bursts can get a client stalled for a few minutes. Live data only refreshes about once a minute anyway, so caching and polling gently works best."
+                    - [286] AXGroup subrole=AXApplicationGroup expanded=false "10 views"
+                      - [287] AXButton expanded=false "0 Replies. Reply"
+                      - [288] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [289] AXButton expanded=false "0 Likes. Like"
+                      - [290] AXLink expanded=false "10 views. View post analytics" url="https://x.com/AKtrader1108/status/2124329386790805622/analytics"
+                        - [291] AXStaticText expanded=false = "10"
+                      - [292] AXButton expanded=false "Bookmark"
+                      - [293] AXPopUpButton expanded=false "Share post"
+          - [294] AXGroup expanded=false "Trending"
+            - [295] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [296] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [297] AXGroup expanded=false
+                  - [298] AXStaticText expanded=false = "Search"
+            - [299] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [300] AXHeading expanded=false "Relevant people" = "2"
+                - [301] AXStaticText expanded=false = "Relevant people"
+              - [302] AXList subrole=AXContentList expanded=false
+                - [303] AXGroup expanded=false
+                  - [304] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [305] AXGroup expanded=false
+                    - [306] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [307] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [308] AXLink expanded=false "Ajay Kumar\nVerified account" url="https://x.com/AKtrader1108"
+                    - [309] AXStaticText expanded=false = "Ajay Kumar"
+                    - [310] AXImage expanded=false "Verified account"
+                  - [311] AXLink expanded=false "@AKtrader1108" url="https://x.com/AKtrader1108"
+                    - [312] AXGroup expanded=false
+                      - [313] AXStaticText expanded=false = "@AKtrader1108"
+                  - [314] AXButton expanded=false "Follow @AKtrader1108"
+                  - [315] AXGroup expanded=false
+                    - [316] AXStaticText expanded=false = "FNO trader | Software Engineer"
+            - [317] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [318] AXHeading expanded=false "Trending now" = "1"
+                - [319] AXStaticText expanded=false = "Trending now"
+              - [320] AXGroup expanded=false "Timeline: Trending now"
+                - [321] AXGroup subrole=AXEmptyGroup expanded=false
+                - [322] AXHeading expanded=false "What’s happening" = "2"
+                  - [323] AXStaticText expanded=false = "What’s happening"
+                - [324] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [325] AXGroup expanded=false
+                    - [326] AXStaticText expanded=false = "Sports · Trending"
+                  - [327] AXGroup expanded=false
+                    - [328] AXStaticText expanded=false = "Rishabh Pant"
+                  - [329] AXPopUpButton expanded=false "More"
+                - [330] AXLink expanded=false "Sports · Trending Draw More"
+                  - [331] AXGroup expanded=false
+                    - [332] AXStaticText expanded=false = "Sports · Trending"
+                  - [333] AXGroup expanded=false
+                    - [334] AXStaticText expanded=false = "Draw"
+                  - [335] AXPopUpButton expanded=false "More"
+                - [336] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [337] AXGroup expanded=false
+                    - [338] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [339] AXGroup expanded=false
+                    - [340] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [341] AXPopUpButton expanded=false "More"
+                - [342] AXLink expanded=false "Trending in India राजकीय यात्रा More"
+                  - [343] AXGroup expanded=false
+                    - [344] AXStaticText expanded=false = "Trending in India"
+                  - [345] AXGroup expanded=false
+                    - [346] AXStaticText expanded=false = "राजकीय यात्रा"
+                  - [347] AXPopUpButton expanded=false "More"
+                - [348] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [349] AXGroup expanded=false
+                    - [350] AXStaticText expanded=false = "Show more"
+            - [351] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [352] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [353] AXStaticText expanded=false = "Terms"
+              - [354] AXGroup expanded=false
+                - [355] AXStaticText expanded=false = "·"
+              - [356] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [357] AXStaticText expanded=false = "Privacy"
+              - [358] AXGroup expanded=false
+                - [359] AXStaticText expanded=false = "·"
+              - [360] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [361] AXStaticText expanded=false = "Cookies"
+              - [362] AXGroup expanded=false
+                - [363] AXStaticText expanded=false = "·"
+              - [364] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [365] AXStaticText expanded=false = "Accessibility"
+              - [366] AXGroup expanded=false
+                - [367] AXStaticText expanded=false = "·"
+              - [368] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [369] AXStaticText expanded=false = "Ads Info"
+              - [370] AXGroup expanded=false
+                - [371] AXStaticText expanded=false = "·"
+              - [372] AXPopUpButton expanded=false "More"
+              - [373] AXGroup expanded=false
+                - [374] AXStaticText expanded=false = "© 2026 X Corp."
+        - [375] AXGroup subrole=AXEmptyGroup expanded=false
+        - [376] AXGroup subrole=AXEmptyGroup expanded=false
+      - [377] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [378] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [379] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [380] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [381] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [382] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [383] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [384] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [385] AXRadioButton subrole=AXTabButton valueWritable=false "Ajay Kumar on X: \"NSE now has a free, official MCP server for AI agents 36 tools, no API key: – Live quotes, indices &amp; movers – 5 yrs EOD history, 52W range, moving averages – Breadth, India VIX, index P/E &amp; P/B – Stock vs index: beta, correlation https://t.co/1i2YSakTYW All tools 🧵👇\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Ajay Kumar on X: \"NSE now has a free, official MCP server for AI agents 36 tools, no API key: – Live quotes, indices &amp; movers – 5 yrs EOD history, 52W range, moving averages – Breadth, India VIX, index P/E &amp; P/B – Stock vs index: beta, correlation https://t.co/1i2YSakTYW All tools 🧵👇\" / X" selection=[0,0]
+  - [386] AXGroup "Favorites bar"
+    - [387] AXButton "show start page" help="Show Start Page"
+    - [388] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [389] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [390] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [391] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [392] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [393] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [394] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [395] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [396] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [397] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [398] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [399] AXToolbar
+    - [400] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [401] AXButton "show sidebar" help="Show sidebar"
+      - [402] AXMenuButton "Tab Group picker"
+    - [403] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [404] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [405] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [406] AXButton "Page Menu"
+      - [407] AXButton "Add page to Reading List"
+      - [408] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/AKtrader1108/status/2124168217946178021" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [409] AXButton "Reload this page"
+    - [410] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [411] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [412] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [413] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [414] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [415] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [416] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [417] AXButton subrole=AXCloseButton
+  - [418] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [419] AXButton subrole=AXMinimizeButton
+- [420] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [421] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [422] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [423] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [424] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [425] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [426] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [427] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [428] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [429] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

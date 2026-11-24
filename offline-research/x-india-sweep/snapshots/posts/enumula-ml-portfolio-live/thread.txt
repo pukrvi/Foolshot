@@ -1,0 +1,44 @@
+URL: https://x.com/EnumulaKartik/status/2122249418967818624
+DATE: 2026-11-22
+MODE: Latest
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), exported to ONNX
+3. ONNX Runtime serving predictions inside the app, with no separate Python API 
+
+What Claude Code did: 
+→ Turned each notebook into a reproducible train.py that writes the ONNX model, the form schema, the charts and test fixtures 
+
+→ Built the metadata-driven site, so a new project is a folder and a JSON entry, with no new controller code 
+→ Wired every model to a live form with schema validation and rate limiting 
+
+→ Wrote parity tests that check the .NET output against scikit-learn\'s answers 
+
+→ Wrote integration tests with WebApplicationFactory 
+
+Live now: 7 Model Zoo projects with working forms, plus the flagship NSE market regime classifier (Nifty 200 + India VIX, walk-forward tested, illustrative). 
+
+What made it work: 
+1. A SPEC.md as the source of truth 
+
+2. A CLAUDE.md holding commands, layout, and conventions, so every session started with context 
+
+3. Docs and a decision log updated after every phase
+
+Check it out here: enumulakartik.in Image 1 reply, 41 views
+
+Anderson
+Verified account
+@justanderson Nov 16 empty repo to live in 2 days is wild.. how much of the review actually changed the python side? 1 reply, 8 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 Not much actually. My notebook already had code which had been reviewed multiple times. Claude Code did some restructuring and some model building code was optimised. The focus was on getting the site itself ready, and to integrate the models to run when deployed. 1 like, 17 views

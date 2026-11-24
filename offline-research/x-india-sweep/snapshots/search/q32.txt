@@ -1,0 +1,360 @@
+QUERY: ("static ip" OR "circular 58") (algo OR trading) india
+URL: https://x.com/search?q=(%22static%20ip%22%20OR%20%22circular%2058%22)%20(algo%20OR%20trading)%20india&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: live
+ERR: false
+CAPTURED POSTS: 11
+
+RedboxGlobal India
+Verified account
+@REDBOXINDIA 53 minutes ago NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE 6 replies, 6 reposts, 68 likes, 8 bookmarks, 27329 views
+
+Abhijith
+Verified account
+@abhip_me 10 hours ago If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader Quote
+
+
+Square profile picture
+Traders Cafe
+Verified account
+@TradersCafe_blr 18 hours ago
+NSE\'s static IP circular in 60 seconds.
+
+- Static IP only if you code your own algo
+- Brokers must take a written undertaking
+- No exchange grievance route for algo-logic losses
+- Effective immediately
+
+#AlgoTrading #NSE
+
+
+Embedded video
+0:53 4 likes, 124 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran 23 hours ago Replying to @pythontrader999 This was there already but hardly any algo platform providers followed it, they continued to provide static ip to their users, now they will be in trouble if they continued to do it and brokers who support it will also be in trouble. 
+
+India is really one of the toughest place to 5 replies, 18 likes, 1 bookmark, 2205 views
+
+Alphaalgo
+Verified account
+@Alphaalgo7 Nov 21 🚨 NSE’s latest move on Static IP usage is something every algo trader should pay attention to.
+
+Brokers, traders and algo providers all have responsibilities under the new guidelines.
+
+For traders building their own algos, this is especially important.
+
+Algo trading in India is Image
+From Mayur Dedhia 9 replies, 2 reposts, 39 likes, 18 bookmarks, 9886 views
+
+Ratnesh Yadav
+Verified account
+@yratnesh73 Nov 15 Replying to @cryptoady Haan @cryptoady ji, India mein crypto exchange chalana mushkil hoga. Lekin users ki mushkilein bhi suni jaani chahiye.
+
+Mera experience dekhiye: 3 saal ki mehnat se algo banaya, June mein trading shuru ki. August mein @CoinDCX ne account review par dala aur 4 din baad reopen 4 likes, 289 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27165 views
+
+
+RedboxGlobal India
+Verified account
+@REDBOXINDIA 53 minutes ago NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE 6 replies, 6 reposts, 68 likes, 8 bookmarks, 27329 views
+
+Abhijith
+Verified account
+@abhip_me 10 hours ago If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader Quote
+
+
+Square profile picture
+Traders Cafe
+Verified account
+@TradersCafe_blr 18 hours ago
+NSE\'s static IP circular in 60 seconds.
+
+- Static IP only if you code your own algo
+- Brokers must take a written undertaking
+- No exchange grievance route for algo-logic losses
+- Effective immediately
+
+#AlgoTrading #NSE
+
+
+Embedded video
+
+Seek slider
+Play
+0:07 / 1:01 Show captions Unmute Volume slider Video Settings Picture-in-Picture Full screen 4 likes, 124 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran 23 hours ago Replying to @pythontrader999 This was there already but hardly any algo platform providers followed it, they continued to provide static ip to their users, now they will be in trouble if they continued to do it and brokers who support it will also be in trouble. 
+
+India is really one of the toughest place to 5 replies, 18 likes, 1 bookmark, 2205 views
+
+Alphaalgo
+Verified account
+@Alphaalgo7 Nov 21 🚨 NSE’s latest move on Static IP usage is something every algo trader should pay attention to.
+
+Brokers, traders and algo providers all have responsibilities under the new guidelines.
+
+For traders building their own algos, this is especially important.
+
+Algo trading in India is Image
+From Mayur Dedhia 9 replies, 2 reposts, 39 likes, 18 bookmarks, 9886 views
+
+Ratnesh Yadav
+Verified account
+@yratnesh73 Nov 15 Replying to @cryptoady Haan @cryptoady ji, India mein crypto exchange chalana mushkil hoga. Lekin users ki mushkilein bhi suni jaani chahiye.
+
+Mera experience dekhiye: 3 saal ki mehnat se algo banaya, June mein trading shuru ki. August mein @CoinDCX ne account review par dala aur 4 din baad reopen 4 likes, 289 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27165 views
+
+Truvos
+Verified account
+@Truvosofficial Jun 17 Replying to @Truvosofficial 4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets
+
+This is the core technical truth that prop firms choose to ignore.
+
+In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks Image 1 reply, 4 likes, 141 views
+
+Rohit
+@kulrohit May 18 An Open letter to : 
+ 
+@SEBI_India @NSEIndia @zerodha 
+
+For the first time, a retail trader with ₹8–10 lakh in capital could build disciplined, data-driven strategies and compete using automation rather than emotion. With the help of AI, small investors could analyze patterns, 4 reposts, 6 likes, 394 views
+
+
+RedboxGlobal India
+Verified account
+@REDBOXINDIA 53 minutes ago NSE TIGHTENS RULES FOR RETAIL ALGO TRADERS – STATIC IP ACCESS WILL NOW BE RESTRICTED TO TRADERS WHO DEVELOP THEIR OWN ALGO USING CODING. RETAIL TRADERS USING READY-MADE ALGOS OR THIRD-PARTY DEVELOPERS WILL HAVE TO ROUTE THROUGH BROKERS OR EMPANELLED ALGO PROVIDERS UNDER THE 6 replies, 6 reposts, 68 likes, 8 bookmarks, 27329 views
+
+Abhijith
+Verified account
+@abhip_me 10 hours ago If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader Quote
+
+
+Square profile picture
+Traders Cafe
+Verified account
+@TradersCafe_blr 18 hours ago
+NSE\'s static IP circular in 60 seconds.
+
+- Static IP only if you code your own algo
+- Brokers must take a written undertaking
+- No exchange grievance route for algo-logic losses
+- Effective immediately
+
+#AlgoTrading #NSE
+
+
+Embedded video
+
+Seek slider
+Play
+0:07 / 1:01 Show captions Unmute Volume slider Video Settings Picture-in-Picture Full screen 4 likes, 124 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran 23 hours ago Replying to @pythontrader999 This was there already but hardly any algo platform providers followed it, they continued to provide static ip to their users, now they will be in trouble if they continued to do it and brokers who support it will also be in trouble. 
+
+India is really one of the toughest place to 5 replies, 18 likes, 1 bookmark, 2205 views
+
+Alphaalgo
+Verified account
+@Alphaalgo7 Nov 21 🚨 NSE’s latest move on Static IP usage is something every algo trader should pay attention to.
+
+Brokers, traders and algo providers all have responsibilities under the new guidelines.
+
+For traders building their own algos, this is especially important.
+
+Algo trading in India is Image
+From Mayur Dedhia 9 replies, 2 reposts, 39 likes, 18 bookmarks, 9886 views
+
+Ratnesh Yadav
+Verified account
+@yratnesh73 Nov 15 Replying to @cryptoady Haan @cryptoady ji, India mein crypto exchange chalana mushkil hoga. Lekin users ki mushkilein bhi suni jaani chahiye.
+
+Mera experience dekhiye: 3 saal ki mehnat se algo banaya, June mein trading shuru ki. August mein @CoinDCX ne account review par dala aur 4 din baad reopen 4 likes, 289 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27165 views
+
+Truvos
+Verified account
+@Truvosofficial Jun 17 Replying to @Truvosofficial 4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets
+
+This is the core technical truth that prop firms choose to ignore.
+
+In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks Image 1 reply, 4 likes, 141 views
+
+Rohit
+@kulrohit May 18 An Open letter to : 
+ 
+@SEBI_India @NSEIndia @zerodha 
+
+For the first time, a retail trader with ₹8–10 lakh in capital could build disciplined, data-driven strategies and compete using automation rather than emotion. With the help of AI, small investors could analyze patterns, 4 reposts, 6 likes, 394 views
+
+Raj Konakalla
+@30Cagr Mar 25 This static IP rule is not going to serve any purpose. Market manipulators have 100 other ways to get around it.
+
+In countries like India, tier II and tier I internet providers barely provide static IPs.
+
+Just a lot of chaos n burden to retail traders.
+
+#SEBI #NSE #Trading 2 replies, 4 likes, 1 bookmark, 583 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Dec 8, 2025 ‼️ New Video: Static IP & New Algo Regulations Explained!
+
+Brokers are now rolling out mandatory Static IP requirements under the latest SEBI algo rules.
+
+In this video, we explain:
+✅ Broker-wise requirements
+✅ How to purchase Static IP on AlgoTest
+✅ How to link it to your Image 2 replies, 2 reposts, 12 likes, 16 bookmarks, 2320 views
+
+
+Abhijith
+Verified account
+@abhip_me 10 hours ago If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader Quote
+
+
+Square profile picture
+Traders Cafe
+Verified account
+@TradersCafe_blr 18 hours ago
+NSE\'s static IP circular in 60 seconds.
+
+- Static IP only if you code your own algo
+- Brokers must take a written undertaking
+- No exchange grievance route for algo-logic losses
+- Effective immediately
+
+#AlgoTrading #NSE
+
+
+Embedded video
+
+Seek slider
+Play
+0:07 / 1:01 Show captions Unmute Volume slider Video Settings Picture-in-Picture Full screen 4 likes, 124 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran 23 hours ago Replying to @pythontrader999 This was there already but hardly any algo platform providers followed it, they continued to provide static ip to their users, now they will be in trouble if they continued to do it and brokers who support it will also be in trouble. 
+
+India is really one of the toughest place to 5 replies, 18 likes, 1 bookmark, 2205 views
+
+Alphaalgo
+Verified account
+@Alphaalgo7 Nov 21 🚨 NSE’s latest move on Static IP usage is something every algo trader should pay attention to.
+
+Brokers, traders and algo providers all have responsibilities under the new guidelines.
+
+For traders building their own algos, this is especially important.
+
+Algo trading in India is Image
+From Mayur Dedhia 9 replies, 2 reposts, 39 likes, 18 bookmarks, 9886 views
+
+Ratnesh Yadav
+Verified account
+@yratnesh73 Nov 15 Replying to @cryptoady Haan @cryptoady ji, India mein crypto exchange chalana mushkil hoga. Lekin users ki mushkilein bhi suni jaani chahiye.
+
+Mera experience dekhiye: 3 saal ki mehnat se algo banaya, June mein trading shuru ki. August mein @CoinDCX ne account review par dala aur 4 din baad reopen 4 likes, 289 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Oct 31 I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.
+
+Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.
+
+But the money is the least interesting part. Here\'s what a week of building an AI trader in public actually taught me 👇
+
+━━━━━━━━━━━━━━━ 20 replies, 10 reposts, 97 likes, 275 bookmarks, 27165 views
+
+Truvos
+Verified account
+@Truvosofficial Jun 17 Replying to @Truvosofficial 4. The Geo-Technical Nightmare: Dynamic IPs & CGNAT in Emerging Markets
+
+This is the core technical truth that prop firms choose to ignore.
+
+In major trading hubs like India, Pakistan, Bangladesh, and Nigeria, Internet Service Providers (ISPs) operate on massive dynamic networks Image 1 reply, 4 likes, 141 views
+
+Rohit
+@kulrohit May 18 An Open letter to : 
+ 
+@SEBI_India @NSEIndia @zerodha 
+
+For the first time, a retail trader with ₹8–10 lakh in capital could build disciplined, data-driven strategies and compete using automation rather than emotion. With the help of AI, small investors could analyze patterns, 4 reposts, 6 likes, 394 views
+
+Raj Konakalla
+@30Cagr Mar 25 This static IP rule is not going to serve any purpose. Market manipulators have 100 other ways to get around it.
+
+In countries like India, tier II and tier I internet providers barely provide static IPs.
+
+Just a lot of chaos n burden to retail traders.
+
+#SEBI #NSE #Trading 2 replies, 4 likes, 1 bookmark, 583 views
+
+AlgoTest | Free Backtesting | Algo Trading India
+Verified account
+@AlgoTest_in Dec 8, 2025 ‼️ New Video: Static IP & New Algo Regulations Explained!
+
+Brokers are now rolling out mandatory Static IP requirements under the latest SEBI algo rules.
+
+In this video, we explain:
+✅ Broker-wise requirements
+✅ How to purchase Static IP on AlgoTest
+✅ How to link it to your Image 2 replies, 2 reposts, 12 likes, 16 bookmarks, 2320 views
+
+UrOrdinaryTrader
+Verified account
+@Sai_Prasan Dec 6, 2025 Prop Firm Mistakes #8
+
+IP Address rule
+
+Many firms nowadays have removed this rule, but they still track IP changes of the user logging in to 2 things:
+
+1) The dashboard
+2) The Trading account
+
+Maintain consistent location history; you cannot be in India and trade in the UK in 5 Quote
+UrOrdinaryTrader
+Verified account
+@Sai_Prasan Nov 24, 2025
+Prop Firm Mistakes #7
+
+Exposure Rule: 9$ excess and 7000$ payout rejected 🚨
+
+Exposure = Risk placed on the trade + all trading costs like any commissions, slippage, swaps and spreads.
+
+Another trader from my community payout was rejected, and the account was breached because x.com/Sai_Prasan/sta…
+
+Image 17 replies, 28 reposts, 232 likes, 188 bookmarks, 58495 views

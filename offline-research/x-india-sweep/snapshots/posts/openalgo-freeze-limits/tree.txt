@@ -1,0 +1,315 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "OpenAlgo on X: \"OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open. NSE freeze limits from 2 Nov NSE Circular Muhurat, Trading Timing Updates Agent: newer models with LiteLLM 1.106.6. and more How to upgrade: https://t.co/x1KvS5fI1s Release notes: https://t.co/cxNtNegEbq\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "OpenAlgo on X: \"OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open. NSE freeze limits from 2 Nov NSE Circular Muhurat, Trading Timing Updates Agent: newer models with LiteLLM 1.106.6. and more How to upgrade: https://t.co/x1KvS5fI1s Release notes: https://t.co/cxNtNegEbq\" / X" url="https://x.com/openalgoHQ/status/2116365401743622535"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "OpenAlgo\nVerified account\n@openalgoHQ OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.\n\nNSE freeze limits from 2 Nov NSE Circular\nMuhurat, Trading Timing Updates\nAgent: newer models with LiteLLM 1.106.6.\nand more\n\nHow to upgrade: docs.openalgo.in/installation-g\n\nRelease notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 881 views" description="OpenAlgo\nVerified account\n@openalgoHQ OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.\n\nNSE freeze limits from 2 Nov NSE Circular\nMuhurat, Trading Timing Updates\nAgent: newer models with LiteLLM 1.106.6.\nand more\n\nHow to upgrade: docs.openalgo.in/installation-g\n\nRelease notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 881 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/openalgoHQ"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "OpenAlgo\nVerified account" url="https://x.com/openalgoHQ"
+                      - [72] AXStaticText expanded=false = "OpenAlgo"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@openalgoHQ" url="https://x.com/openalgoHQ"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@openalgoHQ"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.\n\nNSE freeze limits from 2 Nov NSE Circular\nMuhurat, Trading Timing Updates\nAgent: newer models with LiteLLM 1.106.6.\nand more\n\nHow to upgrade: "
+                      - [81] AXLink expanded=false "docs.openalgo.in/installation-g" url="https://t.co/x1KvS5fI1s"
+                        - [82] AXStaticText expanded=false = "docs.openalgo.in/installation-g"
+                      - [83] AXStaticText expanded=false = "\n\nRelease notes: "
+                      - [84] AXLink expanded=false "github.com/marketcalls/op" url="https://t.co/cxNtNegEbq"
+                        - [85] AXStaticText expanded=false = "github.com/marketcalls/op"
+                    - [86] AXGroup expanded=false "docs.openalgo.in Upgrade | Documentation"
+                      - [87] AXGroup expanded=false "docs.openalgo.in Upgrade | Documentation"
+                        - [88] AXLink expanded=false "docs.openalgo.in Upgrade | Documentation" url="https://t.co/x1KvS5fI1s"
+                          - [89] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [90] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [91] AXGroup expanded=false
+                            - [92] AXStaticText expanded=false = "Upgrade | Documentation"
+                      - [93] AXLink expanded=false "From docs.openalgo.in" url="https://t.co/x1KvS5fI1s"
+                        - [94] AXStaticText expanded=false = "From docs.openalgo.in"
+                    - [95] AXGroup expanded=false
+                      - [96] AXLink expanded=false "8:33 AM · Oct 31, 2026" url="https://x.com/openalgoHQ/status/2116365401743622535"
+                        - [97] AXGroup subrole=AXTimeGroup expanded=false
+                          - [98] AXStaticText expanded=false = "8:33 AM · Oct 31, 2026"
+                      - [99] AXLink expanded=false "881 Views" url="https://x.com/openalgoHQ/status/2116365401743622535/analytics"
+                        - [100] AXStaticText expanded=false = "881"
+                        - [101] AXStaticText expanded=false = "Views"
+                    - [102] AXGroup subrole=AXApplicationGroup expanded=false "1 repost, 10 likes, 2 bookmarks, 881 views"
+                      - [103] AXButton expanded=false "0 Replies. Reply"
+                      - [104] AXPopUpButton expanded=false "1 repost. Repost"
+                      - [105] AXButton expanded=false "10 Likes. Like"
+                      - [106] AXButton expanded=false "2 Bookmarks. Bookmark"
+                      - [107] AXPopUpButton expanded=false "Share post"
+                  - [108] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [109] AXGroup expanded=false
+                    - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [111] AXGroup expanded=false
+                      - [112] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [113] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [114] AXGroup expanded=false
+                          - [115] AXGroup expanded=false "Puneet Vishnawat"
+                            - [116] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [117] AXGroup expanded=false
+                    - [118] AXStaticText expanded=false = "Post your reply"
+                  - [119] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [121] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [122] AXHeading expanded=false "Discover more" = "2"
+                    - [123] AXStaticText expanded=false = "Discover more"
+                  - [124] AXStaticText expanded=false = "Sourced from across X"
+                  - [125] AXGroup subrole=AXDocumentArticle expanded=false "OpenAlgo\nVerified account\n@openalgoHQ 7 hours ago OpenAlgo Python SDK - Internal Architecture for Backtesting + Live Trading Image 1 reply, 1 repost, 9 likes, 12 bookmarks, 1076 views"
+                    - [126] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [127] AXGroup expanded=false
+                      - [128] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [129] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [130] AXLink expanded=false "OpenAlgo\nVerified account" url="https://x.com/openalgoHQ"
+                      - [131] AXStaticText expanded=false = "OpenAlgo"
+                      - [132] AXImage expanded=false "Verified account"
+                    - [133] AXLink expanded=false "@openalgoHQ" url="https://x.com/openalgoHQ"
+                      - [134] AXGroup expanded=false
+                        - [135] AXStaticText expanded=false = "@openalgoHQ"
+                    - [136] AXLink expanded=false "7 hours ago" url="https://x.com/openalgoHQ/status/2124350416909725811"
+                      - [137] AXGroup subrole=AXTimeGroup expanded=false
+                        - [138] AXStaticText expanded=false = "7h"
+                    - [139] AXButton expanded=false "Grok actions"
+                    - [140] AXPopUpButton expanded=false "More"
+                    - [141] AXGroup expanded=false
+                      - [142] AXStaticText expanded=false = "OpenAlgo Python SDK - Internal Architecture for Backtesting + Live Trading"
+                    - [143] AXGroup expanded=false
+                      - [144] AXLink expanded=false "Image" url="https://x.com/openalgoHQ/status/2124350416909725811/photo/1"
+                        - [145] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [146] AXGroup expanded=false
+                          - [147] AXGroup expanded=false "Image"
+                            - [148] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXs1bpNbYAAmjJW?format=jpg&name=medium"
+                    - [149] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 repost, 9 likes, 12 bookmarks, 1076 views"
+                      - [150] AXButton expanded=false "1 Reply. Reply"
+                      - [151] AXPopUpButton expanded=false "1 repost. Repost"
+                      - [152] AXButton expanded=false "9 Likes. Like"
+                      - [153] AXLink expanded=false "1076 views. View post analytics" url="https://x.com/openalgoHQ/status/2124350416909725811/analytics"
+                        - [154] AXStaticText expanded=false = "1K"
+                      - [155] AXButton expanded=false "Bookmark"
+                      - [156] AXPopUpButton expanded=false "Share post"
+          - [157] AXGroup expanded=false "Trending"
+            - [158] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [159] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [160] AXGroup expanded=false
+                  - [161] AXStaticText expanded=false = "Search"
+            - [162] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [163] AXHeading expanded=false "Relevant people" = "2"
+                - [164] AXStaticText expanded=false = "Relevant people"
+              - [165] AXList subrole=AXContentList expanded=false
+                - [166] AXGroup expanded=false
+                  - [167] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [168] AXGroup expanded=false
+                    - [169] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [170] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [171] AXLink expanded=false "OpenAlgo\nVerified account" url="https://x.com/openalgoHQ"
+                    - [172] AXStaticText expanded=false = "OpenAlgo"
+                    - [173] AXImage expanded=false "Verified account"
+                  - [174] AXLink expanded=false "@openalgoHQ" url="https://x.com/openalgoHQ"
+                    - [175] AXGroup expanded=false
+                      - [176] AXStaticText expanded=false = "@openalgoHQ"
+                  - [177] AXButton expanded=false "Follow @openalgoHQ"
+                  - [178] AXGroup expanded=false
+                    - [179] AXStaticText expanded=false = "100% OpenSource - Trading Ecosystem for Everyone OpenAlgo Community Support -"
+                    - [180] AXLink expanded=false "openalgo.in/discord" url="https://t.co/9h71850p8Y"
+                      - [181] AXStaticText expanded=false = "openalgo.in/discord"
+            - [182] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [183] AXHeading expanded=false "Trending now" = "1"
+                - [184] AXStaticText expanded=false = "Trending now"
+              - [185] AXGroup expanded=false "Timeline: Trending now"
+                - [186] AXGroup subrole=AXEmptyGroup expanded=false
+                - [187] AXHeading expanded=false "What’s happening" = "2"
+                  - [188] AXStaticText expanded=false = "What’s happening"
+                - [189] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [190] AXGroup expanded=false
+                    - [191] AXStaticText expanded=false = "Sports · Trending"
+                  - [192] AXGroup expanded=false
+                    - [193] AXStaticText expanded=false = "Rishabh Pant"
+                  - [194] AXPopUpButton expanded=false "More"
+                - [195] AXLink expanded=false "Sports · Trending Draw More"
+                  - [196] AXGroup expanded=false
+                    - [197] AXStaticText expanded=false = "Sports · Trending"
+                  - [198] AXGroup expanded=false
+                    - [199] AXStaticText expanded=false = "Draw"
+                  - [200] AXPopUpButton expanded=false "More"
+                - [201] AXLink expanded=false "Motorsport · Trending Charles Trending with Leclerc\nMore"
+                  - [202] AXGroup expanded=false
+                    - [203] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [204] AXGroup expanded=false
+                    - [205] AXStaticText expanded=false = "Charles"
+                  - [206] AXStaticText expanded=false = "Trending with "
+                  - [207] AXLink expanded=false "Leclerc" url="https://x.com/search?q=Leclerc&src=trend_click&vertical=trends"
+                    - [208] AXStaticText expanded=false = "Leclerc"
+                  - [209] AXPopUpButton expanded=false "More"
+                - [210] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [211] AXGroup expanded=false
+                    - [212] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [213] AXGroup expanded=false
+                    - [214] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [215] AXPopUpButton expanded=false "More"
+                - [216] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [217] AXGroup expanded=false
+                    - [218] AXStaticText expanded=false = "Show more"
+            - [219] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [220] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [221] AXStaticText expanded=false = "Terms"
+              - [222] AXGroup expanded=false
+                - [223] AXStaticText expanded=false = "·"
+              - [224] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [225] AXStaticText expanded=false = "Privacy"
+              - [226] AXGroup expanded=false
+                - [227] AXStaticText expanded=false = "·"
+              - [228] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [229] AXStaticText expanded=false = "Cookies"
+              - [230] AXGroup expanded=false
+                - [231] AXStaticText expanded=false = "·"
+              - [232] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [233] AXStaticText expanded=false = "Accessibility"
+              - [234] AXGroup expanded=false
+                - [235] AXStaticText expanded=false = "·"
+              - [236] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [237] AXStaticText expanded=false = "Ads Info"
+              - [238] AXGroup expanded=false
+                - [239] AXStaticText expanded=false = "·"
+              - [240] AXPopUpButton expanded=false "More"
+              - [241] AXGroup expanded=false
+                - [242] AXStaticText expanded=false = "© 2026 X Corp."
+        - [243] AXGroup subrole=AXEmptyGroup expanded=false
+        - [244] AXGroup subrole=AXEmptyGroup expanded=false
+      - [245] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [246] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [247] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [248] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [249] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [250] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [251] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [252] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [253] AXRadioButton subrole=AXTabButton valueWritable=false "OpenAlgo on X: \"OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open. NSE freeze limits from 2 Nov NSE Circular Muhurat, Trading Timing Updates Agent: newer models with LiteLLM 1.106.6. and more How to upgrade: https://t.co/x1KvS5fI1s Release notes: https://t.co/cxNtNegEbq\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "OpenAlgo on X: \"OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open. NSE freeze limits from 2 Nov NSE Circular Muhurat, Trading Timing Updates Agent: newer models with LiteLLM 1.106.6. and more How to upgrade: https://t.co/x1KvS5fI1s Release notes: https://t.co/cxNtNegEbq\" / X" selection=[0,0]
+  - [254] AXGroup "Favorites bar"
+    - [255] AXButton "show start page" help="Show Start Page"
+    - [256] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [257] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [258] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [259] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [260] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [261] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [262] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [263] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [264] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [265] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [266] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [267] AXToolbar
+    - [268] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [269] AXButton "show sidebar" help="Show sidebar"
+      - [270] AXMenuButton "Tab Group picker"
+    - [271] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [272] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [273] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [274] AXButton "Page Menu"
+      - [275] AXButton "Add page to Reading List"
+      - [276] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/openalgoHQ/status/2116365401743622535" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [277] AXButton "Reload this page"
+    - [278] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [279] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [280] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [281] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [282] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [283] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [284] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [285] AXButton subrole=AXCloseButton
+  - [286] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [287] AXButton subrole=AXMinimizeButton
+- [288] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [289] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [290] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [291] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [292] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [293] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [294] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [295] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [296] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [297] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

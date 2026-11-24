@@ -1,0 +1,452 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Suhas on X: \"How I switched from manual to algo trading using Claude Code as a full time trader\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Suhas on X: \"How I switched from manual to algo trading using Claude Code as a full time trader\" / X" url="https://x.com/Suhas__ashok/status/2119407282715087245"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Article" = "2"
+              - [56] AXStaticText expanded=false = "Article"
+            - [57] AXLink expanded=false "Focus mode" url="https://x.com/Suhas__ashok/article/2119407282715087245"
+            - [58] AXGroup subrole=AXEmptyGroup expanded=false
+            - [59] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [60] AXHeading expanded=false "Conversation" = "1"
+                - [61] AXStaticText expanded=false = "Conversation"
+              - [62] AXGroup expanded=false "Timeline: Conversation"
+                - [63] AXGroup expanded=false
+                  - [64] AXGroup subrole=AXDocumentArticle expanded=false "Suhas\nVerified account\n@Suhas__ashok 6 replies, 1 repost, 8 likes, 6 bookmarks, 658 views"
+                    - [65] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [66] AXGroup expanded=false
+                      - [67] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [68] AXGroup expanded=false
+                        - [69] AXLink focused expanded=false url="https://x.com/Suhas__ashok"
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [71] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [72] AXLink expanded=false "Suhas\nVerified account" url="https://x.com/Suhas__ashok"
+                      - [73] AXStaticText expanded=false = "Suhas"
+                      - [74] AXImage expanded=false "Verified account"
+                    - [75] AXLink expanded=false "@Suhas__ashok" url="https://x.com/Suhas__ashok"
+                      - [76] AXGroup expanded=false
+                        - [77] AXStaticText expanded=false = "@Suhas__ashok"
+                    - [78] AXButton expanded=false "Summarize"
+                    - [79] AXPopUpButton expanded=false "More"
+                    - [80] AXGroup subrole=AXDocumentArticle expanded=false "What you need, and what it costs"
+                      - [81] AXGroup expanded=false
+                        - [82] AXStaticText expanded=false = "How I switched from manual to algo trading using Claude Code as a full time trader"
+                      - [83] AXGroup subrole=AXApplicationGroup expanded=false "6 replies, 1 repost, 8 likes, 6 bookmarks, 658 views"
+                        - [84] AXButton expanded=false "6 Replies. Reply"
+                        - [85] AXPopUpButton expanded=false "1 repost. Repost"
+                        - [86] AXButton expanded=false "8 Likes. Like"
+                        - [87] AXLink expanded=false "658 views. View post analytics" url="https://x.com/Suhas__ashok/status/2119407282715087245/analytics"
+                          - [88] AXStaticText expanded=false = "658"
+                        - [89] AXButton expanded=false "Bookmark"
+                        - [90] AXPopUpButton expanded=false "Share post"
+                      - [91] AXGroup expanded=false
+                        - [92] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [93] AXGroup expanded=false
+                          - [94] AXStaticText expanded=false = "I have been trading full time in the Indian markets for 3 years now. After trading manually for more than 2 years, I switched to rules based, systematic strategies."
+                        - [95] AXGroup expanded=false
+                          - [96] AXStaticText expanded=false = "One of the biggest problems with manual trading is overcoming impulsive behaviour and not falling into the trap laid by fear and greed. Even for a seasoned discretionary trader, it takes years to master the psychological aspect of trading. Many successful discretionary traders prefer going rules-based and systematic, but until a few months ago there was a technical barrier. Coming up with your own rules, experience and strategy was not enough. If you were not from a software background, you only had two options, share your strategy with someone who can code, so that they can build your execution system for you, or do it all yourself by learning to code from scratch."
+                        - [97] AXGroup expanded=false
+                          - [98] AXStaticText expanded=false = "This technical barrier is no longer valid, because Claude or any other LLM can code for you. It takes care of not just execution but also setup, coding the rules, backtesting, a bot for forward testing and, finally, deployment for live trading. I have a software background, but with Claude Code you don\'t need any software experience at all. I previously preferred trading manually, but once I started trading systematically there was no going back. The time saved, and avoiding the roller coaster of decision making while staring at a screen, make going systematic worth it. I made the switch, and trading has been far more peaceful than ever."
+                        - [99] AXGroup expanded=false
+                          - [100] AXStaticText expanded=false = "This is a step by step guide to algo trading. You can build the complete setup using a free LLM and free APIs, but I suggest a Claude Pro plan because of how easy and frictionless "
+                          - [101] AXLink expanded=false "Claude Code" url="https://claude.com/product/claude-code"
+                            - [102] AXStaticText expanded=false = "Claude Code"
+                          - [103] AXStaticText expanded=false = " makes the setup."
+                        - [104] AXHeading expanded=false "What you need, and what it costs" = "2"
+                          - [105] AXGroup expanded=false
+                            - [106] AXStaticText expanded=false = "What you need, and what it costs"
+                        - [107] AXGroup expanded=false
+                          - [108] AXStaticText expanded=false = "I chose paid tools over free ones on purpose. Free options add friction, and friction is what makes people quit before their first backtest."
+                        - [109] AXLink expanded=false "Image" url="https://x.com/Suhas__ashok/article/2119407282715087245/media/2119405971810455552"
+                          - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [111] AXGroup expanded=false
+                            - [112] AXGroup expanded=false "Image"
+                              - [113] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HWmkgJSakAACQ5u?format=jpg&name=medium"
+                        - [114] AXGroup expanded=false
+                          - [115] AXStaticText expanded=false = "Notes on data:"
+                        - [116] AXList subrole=AXContentList expanded=false
+                          - [117] AXGroup expanded=false
+                            - [118] AXStaticText expanded=false = "•"
+                            - [119] AXGroup expanded=false
+                              - [120] AXStaticText expanded=false = "Equities: Kite Connect already gives you up to 10 years of intraday history, so you need nothing extra to backtest stocks."
+                          - [121] AXGroup expanded=false
+                            - [122] AXStaticText expanded=false = "•"
+                            - [123] AXGroup expanded=false
+                              - [124] AXStaticText expanded=false = "Futures and Options: Zerodha does not provide historical options data. I buy F&O history from Fyers. Their data covers Nifty, Sensex and Bank Nifty back to 2019, which is enough for every hypothesis I\'ve tested so far."
+                        - [125] AXGroup expanded=false
+                          - [126] AXStaticText expanded=false = "If you want to keep costs down, you could use the "
+                          - [127] AXLink expanded=false "Fyers API" url="https://myapi.fyers.in/docsv3"
+                            - [128] AXStaticText expanded=false = "Fyers API"
+                          - [129] AXStaticText expanded=false = " for order placement and skip Zerodha\'s Kite Connect. If you just want to backtest or trade stocks, you can skip the Fyers API. This is purely a matter of preference, and you can use any other broker that provides an API and historical data. I use the Zerodha API for order placement because I am comfortable trading on Zerodha."
+                        - [130] AXHeading expanded=false "Set up your machine" = "2"
+                          - [131] AXGroup expanded=false
+                            - [132] AXStaticText expanded=false = "Set up your machine"
+                        - [133] AXGroup expanded=false
+                          - [134] AXStaticText expanded=false = "My setup is on a Mac. On Windows the steps are similar, and you can just ask Claude to do the same setup there."
+                        - [135] AXList subrole=AXContentList expanded=false
+                          - [136] AXGroup expanded=false
+                            - [137] AXStaticText expanded=false = "1"
+                            - [138] AXStaticText expanded=false = ". "
+                            - [139] AXGroup expanded=false
+                              - [140] AXStaticText expanded=false = "Install "
+                              - [141] AXLink expanded=false "VS Code" url="https://code.visualstudio.com/"
+                                - [142] AXStaticText expanded=false = "VS Code"
+                              - [143] AXStaticText expanded=false = "."
+                          - [144] AXGroup expanded=false
+                            - [145] AXStaticText expanded=false = "2"
+                            - [146] AXStaticText expanded=false = ". "
+                            - [147] AXGroup expanded=false
+                              - [148] AXStaticText expanded=false = "Open Extensions in the sidebar, search for \"Claude Code\", and install it. The extension has Claude Code built in, so you don\'t need to install anything from the terminal."
+                          - [149] AXGroup expanded=false
+                            - [150] AXStaticText expanded=false = "3"
+                            - [151] AXStaticText expanded=false = ". "
+                            - [152] AXGroup expanded=false
+                              - [153] AXStaticText expanded=false = "Click the Spark icon in the sidebar to open Claude Code and sign in with your Claude account. Then tell it what you are building, a trading research setup with Zerodha\'s Kite Connect API and Fyers historical F&O data."
+                          - [154] AXGroup expanded=false
+                            - [155] AXStaticText expanded=false = "4"
+                            - [156] AXStaticText expanded=false = ". "
+                            - [157] AXGroup expanded=false
+                              - [158] AXStaticText expanded=false = "Let it install "
+                              - [159] AXLink expanded=false "Python" url="https://www.python.org/"
+                                - [160] AXStaticText expanded=false = "Python"
+                              - [161] AXStaticText expanded=false = " and "
+                              - [162] AXLink expanded=false "Node.js" url="https://nodejs.org/"
+                                - [163] AXStaticText expanded=false = "Node.js"
+                              - [164] AXStaticText expanded=false = ". Grant the permissions it asks for, and I\'d switch to Auto mode from the mode indicator in the chat panel. Tell it to install only from verified sources."
+                          - [165] AXGroup expanded=false
+                            - [166] AXStaticText expanded=false = "5"
+                            - [167] AXStaticText expanded=false = ". "
+                            - [168] AXGroup expanded=false
+                              - [169] AXStaticText expanded=false = "When it asks for your Kite Connect API keys, ask it for step by step instructions, then follow them. Do the same for your Fyers API."
+                        - [170] AXGroup expanded=false
+                          - [171] AXStaticText expanded=false = "When this is done, Kite Connect, Fyers and Claude Code are all connected in one editor, and you can hand Claude Code any hypothesis to backtest."
+                        - [172] AXHeading expanded=false "Run your first backtest" = "2"
+                          - [173] AXGroup expanded=false
+                            - [174] AXStaticText expanded=false = "Run your first backtest"
+                        - [175] AXGroup expanded=false
+                          - [176] AXStaticText expanded=false = "Start with something simple. A moving average crossover is a good first test. This is a test of the workflow, not a strategy recommendation."
+                        - [177] AXGroup expanded=false
+                          - [178] AXStaticText expanded=false = "The rule: buy Nifty when the 20 period moving average crosses above the 50 period, and exit when the 50 crosses back above the 20. You can run it on spot and on Nifty futures, over the last five years. A prompt like this works:"
+                        - [179] AXGroup expanded=false
+                          - [180] AXStaticText expanded=false = "Backtest a moving average crossover on Nifty for the last 5 years, on both spot and Nifty futures.\nEnter long when the 20 MA crosses above the 50 MA. Exit when the 50 MA crosses above the 20 MA.\nReport net PnL, number of trades, max drawdown, PnL-to-drawdown ratio and Sharpe."
+                        - [181] AXGroup expanded=false
+                          - [182] AXStaticText expanded=false = "Claude Code will ask clarifying questions. Answer them and let it run."
+                        - [183] AXGroup expanded=false
+                          - [184] AXStaticText expanded=false = "To test the same idea on F&O stocks, ask it to use only F&O eligible stocks. It will find the list of F&O stocks for each year from public sources, including archived pages, so you don\'t need to hunt for it yourself."
+                        - [185] AXHeading expanded=false "Metrics I track" = "2"
+                          - [186] AXGroup expanded=false
+                            - [187] AXStaticText expanded=false = "Metrics I track"
+                        - [188] AXGroup expanded=false
+                          - [189] AXStaticText expanded=false = "If a system looks consistently profitable, I judge it on these ten numbers:"
+                        - [190] AXLink expanded=false "Image" url="https://x.com/Suhas__ashok/article/2119407282715087245/media/2119406432697417728"
+                          - [191] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [192] AXGroup expanded=false
+                            - [193] AXGroup expanded=false "Image"
+                              - [194] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HWmk6-ObgAAZP4r?format=jpg&name=medium"
+                        - [195] AXHeading expanded=false "Validate the trades one by one" = "2"
+                          - [196] AXGroup expanded=false
+                            - [197] AXStaticText expanded=false = "Validate the trades one by one"
+                        - [198] AXGroup expanded=false
+                          - [199] AXStaticText expanded=false = "Once the backtest results are presented, you can ask Claude Code to build a trade validator. It lets you go through the trades manually, one at a time, and check that each entry and exit matches your rules. This is a good way to catch bugs in the logic before you trust the numbers. A prompt like this works:"
+                        - [200] AXGroup expanded=false
+                          - [201] AXStaticText expanded=false = "Build a trade validator for this backtest. Show each trade one by one with its entry, exit, price and PnL on a chart, so I can verify every trade manually."
+                        - [202] AXLink expanded=false "Image" url="https://x.com/Suhas__ashok/article/2119407282715087245/media/2119406608640024576"
+                          - [203] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [204] AXGroup expanded=false
+                            - [205] AXGroup expanded=false "Image"
+                              - [206] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HWmlFNqaoAA5RdF?format=jpg&name=medium"
+                        - [207] AXGroup expanded=false
+                          - [208] AXStaticText expanded=false = "Example of a validator Claude Code can build, shown with sample data. Use Prev and Next to step through each trade."
+                        - [209] AXHeading expanded=false "Before you go live" = "2"
+                          - [210] AXGroup expanded=false
+                            - [211] AXStaticText expanded=false = "Before you go live"
+                        - [212] AXGroup expanded=false
+                          - [213] AXStaticText expanded=false = "Before deploying with real money, forward test your system. Ask Claude to fix any bugs, run it for a few weeks without money, and manually validate the forward tested trades to check that it runs as expected."
+                        - [214] AXGroup expanded=false
+                          - [215] AXStaticText expanded=false = "Once you have a system you want to run with real money, start again with a small quantity. Real trading execution comes with its own set of problems and bugs. Figure them out and fix them with Claude, and do not be reckless."
+                        - [216] AXGroup expanded=false
+                          - [217] AXStaticText expanded=false = "SEBI has mandated a static IP for algo trading, so you need a VPS. I use the Amazon Lightsail basic plan mentioned above. Claude helps you deploy your bot to the VPS, and you need to make sure the deployment works properly. This is not as complex as it sounds, Claude will guide you step by step, so have patience and learn as you go."
+                        - [218] AXGroup expanded=false
+                          - [219] AXStaticText expanded=false = "Do not deploy a huge amount of money in systems that are not forward tested well, are not statistically validated, or do not have a systematic edge when you look at risk adjusted returns. Do not be reckless, and trade safe."
+                        - [220] AXGroup expanded=false
+                          - [221] AXStaticText expanded=false = "From here you can test any hypothesis with Claude Code, VS Code and the F&O data. Happy trading :)"
+                        - [222] AXHeading expanded=false "Sources" = "2"
+                          - [223] AXGroup expanded=false
+                            - [224] AXStaticText expanded=false = "Sources"
+                        - [225] AXList subrole=AXContentList expanded=false
+                          - [226] AXGroup expanded=false
+                            - [227] AXStaticText expanded=false = "•"
+                            - [228] AXGroup expanded=false
+                              - [229] AXLink expanded=false "Claude Code" url="https://claude.com/product/claude-code"
+                                - [230] AXStaticText expanded=false = "Claude Code"
+                          - [231] AXGroup expanded=false
+                            - [232] AXStaticText expanded=false = "•"
+                            - [233] AXGroup expanded=false
+                              - [234] AXLink expanded=false "Kite Connect" url="https://kite.trade/"
+                                - [235] AXStaticText expanded=false = "Kite Connect"
+                              - [236] AXStaticText expanded=false = " and "
+                              - [237] AXLink expanded=false "Zerodha\'s note on its data payment plan" url="https://support.zerodha.com/category/trading-and-markets/general-kite/kite-api/articles/historical-data-and-live-market-data-payment-plan"
+                                - [238] AXStaticText expanded=false = "Zerodha\'s note on its data payment plan"
+                          - [239] AXGroup expanded=false
+                            - [240] AXStaticText expanded=false = "•"
+                            - [241] AXGroup expanded=false
+                              - [242] AXLink expanded=false "VS Code" url="https://code.visualstudio.com/"
+                                - [243] AXStaticText expanded=false = "VS Code"
+                              - [244] AXStaticText expanded=false = ", "
+                              - [245] AXLink expanded=false "Python" url="https://www.python.org/"
+                                - [246] AXStaticText expanded=false = "Python"
+                              - [247] AXStaticText expanded=false = ", "
+                              - [248] AXLink expanded=false "Node.js" url="https://nodejs.org/"
+                                - [249] AXStaticText expanded=false = "Node.js"
+                          - [250] AXGroup expanded=false
+                            - [251] AXStaticText expanded=false = "•"
+                            - [252] AXGroup expanded=false
+                              - [253] AXLink expanded=false "Amazon Lightsail" url="https://aws.amazon.com/lightsail/"
+                                - [254] AXStaticText expanded=false = "Amazon Lightsail"
+                          - [255] AXGroup expanded=false
+                            - [256] AXStaticText expanded=false = "•"
+                            - [257] AXGroup expanded=false
+                              - [258] AXLink expanded=false "Fyers" url="https://fyers.in/"
+                                - [259] AXStaticText expanded=false = "Fyers"
+                              - [260] AXStaticText expanded=false = " and its "
+                              - [261] AXLink expanded=false "API documentation" url="https://myapi.fyers.in/docsv3"
+                                - [262] AXStaticText expanded=false = "API documentation"
+                      - [263] AXGroup subrole=AXApplicationStatus expanded=false
+                        - [264] AXGroup expanded=false
+                          - [265] AXStaticText expanded=false = "Want to publish your own Article?"
+                        - [266] AXLink expanded=false "Upgrade to Plus" url="https://x.com/i/premium_sign_up"
+                          - [267] AXStaticText expanded=false = "Upgrade to Plus"
+                    - [268] AXGroup expanded=false
+                      - [269] AXLink expanded=false "6:00 PM · Nov 8, 2026" url="https://x.com/Suhas__ashok/status/2119407282715087245"
+                        - [270] AXGroup subrole=AXTimeGroup expanded=false
+                          - [271] AXStaticText expanded=false = "6:00 PM · Nov 8, 2026"
+                      - [272] AXLink expanded=false "658 Views" url="https://x.com/Suhas__ashok/status/2119407282715087245/analytics"
+                        - [273] AXStaticText expanded=false = "658"
+                        - [274] AXStaticText expanded=false = "Views"
+                    - [275] AXGroup subrole=AXApplicationGroup expanded=false "6 replies, 1 repost, 8 likes, 6 bookmarks, 658 views"
+                      - [276] AXButton expanded=false "6 Replies. Reply"
+                      - [277] AXPopUpButton expanded=false "1 repost. Repost"
+                      - [278] AXButton expanded=false "8 Likes. Like"
+                      - [279] AXButton expanded=false "6 Bookmarks. Bookmark"
+                      - [280] AXPopUpButton expanded=false "Share post"
+                    - [281] AXPopUpButton expanded=false "Relevant"
+                    - [282] AXLink expanded=false "View quotes" url="https://x.com/Suhas__ashok/status/2119407282715087245/quotes"
+                      - [283] AXStaticText expanded=false = "View quotes"
+                  - [284] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [285] AXGroup expanded=false
+                    - [286] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [287] AXGroup expanded=false
+                      - [288] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [289] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [290] AXGroup expanded=false
+                          - [291] AXGroup expanded=false "Puneet Vishnawat"
+                            - [292] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [293] AXGroup expanded=false
+                    - [294] AXStaticText expanded=false = "Post your reply"
+                  - [295] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [296] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+          - [297] AXGroup expanded=false "Trending"
+            - [298] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [299] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [300] AXGroup expanded=false
+                  - [301] AXStaticText expanded=false = "Search"
+            - [302] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [303] AXHeading expanded=false "Relevant people" = "2"
+                - [304] AXStaticText expanded=false = "Relevant people"
+              - [305] AXList subrole=AXContentList expanded=false
+                - [306] AXGroup expanded=false
+                  - [307] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [308] AXGroup expanded=false
+                    - [309] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [310] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [311] AXLink expanded=false "Suhas\nVerified account" url="https://x.com/Suhas__ashok"
+                    - [312] AXStaticText expanded=false = "Suhas"
+                    - [313] AXImage expanded=false "Verified account"
+                  - [314] AXLink expanded=false "@Suhas__ashok" url="https://x.com/Suhas__ashok"
+                    - [315] AXGroup expanded=false
+                      - [316] AXStaticText expanded=false = "@Suhas__ashok"
+                  - [317] AXButton expanded=false "Follow @Suhas__ashok"
+                  - [318] AXGroup expanded=false
+                    - [319] AXStaticText expanded=false = "Systematic Trader"
+                    - [320] AXLink expanded=false "turnsoutt.substack.com" url="https://t.co/T7J8iMBtgr"
+                      - [321] AXStaticText expanded=false = "turnsoutt.substack.com"
+            - [322] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [323] AXHeading expanded=false "Trending now" = "1"
+                - [324] AXStaticText expanded=false = "Trending now"
+              - [325] AXGroup expanded=false "Timeline: Trending now"
+                - [326] AXGroup subrole=AXEmptyGroup expanded=false
+                - [327] AXHeading expanded=false "What’s happening" = "2"
+                  - [328] AXStaticText expanded=false = "What’s happening"
+                - [329] AXLink expanded=false "Sports · Trending Draw More"
+                  - [330] AXGroup expanded=false
+                    - [331] AXStaticText expanded=false = "Sports · Trending"
+                  - [332] AXGroup expanded=false
+                    - [333] AXStaticText expanded=false = "Draw"
+                  - [334] AXPopUpButton expanded=false "More"
+                - [335] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [336] AXGroup expanded=false
+                    - [337] AXStaticText expanded=false = "Sports · Trending"
+                  - [338] AXGroup expanded=false
+                    - [339] AXStaticText expanded=false = "Rishabh Pant"
+                  - [340] AXPopUpButton expanded=false "More"
+                - [341] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [342] AXGroup expanded=false
+                    - [343] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [344] AXGroup expanded=false
+                    - [345] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [346] AXPopUpButton expanded=false "More"
+                - [347] AXLink expanded=false "Trending in India राजकीय यात्रा More"
+                  - [348] AXGroup expanded=false
+                    - [349] AXStaticText expanded=false = "Trending in India"
+                  - [350] AXGroup expanded=false
+                    - [351] AXStaticText expanded=false = "राजकीय यात्रा"
+                  - [352] AXPopUpButton expanded=false "More"
+                - [353] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [354] AXGroup expanded=false
+                    - [355] AXStaticText expanded=false = "Show more"
+            - [356] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [357] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [358] AXStaticText expanded=false = "Terms"
+              - [359] AXGroup expanded=false
+                - [360] AXStaticText expanded=false = "·"
+              - [361] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [362] AXStaticText expanded=false = "Privacy"
+              - [363] AXGroup expanded=false
+                - [364] AXStaticText expanded=false = "·"
+              - [365] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [366] AXStaticText expanded=false = "Cookies"
+              - [367] AXGroup expanded=false
+                - [368] AXStaticText expanded=false = "·"
+              - [369] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [370] AXStaticText expanded=false = "Accessibility"
+              - [371] AXGroup expanded=false
+                - [372] AXStaticText expanded=false = "·"
+              - [373] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [374] AXStaticText expanded=false = "Ads Info"
+              - [375] AXGroup expanded=false
+                - [376] AXStaticText expanded=false = "·"
+              - [377] AXPopUpButton expanded=false "More"
+              - [378] AXGroup expanded=false
+                - [379] AXStaticText expanded=false = "© 2026 X Corp."
+        - [380] AXGroup subrole=AXEmptyGroup expanded=false
+        - [381] AXGroup subrole=AXEmptyGroup expanded=false
+      - [382] AXScrollBar expanded=false = "0.001461988"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [383] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [384] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [385] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [386] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [387] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [388] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [389] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [390] AXRadioButton subrole=AXTabButton valueWritable=false "Suhas on X: \"How I switched from manual to algo trading using Claude Code as a full time trader\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Suhas on X: \"How I switched from manual to algo trading using Claude Code as a full time trader\" / X" selection=[0,0]
+  - [391] AXGroup "Favorites bar"
+    - [392] AXButton "show start page" help="Show Start Page"
+    - [393] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [394] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [395] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [396] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [397] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [398] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [399] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [400] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [401] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [402] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [403] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [404] AXToolbar
+    - [405] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [406] AXButton "show sidebar" help="Show sidebar"
+      - [407] AXMenuButton "Tab Group picker"
+    - [408] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [409] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [410] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [411] AXButton "Page Menu"
+      - [412] AXButton "Add page to Reading List"
+      - [413] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/Suhas__ashok/status/2119407282715087245" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [414] AXButton "Reload this page"
+    - [415] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [416] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [417] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [418] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [419] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [420] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [421] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [422] AXButton subrole=AXCloseButton
+  - [423] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [424] AXButton subrole=AXMinimizeButton
+- [425] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [426] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [427] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [428] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [429] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [430] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [431] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [432] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [433] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [434] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

@@ -1,0 +1,365 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Abhijith on X: \"If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Abhijith on X: \"If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader\" / X" url="https://x.com/abhip_me/status/2124307631041097886"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Abhijith\nVerified account\n@abhip_me If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader developed the algo themselves. \n\nI’ve helped few clients turn their trading strategies into Python code, and I’ve also built dashboards and automations around their strategies.\n\nIf you have a strategy written down in plain English and want help building it in Python, feel free to DM me. I can help you backtest the rules, build a dashboard, or automate the parts you still do by hand. If live order execution is part of the plan, we can start by checking which setup your broker supports. Quote\n\n\nSquare profile picture\nTraders Cafe\nVerified account\n@TradersCafe_blr 18 hours ago\nNSE\'s static IP circular in 60 seconds.\n\n- Static IP only if you code your own algo\n- Brokers must take a written undertaking\n- No exchange grievance route for algo-logic losses\n- Effective immediately\n\n#AlgoTrading #NSE\n\n\nEmbedded video\n0:53 1 reply, 4 likes, 125 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/abhip_me"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Abhijith\nVerified account" url="https://x.com/abhip_me"
+                      - [72] AXStaticText expanded=false = "Abhijith"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@abhip_me" url="https://x.com/abhip_me"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@abhip_me"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader developed the algo themselves. \n\nI’ve helped few clients turn their trading strategies into Python code, and I’ve also built dashboards and automations around their strategies.\n\nIf you have a strategy written down in plain English and want help building it in Python, feel free to DM me. I can help you backtest the rules, build a dashboard, or automate the parts you still do by hand. If live order execution is part of the plan, we can start by checking which setup your broker supports."
+                    - [81] AXGroup expanded=false "Quote\n\n\nSquare profile picture\nTraders Cafe\nVerified account\n@TradersCafe_blr 18 hours ago\nNSE\'s static IP circular in 60 seconds.\n\n- Static IP only if you code your own algo\n- Brokers must take a written undertaking\n- No exchange grievance route for algo-logic losses\n- Effective immediately\n\n#AlgoTrading #NSE\n\n\nEmbedded video\n0:53"
+                      - [82] AXGroup expanded=false
+                        - [83] AXStaticText expanded=false = "Quote"
+                      - [84] AXLink expanded=false "Square profile picture\nTraders Cafe\nVerified account\n\n18 hours ago\nNSE\'s static IP circular in 60 seconds.\n\n- Static IP only if you code your own algo\n- Brokers must take a written undertaking\n- No exchange grievance route for algo-logic losses\n- Effective immediately\n\n#AlgoTrading #NSE"
+                        - [85] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [86] AXGroup expanded=false
+                          - [87] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [88] AXGroup expanded=false
+                            - [89] AXGroup expanded=false "Square profile picture"
+                              - [90] AXImage expanded=false "Square profile picture" url="https://pbs.twimg.com/profile_images/2007371503135010824/Yf_ixC75_normal.jpg"
+                        - [91] AXStaticText expanded=false = "Traders Cafe"
+                        - [92] AXImage expanded=false "Verified account"
+                        - [93] AXGroup expanded=false
+                          - [94] AXGroup expanded=false
+                            - [95] AXStaticText expanded=false = "@TradersCafe_blr"
+                        - [96] AXGroup expanded=false "18 hours ago"
+                          - [97] AXGroup subrole=AXTimeGroup expanded=false
+                            - [98] AXStaticText expanded=false = "18h"
+                        - [99] AXStaticText expanded=false = "NSE\'s static IP circular in 60 seconds.\n\n- Static IP only if you code your own algo\n- Brokers must take a written undertaking\n- No exchange grievance route for algo-logic losses\n- Effective immediately\n\n"
+                        - [100] AXStaticText expanded=false = "#AlgoTrading"
+                        - [101] AXStaticText expanded=false = "#NSE"
+                        - [102] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [103] AXGroup expanded=false
+                          - [104] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [105] AXGroup expanded=false
+                            - [106] AXGroup expanded=false
+                              - [107] AXGroup subrole=AXEmptyGroup expanded=false "Embedded video" url="blob:https://x.com/efa31543-0e0d-4457-9fce-5e0cbe3a0e04"
+                            - [108] AXGroup expanded=false
+                              - [109] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [110] AXGroup expanded=false
+                                - [111] AXGroup subrole=AXEmptyGroup expanded=false
+                                - [112] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [113] AXGroup expanded=false
+                                - [114] AXGroup expanded=false
+                                  - [115] AXStaticText expanded=false = "0:53"
+                              - [116] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [117] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [118] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [119] AXGroup expanded=false
+                      - [120] AXLink expanded=false "6:33 AM · Nov 22, 2026" url="https://x.com/abhip_me/status/2124307631041097886"
+                        - [121] AXGroup subrole=AXTimeGroup expanded=false
+                          - [122] AXStaticText expanded=false = "6:33 AM · Nov 22, 2026"
+                      - [123] AXLink expanded=false "125 Views" url="https://x.com/abhip_me/status/2124307631041097886/analytics"
+                        - [124] AXStaticText expanded=false = "125"
+                        - [125] AXStaticText expanded=false = "Views"
+                    - [126] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 4 likes, 125 views"
+                      - [127] AXButton expanded=false "1 Reply. Reply"
+                      - [128] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [129] AXButton expanded=false "4 Likes. Like"
+                      - [130] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [131] AXPopUpButton expanded=false "Share post"
+                  - [132] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [133] AXGroup expanded=false
+                    - [134] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [135] AXGroup expanded=false
+                      - [136] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [137] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [138] AXGroup expanded=false
+                          - [139] AXGroup expanded=false "Puneet Vishnawat"
+                            - [140] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [141] AXGroup expanded=false
+                    - [142] AXStaticText expanded=false = "Post your reply"
+                  - [143] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [144] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [145] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [146] AXHeading expanded=false "Discover more" = "2"
+                    - [147] AXStaticText expanded=false = "Discover more"
+                  - [148] AXStaticText expanded=false = "Sourced from across X"
+                  - [149] AXGroup subrole=AXDocumentArticle expanded=false "Abhijith\nVerified account\n@abhip_me 13 hours ago Woohoo!! Made another sale while I was sick, and this one took me past $500 in total sales! 🥹\n\nSix months ago, I had no second income. It might not sound like much, but seeing that notification made me so happy.\n\nCrazy how time flies. Dodo Payments 6 likes, 127 views"
+                    - [150] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [151] AXGroup expanded=false
+                      - [152] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [153] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [154] AXLink expanded=false "Abhijith\nVerified account" url="https://x.com/abhip_me"
+                      - [155] AXStaticText expanded=false = "Abhijith"
+                      - [156] AXImage expanded=false "Verified account"
+                    - [157] AXLink expanded=false "@abhip_me" url="https://x.com/abhip_me"
+                      - [158] AXGroup expanded=false
+                        - [159] AXStaticText expanded=false = "@abhip_me"
+                    - [160] AXLink expanded=false "13 hours ago" url="https://x.com/abhip_me/status/2124266245247914143"
+                      - [161] AXGroup subrole=AXTimeGroup expanded=false
+                        - [162] AXStaticText expanded=false = "13h"
+                    - [163] AXButton expanded=false "Grok actions"
+                    - [164] AXPopUpButton expanded=false "More"
+                    - [165] AXGroup expanded=false
+                      - [166] AXStaticText expanded=false = "Woohoo!! Made another sale while I was sick, and this one took me past $500 in total sales! 🥹\n\nSix months ago, I had no second income. It might not sound like much, but seeing that notification made me so happy.\n\nCrazy how time flies."
+                    - [167] AXGroup expanded=false
+                      - [168] AXGroup subrole=AXLandmarkNavigation expanded=false
+                        - AXButton disabled expanded=false "Previous"
+                        - [169] AXTabGroup expanded=false
+                          - [170] AXLink expanded=false "Image" url="https://x.com/abhip_me/status/2124266245247914143/photo/1"
+                            - [171] AXGroup expanded=false "Image"
+                              - [172] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXro4s_bAAAf3wq?format=jpg&name=small"
+                          - [173] AXLink expanded=false "Image" url="https://x.com/abhip_me/status/2124266245247914143/photo/2"
+                            - [174] AXGroup expanded=false "Image"
+                              - [175] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXro4s8aQAASaX9?format=jpg&name=medium"
+                        - AXButton disabled expanded=false "Next"
+                      - [176] AXLink expanded=false "Dodo Payments" url="https://x.com/abhip_me/status/2124266245247914143/media_tags"
+                        - [177] AXStaticText expanded=false = "Dodo Payments"
+                    - [178] AXGroup subrole=AXApplicationGroup expanded=false "6 likes, 127 views"
+                      - [179] AXButton expanded=false "0 Replies. Reply"
+                      - [180] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [181] AXButton expanded=false "6 Likes. Like"
+                      - [182] AXLink expanded=false "127 views. View post analytics" url="https://x.com/abhip_me/status/2124266245247914143/analytics"
+                        - [183] AXStaticText expanded=false = "127"
+                      - [184] AXButton expanded=false "Bookmark"
+                      - [185] AXPopUpButton expanded=false "Share post"
+          - [186] AXGroup expanded=false "Trending"
+            - [187] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [188] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [189] AXGroup expanded=false
+                  - [190] AXStaticText expanded=false = "Search"
+            - [191] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [192] AXHeading expanded=false "Relevant people" = "2"
+                - [193] AXStaticText expanded=false = "Relevant people"
+              - [194] AXList subrole=AXContentList expanded=false
+                - [195] AXGroup expanded=false
+                  - [196] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [197] AXGroup expanded=false
+                    - [198] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [199] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [200] AXLink expanded=false "Abhijith\nVerified account" url="https://x.com/abhip_me"
+                    - [201] AXStaticText expanded=false = "Abhijith"
+                    - [202] AXImage expanded=false "Verified account"
+                  - [203] AXLink expanded=false "@abhip_me" url="https://x.com/abhip_me"
+                    - [204] AXGroup expanded=false
+                      - [205] AXStaticText expanded=false = "@abhip_me"
+                  - [206] AXButton expanded=false "Follow @abhip_me"
+                  - [207] AXGroup expanded=false
+                    - [208] AXStaticText expanded=false = "Veni vidi Vici. 🛠️ "
+                    - [209] AXLink expanded=false "DBCUtility.com" url="https://t.co/bVyaiIMmf4"
+                      - [210] AXStaticText expanded=false = "DBCUtility.com"
+                    - [211] AXStaticText expanded=false = " 📋"
+                    - [212] AXLink expanded=false "TellTide.com" url="https://t.co/u1njscTHrM"
+                      - [213] AXStaticText expanded=false = "TellTide.com"
+                    - [214] AXStaticText expanded=false = " 📝 "
+                    - [215] AXLink expanded=false "seodispatcher.com" url="https://t.co/ev3fyA9xW0"
+                      - [216] AXStaticText expanded=false = "seodispatcher.com"
+                - [217] AXGroup expanded=false
+                  - [218] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [219] AXGroup expanded=false
+                    - [220] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [221] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [222] AXLink expanded=false "Traders Cafe\nVerified account" url="https://x.com/TradersCafe_blr"
+                    - [223] AXStaticText expanded=false = "Traders Cafe"
+                    - [224] AXImage expanded=false "Verified account"
+                  - [225] AXLink expanded=false "@TradersCafe_blr" url="https://x.com/TradersCafe_blr"
+                    - [226] AXGroup expanded=false
+                      - [227] AXStaticText expanded=false = "@TradersCafe_blr"
+                  - [228] AXButton expanded=false "Follow @TradersCafe_blr"
+                  - [229] AXGroup expanded=false
+                    - [230] AXStaticText expanded=false = "Trading desk with 400+ traders operating across 6 cities in India with high end infra and tools for Pro Traders"
+            - [231] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [232] AXHeading expanded=false "Trending now" = "1"
+                - [233] AXStaticText expanded=false = "Trending now"
+              - [234] AXGroup expanded=false "Timeline: Trending now"
+                - [235] AXGroup subrole=AXEmptyGroup expanded=false
+                - [236] AXHeading expanded=false "What’s happening" = "2"
+                  - [237] AXStaticText expanded=false = "What’s happening"
+                - [238] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [239] AXGroup expanded=false
+                    - [240] AXStaticText expanded=false = "Sports · Trending"
+                  - [241] AXGroup expanded=false
+                    - [242] AXStaticText expanded=false = "Rishabh Pant"
+                  - [243] AXPopUpButton expanded=false "More"
+                - [244] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [245] AXGroup expanded=false
+                    - [246] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [247] AXGroup expanded=false
+                    - [248] AXStaticText expanded=false = "Charles"
+                  - [249] AXPopUpButton expanded=false "More"
+                - [250] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [251] AXGroup expanded=false
+                    - [252] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [253] AXGroup expanded=false
+                    - [254] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [255] AXPopUpButton expanded=false "More"
+                - [256] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [257] AXGroup expanded=false
+                    - [258] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [259] AXGroup expanded=false
+                    - [260] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [261] AXPopUpButton expanded=false "More"
+                - [262] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [263] AXGroup expanded=false
+                    - [264] AXStaticText expanded=false = "Show more"
+            - [265] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [266] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [267] AXStaticText expanded=false = "Terms"
+              - [268] AXGroup expanded=false
+                - [269] AXStaticText expanded=false = "·"
+              - [270] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [271] AXStaticText expanded=false = "Privacy"
+              - [272] AXGroup expanded=false
+                - [273] AXStaticText expanded=false = "·"
+              - [274] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [275] AXStaticText expanded=false = "Cookies"
+              - [276] AXGroup expanded=false
+                - [277] AXStaticText expanded=false = "·"
+              - [278] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [279] AXStaticText expanded=false = "Accessibility"
+              - [280] AXGroup expanded=false
+                - [281] AXStaticText expanded=false = "·"
+              - [282] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [283] AXStaticText expanded=false = "Ads Info"
+              - [284] AXGroup expanded=false
+                - [285] AXStaticText expanded=false = "·"
+              - [286] AXPopUpButton expanded=false "More"
+              - [287] AXGroup expanded=false
+                - [288] AXStaticText expanded=false = "© 2026 X Corp."
+        - [289] AXGroup subrole=AXEmptyGroup expanded=false
+        - [290] AXGroup subrole=AXEmptyGroup expanded=false
+        - [291] AXGroup subrole=AXEmptyGroup expanded=false
+        - [292] AXGroup subrole=AXEmptyGroup expanded=false
+      - [293] AXScrollBar expanded=false = "0.008779631"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [294] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [295] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [296] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [297] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [298] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [299] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [300] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [301] AXRadioButton subrole=AXTabButton valueWritable=false "Abhijith on X: \"If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Abhijith on X: \"If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader\" / X" selection=[0,0]
+  - [302] AXGroup "Favorites bar"
+    - [303] AXButton "show start page" help="Show Start Page"
+    - [304] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [305] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [306] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [307] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [308] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [309] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [310] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [311] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [312] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [313] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [314] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [315] AXToolbar
+    - [316] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [317] AXButton "show sidebar" help="Show sidebar"
+      - [318] AXMenuButton "Tab Group picker"
+    - [319] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [320] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [321] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [322] AXButton "Page Menu"
+      - [323] AXButton "Add page to Reading List"
+      - [324] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/abhip_me/status/2124307631041097886" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [325] AXButton "Reload this page"
+    - [326] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [327] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [328] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [329] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [330] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [331] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [332] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [333] AXButton subrole=AXCloseButton
+  - [334] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [335] AXButton subrole=AXMinimizeButton
+- [336] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [337] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [338] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [339] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [340] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [341] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [342] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [343] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [344] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [345] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

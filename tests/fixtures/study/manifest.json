@@ -1,0 +1,22 @@
+{
+  "study": "three-session-plumbing-check",
+  "sessions": [
+    "2026-01-15",
+    "2026-01-16",
+    "2026-01-19"
+  ],
+  "cases": [
+    {
+      "snapshot": "synthetic-2026-01-15.json",
+      "outcome": "synthetic-2026-01-15-outcome.json"
+    },
+    {
+      "snapshot": "synthetic-2026-01-16.json",
+      "outcome": "synthetic-2026-01-16-outcome.json"
+    },
+    {
+      "snapshot": "synthetic-2026-01-19.json",
+      "outcome": "synthetic-2026-01-19-outcome.json"
+    }
+  ]
+}

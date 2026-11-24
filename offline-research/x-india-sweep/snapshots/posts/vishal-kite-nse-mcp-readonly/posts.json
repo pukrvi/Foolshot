@@ -1,0 +1,20 @@
+[
+ {
+  "handle": "vishal__bulbule",
+  "id": "2115050342899732935",
+  "timeText": "5:27 PM · Oct 27, 2026",
+  "text": "  Kite MCP + NSE MCP.\n\nAll order tools disabled via disabledTools in mcp_config.json.\n\nRead access. Zero trading permissions.\n\n"
+ },
+ {
+  "handle": "Dinamo51648539",
+  "id": "2115053966174433494",
+  "timeText": "Oct 27",
+  "text": "That read-only split is a good starting point. I would also enforce it at the broker or API scope, so disabledTools is defense-in-depth rather than the only barrier. A routing bug should not be able to turn portfolio visibility into order authority."
+ },
+ {
+  "handle": "vishal__bulbule",
+  "id": "2124341185859011006",
+  "timeText": "8 hours ago",
+  "text": "M6 with 32GB+ is blessing for Content creator & AI explorer ( still not enough for bigger Models)\n"
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "handle": "pranjalsoni_",
+  "id": "2117936915081232535",
+  "timeText": "4:38 PM · Nov 4, 2026",
+  "text": "day 3 of letting claude trade my real money.\n\nday 1 went too well. first real trades, small size, closed green. i felt like a genius\n\nday 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn\\'t exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill\n\nthen i lost two market days to my own setup issues. no trades. annoying\n\nso today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn\\'t matter\n\nfirst order from the new server was 1 share. just to see if the pipes work. they did\n\nthe market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn\\'t, and that one was my idea, not the bot\\'s. cut it early\n\n> everything closed on its own before "
+ },
+ {
+  "handle": "vanshyadav1408",
+  "id": "2117938085002633465",
+  "timeText": "Nov 4",
+  "text": "What\\'s the overall pnl?"
+ },
+ {
+  "handle": "pranjalsoni_",
+  "id": "2117952059635073221",
+  "timeText": "Nov 4",
+  "text": ""
+ },
+ {
+  "handle": "bhardwajshash",
+  "id": "2117975593027551467",
+  "timeText": "Nov 4",
+  "text": "still planning to throw my claude at this and build my version, haven\\'t started. \n\nmind helping me with context on DM?"
+ },
+ {
+  "handle": "pranjalsoni_",
+  "id": "2117976429229228285",
+  "timeText": "Nov 4",
+  "text": "sure, how much i should charge for this? do u think people will pay? \n\ni think it\\'s a coin flip strategy with some luck so yeah it works most of the times"
+ },
+ {
+  "handle": "n_kandala",
+  "id": "2117990996386713863",
+  "timeText": "Nov 4",
+  "text": "Congratulations.  Which broker are you using. Are you able to get historical data and indicator values."
+ },
+ {
+  "handle": "pranjalsoni_",
+  "id": "2117997786503450640",
+  "timeText": "Nov 4",
+  "text": ""
+ },
+ {
+  "handle": "SSha14635434",
+  "id": "2117953018390065484",
+  "timeText": "Nov 4",
+  "text": "What’s total pnl post taxes and charges ?"
+ },
+ {
+  "handle": "chalapathi_rao1",
+  "id": "2117943496296575090",
+  "timeText": "Nov 4",
+  "text": "Only 1 question - how did Claude agree to trade because in general it refuses to trade on its own.. Are you using api or subscription?"
+ }
+]

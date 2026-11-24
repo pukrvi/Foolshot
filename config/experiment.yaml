@@ -1,0 +1,10 @@
+study_id: foolshot-foundation
+mode: replay
+capital_paise: 10000000
+pilot_exposure_paise: 1000000
+trade_loss_paise: 12500
+daily_loss_paise: 35000
+weekly_loss_paise: 100000
+study_loss_paise: 500000
+max_attempts: 2
+max_positions: 1

@@ -1,0 +1,14 @@
+[
+ {
+  "handle": "abhip_me",
+  "id": "2124307631041097886",
+  "timeText": "6:33 AM · Nov 22, 2026",
+  "text": "If you’re planning to run a trading algo from your own setup in India, NSE’s November 20 clarification is worth a look. Under SEBI’s retail algo framework, the static IP route is for retail traders who write their own algos. Brokers now need written confirmation that the trader developed the algo themselves. \n\nI’ve helped few clients turn their trading strategies into Python code, and I’ve also built dashboards and automations around their strategies.\n\nIf you have a strategy written down in plain English and want help building it in Python, feel free to DM me. I can help you backtest the rules, build a dashboard, or automate the parts you still do by hand. If live order execution is part of the plan, we can start by checking which setup your broker supports."
+ },
+ {
+  "handle": "abhip_me",
+  "id": "2124266245247914143",
+  "timeText": "13 hours ago",
+  "text": "Woohoo!! Made another sale while I was sick, and this one took me past $500 in total sales! 🥹\n\nSix months ago, I had no second income. It might not sound like much, but seeing that notification made me so happy.\n\nCrazy how time flies."
+ }
+]

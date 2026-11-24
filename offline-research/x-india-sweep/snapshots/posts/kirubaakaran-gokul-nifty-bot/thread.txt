@@ -1,0 +1,55 @@
+URL: https://x.com/kirubaakaran/status/2046861076428656970
+DATE: 2026-11-22
+MODE: Latest
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran This mail I received today from Gokul made my day.
+
+He started with zero coding experience.
+
+Today he runs a fully automated NIFTY weekly options bot. AWS EC2 Mumbai. Dhan API. Real time SL monitoring. Exchange SL orders. Telegram notifications on every event.
+
+Designed, built, deployed. All by himself.
+
+This is the shift nobody is talking about loud enough.
+
+For 15 years, the barrier to algo trading was coding. You either learned Python for 2 years, or you paid someone, or subscribe to algo platforms or you stayed manual.
+
+That barrier is gone.
+
+In 2026, if you understand your strategy clearly, AI can write, debug, and deploy it for you. What cannot be outsourced is the thinking. The edge. The discipline. The why behind every rule.
+
+AI did not replace the trader. It removed the excuse. The clarity on systematic trading has to come from experience. The execution can come from Claude, Cursor, ChatGPT, whatever. But without understanding why you are entering, sizing, exiting, no AI will save you.
+
+Traders who get this early will have an unfair advantage. Image 23 replies, 26 reposts, 324 likes, 320 bookmarks, 28765 views
+
+Ryan
+@ryan4799 Apr 22 +1 anna. My strategy is in forward testing phase. Had alot of doubts but your videos helped me with the psychology!.
+Also read your quora threads . Those were very insightful as well 1 reply, 3 likes, 2 bookmarks, 1312 views
+
+Kirubakaran Rajendran
+Verified account
+@kirubaakaran Apr 22 Thanks, glad it helps 👍 1 like, 1134 views
+
+Shyam
+Verified account
+@trading_wise Apr 23 Nice bro. From trading influencer to AI influencer. 🙌 2 likes, 166 views
+
+KSR
+@Marketmaker369 Apr 22 make one zoom on this brother or YT how to make automation, would be useful budding traders 2 likes, 779 views
+
+Dinesh Varma
+@dinesh_varma1 Apr 22 I have also built a crypto BOT in 4 days, done with testing on paper trade, now trading with a test lot Image 1 like, 45 views
+
+Selvaraj
+@TechySelvaraj Apr 23 Ya true, I just made automations through n8n and telegram itself , to take trades and check positions, errors, pnl eod report etc
+
+Now is the time to build anything 1 like, 177 views
+
+ayan
+Verified account
+@ayan_2587 Apr 22 Absolutely @kirubaakaran 
+Effective use of AI tools such as Chatgpt or Codex Cli have completely transformed the way I backtest and analyze data for option strategies now. 
+These tools are really a game-changer if utilized properly. 
+What used to take weeks of effort have now 1 reply, 1 like, 971 views

@@ -1,0 +1,17 @@
+# Pranjal Soni’s Zerodha experiment
+
+@pranjalsoni_ reported a week with Claude Fable 5.1 on a ₹1 lakh account. Three winning trades yielded ₹4,250 after charges, about 4.2%. Published 31 October 2026. [Original post](https://x.com/pranjalsoni_/status/2116456843837165658) · [Mirror with replies](https://teapawt.net/pranjalsoni_/status/2116456843837165658)
+
+1. **Backtest audit.** The first run showed around 40% annual returns. A second model found over 500 variants had been tried, slippage was too low, and five trades accounted for 80% of profits. The author reported around 5% annual returns after audit.
+2. **Order handling.** The audit surfaced 16 failure paths despite passing tests. Examples included a crash leaving a filled position without a stop, a duplicate exit reversing a position, and a timeout hiding an accepted order. The test broker had filled everything instantly.
+3. **IP failure.** At 15:10 on Friday, an IP change blocked an exit after the stop had already been canceled. Zerodha’s 15:20 auto-square-off closed the position. Soni reported a ₹59 fee and revised the design to turn the stop into the exit in a single request. He also planned fixed-IP hosting.
+4. **Breakout replication.** He recreated another account’s expiry option-buying idea using minute prices from 1,090 contracts. He reported the signal had slightly negative average movement, costs exceeded gross profit, and mechanically replaying the reported entries lost money. He attributed the green week to exit choices and unusually high volatility, and reported losses in 86% of tested weeks. The post leaves the trader unnamed.
+5. **Other tests.** He reported testing over 15 strategies on two to five years of Indian data including costs and out-of-sample checks. Option buying, opening-range breaks, IPO listing momentum, early-session prediction of late-session returns, Nifty inclusion buying, and late-session continuation failed his tests. Intraday stock trend following was weak enough to keep on paper. Capped-risk selling of overpriced options survived his tests. He withheld the exact rules. He also reported India VIX above his realized-movement comparison on 79% of days across five years.
+6. **Operating rules.** He described immediate broker-side stops, position sizes based on fixed risk and stop distance, trading with the market, skipping mixed sessions, leaving stops alone, and reviewing changes weekly outside open trades. He said one short hit its target for ₹3,130 after he resisted exiting early.
+7. **Planned next run.** He planned fixed-IP hosting, a one-lot launch with written shutdown rules, and daily public reporting of wins and losses.
+
+## Replies
+
+- When challenged about how orders were accepted before migrating to fixed hosting, Soni said Airtel’s public IP had stayed the same while his connection held. This is his explanation of the incident. [Author reply](https://x.com/pranjalsoni_/status/2116587338751152584)
+- @hmjag07 described a paper bot that reconciles the intended position against the broker’s position after each bar. They said it and a daily loss cutoff helped more than signals. They asked whether Soni logged every decision. [Reply](https://x.com/hmjag07/status/2117166331086995744)
+- Other readers asked about margin on ₹1 lakh, the source of tick data, direct order access versus manual approvals, and what drawdown, rule breaks, and cost per decision looked like after a larger sample. The accessible thread did not resolve those questions. [Reply stream](https://teapawt.net/pranjalsoni_/status/2116456843837165658)

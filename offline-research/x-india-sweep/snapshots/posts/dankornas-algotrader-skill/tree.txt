@@ -1,0 +1,399 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Dan Kornas on X: \"Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest. AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows. It helps you move from idea to a safer https://t.co/sxkxDoagu5\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Dan Kornas on X: \"Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest. AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows. It helps you move from idea to a safer https://t.co/sxkxDoagu5\" / X" url="https://x.com/DanKornas/status/2069946422586122698"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Dan Kornas\nVerified account\n@DanKornas Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.\n\nAlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.\n\nIt helps you move from idea to a safer implementation by combining a bot-generation wizard, NSE universe fetching, backtest/live checks, and a documented set of trading-system gotchas.\n\nKey features:\n\n• Interactive bot wizard – scans existing code and asks about trade style, universe, capital, and risk tolerance\n• Zerodha/Kite workflow guidance – covers tick-size rounding, position reconciliation, stop-loss lifecycle, and credentials setup\n• Live universe fetcher – creates JSON files for Nifty 50, Nifty 100, Midcap 150, and Smallcap 250 constituents\n• Backtest-live parity checks – documents data caching, VWAP reset, candle completion, and slippage issues that break live results\n• Risk and analytics patterns – includes Kelly sizing, portfolio heat, regime detection, structured logs, and post-trade reporting\n\nIt’s open-source (MIT license).\n\nLink in the reply 👇 Image 5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/DanKornas"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Dan Kornas\nVerified account" url="https://x.com/DanKornas"
+                      - [72] AXStaticText expanded=false = "Dan Kornas"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@DanKornas" url="https://x.com/DanKornas"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@DanKornas"
+                    - [77] AXButton expanded=false "Follow @DanKornas"
+                    - [78] AXButton expanded=false "Grok actions"
+                    - [79] AXPopUpButton expanded=false "More"
+                    - [80] AXGroup expanded=false
+                      - [81] AXStaticText expanded=false = "Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.\n\nAlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.\n\nIt helps you move from idea to a safer implementation by combining a bot-generation wizard, NSE universe fetching, backtest/live checks, and a documented set of trading-system gotchas.\n\nKey features:\n\n• Interactive bot wizard – scans existing code and asks about trade style, universe, capital, and risk tolerance\n• Zerodha/Kite workflow guidance – covers tick-size rounding, position reconciliation, stop-loss lifecycle, and credentials setup\n• Live universe fetcher – creates JSON files for Nifty 50, Nifty 100, Midcap 150, and Smallcap 250 constituents\n• Backtest-live parity checks – documents data caching, VWAP reset, candle completion, and slippage issues that break live results\n• Risk and analytics patterns – includes Kelly sizing, portfolio heat, regime detection, structured logs, and post-trade reporting\n\nIt’s open-source (MIT license).\n\nLink in the reply 👇"
+                    - [82] AXGroup expanded=false
+                      - [83] AXLink expanded=false "Image" url="https://x.com/DanKornas/status/2069946422586122698/photo/1"
+                        - [84] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [85] AXGroup expanded=false
+                          - [86] AXGroup expanded=false "Image"
+                            - [87] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HLntTC3XwAA5uB9?format=jpg&name=medium"
+                    - [88] AXGroup expanded=false
+                      - [89] AXLink expanded=false "6:20 AM · Jun 25, 2026" url="https://x.com/DanKornas/status/2069946422586122698"
+                        - [90] AXGroup subrole=AXTimeGroup expanded=false
+                          - [91] AXStaticText expanded=false = "6:20 AM · Jun 25, 2026"
+                      - [92] AXLink expanded=false "2,322 Views" url="https://x.com/DanKornas/status/2069946422586122698/analytics"
+                        - [93] AXStaticText expanded=false = "2,322"
+                        - [94] AXStaticText expanded=false = "Views"
+                    - [95] AXGroup subrole=AXApplicationGroup expanded=false "5 replies, 5 reposts, 20 likes, 25 bookmarks, 2322 views"
+                      - [96] AXButton expanded=false "5 Replies. Reply"
+                      - [97] AXPopUpButton expanded=false "5 reposts. Repost"
+                      - [98] AXButton expanded=false "20 Likes. Like"
+                      - [99] AXButton expanded=false "25 Bookmarks. Bookmark"
+                      - [100] AXPopUpButton expanded=false "Share post"
+                    - [101] AXPopUpButton expanded=false "Relevant"
+                  - [102] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [103] AXGroup expanded=false
+                    - [104] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [105] AXGroup expanded=false
+                      - [106] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [107] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [108] AXGroup expanded=false
+                          - [109] AXGroup expanded=false "Puneet Vishnawat"
+                            - [110] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [111] AXGroup expanded=false
+                    - [112] AXStaticText expanded=false = "Post your reply"
+                  - [113] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [114] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [115] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [116] AXGroup subrole=AXDocumentArticle expanded=false "Dan Kornas\nVerified account\n@DanKornas Jun 25 🔗 GitHub: github.com/javajack/skill\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... 2 likes, 1 bookmark, 488 views" description="Dan Kornas\nVerified account\n@DanKornas Jun 25 🔗 GitHub: github.com/javajack/skill\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): dankornas.substack.com github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with... From github.com 2 likes, 1 bookmark, 488 views"
+                    - [117] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [118] AXGroup expanded=false
+                      - [119] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [120] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [121] AXLink expanded=false "Dan Kornas\nVerified account" url="https://x.com/DanKornas"
+                      - [122] AXStaticText expanded=false = "Dan Kornas"
+                      - [123] AXImage expanded=false "Verified account"
+                    - [124] AXLink expanded=false "@DanKornas" url="https://x.com/DanKornas"
+                      - [125] AXGroup expanded=false
+                        - [126] AXStaticText expanded=false = "@DanKornas"
+                    - [127] AXLink expanded=false "Jun 25" url="https://x.com/DanKornas/status/2069946577674736049"
+                      - [128] AXGroup subrole=AXTimeGroup expanded=false
+                        - [129] AXStaticText expanded=false = "Jun 25"
+                    - [130] AXButton expanded=false "Grok actions"
+                    - [131] AXPopUpButton expanded=false "More"
+                    - [132] AXGroup expanded=false
+                      - [133] AXStaticText expanded=false = "🔗 GitHub: "
+                      - [134] AXLink expanded=false "github.com/javajack/skill" url="https://t.co/dXw3P8JZQ8"
+                        - [135] AXStaticText expanded=false = "github.com/javajack/skill"
+                      - [136] AXStaticText expanded=false = "\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): "
+                      - [137] AXLink expanded=false "dankornas.substack.com" url="https://t.co/zJ9uwd6qSd"
+                        - [138] AXStaticText expanded=false = "dankornas.substack.com"
+                    - [139] AXGroup expanded=false "github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with..."
+                      - [140] AXGroup expanded=false "github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with..."
+                        - [141] AXLink expanded=false "github.com GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with..." url="https://t.co/dXw3P8JZQ8"
+                          - [142] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [143] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [144] AXGroup expanded=false
+                            - [145] AXStaticText expanded=false = "GitHub - javajack/skill-algotrader: Quantitative trading skill for Indian equity markets with..."
+                      - [146] AXLink expanded=false "From github.com" url="https://t.co/dXw3P8JZQ8"
+                        - [147] AXStaticText expanded=false = "From github.com"
+                    - [148] AXGroup subrole=AXApplicationGroup expanded=false "2 likes, 1 bookmark, 488 views"
+                      - [149] AXButton expanded=false "0 Replies. Reply"
+                      - [150] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [151] AXButton expanded=false "2 Likes. Like"
+                      - [152] AXLink expanded=false "488 views. View post analytics" url="https://x.com/DanKornas/status/2069946577674736049/analytics"
+                        - [153] AXStaticText expanded=false = "488"
+                      - [154] AXButton expanded=false "Bookmark"
+                      - [155] AXPopUpButton expanded=false "Share post"
+                  - [156] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [157] AXGroup subrole=AXDocumentArticle expanded=false "New Moon Algos\nVerified account\n@NewMoonAlgos Jun 26 That\'s the right split. A builder tool earns trust when it preserves the path between research and execution: costs, skipped trades, rejected orders, and state after deployment gets messy. 1 reply, 1 like, 43 views"
+                    - [158] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [159] AXGroup expanded=false
+                      - [160] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [161] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [162] AXLink expanded=false "New Moon Algos\nVerified account" url="https://x.com/NewMoonAlgos"
+                      - [163] AXStaticText expanded=false = "New Moon Algos"
+                      - [164] AXImage expanded=false "Verified account"
+                    - [165] AXLink expanded=false "@NewMoonAlgos" url="https://x.com/NewMoonAlgos"
+                      - [166] AXGroup expanded=false
+                        - [167] AXStaticText expanded=false = "@NewMoonAlgos"
+                    - [168] AXLink expanded=false "Jun 26" url="https://x.com/NewMoonAlgos/status/2070286169577808339"
+                      - [169] AXGroup subrole=AXTimeGroup expanded=false
+                        - [170] AXStaticText expanded=false = "Jun 26"
+                    - [171] AXButton expanded=false "Grok actions"
+                    - [172] AXPopUpButton expanded=false "More"
+                    - [173] AXGroup expanded=false
+                      - [174] AXStaticText expanded=false = "That\'s the right split. A builder tool earns trust when it preserves the path between research and execution: costs, skipped trades, rejected orders, and state after deployment gets messy."
+                    - [175] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 1 like, 43 views"
+                      - [176] AXButton expanded=false "1 Reply. Reply"
+                      - [177] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [178] AXButton expanded=false "1 Like. Like"
+                      - [179] AXLink expanded=false "43 views. View post analytics" url="https://x.com/NewMoonAlgos/status/2070286169577808339/analytics"
+                        - [180] AXStaticText expanded=false = "43"
+                      - [181] AXButton expanded=false "Bookmark"
+                      - [182] AXPopUpButton expanded=false "Share post"
+                  - [183] AXGroup subrole=AXDocumentArticle expanded=false "Dan Kornas\nVerified account\n@DanKornas Jun 26 Yep. The ugly logs matter: fills, rejects, costs, and what changed after deployment. 1 reply, 55 views"
+                    - [184] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [185] AXGroup expanded=false
+                      - [186] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [187] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [188] AXLink expanded=false "Dan Kornas\nVerified account" url="https://x.com/DanKornas"
+                      - [189] AXStaticText expanded=false = "Dan Kornas"
+                      - [190] AXImage expanded=false "Verified account"
+                    - [191] AXLink expanded=false "@DanKornas" url="https://x.com/DanKornas"
+                      - [192] AXGroup expanded=false
+                        - [193] AXStaticText expanded=false = "@DanKornas"
+                    - [194] AXLink expanded=false "Jun 26" url="https://x.com/DanKornas/status/2070334174406361494"
+                      - [195] AXGroup subrole=AXTimeGroup expanded=false
+                        - [196] AXStaticText expanded=false = "Jun 26"
+                    - [197] AXButton expanded=false "Grok actions"
+                    - [198] AXPopUpButton expanded=false "More"
+                    - [199] AXGroup expanded=false
+                      - [200] AXStaticText expanded=false = "Yep. The ugly logs matter: fills, rejects, costs, and what changed after deployment."
+                    - [201] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 55 views"
+                      - [202] AXButton expanded=false "1 Reply. Reply"
+                      - [203] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [204] AXButton expanded=false "0 Likes. Like"
+                      - [205] AXLink expanded=false "55 views. View post analytics" url="https://x.com/DanKornas/status/2070334174406361494/analytics"
+                        - [206] AXStaticText expanded=false = "55"
+                      - [207] AXButton expanded=false "Bookmark"
+                      - [208] AXPopUpButton expanded=false "Share post"
+                  - [209] AXButton expanded=false "Show replies"
+                  - [210] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [211] AXGroup subrole=AXDocumentArticle expanded=false "安叫兽|Bird🕊️ 🔶 BNB\nVerified account\n@ajs6888 Jun 25 回测漂亮不算什么，实盘滑点才见真章。 1 like, 39 views"
+                    - [212] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [213] AXGroup expanded=false
+                      - [214] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [215] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [216] AXLink expanded=false "安叫兽|Bird🕊️ 🔶 BNB\nVerified account" url="https://x.com/ajs6888"
+                      - [217] AXStaticText expanded=false = "安叫兽|Bird🕊️ 🔶 BNB"
+                      - [218] AXImage expanded=false "Verified account"
+                    - [219] AXLink expanded=false "@ajs6888" url="https://x.com/ajs6888"
+                      - [220] AXGroup expanded=false
+                        - [221] AXStaticText expanded=false = "@ajs6888"
+                    - [222] AXLink expanded=false "Jun 25" url="https://x.com/ajs6888/status/2070056592373113272"
+                      - [223] AXGroup subrole=AXTimeGroup expanded=false
+                        - [224] AXStaticText expanded=false = "Jun 25"
+                    - [225] AXButton expanded=false "Grok actions"
+                    - [226] AXPopUpButton expanded=false "More"
+                    - [227] AXGroup expanded=false
+                      - [228] AXStaticText expanded=false = "回测漂亮不算什么，实盘滑点才见真章。"
+                    - [229] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 39 views"
+                      - [230] AXButton expanded=false "0 Replies. Reply"
+                      - [231] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [232] AXButton expanded=false "1 Like. Like"
+                      - [233] AXLink expanded=false "39 views. View post analytics" url="https://x.com/ajs6888/status/2070056592373113272/analytics"
+                        - [234] AXStaticText expanded=false = "39"
+                      - [235] AXButton expanded=false "Bookmark"
+                      - [236] AXPopUpButton expanded=false "Share post"
+                  - [237] AXButton expanded=false "Show probable spam"
+          - [238] AXGroup expanded=false "Trending"
+            - [239] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [240] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [241] AXGroup expanded=false
+                  - [242] AXStaticText expanded=false = "Search"
+            - [243] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [244] AXHeading expanded=false "Relevant people" = "2"
+                - [245] AXStaticText expanded=false = "Relevant people"
+              - [246] AXList subrole=AXContentList expanded=false
+                - [247] AXGroup expanded=false
+                  - [248] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [249] AXGroup expanded=false
+                    - [250] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [251] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [252] AXLink expanded=false "Dan Kornas\nVerified account" url="https://x.com/DanKornas"
+                    - [253] AXStaticText expanded=false = "Dan Kornas"
+                    - [254] AXImage expanded=false "Verified account"
+                  - [255] AXLink expanded=false "@DanKornas" url="https://x.com/DanKornas"
+                    - [256] AXGroup expanded=false
+                      - [257] AXStaticText expanded=false = "@DanKornas"
+                  - [258] AXButton expanded=false "Follow @DanKornas"
+                  - [259] AXGroup expanded=false
+                    - [260] AXStaticText expanded=false = "Exploring AI tools, models & projects:"
+                    - [261] AXLink expanded=false "dankornas.github.io/dans-ai-lab/" url="https://t.co/uIBlLyXFKu"
+                      - [262] AXStaticText expanded=false = "dankornas.github.io/dans-ai-lab/"
+                    - [263] AXStaticText expanded=false = " AI Tool Library: "
+                    - [264] AXLink expanded=false "aitoolrank.io" url="https://t.co/8ezZSwN2WP"
+                      - [265] AXStaticText expanded=false = "aitoolrank.io"
+                    - [266] AXStaticText expanded=false = " Newsletter:"
+                    - [267] AXLink expanded=false "dankornas.substack.com" url="https://t.co/NMMvPSmzua"
+                      - [268] AXStaticText expanded=false = "dankornas.substack.com"
+            - [269] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [270] AXHeading expanded=false "Trending now" = "1"
+                - [271] AXStaticText expanded=false = "Trending now"
+              - [272] AXGroup expanded=false "Timeline: Trending now"
+                - [273] AXGroup subrole=AXEmptyGroup expanded=false
+                - [274] AXHeading expanded=false "What’s happening" = "2"
+                  - [275] AXStaticText expanded=false = "What’s happening"
+                - [276] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [277] AXGroup expanded=false
+                    - [278] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [279] AXGroup expanded=false
+                    - [280] AXStaticText expanded=false = "Charles"
+                  - [281] AXPopUpButton expanded=false "More"
+                - [282] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [283] AXGroup expanded=false
+                    - [284] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [285] AXGroup expanded=false
+                    - [286] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [287] AXPopUpButton expanded=false "More"
+                - [288] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [289] AXGroup expanded=false
+                    - [290] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [291] AXGroup expanded=false
+                    - [292] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [293] AXPopUpButton expanded=false "More"
+                - [294] AXLink expanded=false "Business & finance · Trending Nifty 50 More"
+                  - [295] AXGroup expanded=false
+                    - [296] AXStaticText expanded=false = "Business & finance · Trending"
+                  - [297] AXGroup expanded=false
+                    - [298] AXStaticText expanded=false = "Nifty 50"
+                  - [299] AXPopUpButton expanded=false "More"
+                - [300] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [301] AXGroup expanded=false
+                    - [302] AXStaticText expanded=false = "Show more"
+            - [303] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [304] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [305] AXStaticText expanded=false = "Terms"
+              - [306] AXGroup expanded=false
+                - [307] AXStaticText expanded=false = "·"
+              - [308] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [309] AXStaticText expanded=false = "Privacy"
+              - [310] AXGroup expanded=false
+                - [311] AXStaticText expanded=false = "·"
+              - [312] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [313] AXStaticText expanded=false = "Cookies"
+              - [314] AXGroup expanded=false
+                - [315] AXStaticText expanded=false = "·"
+              - [316] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [317] AXStaticText expanded=false = "Accessibility"
+              - [318] AXGroup expanded=false
+                - [319] AXStaticText expanded=false = "·"
+              - [320] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [321] AXStaticText expanded=false = "Ads Info"
+              - [322] AXGroup expanded=false
+                - [323] AXStaticText expanded=false = "·"
+              - [324] AXPopUpButton expanded=false "More"
+              - [325] AXGroup expanded=false
+                - [326] AXStaticText expanded=false = "© 2026 X Corp."
+        - [327] AXGroup subrole=AXEmptyGroup expanded=false
+        - [328] AXGroup subrole=AXEmptyGroup expanded=false
+      - [329] AXScrollBar expanded=false = "0.004382121"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [330] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [331] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [332] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [333] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [334] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [335] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [336] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [337] AXRadioButton subrole=AXTabButton valueWritable=false "Dan Kornas on X: \"Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest. AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows. It helps you move from idea to a safer https://t.co/sxkxDoagu5\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Dan Kornas on X: \"Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest. AlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows. It helps you move from idea to a safer https://t.co/sxkxDoagu5\" / X" selection=[0,0]
+  - [338] AXGroup "Favorites bar"
+    - [339] AXButton "show start page" help="Show Start Page"
+    - [340] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [341] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [342] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [343] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [344] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [345] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [346] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [347] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [348] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [349] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [350] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [351] AXToolbar
+    - [352] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [353] AXButton "show sidebar" help="Show sidebar"
+      - [354] AXMenuButton "Tab Group picker"
+    - [355] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [356] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [357] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [358] AXButton "Page Menu"
+      - [359] AXButton "Add page to Reading List"
+      - [360] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/DanKornas/status/2069946422586122698" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [361] AXButton "Reload this page"
+    - [362] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [363] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [364] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [365] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [366] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [367] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [368] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [369] AXButton subrole=AXCloseButton
+  - [370] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [371] AXButton subrole=AXMinimizeButton
+- [372] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [373] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [374] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [375] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [376] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [377] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [378] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [379] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [380] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [381] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

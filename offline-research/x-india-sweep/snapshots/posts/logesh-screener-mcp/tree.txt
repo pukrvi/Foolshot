@@ -1,0 +1,467 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Logesh Ramasamy on X: \"It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker. You ask in plain English. Claude picks the tools. https://t.co/juXiCCvw7E\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Logesh Ramasamy on X: \"It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker. You ask in plain English. Claude picks the tools. https://t.co/juXiCCvw7E\" / X" url="https://x.com/Logesh11667187/status/2122534692943794634"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 Ask an AI for an Indian stock\'s P/E or promoter pledge and you\'ll get an answer. Often a confident, outdated one.\n\nI built a free, open-source fix: Claude now answers from live Screener and NSE data.\n\nHere\'s what that looks like in one chat 🧵 1 reply, 31 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [68] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [69] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [70] AXImage expanded=false "Verified account"
+                    - [71] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [72] AXGroup expanded=false
+                        - [73] AXStaticText expanded=false = "@Logesh11667187"
+                    - [74] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534692692078762"
+                      - [75] AXGroup subrole=AXTimeGroup expanded=false
+                        - [76] AXStaticText expanded=false = "Nov 17"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "Ask an AI for an Indian stock\'s P/E or promoter pledge and you\'ll get an answer. Often a confident, outdated one.\n\nI built a free, open-source fix: Claude now answers from live Screener and NSE data.\n\nHere\'s what that looks like in one chat 🧵"
+                    - [81] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 31 views"
+                      - [82] AXButton expanded=false "1 Reply. Reply"
+                      - [83] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [84] AXButton expanded=false "0 Likes. Like"
+                      - [85] AXLink expanded=false "31 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534692692078762/analytics"
+                        - [86] AXStaticText expanded=false = "31"
+                      - [87] AXButton expanded=false "Bookmark"
+                      - [88] AXPopUpButton expanded=false "Share post"
+                  - [89] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... 1 reply, 33 views" description="Logesh Ramasamy\nVerified account\n@Logesh11667187 It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools. github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com 1 reply, 33 views"
+                    - [90] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [91] AXGroup expanded=false
+                      - [92] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [93] AXGroup expanded=false
+                        - [94] AXLink focused expanded=false url="https://x.com/Logesh11667187"
+                          - [95] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [96] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [97] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [98] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [99] AXImage expanded=false "Verified account"
+                    - [100] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [101] AXGroup expanded=false
+                        - [102] AXStaticText expanded=false = "@Logesh11667187"
+                    - [103] AXButton expanded=false "Grok actions"
+                    - [104] AXPopUpButton expanded=false "More"
+                    - [105] AXGroup expanded=false
+                      - [106] AXStaticText expanded=false = "It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools."
+                    - [107] AXGroup expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                      - [108] AXGroup expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                        - [109] AXLink expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..." url="https://t.co/juXiCCvw7E"
+                          - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [111] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [112] AXGroup expanded=false
+                            - [113] AXStaticText expanded=false = "GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                      - [114] AXLink expanded=false "From github.com" url="https://t.co/juXiCCvw7E"
+                        - [115] AXStaticText expanded=false = "From github.com"
+                    - [116] AXGroup expanded=false
+                      - [117] AXLink expanded=false "9:08 AM · Nov 17, 2026" url="https://x.com/Logesh11667187/status/2122534692943794634"
+                        - [118] AXGroup subrole=AXTimeGroup expanded=false
+                          - [119] AXStaticText expanded=false = "9:08 AM · Nov 17, 2026"
+                      - [120] AXLink expanded=false "33 Views" url="https://x.com/Logesh11667187/status/2122534692943794634/analytics"
+                        - [121] AXStaticText expanded=false = "33"
+                        - [122] AXStaticText expanded=false = "Views"
+                    - [123] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 33 views"
+                      - [124] AXButton expanded=false "1 Reply. Reply"
+                      - [125] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [126] AXButton expanded=false "0 Likes. Like"
+                      - [127] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [128] AXPopUpButton expanded=false "Share post"
+                  - [129] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [130] AXGroup expanded=false
+                    - [131] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [132] AXGroup expanded=false
+                      - [133] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [134] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [135] AXGroup expanded=false
+                          - [136] AXGroup expanded=false "Puneet Vishnawat"
+                            - [137] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [138] AXGroup expanded=false
+                    - [139] AXStaticText expanded=false = "Post your reply"
+                  - [140] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [142] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [143] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 \"Compare ITC and HINDUNILVR on all key ratios\"\n\n2 to 6 stocks side by side, with red flags at each point in time. \n\nIn clients that support MCP Apps it renders as an interactive dashboard. 1 reply, 36 views"
+                    - [144] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [145] AXGroup expanded=false
+                      - [146] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [147] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [148] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [149] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [150] AXImage expanded=false "Verified account"
+                    - [151] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [152] AXGroup expanded=false
+                        - [153] AXStaticText expanded=false = "@Logesh11667187"
+                    - [154] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534693233193393"
+                      - [155] AXGroup subrole=AXTimeGroup expanded=false
+                        - [156] AXStaticText expanded=false = "Nov 17"
+                    - [157] AXButton expanded=false "Grok actions"
+                    - [158] AXPopUpButton expanded=false "More"
+                    - [159] AXGroup expanded=false
+                      - [160] AXStaticText expanded=false = "\"Compare ITC and HINDUNILVR on all key ratios\"\n\n2 to 6 stocks side by side, with red flags at each point in time. \n\nIn clients that support MCP Apps it renders as an interactive dashboard."
+                    - [161] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 36 views"
+                      - [162] AXButton expanded=false "1 Reply. Reply"
+                      - [163] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [164] AXButton expanded=false "0 Likes. Like"
+                      - [165] AXLink expanded=false "36 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534693233193393/analytics"
+                        - [166] AXStaticText expanded=false = "36"
+                      - [167] AXButton expanded=false "Bookmark"
+                      - [168] AXPopUpButton expanded=false "Share post"
+                  - [169] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 \"What did TCS management say about margins in Q3FY25?\"\n\nIt fetches the earnings call PDF, indexes it on your machine and returns the matching excerpts with document and page. \n\nThe embeddings run locally, no API key. 1 reply, 8 views"
+                    - [170] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [171] AXGroup expanded=false
+                      - [172] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [173] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [174] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [175] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [176] AXImage expanded=false "Verified account"
+                    - [177] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [178] AXGroup expanded=false
+                        - [179] AXStaticText expanded=false = "@Logesh11667187"
+                    - [180] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534693526770073"
+                      - [181] AXGroup subrole=AXTimeGroup expanded=false
+                        - [182] AXStaticText expanded=false = "Nov 17"
+                    - [183] AXButton expanded=false "Grok actions"
+                    - [184] AXPopUpButton expanded=false "More"
+                    - [185] AXGroup expanded=false
+                      - [186] AXStaticText expanded=false = "\"What did TCS management say about margins in Q3FY25?\"\n\nIt fetches the earnings call PDF, indexes it on your machine and returns the matching excerpts with document and page. \n\nThe embeddings run locally, no API key."
+                    - [187] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 8 views"
+                      - [188] AXButton expanded=false "1 Reply. Reply"
+                      - [189] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [190] AXButton expanded=false "0 Likes. Like"
+                      - [191] AXLink expanded=false "8 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534693526770073/analytics"
+                        - [192] AXStaticText expanded=false = "8"
+                      - [193] AXButton expanded=false "Bookmark"
+                      - [194] AXPopUpButton expanded=false "Share post"
+                  - [195] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 \"Is this fall sector-wide or just this stock?\"\n\ncompare_to_sector checks the stock\'s return against its sector index and the Nifty 50, then gives a market-vs-company verdict. 1 reply, 37 views"
+                    - [196] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [197] AXGroup expanded=false
+                      - [198] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [199] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [200] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [201] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [202] AXImage expanded=false "Verified account"
+                    - [203] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [204] AXGroup expanded=false
+                        - [205] AXStaticText expanded=false = "@Logesh11667187"
+                    - [206] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534693807833445"
+                      - [207] AXGroup subrole=AXTimeGroup expanded=false
+                        - [208] AXStaticText expanded=false = "Nov 17"
+                    - [209] AXButton expanded=false "Grok actions"
+                    - [210] AXPopUpButton expanded=false "More"
+                    - [211] AXGroup expanded=false
+                      - [212] AXStaticText expanded=false = "\"Is this fall sector-wide or just this stock?\"\n\ncompare_to_sector checks the stock\'s return against its sector index and the Nifty 50, then gives a market-vs-company verdict."
+                    - [213] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 37 views"
+                      - [214] AXButton expanded=false "1 Reply. Reply"
+                      - [215] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [216] AXButton expanded=false "0 Likes. Like"
+                      - [217] AXLink expanded=false "37 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534693807833445/analytics"
+                        - [218] AXStaticText expanded=false = "37"
+                      - [219] AXButton expanded=false "Bookmark"
+                      - [220] AXPopUpButton expanded=false "Share post"
+                  - [221] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 When data is missing, it says so. Every tool returns a status (ok, partial or error) plus a missing_fields list, so Claude can\'t quietly fill a blank with a guess. 1 reply, 5 views"
+                    - [222] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [223] AXGroup expanded=false
+                      - [224] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [225] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [226] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [227] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [228] AXImage expanded=false "Verified account"
+                    - [229] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [230] AXGroup expanded=false
+                        - [231] AXStaticText expanded=false = "@Logesh11667187"
+                    - [232] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534694092984421"
+                      - [233] AXGroup subrole=AXTimeGroup expanded=false
+                        - [234] AXStaticText expanded=false = "Nov 17"
+                    - [235] AXButton expanded=false "Grok actions"
+                    - [236] AXPopUpButton expanded=false "More"
+                    - [237] AXGroup expanded=false
+                      - [238] AXStaticText expanded=false = "When data is missing, it says so. Every tool returns a status (ok, partial or error) plus a missing_fields list, so Claude can\'t quietly fill a blank with a guess."
+                    - [239] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 5 views"
+                      - [240] AXButton expanded=false "1 Reply. Reply"
+                      - [241] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [242] AXButton expanded=false "0 Likes. Like"
+                      - [243] AXLink expanded=false "5 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534694092984421/analytics"
+                        - [244] AXStaticText expanded=false = "5"
+                      - [245] AXButton expanded=false "Bookmark"
+                      - [246] AXPopUpButton expanded=false "Share post"
+                  - [247] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 Most of it needs no login. A free Screener.in account unlocks fundamental screens.\n\nInstall in Claude Code:\nclaude mcp add screener -s user -- uvx --from \'screener-mcp[ai]\' screener-mcp 1 reply, 16 views"
+                    - [248] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [249] AXGroup expanded=false
+                      - [250] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [251] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [252] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [253] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [254] AXImage expanded=false "Verified account"
+                    - [255] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [256] AXGroup expanded=false
+                        - [257] AXStaticText expanded=false = "@Logesh11667187"
+                    - [258] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534694365638869"
+                      - [259] AXGroup subrole=AXTimeGroup expanded=false
+                        - [260] AXStaticText expanded=false = "Nov 17"
+                    - [261] AXButton expanded=false "Grok actions"
+                    - [262] AXPopUpButton expanded=false "More"
+                    - [263] AXGroup expanded=false
+                      - [264] AXStaticText expanded=false = "Most of it needs no login. A free "
+                      - [265] AXLink expanded=false "Screener.in" url="https://t.co/HgzNTOa0Ab"
+                        - [266] AXStaticText expanded=false = "Screener.in"
+                      - [267] AXStaticText expanded=false = " account unlocks fundamental screens.\n\nInstall in Claude Code:\nclaude mcp add screener -s user -- uvx --from \'screener-mcp[ai]\' screener-mcp"
+                    - [268] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 16 views"
+                      - [269] AXButton expanded=false "1 Reply. Reply"
+                      - [270] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [271] AXButton expanded=false "0 Likes. Like"
+                      - [272] AXLink expanded=false "16 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534694365638869/analytics"
+                        - [273] AXStaticText expanded=false = "16"
+                      - [274] AXButton expanded=false "Bookmark"
+                      - [275] AXPopUpButton expanded=false "Share post"
+                  - [276] AXGroup subrole=AXDocumentArticle expanded=false "Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 An analyst that reads the concall before it gives an opinion.\n\nRepo, Claude Desktop setup and all 30 tools:\ngithub.com/LogeshR15/scre\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.) github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..." description="Logesh Ramasamy\nVerified account\n@Logesh11667187 Nov 17 An analyst that reads the concall before it gives an opinion.\n\nRepo, Claude Desktop setup and all 30 tools:\ngithub.com/LogeshR15/scre\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.) github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal... From github.com"
+                    - [277] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [278] AXGroup expanded=false
+                      - [279] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [280] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [281] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                      - [282] AXStaticText expanded=false = "Logesh Ramasamy"
+                      - [283] AXImage expanded=false "Verified account"
+                    - [284] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                      - [285] AXGroup expanded=false
+                        - [286] AXStaticText expanded=false = "@Logesh11667187"
+                    - [287] AXLink expanded=false "Nov 17" url="https://x.com/Logesh11667187/status/2122534694676054269"
+                      - [288] AXGroup subrole=AXTimeGroup expanded=false
+                        - [289] AXStaticText expanded=false = "Nov 17"
+                    - [290] AXButton expanded=false "Grok actions"
+                    - [291] AXPopUpButton expanded=false "More"
+                    - [292] AXGroup expanded=false
+                      - [293] AXStaticText expanded=false = "An analyst that reads the concall before it gives an opinion.\n\nRepo, Claude Desktop setup and all 30 tools:\n"
+                      - [294] AXLink expanded=false "github.com/LogeshR15/scre" url="https://t.co/juXiCCvw7E"
+                        - [295] AXStaticText expanded=false = "github.com/LogeshR15/scre"
+                      - [296] AXStaticText expanded=false = "\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.)"
+                    - [297] AXGroup expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                      - [298] AXGroup expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                        - [299] AXLink expanded=false "github.com GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..." url="https://t.co/juXiCCvw7E"
+                          - [300] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [301] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [302] AXGroup expanded=false
+                            - [303] AXStaticText expanded=false = "GitHub - LogeshR15/screener-mcp: Indian Stock Research MCP server — turn Claude into a personal..."
+                      - [304] AXLink expanded=false "From github.com" url="https://t.co/juXiCCvw7E"
+                        - [305] AXStaticText expanded=false = "From github.com"
+                    - [306] AXGroup subrole=AXApplicationGroup expanded=false "10 views"
+                      - [307] AXButton expanded=false "0 Replies. Reply"
+                      - [308] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [309] AXButton expanded=false "0 Likes. Like"
+                      - [310] AXLink expanded=false "10 views. View post analytics" url="https://x.com/Logesh11667187/status/2122534694676054269/analytics"
+                        - [311] AXStaticText expanded=false = "10"
+                      - [312] AXButton expanded=false "Bookmark"
+                      - [313] AXPopUpButton expanded=false "Share post"
+          - [314] AXGroup expanded=false "Trending"
+            - [315] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [316] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [317] AXGroup expanded=false
+                  - [318] AXStaticText expanded=false = "Search"
+            - [319] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [320] AXHeading expanded=false "Relevant people" = "2"
+                - [321] AXStaticText expanded=false = "Relevant people"
+              - [322] AXList subrole=AXContentList expanded=false
+                - [323] AXGroup expanded=false
+                  - [324] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [325] AXGroup expanded=false
+                    - [326] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [327] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [328] AXLink expanded=false "Logesh Ramasamy\nVerified account" url="https://x.com/Logesh11667187"
+                    - [329] AXStaticText expanded=false = "Logesh Ramasamy"
+                    - [330] AXImage expanded=false "Verified account"
+                  - [331] AXLink expanded=false "@Logesh11667187" url="https://x.com/Logesh11667187"
+                    - [332] AXGroup expanded=false
+                      - [333] AXStaticText expanded=false = "@Logesh11667187"
+                  - [334] AXButton expanded=false "Follow @Logesh11667187"
+                  - [335] AXGroup expanded=false
+                    - [336] AXStaticText expanded=false = "Curious learner in the endless journey. Trying to understand technology, business and design aspects in daily life. I donate 70 percent of my salary to Nifty"
+            - [337] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [338] AXHeading expanded=false "Trending now" = "1"
+                - [339] AXStaticText expanded=false = "Trending now"
+              - [340] AXGroup expanded=false "Timeline: Trending now"
+                - [341] AXGroup subrole=AXEmptyGroup expanded=false
+                - [342] AXHeading expanded=false "What’s happening" = "2"
+                  - [343] AXStaticText expanded=false = "What’s happening"
+                - [344] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [345] AXGroup expanded=false
+                    - [346] AXStaticText expanded=false = "Sports · Trending"
+                  - [347] AXGroup expanded=false
+                    - [348] AXStaticText expanded=false = "Rishabh Pant"
+                  - [349] AXPopUpButton expanded=false "More"
+                - [350] AXLink expanded=false "Sports · Trending Draw More"
+                  - [351] AXGroup expanded=false
+                    - [352] AXStaticText expanded=false = "Sports · Trending"
+                  - [353] AXGroup expanded=false
+                    - [354] AXStaticText expanded=false = "Draw"
+                  - [355] AXPopUpButton expanded=false "More"
+                - [356] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [357] AXGroup expanded=false
+                    - [358] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [359] AXGroup expanded=false
+                    - [360] AXStaticText expanded=false = "Charles"
+                  - [361] AXPopUpButton expanded=false "More"
+                - [362] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [363] AXGroup expanded=false
+                    - [364] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [365] AXGroup expanded=false
+                    - [366] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [367] AXPopUpButton expanded=false "More"
+                - [368] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [369] AXGroup expanded=false
+                    - [370] AXStaticText expanded=false = "Show more"
+            - [371] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [372] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [373] AXStaticText expanded=false = "Terms"
+              - [374] AXGroup expanded=false
+                - [375] AXStaticText expanded=false = "·"
+              - [376] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [377] AXStaticText expanded=false = "Privacy"
+              - [378] AXGroup expanded=false
+                - [379] AXStaticText expanded=false = "·"
+              - [380] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [381] AXStaticText expanded=false = "Cookies"
+              - [382] AXGroup expanded=false
+                - [383] AXStaticText expanded=false = "·"
+              - [384] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [385] AXStaticText expanded=false = "Accessibility"
+              - [386] AXGroup expanded=false
+                - [387] AXStaticText expanded=false = "·"
+              - [388] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [389] AXStaticText expanded=false = "Ads Info"
+              - [390] AXGroup expanded=false
+                - [391] AXStaticText expanded=false = "·"
+              - [392] AXPopUpButton expanded=false "More"
+              - [393] AXGroup expanded=false
+                - [394] AXStaticText expanded=false = "© 2026 X Corp."
+        - [395] AXGroup subrole=AXEmptyGroup expanded=false
+        - [396] AXGroup subrole=AXEmptyGroup expanded=false
+      - [397] AXScrollBar expanded=false = "0.1216368"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [398] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [399] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [400] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [401] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [402] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [403] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [404] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [405] AXRadioButton subrole=AXTabButton valueWritable=false "Logesh Ramasamy on X: \"It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker. You ask in plain English. Claude picks the tools. https://t.co/juXiCCvw7E\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Logesh Ramasamy on X: \"It\'s called screener-mcp. It\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker. You ask in plain English. Claude picks the tools. https://t.co/juXiCCvw7E\" / X" selection=[0,0]
+  - [406] AXGroup "Favorites bar"
+    - [407] AXButton "show start page" help="Show Start Page"
+    - [408] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [409] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [410] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [411] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [412] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [413] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [414] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [415] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [416] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [417] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [418] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [419] AXToolbar
+    - [420] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [421] AXButton "show sidebar" help="Show sidebar"
+      - [422] AXMenuButton "Tab Group picker"
+    - [423] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [424] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [425] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [426] AXButton "Page Menu"
+      - [427] AXButton "Add page to Reading List"
+      - [428] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/Logesh11667187/status/2122534692943794634" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [429] AXButton "Reload this page"
+    - [430] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [431] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [432] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [433] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [434] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [435] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [436] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [437] AXButton subrole=AXCloseButton
+  - [438] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [439] AXButton subrole=AXMinimizeButton
+- [440] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [441] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [442] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [443] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [444] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [445] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [446] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [447] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [448] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [449] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

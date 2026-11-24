@@ -1,0 +1,14 @@
+[
+ {
+  "handle": "Aashish10_03",
+  "id": "2117861001227891004",
+  "timeText": "11:36 AM · Nov 4, 2026",
+  "text": "Bazaar Trader is public.\n\n11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.\n\nAnyone can use it. Clone it, run the Python tools, or paste the GitHub URL into Claude and type “install skill”. Paper is the default. Nothing in this pack can place a live order. Free, MIT, no signup. Python 3.8+ standard library only — nothing to pip install.\n\nThis is the Indian-market sequel to Jakeschincariol’s Day Trader skill (US hours, Yahoo, SEC, Alpaca). That pack is 09:30–16:00 ET. This pack is 09:15–15:30 IST, NSE/BSE cash and F&O names, rupees, and a generic paper ticket you can type into any Indian paper UI by hand.\n\nA scan is a list of charts that match a rule, not a list of stocks to buy. Most people who day trade lose money.\n\nThe eleven:\n• /bazaar-scanner — NSE EQ bhavcopy universe, daily setups, 09:15 IST opening-range breakout\n• /bazaar-news — NSE corporate announcements, tagged in IST\n• /bazaar-entry — first completed bar beyond the range; forming bars wait\n• /bazaar-exit — stop and target in rupees, flat by 15:15 IST\n• /bazaar-timemachine — 10,000 IST-session replays\n• /bazaar-risk — one slot, skip 11:15–13:15, paper only, PASS or BLOCK\n• /bazaar-budget — size in INR, charges in the max-loss picture\n• /bazaar-broker — generic paper ticket; typed yes only; never sends the order\n• /bazaar-alerts — stop, target, 15:15 flatten, opening bell at 09:15 IST\n• /bazaar-analyst — quarterly numbers; never a buy call\n• /bazaar-smartmoney — NSE bulk/block deals and FII-DII cash (there is no Indian Pelosi feed)\n\nPipeline: scanner → news → entry → exit → time machine → budget → risk → broker.\n\nHonest fills: first print strictly after the signal, 0.15% equity slip (0.5pt on index options), stop at the traded extreme not the theoretical stop, NSE statutory charges plus a typical Rs 20/order. A 10:30 day-type label is not used on a 09:15 or 10:00 bar. Empty FII/OI stays empty. --demo is not live.\n\nWorks fully offline on tests/fixtures/. The tools do not call the network. Live NSE pages are unofficial and rate-limited — drop your own files in the same shapes.\n\nInstall:\n"
+ },
+ {
+  "handle": "DhandaDharam",
+  "id": "2117867972756943179",
+  "timeText": "Nov 4",
+  "text": ""
+ }
+]

@@ -1,0 +1,9 @@
+[Unit]
+Description=Foolshot read-only Dhan account preflight
+[Service]
+Type=oneshot
+WorkingDirectory=%h/Foolshot
+EnvironmentFile=-%h/.config/foolshot/dhan.env
+ExecStart=%h/Foolshot/scripts/dhan preflight
+UMask=0077
+NoNewPrivileges=yes

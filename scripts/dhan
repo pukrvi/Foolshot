@@ -1,0 +1,18 @@
+#!/bin/sh
+set -eu
+root=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+case "${1:-}" in
+    preflight)
+        PYTHONPATH="$root/src" exec "$root/.venv/bin/python" -m foolshot.dhan ;;
+    quote)
+        [ "$#" = 2 ] || exit 2
+        PYTHONPATH="$root/src" exec "$root/.venv/bin/python" -m foolshot.dhan --quote "$2" ;;
+    rehearsal)
+        PYTHONPATH="$root/src" exec "$root/.venv/bin/python" -m foolshot.paper_drill ;;
+    mcp-codex)
+        exec codex mcp add dhan --url https://mcp.dhan.co/mcp ;;
+    mcp-claude)
+        cd "$root"
+        exec claude mcp add --scope local --transport http dhan https://mcp.dhan.co/mcp ;;
+    *) echo "Usage: scripts/dhan {preflight|quote SECURITY_ID|rehearsal|mcp-codex|mcp-claude}" >&2; exit 2 ;;
+esac

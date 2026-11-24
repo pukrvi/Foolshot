@@ -1,0 +1,973 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "PairSync on X: \"The App-Less Trading Desk: How Grok Bots, Claude Code and Modular Data Change Statistical Arbitrage \" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "PairSync on X: \"The App-Less Trading Desk: How Grok Bots, Claude Code and Modular Data Change Statistical Arbitrage \" / X" url="https://x.com/PairSync/status/2122679573511057725"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Article" = "2"
+              - [56] AXStaticText expanded=false = "Article"
+            - [57] AXLink expanded=false "Focus mode" url="https://x.com/PairSync/article/2122679573511057725"
+            - [58] AXGroup subrole=AXEmptyGroup expanded=false
+            - [59] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [60] AXHeading expanded=false "Conversation" = "1"
+                - [61] AXStaticText expanded=false = "Conversation"
+              - [62] AXGroup expanded=false "Timeline: Conversation"
+                - [63] AXGroup expanded=false
+                  - [64] AXGroup subrole=AXDocumentArticle expanded=false "PairSync\nVerified account\n@PairSync 2 likes, 754 views"
+                    - [65] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [66] AXGroup expanded=false
+                      - [67] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [68] AXGroup expanded=false
+                        - [69] AXLink focused expanded=false url="https://x.com/PairSync"
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [71] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [72] AXLink expanded=false "PairSync\nVerified account" url="https://x.com/PairSync"
+                      - [73] AXStaticText expanded=false = "PairSync"
+                      - [74] AXImage expanded=false "Verified account"
+                    - [75] AXLink expanded=false "@PairSync" url="https://x.com/PairSync"
+                      - [76] AXGroup expanded=false
+                        - [77] AXStaticText expanded=false = "@PairSync"
+                    - [78] AXButton expanded=false "Summarize"
+                    - [79] AXPopUpButton expanded=false "More"
+                    - [80] AXGroup subrole=AXDocumentArticle expanded=false "The important distinction: the model’s clock is not the market’s clock"
+                      - [81] AXLink expanded=false "Image" url="https://x.com/PairSync/article/2122679573511057725/media/2122678921594605568"
+                        - [82] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [83] AXGroup expanded=false
+                          - [84] AXGroup expanded=false "Image"
+                            - [85] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXVFO5XbEAAmANu?format=jpg&name=medium"
+                      - [86] AXGroup expanded=false
+                        - [87] AXStaticText expanded=false = "The App-Less Trading Desk: How Grok Bots, Claude Code and Modular Data Change Statistical Arbitrage "
+                      - [88] AXGroup subrole=AXApplicationGroup expanded=false "2 likes, 754 views"
+                        - [89] AXButton expanded=false "0 Replies. Reply"
+                        - [90] AXPopUpButton expanded=false "0 reposts. Repost"
+                        - [91] AXButton expanded=false "2 Likes. Like"
+                        - [92] AXLink expanded=false "754 views. View post analytics" url="https://x.com/PairSync/status/2122679573511057725/analytics"
+                          - [93] AXStaticText expanded=false = "754"
+                        - [94] AXButton expanded=false "Bookmark"
+                        - [95] AXPopUpButton expanded=false "Share post"
+                      - [96] AXGroup expanded=false
+                        - [97] AXHeading expanded=false = "1"
+                          - [98] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [99] AXGroup expanded=false
+                          - [100] AXStaticText expanded=false = "Daily statistical refits. Continuous market observation. An open toolbox your AI assembles into the research environment you actually want."
+                        - [101] AXGroup expanded=false
+                          - [102] AXStaticText expanded=false = "In my last post, I made a simple claim:"
+                        - [103] AXGroup expanded=false
+                          - [104] AXStaticText expanded=false = "The app-less world isn’t coming. It’s here."
+                        - [105] AXGroup expanded=false
+                          - [106] AXStaticText expanded=false = "Give a capable AI agent a toolbox, explain what you want, and let it build your interface."
+                        - [107] AXGroup expanded=false
+                          - [108] AXStaticText expanded=false = "A pair trading dashboard. A journal. A market screener. A research station. A test desk."
+                        - [109] AXGroup expanded=false
+                          - [110] AXStaticText expanded=false = "Not another account inside somebody else’s fixed application. Your own build, assembled around your questions."
+                        - [111] AXGroup expanded=false
+                          - [112] AXStaticText expanded=false = "That is the idea behind PairDesk Builder:"
+                        - [113] AXGroup expanded=false
+                          - [114] AXLink expanded=false "https://pair-sync.com/builder" url="https://pair-sync.com/builder"
+                            - [115] AXStaticText expanded=false = "https://pair-sync.com/builder"
+                        - [116] AXGroup expanded=false
+                          - [117] AXStaticText expanded=false = "But the interface is only the visible part of the story."
+                        - [118] AXGroup expanded=false
+                          - [119] AXStaticText expanded=false = "Underneath it, we have been making PairSync’s statistical research data increasingly modular: separating the daily statistical model from the market feed, the market feed from the database, and the database from whatever interface you want to put over it."
+                        - [120] AXGroup expanded=false
+                          - [121] AXStaticText expanded=false = "That separation opens up something particularly interesting for statistical arbitrage research:"
+                        - [122] AXGroup expanded=false
+                          - [123] AXStaticText expanded=false = "Fit the relationship on daily observations. Publish a dated statistical frame. Then observe the market moving through that frame at whatever cadence your infrastructure supports."
+                        - [124] AXGroup expanded=false
+                          - [125] AXStaticText expanded=false = "Daily research does not have to mean looking at the market once a day."
+                        - [126] AXGroup expanded=false
+                          - [127] AXStaticText expanded=false = "And a continuously updating dashboard does not require continuously refitting the model."
+                        - [128] AXGroup expanded=false
+                          - [129] AXStaticText expanded=false = "Here is what we built, why we built it this way, and why Grok Bots, the Grok VM and tools such as Claude Code make the architecture much more useful."
+                        - [130] AXHeading expanded=false "The important distinction: the model’s clock is not the market’s clock" = "2"
+                          - [131] AXGroup expanded=false
+                            - [132] AXStaticText expanded=false = "The important distinction: the model’s clock is not the market’s clock"
+                        - [133] AXGroup expanded=false
+                          - [134] AXStaticText expanded=false = "People often put financial data into two boxes:"
+                        - [135] AXGroup expanded=false
+                          - [136] AXStaticText expanded=false = "Daily data is for slow analysis."
+                        - [137] AXGroup expanded=false
+                          - [138] AXStaticText expanded=false = "Live data is for active monitoring."
+                        - [139] AXGroup expanded=false
+                          - [140] AXStaticText expanded=false = "That misses a useful middle ground."
+                        - [141] AXGroup expanded=false
+                          - [142] AXStaticText expanded=false = "A statistical relationship can be estimated from daily observations while current prices are observed much more frequently."
+                        - [143] AXGroup expanded=false
+                          - [144] AXStaticText expanded=false = "The fitted model answers questions such as:"
+                        - [145] AXList subrole=AXContentList expanded=false
+                          - [146] AXGroup expanded=false
+                            - [147] AXStaticText expanded=false = "•"
+                            - [148] AXGroup expanded=false
+                              - [149] AXStaticText expanded=false = "Did these two instruments exhibit a cointegrating relationship over the estimation window?"
+                          - [150] AXGroup expanded=false
+                            - [151] AXStaticText expanded=false = "•"
+                            - [152] AXGroup expanded=false
+                              - [153] AXStaticText expanded=false = "What hedge relationship was fitted?"
+                          - [154] AXGroup expanded=false
+                            - [155] AXStaticText expanded=false = "•"
+                            - [156] AXGroup expanded=false
+                              - [157] AXStaticText expanded=false = "How variable was the resulting spread?"
+                          - [158] AXGroup expanded=false
+                            - [159] AXStaticText expanded=false = "•"
+                            - [160] AXGroup expanded=false
+                              - [161] AXStaticText expanded=false = "What mean-reversion half-life did the model estimate?"
+                          - [162] AXGroup expanded=false
+                            - [163] AXStaticText expanded=false = "•"
+                            - [164] AXGroup expanded=false
+                              - [165] AXStaticText expanded=false = "How stable was the relationship across sub-windows?"
+                          - [166] AXGroup expanded=false
+                            - [167] AXStaticText expanded=false = "•"
+                            - [168] AXGroup expanded=false
+                              - [169] AXStaticText expanded=false = "Where were the fitted statistical levels?"
+                          - [170] AXGroup expanded=false
+                            - [171] AXStaticText expanded=false = "•"
+                            - [172] AXGroup expanded=false
+                              - [173] AXStaticText expanded=false = "What did the model’s in-sample diagnostics look like?"
+                        - [174] AXGroup expanded=false
+                          - [175] AXStaticText expanded=false = "A separate observation layer answers:"
+                        - [176] AXList subrole=AXContentList expanded=false
+                          - [177] AXGroup expanded=false
+                            - [178] AXStaticText expanded=false = "•"
+                            - [179] AXGroup expanded=false
+                              - [180] AXStaticText expanded=false = "Where is the spread now?"
+                          - [181] AXGroup expanded=false
+                            - [182] AXStaticText expanded=false = "•"
+                            - [183] AXGroup expanded=false
+                              - [184] AXStaticText expanded=false = "How far is it from the saved statistical mean?"
+                          - [185] AXGroup expanded=false
+                            - [186] AXStaticText expanded=false = "•"
+                            - [187] AXGroup expanded=false
+                              - [188] AXStaticText expanded=false = "Has a condition I defined been crossed?"
+                          - [189] AXGroup expanded=false
+                            - [190] AXStaticText expanded=false = "•"
+                            - [191] AXGroup expanded=false
+                              - [192] AXStaticText expanded=false = "Are both price legs current?"
+                          - [193] AXGroup expanded=false
+                            - [194] AXStaticText expanded=false = "•"
+                            - [195] AXGroup expanded=false
+                              - [196] AXStaticText expanded=false = "Which refit is this screen using?"
+                          - [197] AXGroup expanded=false
+                            - [198] AXStaticText expanded=false = "•"
+                            - [199] AXGroup expanded=false
+                              - [200] AXStaticText expanded=false = "How does today’s statistical frame differ from the one I saved earlier?"
+                        - [201] AXGroup expanded=false
+                          - [202] AXStaticText expanded=false = "Those are related jobs, but they are not the same job."
+                        - [203] AXGroup expanded=false
+                          - [204] AXStaticText expanded=false = "The refit produces the ruler. The observation layer measures the market against it."
+                        - [205] AXGroup expanded=false
+                          - [206] AXStaticText expanded=false = "You do not need to manufacture a new ruler every time a price changes."
+                        - [207] AXGroup expanded=false
+                          - [208] AXStaticText expanded=false = "You do need to know which ruler you are using."
+                        - [209] AXHeading expanded=false "Daily refits, continuous observation" = "2"
+                          - [210] AXGroup expanded=false
+                            - [211] AXStaticText expanded=false = "Daily refits, continuous observation"
+                        - [212] AXGroup expanded=false
+                          - [213] AXStaticText expanded=false = "PairSync publishes nightly statistical refit output after each market’s daily close or cutoff."
+                        - [214] AXGroup expanded=false
+                          - [215] AXStaticText expanded=false = "That output can be fetched, cached and stored as a dated snapshot."
+                        - [216] AXGroup expanded=false
+                          - [217] AXStaticText expanded=false = "A monitoring build can then combine that snapshot with a separately connected market-data feed."
+                        - [218] AXGroup expanded=false
+                          - [219] AXStaticText expanded=false = "Conceptually:"
+                        - [220] AXGroup expanded=false
+                          - [221] AXStaticText expanded=false = "Daily observations → statistical refit → saved parameters"
+                        - [222] AXGroup expanded=false
+                          - [223] AXStaticText expanded=false = "Then:"
+                        - [224] AXGroup expanded=false
+                          - [225] AXStaticText expanded=false = "Current prices + saved parameters → current spread measurements"
+                        - [226] AXGroup expanded=false
+                          - [227] AXStaticText expanded=false = "The expensive universe-level research and the frequent observation no longer need to happen in the same process."
+                        - [228] AXGroup expanded=false
+                          - [229] AXStaticText expanded=false = "You can retrieve the published statistical payload once, then use your own observation infrastructure to study what happens next."
+                        - [230] AXGroup expanded=false
+                          - [231] AXStaticText expanded=false = "This is the architectural trick we think matters."
+                        - [232] AXGroup expanded=false
+                          - [233] AXStaticText expanded=false = "It does not mean a model fitted on daily observations has somehow become a validated minute-by-minute trading model."
+                        - [234] AXGroup expanded=false
+                          - [235] AXStaticText expanded=false = "A half-life estimated in days remains a daily-scale estimate. Watching more frequently does not turn it into a half-life measured in minutes. Nor does it prove that an intraday crossing is executable after costs."
+                        - [236] AXGroup expanded=false
+                          - [237] AXStaticText expanded=false = "What higher-frequency observation gives you is a more detailed view of the path."
+                        - [238] AXGroup expanded=false
+                          - [239] AXStaticText expanded=false = "You can study when a condition was crossed, what happened between daily closes, how long an excursion lasted, and whether stale prices or mismatched timestamps distorted the picture."
+                        - [240] AXGroup expanded=false
+                          - [241] AXStaticText expanded=false = "That is a research capability, not a performance promise."
+                        - [242] AXHeading expanded=false "Why crypto is an especially interesting setting" = "2"
+                          - [243] AXGroup expanded=false
+                            - [244] AXStaticText expanded=false = "Why crypto is an especially interesting setting"
+                        - [245] AXGroup expanded=false
+                          - [246] AXStaticText expanded=false = "Crypto makes this separation particularly easy to appreciate."
+                        - [247] AXGroup expanded=false
+                          - [248] AXStaticText expanded=false = "The market runs around the clock. There is no universal exchange closing bell that makes every participant stop looking."
+                        - [249] AXGroup expanded=false
+                          - [250] AXStaticText expanded=false = "Yet a research process can still use a consistent daily cutoff and publish one statistical frame per day."
+                        - [251] AXGroup expanded=false
+                          - [252] AXStaticText expanded=false = "That gives you two distinct rhythms:"
+                        - [253] AXGroup expanded=false
+                          - [254] AXStaticText expanded=false = "A slower research rhythm: daily observations, daily relationship testing, daily parameter publication."
+                        - [255] AXGroup expanded=false
+                          - [256] AXStaticText expanded=false = "A faster observation rhythm: prices, spreads and user-defined conditions updating between those refits."
+                        - [257] AXGroup expanded=false
+                          - [258] AXStaticText expanded=false = "Crypto perpetuals also make the practical questions difficult to ignore."
+                        - [259] AXGroup expanded=false
+                          - [260] AXStaticText expanded=false = "Which price are you observing: last trade, midpoint, mark or index?"
+                        - [261] AXGroup expanded=false
+                          - [262] AXStaticText expanded=false = "Are both legs from the same venue?"
+                        - [263] AXGroup expanded=false
+                          - [264] AXStaticText expanded=false = "Are timestamps aligned?"
+                        - [265] AXGroup expanded=false
+                          - [266] AXStaticText expanded=false = "What happens when one feed pauses?"
+                        - [267] AXGroup expanded=false
+                          - [268] AXStaticText expanded=false = "What do funding, fees, liquidity and slippage do to an apparently interesting spread?"
+                        - [269] AXGroup expanded=false
+                          - [270] AXStaticText expanded=false = "A pair can look statistically well behaved while being awkward or expensive to express. A fitted hedge relationship is not a guarantee of economic neutrality. Relationships can break."
+                        - [271] AXGroup expanded=false
+                          - [272] AXStaticText expanded=false = "That is why the useful build is not merely a chart with a moving number."
+                        - [273] AXGroup expanded=false
+                          - [274] AXStaticText expanded=false = "It is a workspace that shows the model date, the price source, the current observation, the saved research frame and the record of what actually happened."
+                        - [275] AXGroup expanded=false
+                          - [276] AXStaticText expanded=false = "Crypto is compelling here because the distinction between daily model formation and continuous observation is so visible."
+                        - [277] AXGroup expanded=false
+                          - [278] AXStaticText expanded=false = "It does not remove any of the risks."
+                        - [279] AXGroup expanded=false
+                          - [280] AXStaticText expanded=false = "It makes them easier to investigate explicitly."
+                        - [281] AXHeading expanded=false "What PairSync actually publishes" = "2"
+                          - [282] AXGroup expanded=false
+                            - [283] AXStaticText expanded=false = "What PairSync actually publishes"
+                        - [284] AXGroup expanded=false
+                          - [285] AXStaticText expanded=false = "PairSync’s API is a derived-data service, not a real-time quote feed."
+                        - [286] AXGroup expanded=false
+                          - [287] AXStaticText expanded=false = "The nightly payload contains the results of the statistical run: ranked pairs, diagnostics, fitted parameters and backtest summaries."
+                        - [288] AXGroup expanded=false
+                          - [289] AXStaticText expanded=false = "Depending on the field and whether the model solved, that includes:"
+                        - [290] AXList subrole=AXContentList expanded=false
+                          - [291] AXGroup expanded=false
+                            - [292] AXStaticText expanded=false = "•"
+                            - [293] AXGroup expanded=false
+                              - [294] AXStaticText expanded=false = "Pair identifiers and market."
+                          - [295] AXGroup expanded=false
+                            - [296] AXStaticText expanded=false = "•"
+                            - [297] AXGroup expanded=false
+                              - [298] AXStaticText expanded=false = "Refit date and publication timestamp."
+                          - [299] AXGroup expanded=false
+                            - [300] AXStaticText expanded=false = "•"
+                            - [301] AXGroup expanded=false
+                              - [302] AXStaticText expanded=false = "Statistical Composite and within-market rank."
+                          - [303] AXGroup expanded=false
+                            - [304] AXStaticText expanded=false = "•"
+                            - [305] AXGroup expanded=false
+                              - [306] AXStaticText expanded=false = "Cointegration diagnostics."
+                          - [307] AXGroup expanded=false
+                            - [308] AXStaticText expanded=false = "•"
+                            - [309] AXGroup expanded=false
+                              - [310] AXStaticText expanded=false = "Hurst exponent."
+                          - [311] AXGroup expanded=false
+                            - [312] AXStaticText expanded=false = "•"
+                            - [313] AXGroup expanded=false
+                              - [314] AXStaticText expanded=false = "Estimated mean-reversion half-life."
+                          - [315] AXGroup expanded=false
+                            - [316] AXStaticText expanded=false = "•"
+                            - [317] AXGroup expanded=false
+                              - [318] AXStaticText expanded=false = "Fitted hedge coefficients."
+                          - [319] AXGroup expanded=false
+                            - [320] AXStaticText expanded=false = "•"
+                            - [321] AXGroup expanded=false
+                              - [322] AXStaticText expanded=false = "Spread mean and volatility."
+                          - [323] AXGroup expanded=false
+                            - [324] AXStaticText expanded=false = "•"
+                            - [325] AXGroup expanded=false
+                              - [326] AXStaticText expanded=false = "Fitted statistical levels."
+                          - [327] AXGroup expanded=false
+                            - [328] AXStaticText expanded=false = "•"
+                            - [329] AXGroup expanded=false
+                              - [330] AXStaticText expanded=false = "Z-score at fit."
+                          - [331] AXGroup expanded=false
+                            - [332] AXStaticText expanded=false = "•"
+                            - [333] AXGroup expanded=false
+                              - [334] AXStaticText expanded=false = "In-sample backtest summaries."
+                          - [335] AXGroup expanded=false
+                            - [336] AXStaticText expanded=false = "•"
+                            - [337] AXGroup expanded=false
+                              - [338] AXStaticText expanded=false = "Schema version and an integrity hash."
+                        - [339] AXGroup expanded=false
+                          - [340] AXStaticText expanded=false = "Missing results remain missing. If the solver did not produce a valid number, the field is null."
+                        - [341] AXGroup expanded=false
+                          - [342] AXStaticText expanded=false = "That matters."
+                        - [343] AXGroup expanded=false
+                          - [344] AXStaticText expanded=false = "A blank cell is more useful than a convincing number invented to make a dashboard look complete."
+                        - [345] AXGroup expanded=false
+                          - [346] AXStaticText expanded=false = "The coefficient definitions matter too. The published schema distinguishes between hedge-ratio fields that are not interchangeable. A build must use the coefficient and spread definition that match the parameters being displayed."
+                        - [347] AXGroup expanded=false
+                          - [348] AXStaticText expanded=false = "A plausible chart built with the wrong statistical basis is still wrong."
+                        - [349] AXHeading expanded=false "This is more than sorting pairs by correlation" = "2"
+                          - [350] AXGroup expanded=false
+                            - [351] AXStaticText expanded=false = "This is more than sorting pairs by correlation"
+                        - [352] AXGroup expanded=false
+                          - [353] AXStaticText expanded=false = "The methodology goes beyond asking whether two price charts look similar."
+                        - [354] AXGroup expanded=false
+                          - [355] AXStaticText expanded=false = "The nightly process documents a two-direction Engle–Granger assessment, using the worse directional result rather than allowing a pair to pass on its more flattering fit."
+                        - [356] AXGroup expanded=false
+                          - [357] AXStaticText expanded=false = "It also evaluates four rolling sub-windows to examine relationship stability."
+                        - [358] AXGroup expanded=false
+                          - [359] AXStaticText expanded=false = "That is six cointegration tests per pair in the documented process."
+                        - [360] AXGroup expanded=false
+                          - [361] AXStaticText expanded=false = "The research then examines mean-reversion dynamics, half-life and other diagnostics."
+                        - [362] AXGroup expanded=false
+                          - [363] AXStaticText expanded=false = "The Statistical Composite combines several analysed dimensions, including cointegration strength and stability, fitted-model backtest characteristics, time efficiency and hedge characteristics."
+                        - [364] AXGroup expanded=false
+                          - [365] AXStaticText expanded=false = "It is a sorting tool for research."
+                        - [366] AXGroup expanded=false
+                          - [367] AXStaticText expanded=false = "It is not a forecast."
+                        - [368] AXGroup expanded=false
+                          - [369] AXStaticText expanded=false = "In particular, the backtest statistics describe behaviour inside the fit window. A high in-sample win fraction or Sharpe ratio is not evidence that the next observation will behave similarly."
+                        - [370] AXGroup expanded=false
+                          - [371] AXStaticText expanded=false = "The point of publishing these fields separately is that you do not have to accept a single opaque score as the whole story."
+                        - [372] AXGroup expanded=false
+                          - [373] AXStaticText expanded=false = "Your screener can prioritise the dimensions you want to study."
+                        - [374] AXGroup expanded=false
+                          - [375] AXStaticText expanded=false = "Your pair page can show the underlying diagnostics."
+                        - [376] AXGroup expanded=false
+                          - [377] AXStaticText expanded=false = "Your journal can preserve what those numbers said at the time."
+                        - [378] AXHeading expanded=false "Almost complete modularity does not mean “everything is interchangeable”" = "2"
+                          - [379] AXGroup expanded=false
+                            - [380] AXStaticText expanded=false = "Almost complete modularity does not mean “everything is interchangeable”"
+                        - [381] AXGroup expanded=false
+                          - [382] AXStaticText expanded=false = "We have tried to separate the system wherever separation is useful."
+                        - [383] AXGroup expanded=false
+                          - [384] AXStaticText expanded=false = "But modularity needs contracts."
+                        - [385] AXGroup expanded=false
+                          - [386] AXStaticText expanded=false = "A price feed is not a statistical refit. A rolling z-score is not automatically equivalent to a z-score measured against a frozen refit basis. A test-network fill is not a live-market fill."
+                        - [387] AXGroup expanded=false
+                          - [388] AXStaticText expanded=false = "The aim is not to erase those distinctions."
+                        - [389] AXGroup expanded=false
+                          - [390] AXStaticText expanded=false = "It is to make the boundaries explicit enough that components can be replaced without silently changing the meaning of the research."
+                        - [391] AXGroup expanded=false
+                          - [392] AXStaticText expanded=false = "There are several layers."
+                        - [393] AXGroup expanded=false
+                          - [394] AXStaticText expanded=false = "1. The statistical data"
+                        - [395] AXGroup expanded=false
+                          - [396] AXStaticText expanded=false = "The published refit is usable outside our interface."
+                        - [397] AXGroup expanded=false
+                          - [398] AXStaticText expanded=false = "You can consume it through REST, access it conversationally through MCP, or store it in your own research environment."
+                        - [399] AXGroup expanded=false
+                          - [400] AXStaticText expanded=false = "The data does not require one particular front end."
+                        - [401] AXGroup expanded=false
+                          - [402] AXStaticText expanded=false = "2. The market observations"
+                        - [403] AXGroup expanded=false
+                          - [404] AXStaticText expanded=false = "Historical bars can arrive through a supported daily adapter, your own CSVs or an extension that follows the feed contract."
+                        - [405] AXGroup expanded=false
+                          - [406] AXStaticText expanded=false = "Higher-frequency observation requires a suitable feed that you connect and validate separately."
+                        - [407] AXGroup expanded=false
+                          - [408] AXStaticText expanded=false = "The architecture allows that separation. It does not mean every possible live adapter already ships."
+                        - [409] AXGroup expanded=false
+                          - [410] AXStaticText expanded=false = "3. The database"
+                        - [411] AXGroup expanded=false
+                          - [412] AXStaticText expanded=false = "The parts share one local SQLite database: the Spine."
+                        - [413] AXGroup expanded=false
+                          - [414] AXStaticText expanded=false = "Feeds write into a common structure. Research functions and pages read from it. Records have a consistent home."
+                        - [415] AXGroup expanded=false
+                          - [416] AXStaticText expanded=false = "4. The statistical functions"
+                        - [417] AXGroup expanded=false
+                          - [418] AXStaticText expanded=false = "The open toolbox contains pure functions for tasks such as cointegration testing, OU fitting, z-scores, spread arithmetic and spread-candle construction."
+                        - [419] AXGroup expanded=false
+                          - [420] AXStaticText expanded=false = "Numbers in. Numbers out."
+                        - [421] AXGroup expanded=false
+                          - [422] AXStaticText expanded=false = "The nightly service’s fitted-level optimiser is not part of that open-source shelf; its published output arrives through the keyed data feed."
+                        - [423] AXGroup expanded=false
+                          - [424] AXStaticText expanded=false = "5. The interface"
+                        - [425] AXGroup expanded=false
+                          - [426] AXStaticText expanded=false = "A journal, screener and pair page can all sit over the same underlying records."
+                        - [427] AXGroup expanded=false
+                          - [428] AXStaticText expanded=false = "Change the presentation without throwing away the history."
+                        - [429] AXGroup expanded=false
+                          - [430] AXStaticText expanded=false = "6. The runtime"
+                        - [431] AXGroup expanded=false
+                          - [432] AXStaticText expanded=false = "Build inside your Grok Bot’s hosted workspace, or assemble locally with Claude Code, Grok Build or another capable coding agent."
+                        - [433] AXGroup expanded=false
+                          - [434] AXStaticText expanded=false = "Same basic contracts. Different operational tradeoffs."
+                        - [435] AXGroup expanded=false
+                          - [436] AXStaticText expanded=false = "That is what we mean by modular."
+                        - [437] AXGroup expanded=false
+                          - [438] AXStaticText expanded=false = "Not “everything works with everything by magic.”"
+                        - [439] AXGroup expanded=false
+                          - [440] AXStaticText expanded=false = "Clear boundaries, shared records and replaceable parts."
+                        - [441] AXHeading expanded=false "Why the shared database is the real foundation" = "2"
+                          - [442] AXGroup expanded=false
+                            - [443] AXStaticText expanded=false = "Why the shared database is the real foundation"
+                        - [444] AXGroup expanded=false
+                          - [445] AXStaticText expanded=false = "It is easy to underestimate this part because a database is less exciting than a bot building a dashboard."
+                        - [446] AXGroup expanded=false
+                          - [447] AXStaticText expanded=false = "But imagine the alternative."
+                        - [448] AXGroup expanded=false
+                          - [449] AXStaticText expanded=false = "Your screener has one watchlist. Your journal has another. Your chart stores a third version of the pair. Yesterday’s fitted parameters get overwritten by tonight’s refit."
+                        - [450] AXGroup expanded=false
+                          - [451] AXStaticText expanded=false = "Now try to answer:"
+                        - [452] AXGroup expanded=false
+                          - [453] AXStaticText expanded=false = "“What exactly was I looking at when I wrote that note?”"
+                        - [454] AXGroup expanded=false
+                          - [455] AXStaticText expanded=false = "A shared data spine makes that question answerable."
+                        - [456] AXGroup expanded=false
+                          - [457] AXStaticText expanded=false = "The schema gives the build places for instruments, calendars, aliases, pairs, refit snapshots, observations, conditions, positions, fills, events and journal entries."
+                        - [458] AXGroup expanded=false
+                          - [459] AXStaticText expanded=false = "Saved terms can remain frozen. New refits become new snapshots rather than edits to the past. Append-only history preserves the sequence of events."
+                        - [460] AXGroup expanded=false
+                          - [461] AXStaticText expanded=false = "This is particularly important when monitoring a daily model continuously."
+                        - [462] AXGroup expanded=false
+                          - [463] AXStaticText expanded=false = "There may be several legitimate views of the same pair:"
+                        - [464] AXList subrole=AXContentList expanded=false
+                          - [465] AXGroup expanded=false
+                            - [466] AXStaticText expanded=false = "•"
+                            - [467] AXGroup expanded=false
+                              - [468] AXStaticText expanded=false = "Tonight’s latest refit."
+                          - [469] AXGroup expanded=false
+                            - [470] AXStaticText expanded=false = "•"
+                            - [471] AXGroup expanded=false
+                              - [472] AXStaticText expanded=false = "The snapshot you saved three days ago."
+                          - [473] AXGroup expanded=false
+                            - [474] AXStaticText expanded=false = "•"
+                            - [475] AXGroup expanded=false
+                              - [476] AXStaticText expanded=false = "The terms recorded for a particular paper experiment."
+                          - [477] AXGroup expanded=false
+                            - [478] AXStaticText expanded=false = "•"
+                            - [479] AXGroup expanded=false
+                              - [480] AXStaticText expanded=false = "Current prices measured against one of those frames."
+                        - [481] AXGroup expanded=false
+                          - [482] AXStaticText expanded=false = "They should not be casually mixed."
+                        - [483] AXGroup expanded=false
+                          - [484] AXStaticText expanded=false = "A new refit should update the research, not rewrite the experiment."
+                        - [485] AXHeading expanded=false "Why an AI needs a toolbox, not just a prompt" = "2"
+                          - [486] AXGroup expanded=false
+                            - [487] AXStaticText expanded=false = "Why an AI needs a toolbox, not just a prompt"
+                        - [488] AXGroup expanded=false
+                          - [489] AXStaticText expanded=false = "You can already ask an AI to build a trading dashboard."
+                        - [490] AXGroup expanded=false
+                          - [491] AXStaticText expanded=false = "The problem is not getting a screen."
+                        - [492] AXGroup expanded=false
+                          - [493] AXStaticText expanded=false = "The problem is knowing what the screen means."
+                        - [494] AXGroup expanded=false
+                          - [495] AXStaticText expanded=false = "An agent can produce something visually impressive while choosing inconsistent spread arithmetic, mishandling missing data, mixing refit dates or treating an old quote as current."
+                        - [496] AXGroup expanded=false
+                          - [497] AXStaticText expanded=false = "PairDesk Builder gives it more structure."
+                        - [498] AXGroup expanded=false
+                          - [499] AXStaticText expanded=false = "There is a manifest describing the available parts. There are assembly recipes, statistical specifications, database rules and verification routines."
+                        - [500] AXGroup expanded=false
+                          - [501] AXStaticText expanded=false = "The page blueprints go beyond screenshots. They describe regions, states, bindings and acceptance checks."
+                        - [502] AXGroup expanded=false
+                          - [503] AXStaticText expanded=false = "The agent is not merely told:"
+                        - [504] AXGroup expanded=false
+                          - [505] AXStaticText expanded=false = "“Make something that looks like this.”"
+                        - [506] AXGroup expanded=false
+                          - [507] AXStaticText expanded=false = "It is given a more useful instruction:"
+                        - [508] AXGroup expanded=false
+                          - [509] AXStaticText expanded=false = "“Build this over these records, preserve these meanings, handle these states, and run these checks.”"
+                        - [510] AXGroup expanded=false
+                          - [511] AXStaticText expanded=false = "The interface can be personal."
+                        - [512] AXGroup expanded=false
+                          - [513] AXStaticText expanded=false = "The underlying accounting should not be improvised."
+                        - [514] AXHeading expanded=false "Grok Bots become more interesting when they have a workspace" = "2"
+                          - [515] AXGroup expanded=false
+                            - [516] AXStaticText expanded=false = "Grok Bots become more interesting when they have a workspace"
+                        - [517] AXGroup expanded=false
+                          - [518] AXStaticText expanded=false = "A conversational assistant can explain cointegration."
+                        - [519] AXGroup expanded=false
+                          - [520] AXStaticText expanded=false = "A bot with tools and a working environment can help assemble the research process around it."
+                        - [521] AXGroup expanded=false
+                          - [522] AXStaticText expanded=false = "That is why the Grok VM is such an interesting part of this story."
+                        - [523] AXGroup expanded=false
+                          - [524] AXStaticText expanded=false = "The build can live inside your own xAI-hosted bot workspace. The bot can retrieve the toolbox, assemble the supported parts, run checks and make the result viewable in the browser there."
+                        - [525] AXGroup expanded=false
+                          - [526] AXStaticText expanded=false = "You are not necessarily asking it to describe a dashboard you must later build yourself."
+                        - [527] AXGroup expanded=false
+                          - [528] AXStaticText expanded=false = "You are asking it to help create the dashboard in the environment where it already works."
+                        - [529] AXGroup expanded=false
+                          - [530] AXStaticText expanded=false = "That shortens the distance between a research question and a usable tool."
+                        - [531] AXGroup expanded=false
+                          - [532] AXStaticText expanded=false = "Start with a journal."
+                        - [533] AXGroup expanded=false
+                          - [534] AXStaticText expanded=false = "Add a pair card."
+                        - [535] AXGroup expanded=false
+                          - [536] AXStaticText expanded=false = "Add a daily research briefing."
+                        - [537] AXGroup expanded=false
+                          - [538] AXStaticText expanded=false = "Add a screen that shows only the statistical fields you care about."
+                        - [539] AXGroup expanded=false
+                          - [540] AXStaticText expanded=false = "The same bot can help maintain the build as your questions change."
+                        - [541] AXGroup expanded=false
+                          - [542] AXStaticText expanded=false = "The important qualification is that a hosted bot VM is not your personal always-on trading server."
+                        - [543] AXGroup expanded=false
+                          - [544] AXStaticText expanded=false = "Scheduling consumes bot turns and compute. Storage belongs to that hosted environment. Availability and persistence depend on the platform."
+                        - [545] AXGroup expanded=false
+                          - [546] AXStaticText expanded=false = "For daily refit collection, periodic research and scheduled briefings, that can be a very natural fit."
+                        - [547] AXGroup expanded=false
+                          - [548] AXStaticText expanded=false = "For continuous observation, it is usually the wrong place to spend an AI turn on every tick."
+                        - [549] AXHeading expanded=false "Where Claude Code and local builds fit" = "2"
+                          - [550] AXGroup expanded=false
+                            - [551] AXStaticText expanded=false = "Where Claude Code and local builds fit"
+                        - [552] AXGroup expanded=false
+                          - [553] AXStaticText expanded=false = "A local build makes a different tradeoff."
+                        - [554] AXGroup expanded=false
+                          - [555] AXStaticText expanded=false = "Claude Code, Grok Build or another capable coding agent can assemble the toolbox on your own machine."
+                        - [556] AXGroup expanded=false
+                          - [557] AXStaticText expanded=false = "You take on installation, dependencies, process uptime and backups."
+                        - [558] AXGroup expanded=false
+                          - [559] AXStaticText expanded=false = "In return, you get a persistent local database and a conventional scheduler. A daemon can process observations without asking a language model to participate in every cycle."
+                        - [560] AXGroup expanded=false
+                          - [561] AXStaticText expanded=false = "That suggests a practical division of labour:"
+                        - [562] AXGroup expanded=false
+                          - [563] AXStaticText expanded=false = "Use the AI to build, inspect, explain and modify the system."
+                        - [564] AXGroup expanded=false
+                          - [565] AXStaticText expanded=false = "Use ordinary software to perform the repetitive work."
+                        - [566] AXGroup expanded=false
+                          - [567] AXStaticText expanded=false = "Fetching a price, checking a timestamp, calculating a spread and recording a condition crossing do not need to be language-model tasks."
+                        - [568] AXGroup expanded=false
+                          - [569] AXStaticText expanded=false = "That is especially important for higher-frequency monitoring."
+                        - [570] AXGroup expanded=false
+                          - [571] AXStaticText expanded=false = "The AI is the builder and collaborator."
+                        - [572] AXGroup expanded=false
+                          - [573] AXStaticText expanded=false = "It does not have to be the event loop."
+                        - [574] AXGroup expanded=false
+                          - [575] AXStaticText expanded=false = "Also, “app-less” does not mean there is no software underneath. A local build still needs a runtime and upkeep."
+                        - [576] AXGroup expanded=false
+                          - [577] AXStaticText expanded=false = "It means you are no longer restricted to consuming a fixed application designed around somebody else’s workflow."
+                        - [578] AXHeading expanded=false "What you can actually build" = "2"
+                          - [579] AXGroup expanded=false
+                            - [580] AXStaticText expanded=false = "What you can actually build"
+                        - [581] AXGroup expanded=false
+                          - [582] AXStaticText expanded=false = "A pair trading research dashboard"
+                        - [583] AXGroup expanded=false
+                          - [584] AXStaticText expanded=false = "Start with a screener, watch book and detailed pair page."
+                        - [585] AXGroup expanded=false
+                          - [586] AXStaticText expanded=false = "Show the nightly statistics alongside observations from a separately connected feed. Keep the refit timestamp visible. Mark stale values honestly."
+                        - [587] AXGroup expanded=false
+                          - [588] AXStaticText expanded=false = "Choose your own layout rather than accepting a screen full of features you never use."
+                        - [589] AXGroup expanded=false
+                          - [590] AXStaticText expanded=false = "A journal that remembers the statistical context"
+                        - [591] AXGroup expanded=false
+                          - [592] AXStaticText expanded=false = "Record more than a pair name and a note."
+                        - [593] AXGroup expanded=false
+                          - [594] AXStaticText expanded=false = "Preserve the refit date, saved parameters, research observations and subsequent history."
+                        - [595] AXGroup expanded=false
+                          - [596] AXStaticText expanded=false = "Then investigate a much better question than “Did this work?”"
+                        - [597] AXGroup expanded=false
+                          - [598] AXStaticText expanded=false = "“What did I know at the time, what did I record, and what changed afterward?”"
+                        - [599] AXGroup expanded=false
+                          - [600] AXStaticText expanded=false = "A market-wide statistical screener"
+                        - [601] AXGroup expanded=false
+                          - [602] AXStaticText expanded=false = "Screen by the bounds you choose: half-life, Hurst, Statistical Composite or other available diagnostics."
+                        - [603] AXGroup expanded=false
+                          - [604] AXStaticText expanded=false = "The screener does not need to turn the result into a directive."
+                        - [605] AXGroup expanded=false
+                          - [606] AXStaticText expanded=false = "It can simply show which pairs meet your stated research criteria."
+                        - [607] AXGroup expanded=false
+                          - [608] AXStaticText expanded=false = "A daily research briefing"
+                        - [609] AXGroup expanded=false
+                          - [610] AXStaticText expanded=false = "After publication, retrieve the new payload, identify changes in the pairs you follow and prepare a concise summary."
+                        - [611] AXGroup expanded=false
+                          - [612] AXStaticText expanded=false = "What published? What is stale? Which saved relationships changed? Which records need attention?"
+                        - [613] AXGroup expanded=false
+                          - [614] AXStaticText expanded=false = "This is a good example of work that fits the Grok VM’s daily rhythm."
+                        - [615] AXGroup expanded=false
+                          - [616] AXStaticText expanded=false = "A continuous observation desk"
+                        - [617] AXGroup expanded=false
+                          - [618] AXStaticText expanded=false = "On an appropriate local runtime, connect your own market feed and observe prices against saved statistical frames."
+                        - [619] AXGroup expanded=false
+                          - [620] AXStaticText expanded=false = "Record crossings of conditions you defined."
+                        - [621] AXGroup expanded=false
+                          - [622] AXStaticText expanded=false = "Keep feed timestamps and model timestamps separate."
+                        - [623] AXGroup expanded=false
+                          - [624] AXStaticText expanded=false = "Study the path between daily closes without pretending the daily model was estimated from intraday data."
+                        - [625] AXGroup expanded=false
+                          - [626] AXStaticText expanded=false = "A test-network or broker-paper desk"
+                        - [627] AXGroup expanded=false
+                          - [628] AXStaticText expanded=false = "The Builder’s Test Desk goes beyond drawing hypothetical markers."
+                        - [629] AXGroup expanded=false
+                          - [630] AXStaticText expanded=false = "It can assemble a user-defined condition, observe a crossing, submit an order in a supported test environment and track the resulting records."
+                        - [631] AXGroup expanded=false
+                          - [632] AXStaticText expanded=false = "Orders and fills carry environment stamps."
+                        - [633] AXGroup expanded=false
+                          - [634] AXStaticText expanded=false = "This is distinct from a purely simulated journal—and distinct from the research-only PairBots roles."
+                        - [635] AXGroup expanded=false
+                          - [636] AXStaticText expanded=false = "The shipped Test Desk boundary is test networks and broker paper accounts, not live-money execution. Those environments are useful for studying mechanics, but they do not prove live fill quality."
+                        - [637] AXHeading expanded=false "Which markets are covered?" = "2"
+                          - [638] AXGroup expanded=false
+                            - [639] AXStaticText expanded=false = "Which markets are covered?"
+                        - [640] AXGroup expanded=false
+                          - [641] AXStaticText expanded=false = "There are two different coverage questions."
+                        - [642] AXGroup expanded=false
+                          - [643] AXStaticText expanded=false = "Where does PairSync publish derived statistical research?"
+                        - [644] AXGroup expanded=false
+                          - [645] AXStaticText expanded=false = "The Builder methodology documents these market codes:"
+                        - [646] AXList subrole=AXContentList expanded=false
+                          - [647] AXGroup expanded=false
+                            - [648] AXStaticText expanded=false = "•"
+                            - [649] AXGroup expanded=false
+                              - [650] AXStaticText expanded=false = "US equities — US"
+                          - [651] AXGroup expanded=false
+                            - [652] AXStaticText expanded=false = "•"
+                            - [653] AXGroup expanded=false
+                              - [654] AXStaticText expanded=false = "European equities — EU"
+                          - [655] AXGroup expanded=false
+                            - [656] AXStaticText expanded=false = "•"
+                            - [657] AXGroup expanded=false
+                              - [658] AXStaticText expanded=false = "Indian equities — IN"
+                          - [659] AXGroup expanded=false
+                            - [660] AXStaticText expanded=false = "•"
+                            - [661] AXGroup expanded=false
+                              - [662] AXStaticText expanded=false = "Australian equities — AU"
+                          - [663] AXGroup expanded=false
+                            - [664] AXStaticText expanded=false = "•"
+                            - [665] AXGroup expanded=false
+                              - [666] AXStaticText expanded=false = "US ETFs — US_ETFS"
+                          - [667] AXGroup expanded=false
+                            - [668] AXStaticText expanded=false = "•"
+                            - [669] AXGroup expanded=false
+                              - [670] AXStaticText expanded=false = "Crypto perpetuals — CRYPTO"
+                        - [671] AXGroup expanded=false
+                          - [672] AXStaticText expanded=false = "For an actual build, check the latest published metadata and refit date. A documented market code is not a reason to assume a fresh payload exists at every moment."
+                        - [673] AXGroup expanded=false
+                          - [674] AXStaticText expanded=false = "What can the open toolbox ingest?"
+                        - [675] AXGroup expanded=false
+                          - [676] AXStaticText expanded=false = "That is broader and depends on available data and adapters."
+                        - [677] AXGroup expanded=false
+                          - [678] AXStaticText expanded=false = "Starter market packs include S&P 500, STOXX Europe 600, ASX 200, Nifty 50 and crypto universes. Packs supply reference information such as membership, aliases and calendar rules; they are not themselves a live data service."
+                        - [679] AXGroup expanded=false
+                          - [680] AXStaticText expanded=false = "CSV import provides another route for data you already have permission to use."
+                        - [681] AXGroup expanded=false
+                          - [682] AXStaticText expanded=false = "A new market becomes an integration task: identifiers, calendars, observations and validation."
+                        - [683] AXGroup expanded=false
+                          - [684] AXStaticText expanded=false = "It does not necessarily require a new application."
+                        - [685] AXHeading expanded=false "Open code, optional keyed data" = "2"
+                          - [686] AXGroup expanded=false
+                            - [687] AXStaticText expanded=false = "Open code, optional keyed data"
+                        - [688] AXGroup expanded=false
+                          - [689] AXStaticText expanded=false = "PairDesk Builder is released under Apache-2.0."
+                        - [690] AXGroup expanded=false
+                          - [691] AXStaticText expanded=false = "The toolbox is open. The keyed statistical service is a separate layer."
+                        - [692] AXGroup expanded=false
+                          - [693] AXStaticText expanded=false = "Every PairSync account includes a free API key with 100 lifetime calls across REST and MCP combined, with no card required. That is a starting allowance, not a monthly reset."
+                        - [694] AXGroup expanded=false
+                          - [695] AXStaticText expanded=false = "You can use it to explore the published data and begin a build."
+                        - [696] AXGroup expanded=false
+                          - [697] AXStaticText expanded=false = "Without a key, the toolbox can still support workflows using CSVs or supported daily data sources. Fields that require PairSync’s published output remain unavailable rather than being fabricated."
+                        - [698] AXGroup expanded=false
+                          - [699] AXStaticText expanded=false = "The software licence also does not grant blanket rights to redistribute third-party market data. Your sources and their terms still matter."
+                        - [700] AXGroup expanded=false
+                          - [701] AXStaticText expanded=false = "The separation is deliberate:"
+                        - [702] AXGroup expanded=false
+                          - [703] AXStaticText expanded=false = "You can own the build without making every component dependent on a subscription."
+                        - [704] AXHeading expanded=false "“Your data” needs an honest definition" = "2"
+                          - [705] AXGroup expanded=false
+                            - [706] AXStaticText expanded=false = "“Your data” needs an honest definition"
+                        - [707] AXGroup expanded=false
+                          - [708] AXStaticText expanded=false = "A local SQLite file and a hosted bot workspace are not the same privacy arrangement."
+                        - [709] AXGroup expanded=false
+                          - [710] AXStaticText expanded=false = "On your own machine, the database can stay on your disk."
+                        - [711] AXGroup expanded=false
+                          - [712] AXStaticText expanded=false = "In a Grok VM, it resides in an xAI-hosted environment."
+                        - [713] AXGroup expanded=false
+                          - [714] AXStaticText expanded=false = "PairSync does not need to host your journal for either build to work. But that does not make every interaction with a cloud AI private by default."
+                        - [715] AXGroup expanded=false
+                          - [716] AXStaticText expanded=false = "What you give an agent access to—and what it sends to its model provider—still matters."
+                        - [717] AXGroup expanded=false
+                          - [718] AXStaticText expanded=false = "Keep credentials out of prompts and logs. Back up records you care about. Treat hosted workspace storage according to the host’s actual guarantees."
+                        - [719] AXGroup expanded=false
+                          - [720] AXStaticText expanded=false = "Ownership should mean practical control and exportability, not vague promises."
+                        - [721] AXHeading expanded=false "How to start" = "2"
+                          - [722] AXGroup expanded=false
+                            - [723] AXStaticText expanded=false = "How to start"
+                        - [724] AXGroup expanded=false
+                          - [725] AXStaticText expanded=false = "Give your Grok Bot, Claude Code or another capable coding agent this page:"
+                        - [726] AXGroup expanded=false
+                          - [727] AXLink expanded=false "https://pair-sync.com/builder" url="https://pair-sync.com/builder"
+                            - [728] AXStaticText expanded=false = "https://pair-sync.com/builder"
+                        - [729] AXGroup expanded=false
+                          - [730] AXStaticText expanded=false = "Then give it a specific first job:"
+                        - [731] AXGroup expanded=false
+                          - [732] AXStaticText expanded=false = "Build me a crypto pairs research dashboard using PairDesk Builder. Start from the current pinned release, read the manifest and bench rules, and ask whether I want the Grok VM or a local build. Use one SQLite database. Keep refit dates and price-feed timestamps visible, preserve saved snapshots, and run the supplied verification checks. Start with daily research; discuss a separate feed before adding higher-frequency observation. No live-money execution."
+                        - [733] AXGroup expanded=false
+                          - [734] AXStaticText expanded=false = "Or start smaller:"
+                        - [735] AXGroup expanded=false
+                          - [736] AXStaticText expanded=false = "Build me a pair research journal. I want to save the statistical snapshot I was studying, add my own notes and compare later refits without overwriting the original record."
+                        - [737] AXGroup expanded=false
+                          - [738] AXStaticText expanded=false = "You do not need a complete desk on day one."
+                        - [739] AXGroup expanded=false
+                          - [740] AXStaticText expanded=false = "That is the point of parts."
+                        - [741] AXHeading expanded=false "The bigger shift" = "2"
+                          - [742] AXGroup expanded=false
+                            - [743] AXStaticText expanded=false = "The bigger shift"
+                        - [744] AXGroup expanded=false
+                          - [745] AXStaticText expanded=false = "The interesting change is not that an AI can generate another dashboard."
+                        - [746] AXGroup expanded=false
+                          - [747] AXStaticText expanded=false = "It is that useful research software can increasingly be assembled from explicit contracts:"
+                        - [748] AXGroup expanded=false
+                          - [749] AXStaticText expanded=false = "A dated statistical payload."
+                        - [750] AXGroup expanded=false
+                          - [751] AXStaticText expanded=false = "A replaceable observation feed."
+                        - [752] AXGroup expanded=false
+                          - [753] AXStaticText expanded=false = "A shared database."
+                        - [754] AXGroup expanded=false
+                          - [755] AXStaticText expanded=false = "A set of mathematical functions."
+                        - [756] AXGroup expanded=false
+                          - [757] AXStaticText expanded=false = "A journal that preserves history."
+                        - [758] AXGroup expanded=false
+                          - [759] AXStaticText expanded=false = "An interface built for the person using it."
+                        - [760] AXGroup expanded=false
+                          - [761] AXStaticText expanded=false = "Grok Bots make a hosted, conversational workspace possible. Claude Code and other coding agents make local assembly increasingly accessible. Ordinary software handles the repetitive work once the build exists."
+                        - [762] AXGroup expanded=false
+                          - [763] AXStaticText expanded=false = "PairSync’s role is to publish the derived statistical research and provide building blocks that make it usable outside one fixed interface."
+                        - [764] AXGroup expanded=false
+                          - [765] AXStaticText expanded=false = "Daily refits provide the frame."
+                        - [766] AXGroup expanded=false
+                          - [767] AXStaticText expanded=false = "Your observation layer shows the path."
+                        - [768] AXGroup expanded=false
+                          - [769] AXStaticText expanded=false = "Your records preserve what happened."
+                        - [770] AXGroup expanded=false
+                          - [771] AXStaticText expanded=false = "The app-less world is not a world without software."
+                        - [772] AXGroup expanded=false
+                          - [773] AXStaticText expanded=false = "It is a world where the software can finally take the shape of your work."
+                        - [774] AXGroup expanded=false
+                          - [775] AXStaticText expanded=false = "Start building: "
+                          - [776] AXLink expanded=false "https://pair-sync.com/builder" url="https://pair-sync.com/builder"
+                            - [777] AXStaticText expanded=false = "https://pair-sync.com/builder"
+                          - [778] AXStaticText expanded=false = "Explore the data: "
+                          - [779] AXLink expanded=false "https://pair-sync.com/api" url="https://pair-sync.com/api"
+                            - [780] AXStaticText expanded=false = "https://pair-sync.com/api"
+                          - [781] AXStaticText expanded=false = "Connect your AI: "
+                          - [782] AXLink expanded=false "https://pair-sync.com/ai" url="https://pair-sync.com/ai"
+                            - [783] AXStaticText expanded=false = "https://pair-sync.com/ai"
+                          - [784] AXStaticText expanded=false = "Open-source toolbox: "
+                          - [785] AXLink expanded=false "https://github.com/pairsync/pairdesk-builder" url="https://github.com/pairsync/pairdesk-builder"
+                            - [786] AXStaticText expanded=false = "https://github.com/pairsync/pairdesk-builder"
+                        - [787] AXGroup expanded=false
+                          - [788] AXStaticText expanded=false = "Statistical research and educational tooling—not investment advice. Fitted relationships can fail. In-sample results do not establish future performance. PairSync publishes research data and does not execute trades; the Builder’s execution examples are restricted to test networks and broker paper accounts."
+                      - [789] AXGroup subrole=AXApplicationStatus expanded=false
+                        - [790] AXGroup expanded=false
+                          - [791] AXStaticText expanded=false = "Want to publish your own Article?"
+                        - [792] AXLink expanded=false "Upgrade to Plus" url="https://x.com/i/premium_sign_up"
+                          - [793] AXStaticText expanded=false = "Upgrade to Plus"
+                    - [794] AXGroup expanded=false
+                      - [795] AXLink expanded=false "6:43 PM · Nov 17, 2026" url="https://x.com/PairSync/status/2122679573511057725"
+                        - [796] AXGroup subrole=AXTimeGroup expanded=false
+                          - [797] AXStaticText expanded=false = "6:43 PM · Nov 17, 2026"
+                      - [798] AXLink expanded=false "754 Views" url="https://x.com/PairSync/status/2122679573511057725/analytics"
+                        - [799] AXStaticText expanded=false = "754"
+                        - [800] AXStaticText expanded=false = "Views"
+                    - [801] AXGroup subrole=AXApplicationGroup expanded=false "2 likes, 754 views"
+                      - [802] AXButton expanded=false "0 Replies. Reply"
+                      - [803] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [804] AXButton expanded=false "2 Likes. Like"
+                      - [805] AXButton expanded=false "0 Bookmarks. Bookmark"
+                      - [806] AXPopUpButton expanded=false "Share post"
+                  - [807] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [808] AXGroup expanded=false
+                    - [809] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [810] AXGroup expanded=false
+                      - [811] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [812] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [813] AXGroup expanded=false
+                          - [814] AXGroup expanded=false "Puneet Vishnawat"
+                            - [815] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [816] AXGroup expanded=false
+                    - [817] AXStaticText expanded=false = "Post your reply"
+                  - [818] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [819] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+          - [820] AXGroup expanded=false "Trending"
+            - [821] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [822] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [823] AXGroup expanded=false
+                  - [824] AXStaticText expanded=false = "Search"
+            - [825] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [826] AXHeading expanded=false "Relevant people" = "2"
+                - [827] AXStaticText expanded=false = "Relevant people"
+              - [828] AXList subrole=AXContentList expanded=false
+                - [829] AXGroup expanded=false
+                  - [830] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [831] AXGroup expanded=false
+                    - [832] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [833] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [834] AXLink expanded=false "PairSync\nVerified account" url="https://x.com/PairSync"
+                    - [835] AXStaticText expanded=false = "PairSync"
+                    - [836] AXImage expanded=false "Verified account"
+                  - [837] AXLink expanded=false "@PairSync" url="https://x.com/PairSync"
+                    - [838] AXGroup expanded=false
+                      - [839] AXStaticText expanded=false = "@PairSync"
+                  - [840] AXButton expanded=false "Follow @PairSync"
+                  - [841] AXGroup expanded=false
+                    - [842] AXStaticText expanded=false = "Pairs trading data powering your AI models. Nightly cointegration across US, EU, India, AU stocks & HL Crypto Perps. Structured stats for AI agents. MCP + REST"
+            - [843] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [844] AXHeading expanded=false "Trending now" = "1"
+                - [845] AXStaticText expanded=false = "Trending now"
+              - [846] AXGroup expanded=false "Timeline: Trending now"
+                - [847] AXGroup subrole=AXEmptyGroup expanded=false
+                - [848] AXHeading expanded=false "What’s happening" = "2"
+                  - [849] AXStaticText expanded=false = "What’s happening"
+                - [850] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [851] AXGroup expanded=false
+                    - [852] AXStaticText expanded=false = "Sports · Trending"
+                  - [853] AXGroup expanded=false
+                    - [854] AXStaticText expanded=false = "Rishabh Pant"
+                  - [855] AXPopUpButton expanded=false "More"
+                - [856] AXLink expanded=false "Entertainment · Trending #RashmikaMandanna More"
+                  - [857] AXGroup expanded=false
+                    - [858] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [859] AXGroup expanded=false
+                    - [860] AXStaticText expanded=false = "#RashmikaMandanna"
+                  - [861] AXPopUpButton expanded=false "More"
+                - [862] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [863] AXGroup expanded=false
+                    - [864] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [865] AXGroup expanded=false
+                    - [866] AXStaticText expanded=false = "Charles"
+                  - [867] AXPopUpButton expanded=false "More"
+                - [868] AXLink expanded=false "Entertainment · Trending Shah Rukh Khan More"
+                  - [869] AXGroup expanded=false
+                    - [870] AXStaticText expanded=false = "Entertainment · Trending"
+                  - [871] AXGroup expanded=false
+                    - [872] AXStaticText expanded=false = "Shah Rukh Khan"
+                  - [873] AXPopUpButton expanded=false "More"
+                - [874] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [875] AXGroup expanded=false
+                    - [876] AXStaticText expanded=false = "Show more"
+            - [877] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [878] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [879] AXStaticText expanded=false = "Terms"
+              - [880] AXGroup expanded=false
+                - [881] AXStaticText expanded=false = "·"
+              - [882] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [883] AXStaticText expanded=false = "Privacy"
+              - [884] AXGroup expanded=false
+                - [885] AXStaticText expanded=false = "·"
+              - [886] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [887] AXStaticText expanded=false = "Cookies"
+              - [888] AXGroup expanded=false
+                - [889] AXStaticText expanded=false = "·"
+              - [890] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [891] AXStaticText expanded=false = "Accessibility"
+              - [892] AXGroup expanded=false
+                - [893] AXStaticText expanded=false = "·"
+              - [894] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [895] AXStaticText expanded=false = "Ads Info"
+              - [896] AXGroup expanded=false
+                - [897] AXStaticText expanded=false = "·"
+              - [898] AXPopUpButton expanded=false "More"
+              - [899] AXGroup expanded=false
+                - [900] AXStaticText expanded=false = "© 2026 X Corp."
+        - [901] AXGroup subrole=AXEmptyGroup expanded=false
+        - [902] AXGroup subrole=AXEmptyGroup expanded=false
+      - [903] AXScrollBar expanded=false = "0.0004632847"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [904] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [905] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [906] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [907] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [908] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [909] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [910] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [911] AXRadioButton subrole=AXTabButton valueWritable=false "PairSync on X: \"The App-Less Trading Desk: How Grok Bots, Claude Code and Modular Data Change Statistical Arbitrage \" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "PairSync on X: \"The App-Less Trading Desk: How Grok Bots, Claude Code and Modular Data Change Statistical Arbitrage \" / X" selection=[0,0]
+  - [912] AXGroup "Favorites bar"
+    - [913] AXButton "show start page" help="Show Start Page"
+    - [914] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [915] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [916] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [917] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [918] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [919] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [920] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [921] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [922] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [923] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [924] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [925] AXToolbar
+    - [926] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [927] AXButton "show sidebar" help="Show sidebar"
+      - [928] AXMenuButton "Tab Group picker"
+    - [929] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [930] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [931] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [932] AXButton "Page Menu"
+      - [933] AXButton "Add page to Reading List"
+      - [934] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/PairSync/status/2122679573511057725" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [935] AXButton "Reload this page"
+    - [936] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [937] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [938] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [939] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [940] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [941] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [942] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [943] AXButton subrole=AXCloseButton
+  - [944] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [945] AXButton subrole=AXMinimizeButton
+- [946] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [947] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [948] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [949] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [950] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [951] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [952] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [953] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [954] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [955] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

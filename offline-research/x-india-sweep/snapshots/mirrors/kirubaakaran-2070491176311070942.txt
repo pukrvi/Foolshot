@@ -1,0 +1,167 @@
+URL: https://teapawt.net/kirubaakaran/status/2070491176311070942
+FETCHED: 2026-11-22
+
+Kirubakaran Rajendran (@kirubaakaran): "A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)
+
+Step 3 - Download historical data
+Ask Claude to pull EOD history.
+
+Step 4 - Build the ratio file
+Create a CSV with necessary data for backtest
+
+Step 5 - Define rules and backtest
+
+Ratio breaks above 20-day high → hold NIFTYBEES
+Ratio breaks below 20-day low → rotate into GOLDBEES
+
+Step 6 - Validate" | teapawt teapawt 
+ $ 
+
+ Kirubakaran Rajendran 
+ 
+ @kirubaakaran Jun 26 
+
+ A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)
+
+Step 3 - Download historical data
+Ask Claude to pull EOD history.
+
+Step 4 - Build the ratio file
+Create a CSV with necessary data for backtest
+
+Step 5 - Define rules and backtest
+
+Ratio breaks above 20-day high → hold NIFTYBEES
+Ratio breaks below 20-day low → rotate into GOLDBEES
+
+Step 6 - Validate
+
+ Kirubakaran Rajendran 
+ @kirubaakaran May 16 
+
+ ₹1 lakh invested in Niftybees in January 2008 is worth ₹4.43 lakh today. 8.45% CAGR over 18 years. 
+
+That same ₹1 lakh, switched between Niftybees and Goldbees using one trading rule, became ₹20.84 lakh. 18% CAGR. 
+
+Here's the strategy details 🧵
+
+ Jun 26, 2026 · 12:55 PM UTC
+ 10
+ 21
+ 179
+ 27,140
+ Relevant Recent Likes 
+
+ Back to the original post: Kirubakaran Rajendran A quick 6-step workflow to take a trading idea from raw data to a validated edge with the help of Claude.
+
+Step 1 - Connect Dhan (MCP)
+Claude can place orders, fetch positions, and pull info across NSE, BSE, MCX
+
+Step 2 - Install the Dhan skill
+The MCP gives tools, the skill gives know-how (correct API calls, instrument IDs etc)
+
+Step 3 - Download historical data
+Ask Claude to pull EOD history.
+
+Step 4 - Build the ratio file
+Create a CSV with necessary data for backtest
+
+Step 5 - Define rules and backtest
+
+Ratio breaks above 20-day high → hold NIFTYBEES
+Ratio breaks below 20-day low → rotate into GOLDBEES
+
+Step 6 - Validate T . Bajaj @TanujBajaj8 Jun 26 
+
+ From claude to Git to Telegram automated signals every day. Easiest way. Thanks for the idea, used it. It’s already working fine.
+
+ 1
+ 1
+ 5
+ 912
+
+ Kirubakaran Rajendran 
+ @kirubaakaran Jun 26 
+
+ That’s awesome
+
+ 1
+ 535
+
+ The lena @lenooooo68 Jun 26 
+
+ The validation step is doing a lot of heavy lifting here. Most trading ideas look great until they're tested across different market conditions.
+
+ 1
+ 66
+
+ Muruga @thisismurugs Jun 27 
+
+ Anytime do you store the data to db anytime.. or Claude always takes from disk and crunch the data..or you keep the data in cloud storage?
+
+ 104
+
+ the amateur trader 
+ @sudhindra_15 Jun 26 
+
+ Does it work on Preplexity if I use Sonnet?
+
+ 290
+
+ Ramakrishnan @Ram28Iam Jun 26 
+
+ Hi bro The MCP only for claude or we connect Codex too?
+ 1
+
+ 425
+
+ Kirubakaran Rajendran 
+ @kirubaakaran Jun 26 
+
+ Yes works
+
+ 486
+
+ Aviyan @Aviyan1366256 Jun 27 
+
+ Does Dhan provide 1m Nifty Options historical data? If so for how many months of data? If you have any idea please share here. I need this data for 6 months.
+
+ 129
+
+ AMAN JAIN @TheThetaGuy Jun 26 
+
+ Why give out such an edge publicly? By edge I meant not the strategy but ability to get data and backtest anything using claude.
+
+ 228
+
+ Pratik Patil @Pratikdude1911 Jun 26 
+
+ Is option data available on dhan mcp
+ 1
+
+ 536
+
+ Kirubakaran Rajendran 
+ @kirubaakaran Jun 26 
+
+ With Dhan skills you can download it
+
+ 478
+
+ Amit Jain @Amitjainxacc Jun 27 
+
+ The only problem with this is it is taking lot of claude tokens if you want to run ordes constantly like in loop or frequent trades , making it practically unstable for trading. Good only to sought information
+
+ 110

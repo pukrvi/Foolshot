@@ -1,0 +1,31 @@
+URL: https://x.com/openalgoHQ/status/2116365401743622535
+DATE: 2026-11-22
+MODE: Latest
+
+OpenAlgo
+Verified account
+@openalgoHQ OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation 1 repost, 10 likes, 2 bookmarks, 881 views" description="OpenAlgo
+Verified account
+@openalgoHQ OpenAlgo 2.0.3.2 (31 Oct 2026). Upgrade and restart before Monday\'s open.
+
+NSE freeze limits from 2 Nov NSE Circular
+Muhurat, Trading Timing Updates
+Agent: newer models with LiteLLM 1.106.6.
+and more
+
+How to upgrade: docs.openalgo.in/installation-g
+
+Release notes: github.com/marketcalls/op docs.openalgo.in Upgrade | Documentation From docs.openalgo.in 1 repost, 10 likes, 2 bookmarks, 881 views
+
+OpenAlgo
+Verified account
+@openalgoHQ 7 hours ago OpenAlgo Python SDK - Internal Architecture for Backtesting + Live Trading Image 1 reply, 1 repost, 9 likes, 12 bookmarks, 1076 views

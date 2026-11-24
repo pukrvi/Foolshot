@@ -1,0 +1,8 @@
+{
+ "query": "(\"NSE MCP\" OR \"nse mcp\" OR \"nseindia mcp\")",
+ "url": "https://x.com/search?q=(%22NSE%20MCP%22%20OR%20%22nse%20mcp%22%20OR%20%22nseindia%20mcp%22)&src=typed_query&f=live",
+ "mode": "live",
+ "err": false,
+ "posts": [],
+ "pageTxt": "\n\n\n\n\n\n"
+}

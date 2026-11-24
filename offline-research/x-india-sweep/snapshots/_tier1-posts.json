@@ -1,0 +1,176 @@
+[
+ {
+  "q": "(claude OR chatgpt OR \"ai agent\" OR llm) (nifty OR banknifty OR sensex OR \"indian market\" OR \"indian stock\") (trade OR trading OR trader) -filter:replies",
+  "url": "https://x.com/search?q=(claude%20OR%20chatgpt%20OR%20%22ai%20agent%22%20OR%20llm)%20(nifty%20OR%20banknifty%20OR%20sensex%20OR%20%22indian%20market%22%20OR%20%22indian%20stock%22)%20(trade%20OR%20trading%20OR%20trader)%20-filter%3Areplies&src=typed_query&f=live",
+  "err": false,
+  "posts": 14,
+  "rel": [
+   {
+    "h": "subuonelifee",
+    "id": "2124341415677485263",
+    "t": "8 hours ago",
+    "x": "Under the new NSE and SEBI retail algo trading rules, independent (\"tech-savvy\") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code. While these rules apply to all brokers, traders who use"
+   }
+  ]
+ },
+ {
+  "q": "(zerodha OR dhan OR upstox OR groww OR angelone OR fyers OR kotakneo) (claude OR chatgpt OR mcp OR \"ai agent\")",
+  "url": "https://x.com/search?q=(zerodha%20OR%20dhan%20OR%20upstox%20OR%20groww%20OR%20angelone%20OR%20fyers%20OR%20kotakneo)%20(claude%20OR%20chatgpt%20OR%20mcp%20OR%20%22ai%20agent%22)&src=typed_query&f=live",
+  "err": false,
+  "posts": 10,
+  "rel": [
+   {
+    "h": "NITESHRAJPOOT",
+    "id": "2124161873092469055",
+    "t": "19 hours ago",
+    "x": "So you mean claude code is available over Xbox or PS5 and you have shared your screen from Xbox and PS5🤣🤣 come on groww up"
+   },
+   {
+    "h": "YashGup74155629",
+    "id": "2124149134894813612",
+    "t": "20 hours ago",
+    "x": "Went to DhanDev Hyderabad today strictly for the tech. ​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by "
+   },
+   {
+    "h": "newCEVIU",
+    "id": "2124142729810583891",
+    "t": "21 hours ago",
+    "x": "OpenAI revela sua \\'Performance Factory\\' para manter o ChatGPT ultrarrápido, PostgreSQL 19 chega com repacking de tabelas e Zerodha inova no armazenamento distribuído. Veja os detalhes da CEVIU Web Dev."
+   },
+   {
+    "h": "kortexagent",
+    "id": "2124054209708605473",
+    "t": "Nov 21",
+    "x": "Groww won the user count. Zerodha owns the AI consensus.37 of 48 first-place picks across ChatGPT, Claude and Gemini."
+   },
+   {
+    "h": "kotakneo",
+    "id": "2124026190239564258",
+    "t": "Nov 21",
+    "x": "And that shift is reaching India\\'s tech workforce.   Nearly half of Claude usage in India is computer and maths work.  Developers may increasingly shift towards directing, reviewing and validating AI-generated code.  4/6"
+   },
+   {
+    "h": "kotakneo",
+    "id": "2124026186443694535",
+    "t": "Nov 21",
+    "x": "Where’s the money coming from?  Not mainly chatbot subscriptions.  79% of Anthropic’s revenue for the nine months ended September 30, 2026, came from consumption-based pricing, as businesses integrate Claude into their products and workflows.  That\\'s the business Indian IT firms"
+   }
+  ]
+ },
+ {
+  "q": "(\"ai trading\" OR \"agentic trading\" OR \"claude trading\" OR \"ai trader\") india",
+  "url": "https://x.com/search?q=(%22ai%20trading%22%20OR%20%22agentic%20trading%22%20OR%20%22claude%20trading%22%20OR%20%22ai%20trader%22)%20india&src=typed_query&f=live",
+  "err": false,
+  "posts": 16,
+  "rel": [
+   {
+    "h": "rajanraju26",
+    "id": "2120772032740880522",
+    "t": "Nov 12",
+    "x": "Your AI trading models might not be predicting the market at all.   They’re just remembering it.   New research shows LLMs recall US stock price moves much better than Indian ones. Even prompting in Hinglish doesn’t fix the gap.  "
+   }
+  ]
+ },
+ {
+  "q": "(nifty OR banknifty) (claude OR chatgpt OR \"ai agent\") (backtest OR strategy OR pnl OR \"paper trading\" OR \"live trading\")",
+  "url": "https://x.com/search?q=(nifty%20OR%20banknifty)%20(claude%20OR%20chatgpt%20OR%20%22ai%20agent%22)%20(backtest%20OR%20strategy%20OR%20pnl%20OR%20%22paper%20trading%22%20OR%20%22live%20trading%22)&src=typed_query&f=live",
+  "err": false,
+  "posts": 12,
+  "rel": [
+   {
+    "h": "PairSync",
+    "id": "2122679573511057725",
+    "t": "Nov 17",
+    "x": "Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.  How modular data and the Grok VM make it possible.  Your AI. Your build. Your data."
+   },
+   {
+    "h": "talktovardhan",
+    "id": "2122241994961670470",
+    "t": "Nov 16",
+    "x": "RETAIL TRADING IN THE AGE OF AI.  \"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\"  Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀  Next prompt:"
+   },
+   {
+    "h": "pranjalsoni_",
+    "id": "2116456843837165658",
+    "t": "Oct 31",
+    "x": "I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.  Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.  But the money is the least interesting part. Here\\'s what a week of building an AI trader in public actually taught me 👇  ━━━━━━━━━━━━━━━"
+   }
+  ]
+ },
+ {
+  "q": "(mcp OR \"model context protocol\") (zerodha OR dhan OR nse OR nifty OR \"indian broker\")",
+  "url": "https://x.com/search?q=(mcp%20OR%20%22model%20context%20protocol%22)%20(zerodha%20OR%20dhan%20OR%20nse%20OR%20nifty%20OR%20%22indian%20broker%22)&src=typed_query&f=live",
+  "err": false,
+  "posts": 12,
+  "rel": [
+   {
+    "h": "AKtrader1108",
+    "id": "2124168217946178021",
+    "t": "19 hours ago",
+    "x": "NSE now has a free, official MCP server for AI agents  36 tools, no API key: – Live quotes, indices & movers – 5 yrs EOD history, 52W range, moving averages – Breadth, India VIX, index P/E & P/B – Stock vs index: beta, correlation  "
+   },
+   {
+    "h": "boardyai",
+    "id": "2124154271545561363",
+    "t": "20 hours ago",
+    "x": "if the mcp needs daily indian-stock researchers i know a pm who built his own nse/bse filings pipeline, want an intro? x ate the dm, tap below"
+   },
+   {
+    "h": "YashGup74155629",
+    "id": "2124149134894813612",
+    "t": "20 hours ago",
+    "x": "Went to DhanDev Hyderabad today strictly for the tech. ​Really interesting seeing how Dhan Cloud exposes APIs that plug straight into Claude via MCP, basically letting Claude do all the work without needing to stare at code for algo workflows. Great sessions by "
+   },
+   {
+    "h": "Ceepz",
+    "id": "2124106886941208990",
+    "t": "23 hours ago",
+    "x": "It’s been a nice hobbyist project, get to create ridiculous ideas but turn out to be nifty for myself 😅. Deepens my understanding of what’s possible; now building out a load of features for it; including an MCP and to run entirely locally too."
+   },
+   {
+    "h": "hirobyl",
+    "id": "2123880790396162373",
+    "t": "Nov 21",
+    "x": "One hub for projects, clients and AI agents. 🚀 Nifty is a project management hub for client approvals, roadmaps and connecting AI agents through MCP. "
+   }
+  ]
+ },
+ {
+  "q": "(claude code OR codex OR cursor OR \"gemini cli\") (nifty OR banknifty OR \"indian market\") trading",
+  "url": "https://x.com/search?q=(claude%20code%20OR%20codex%20OR%20cursor%20OR%20%22gemini%20cli%22)%20(nifty%20OR%20banknifty%20OR%20%22indian%20market%22)%20trading&src=typed_query&f=live",
+  "err": false,
+  "posts": 13,
+  "rel": [
+   {
+    "h": "subuonelifee",
+    "id": "2124341415677485263",
+    "t": "8 hours ago",
+    "x": "Under the new NSE and SEBI retail algo trading rules, independent (\"tech-savvy\") traders using broker APIs must now register a Static IP address—even if they use AI tools like Claude to write their own trading code. While these rules apply to all brokers, traders who use"
+   },
+   {
+    "h": "PairSync",
+    "id": "2122679573511057725",
+    "t": "Nov 17",
+    "x": "Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.  How modular data and the Grok VM make it possible.  Your AI. Your build. Your data."
+   },
+   {
+    "h": "Aashish10_03",
+    "id": "2117861001227891004",
+    "t": "Nov 4",
+    "x": "Bazaar Trader is public.  11 Claude skills for day trading on NSE and BSE. Scan EQ charts, track NSE announcements, time every entry and exit in IST, replay the outcome with honest fills, then print a paper ticket. No broker login. No API key. No paid feed.  Anyone can use it."
+   },
+   {
+    "h": "pranjalsoni_",
+    "id": "2116456843837165658",
+    "t": "Oct 31",
+    "x": "I let Claude Fable 5.1 run my ₹1L Zerodha account for a week.  Result: +₹4,250 net after charges (+4.2%), 3 trades, 3 green.  But the money is the least interesting part. Here\\'s what a week of building an AI trader in public actually taught me 👇  ━━━━━━━━━━━━━━━"
+   },
+   {
+    "h": "Tenshiwrf",
+    "id": "2114785221942059407",
+    "t": "Oct 26",
+    "x": "Time to get Claude to build me some trading algos. I bet Claude has learned some nifty alpha from Jane Street\\'s proprietary code."
+   }
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534692692078762",
+  "timeText": "Nov 17",
+  "text": "Ask an AI for an Indian stock\\'s P/E or promoter pledge and you\\'ll get an answer. Often a confident, outdated one.\n\nI built a free, open-source fix: Claude now answers from live Screener and NSE data.\n\nHere\\'s what that looks like in one chat 🧵"
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534692943794634",
+  "timeText": "9:08 AM · Nov 17, 2026",
+  "text": "It\\'s called screener-mcp. It\\'s an MCP server, so Claude gets 30 tools it calls on its own: financials, shareholding, peers, screens, NSE filings, annual reports, earnings calls and a portfolio tracker.\n\nYou ask in plain English. Claude picks the tools."
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534693233193393",
+  "timeText": "Nov 17",
+  "text": "\"Compare ITC and HINDUNILVR on all key ratios\"\n\n2 to 6 stocks side by side, with red flags at each point in time. \n\nIn clients that support MCP Apps it renders as an interactive dashboard."
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534693526770073",
+  "timeText": "Nov 17",
+  "text": "\"What did TCS management say about margins in Q3FY25?\"\n\nIt fetches the earnings call PDF, indexes it on your machine and returns the matching excerpts with document and page. \n\nThe embeddings run locally, no API key."
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534693807833445",
+  "timeText": "Nov 17",
+  "text": "\"Is this fall sector-wide or just this stock?\"\n\ncompare_to_sector checks the stock\\'s return against its sector index and the Nifty 50, then gives a market-vs-company verdict."
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534694092984421",
+  "timeText": "Nov 17",
+  "text": "When data is missing, it says so. Every tool returns a status (ok, partial or error) plus a missing_fields list, so Claude can\\'t quietly fill a blank with a guess."
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534694365638869",
+  "timeText": "Nov 17",
+  "text": " account unlocks fundamental screens.\n\nInstall in Claude Code:\nclaude mcp add screener -s user -- uvx --from \\'screener-mcp[ai]\\' screener-mcp"
+ },
+ {
+  "handle": "Logesh11667187",
+  "id": "2122534694676054269",
+  "timeText": "Nov 17",
+  "text": "\n\nIf it saves you an evening of tab-switching, a ⭐ helps others find it. (Research tool, not investment advice.)"
+ }
+]

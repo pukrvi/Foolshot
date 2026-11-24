@@ -1,0 +1,511 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "LONE WOLF on X: \"RETAIL TRADING IN THE AGE OF AI. \"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\" Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀 Next prompt:\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "LONE WOLF on X: \"RETAIL TRADING IN THE AGE OF AI. \"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\" Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀 Next prompt:\" / X" url="https://x.com/talktovardhan/status/2122241994961670470"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "LONE WOLF\nVerified account\n@talktovardhan RETAIL TRADING IN THE AGE OF AI. \n\"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\"\n\nBecause apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀\n\nNext prompt:\n\n\"Make it 95% accurate, non-repainting, work in every market condition and give early entries with zero drawdown.\"\n\nAI: \"Absolutely!\"\n\nBacktest: Beautiful.\nEquity curve: Vertical.\nConfidence: Unlimited.\n\nLive market: SL hit in 3 candles.\n\nRetail trader: \"ChatGPT, something is wrong with your code. Fix it.\" \n\nMeanwhile, the next indicator is already under development.\n\nPerhaps the problem isn\'t a shortage of indicators.\n\nPerhaps it\'s a shortage of understanding.\n\n🐺 40 replies, 16 reposts, 59 likes, 2 bookmarks, 788 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/talktovardhan"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "LONE WOLF\nVerified account" url="https://x.com/talktovardhan"
+                      - [72] AXStaticText expanded=false = "LONE WOLF"
+                      - [73] AXImage expanded=false "Verified account"
+                    - [74] AXLink expanded=false "@talktovardhan" url="https://x.com/talktovardhan"
+                      - [75] AXGroup expanded=false
+                        - [76] AXStaticText expanded=false = "@talktovardhan"
+                    - [77] AXButton expanded=false "Grok actions"
+                    - [78] AXPopUpButton expanded=false "More"
+                    - [79] AXGroup expanded=false
+                      - [80] AXStaticText expanded=false = "RETAIL TRADING IN THE AGE OF AI. \n\"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\"\n\nBecause apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀\n\nNext prompt:\n\n\"Make it 95% accurate, non-repainting, work in every market condition and give early entries with zero drawdown.\"\n\nAI: \"Absolutely!\"\n\nBacktest: Beautiful.\nEquity curve: Vertical.\nConfidence: Unlimited.\n\nLive market: SL hit in 3 candles.\n\nRetail trader: \"ChatGPT, something is wrong with your code. Fix it.\" \n\nMeanwhile, the next indicator is already under development.\n\nPerhaps the problem isn\'t a shortage of indicators.\n\nPerhaps it\'s a shortage of understanding.\n\n🐺"
+                    - [81] AXGroup expanded=false
+                      - [82] AXLink expanded=false "1:44 PM · Nov 16, 2026" url="https://x.com/talktovardhan/status/2122241994961670470"
+                        - [83] AXGroup subrole=AXTimeGroup expanded=false
+                          - [84] AXStaticText expanded=false = "1:44 PM · Nov 16, 2026"
+                      - [85] AXLink expanded=false "788 Views" url="https://x.com/talktovardhan/status/2122241994961670470/analytics"
+                        - [86] AXStaticText expanded=false = "788"
+                        - [87] AXStaticText expanded=false = "Views"
+                    - [88] AXGroup subrole=AXApplicationGroup expanded=false "40 replies, 16 reposts, 59 likes, 2 bookmarks, 788 views"
+                      - [89] AXButton expanded=false "40 Replies. Reply"
+                      - [90] AXPopUpButton expanded=false "16 reposts. Repost"
+                      - [91] AXButton expanded=false "59 Likes. Like"
+                      - [92] AXButton expanded=false "2 Bookmarks. Bookmark"
+                      - [93] AXPopUpButton expanded=false "Share post"
+                    - [94] AXPopUpButton expanded=false "Relevant"
+                  - [95] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [96] AXGroup expanded=false
+                    - [97] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [98] AXGroup expanded=false
+                      - [99] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [100] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [101] AXGroup expanded=false
+                          - [102] AXGroup expanded=false "Puneet Vishnawat"
+                            - [103] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [104] AXGroup expanded=false
+                    - [105] AXStaticText expanded=false = "Post your reply"
+                  - [106] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [107] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [108] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [109] AXGroup subrole=AXDocumentArticle expanded=false "MargoMDesigns🛡️\nVerified account\n@mayaivanoff Nov 17 Spot on. Most traders use #AI to skip the hard part of \nlearning market structure, and the market charges full \ntuition for that shortcut. 1 reply, 2 likes, 17 views"
+                    - [110] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [111] AXGroup expanded=false
+                      - [112] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [113] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [114] AXLink expanded=false "MargoMDesigns🛡️\nVerified account" url="https://x.com/mayaivanoff"
+                      - [115] AXStaticText expanded=false = "MargoMDesigns🛡️"
+                      - [116] AXImage expanded=false "Verified account"
+                    - [117] AXLink expanded=false "@mayaivanoff" url="https://x.com/mayaivanoff"
+                      - [118] AXGroup expanded=false
+                        - [119] AXStaticText expanded=false = "@mayaivanoff"
+                    - [120] AXLink expanded=false "Nov 17" url="https://x.com/mayaivanoff/status/2122471523839513022"
+                      - [121] AXGroup subrole=AXTimeGroup expanded=false
+                        - [122] AXStaticText expanded=false = "Nov 17"
+                    - [123] AXButton expanded=false "Grok actions"
+                    - [124] AXPopUpButton expanded=false "More"
+                    - [125] AXGroup expanded=false
+                      - [126] AXStaticText expanded=false = "Spot on. Most traders use "
+                      - [127] AXLink expanded=false "#AI" url="https://x.com/hashtag/AI?src=hashtag_click"
+                        - [128] AXStaticText expanded=false = "#AI"
+                      - [129] AXStaticText expanded=false = " to skip the hard part of \nlearning market structure, and the market charges full \ntuition for that shortcut."
+                    - [130] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 2 likes, 17 views"
+                      - [131] AXButton expanded=false "1 Reply. Reply"
+                      - [132] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [133] AXButton expanded=false "2 Likes. Like"
+                      - [134] AXLink expanded=false "17 views. View post analytics" url="https://x.com/mayaivanoff/status/2122471523839513022/analytics"
+                        - [135] AXStaticText expanded=false = "17"
+                      - [136] AXButton expanded=false "Bookmark"
+                      - [137] AXPopUpButton expanded=false "Share post"
+                  - [138] AXGroup subrole=AXDocumentArticle expanded=false "LONE WOLF\nVerified account\n@talktovardhan Nov 17 And the funny part is, the more indicators they add, the less attention they pay to the actual price. 1 like, 7 views"
+                    - [139] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [140] AXGroup expanded=false
+                      - [141] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [142] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [143] AXLink expanded=false "LONE WOLF\nVerified account" url="https://x.com/talktovardhan"
+                      - [144] AXStaticText expanded=false = "LONE WOLF"
+                      - [145] AXImage expanded=false "Verified account"
+                    - [146] AXLink expanded=false "@talktovardhan" url="https://x.com/talktovardhan"
+                      - [147] AXGroup expanded=false
+                        - [148] AXStaticText expanded=false = "@talktovardhan"
+                    - [149] AXLink expanded=false "Nov 17" url="https://x.com/talktovardhan/status/2122521058070892760"
+                      - [150] AXGroup subrole=AXTimeGroup expanded=false
+                        - [151] AXStaticText expanded=false = "Nov 17"
+                    - [152] AXButton expanded=false "Grok actions"
+                    - [153] AXPopUpButton expanded=false "More"
+                    - [154] AXGroup expanded=false
+                      - [155] AXStaticText expanded=false = "And the funny part is, the more indicators they add, the less attention they pay to the actual price."
+                    - [156] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 7 views"
+                      - [157] AXButton expanded=false "0 Replies. Reply"
+                      - [158] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [159] AXButton expanded=false "1 Like. Like"
+                      - [160] AXLink expanded=false "7 views. View post analytics" url="https://x.com/talktovardhan/status/2122521058070892760/analytics"
+                        - [161] AXStaticText expanded=false = "7"
+                      - [162] AXButton expanded=false "Bookmark"
+                      - [163] AXPopUpButton expanded=false "Share post"
+                  - [164] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [165] AXGroup subrole=AXDocumentArticle expanded=false "Dr. Samia\nVerified account\n@oye_samia Nov 16 Understanding beats indicators every time. 1 like, 4 views"
+                    - [166] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [167] AXGroup expanded=false
+                      - [168] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [169] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [170] AXLink expanded=false "Dr. Samia\nVerified account" url="https://x.com/oye_samia"
+                      - [171] AXStaticText expanded=false = "Dr. Samia"
+                      - [172] AXImage expanded=false "Verified account"
+                    - [173] AXLink expanded=false "@oye_samia" url="https://x.com/oye_samia"
+                      - [174] AXGroup expanded=false
+                        - [175] AXStaticText expanded=false = "@oye_samia"
+                    - [176] AXLink expanded=false "Nov 16" url="https://x.com/oye_samia/status/2122301902126014693"
+                      - [177] AXGroup subrole=AXTimeGroup expanded=false
+                        - [178] AXStaticText expanded=false = "Nov 16"
+                    - [179] AXButton expanded=false "Grok actions"
+                    - [180] AXPopUpButton expanded=false "More"
+                    - [181] AXGroup expanded=false
+                      - [182] AXStaticText expanded=false = "Understanding beats indicators every time."
+                    - [183] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 4 views"
+                      - [184] AXButton expanded=false "0 Replies. Reply"
+                      - [185] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [186] AXButton expanded=false "1 Like. Like"
+                      - [187] AXLink expanded=false "4 views. View post analytics" url="https://x.com/oye_samia/status/2122301902126014693/analytics"
+                        - [188] AXStaticText expanded=false = "4"
+                      - [189] AXButton expanded=false "Bookmark"
+                      - [190] AXPopUpButton expanded=false "Share post"
+                  - [191] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [192] AXGroup subrole=AXDocumentArticle expanded=false "Eesha\nVerified account\n@MissDelulu9 Nov 16 Understanding beats indicator overload! 1 like, 23 views"
+                    - [193] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [194] AXGroup expanded=false
+                      - [195] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [196] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [197] AXLink expanded=false "Eesha\nVerified account" url="https://x.com/MissDelulu9"
+                      - [198] AXStaticText expanded=false = "Eesha"
+                      - [199] AXImage expanded=false "Verified account"
+                    - [200] AXLink expanded=false "@MissDelulu9" url="https://x.com/MissDelulu9"
+                      - [201] AXGroup expanded=false
+                        - [202] AXStaticText expanded=false = "@MissDelulu9"
+                    - [203] AXLink expanded=false "Nov 16" url="https://x.com/MissDelulu9/status/2122296975441666422"
+                      - [204] AXGroup subrole=AXTimeGroup expanded=false
+                        - [205] AXStaticText expanded=false = "Nov 16"
+                    - [206] AXButton expanded=false "Grok actions"
+                    - [207] AXPopUpButton expanded=false "More"
+                    - [208] AXGroup expanded=false
+                      - [209] AXStaticText expanded=false = "Understanding beats indicator overload!"
+                    - [210] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 23 views"
+                      - [211] AXButton expanded=false "0 Replies. Reply"
+                      - [212] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [213] AXButton expanded=false "1 Like. Like"
+                      - [214] AXLink expanded=false "23 views. View post analytics" url="https://x.com/MissDelulu9/status/2122296975441666422/analytics"
+                        - [215] AXStaticText expanded=false = "23"
+                      - [216] AXButton expanded=false "Bookmark"
+                      - [217] AXPopUpButton expanded=false "Share post"
+                  - [218] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [219] AXGroup subrole=AXDocumentArticle expanded=false "Necodayi\nVerified account\n@necodayi_ Nov 16 Sekiz indikatör aynı şeyi söylese de piyasa dinlemiyor sorun araçta değil sabırsızlıkta ve risk yönetiminde"
+                    - [220] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [221] AXGroup expanded=false
+                      - [222] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [223] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [224] AXLink expanded=false "Necodayi\nVerified account" url="https://x.com/necodayi_"
+                      - [225] AXStaticText expanded=false = "Necodayi"
+                      - [226] AXImage expanded=false "Verified account"
+                    - [227] AXLink expanded=false "@necodayi_" url="https://x.com/necodayi_"
+                      - [228] AXGroup expanded=false
+                        - [229] AXStaticText expanded=false = "@necodayi_"
+                    - [230] AXLink expanded=false "Nov 16" url="https://x.com/necodayi_/status/2122318179967844831"
+                      - [231] AXGroup subrole=AXTimeGroup expanded=false
+                        - [232] AXStaticText expanded=false = "Nov 16"
+                    - [233] AXButton expanded=false "Grok actions"
+                    - [234] AXPopUpButton expanded=false "More"
+                    - [235] AXGroup expanded=false
+                      - [236] AXStaticText expanded=false = "Sekiz indikatör aynı şeyi söylese de piyasa dinlemiyor sorun araçta değil sabırsızlıkta ve risk yönetiminde"
+                    - [237] AXGroup subrole=AXApplicationGroup expanded=false "14 views"
+                      - [238] AXButton expanded=false "0 Replies. Reply"
+                      - [239] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [240] AXButton expanded=false "0 Likes. Like"
+                      - [241] AXLink expanded=false "14 views. View post analytics" url="https://x.com/necodayi_/status/2122318179967844831/analytics"
+                        - [242] AXStaticText expanded=false = "14"
+                      - [243] AXButton expanded=false "Bookmark"
+                      - [244] AXPopUpButton expanded=false "Share post"
+                  - [245] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [246] AXGroup subrole=AXDocumentArticle expanded=false "Adarsh\nVerified account\n@Adarsh_Onchain Nov 16 Only jim simons could make enormous profits using AI and ML when chatgpt wasn\'t in the existence 1 like, 22 views"
+                    - [247] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [248] AXGroup expanded=false
+                      - [249] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [250] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [251] AXLink expanded=false "Adarsh\nVerified account" url="https://x.com/Adarsh_Onchain"
+                      - [252] AXStaticText expanded=false = "Adarsh"
+                      - [253] AXImage expanded=false "Verified account"
+                    - [254] AXLink expanded=false "@Adarsh_Onchain" url="https://x.com/Adarsh_Onchain"
+                      - [255] AXGroup expanded=false
+                        - [256] AXStaticText expanded=false = "@Adarsh_Onchain"
+                    - [257] AXLink expanded=false "Nov 16" url="https://x.com/Adarsh_Onchain/status/2122277489955520818"
+                      - [258] AXGroup subrole=AXTimeGroup expanded=false
+                        - [259] AXStaticText expanded=false = "Nov 16"
+                    - [260] AXButton expanded=false "Grok actions"
+                    - [261] AXPopUpButton expanded=false "More"
+                    - [262] AXGroup expanded=false
+                      - [263] AXStaticText expanded=false = "Only jim simons could make enormous profits using AI and ML when chatgpt wasn\'t in the existence"
+                    - [264] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 22 views"
+                      - [265] AXButton expanded=false "0 Replies. Reply"
+                      - [266] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [267] AXButton expanded=false "1 Like. Like"
+                      - [268] AXLink expanded=false "22 views. View post analytics" url="https://x.com/Adarsh_Onchain/status/2122277489955520818/analytics"
+                        - [269] AXStaticText expanded=false = "22"
+                      - [270] AXButton expanded=false "Bookmark"
+                      - [271] AXPopUpButton expanded=false "Share post"
+                  - [272] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [273] AXGroup subrole=AXDocumentArticle expanded=false "VicNexAI\nVerified account\n@VicNexAI Nov 16 Indicators don’t fail. Understanding always does. 1 like, 12 views"
+                    - [274] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [275] AXGroup expanded=false
+                      - [276] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [277] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [278] AXLink expanded=false "VicNexAI\nVerified account" url="https://x.com/VicNexAI"
+                      - [279] AXStaticText expanded=false = "VicNexAI"
+                      - [280] AXImage expanded=false "Verified account"
+                    - [281] AXLink expanded=false "@VicNexAI" url="https://x.com/VicNexAI"
+                      - [282] AXGroup expanded=false
+                        - [283] AXStaticText expanded=false = "@VicNexAI"
+                    - [284] AXLink expanded=false "Nov 16" url="https://x.com/VicNexAI/status/2122261995869090265"
+                      - [285] AXGroup subrole=AXTimeGroup expanded=false
+                        - [286] AXStaticText expanded=false = "Nov 16"
+                    - [287] AXButton expanded=false "Grok actions"
+                    - [288] AXPopUpButton expanded=false "More"
+                    - [289] AXGroup expanded=false
+                      - [290] AXStaticText expanded=false = "Indicators don’t fail. Understanding always does."
+                    - [291] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 12 views"
+                      - [292] AXButton expanded=false "0 Replies. Reply"
+                      - [293] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [294] AXButton expanded=false "1 Like. Like"
+                      - [295] AXLink expanded=false "12 views. View post analytics" url="https://x.com/VicNexAI/status/2122261995869090265/analytics"
+                        - [296] AXStaticText expanded=false = "12"
+                      - [297] AXButton expanded=false "Bookmark"
+                      - [298] AXPopUpButton expanded=false "Share post"
+                  - [299] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [300] AXGroup subrole=AXDocumentArticle expanded=false "Marisol Salinas\nVerified account\n@PsicoterapiaMSC Nov 16 More indicators don\'t guarantee better decisions."
+                    - [301] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [302] AXGroup expanded=false
+                      - [303] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [304] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [305] AXLink expanded=false "Marisol Salinas\nVerified account" url="https://x.com/PsicoterapiaMSC"
+                      - [306] AXStaticText expanded=false = "Marisol Salinas"
+                      - [307] AXImage expanded=false "Verified account"
+                    - [308] AXLink expanded=false "@PsicoterapiaMSC" url="https://x.com/PsicoterapiaMSC"
+                      - [309] AXGroup expanded=false
+                        - [310] AXStaticText expanded=false = "@PsicoterapiaMSC"
+                    - [311] AXLink expanded=false "Nov 16" url="https://x.com/PsicoterapiaMSC/status/2122301424147009952"
+                      - [312] AXGroup subrole=AXTimeGroup expanded=false
+                        - [313] AXStaticText expanded=false = "Nov 16"
+                    - [314] AXButton expanded=false "Grok actions"
+                    - [315] AXPopUpButton expanded=false "More"
+                    - [316] AXGroup expanded=false
+                      - [317] AXStaticText expanded=false = "More indicators don\'t guarantee better decisions."
+                    - [318] AXGroup subrole=AXApplicationGroup expanded=false "13 views"
+                      - [319] AXButton expanded=false "0 Replies. Reply"
+                      - [320] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [321] AXButton expanded=false "0 Likes. Like"
+                      - [322] AXLink expanded=false "13 views. View post analytics" url="https://x.com/PsicoterapiaMSC/status/2122301424147009952/analytics"
+                        - [323] AXStaticText expanded=false = "13"
+                      - [324] AXButton expanded=false "Bookmark"
+                      - [325] AXPopUpButton expanded=false "Share post"
+                  - [326] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [327] AXGroup subrole=AXDocumentArticle expanded=false "India Exim Bank\nVerified account\n@IndiaEximBank Great research deserves recognition and the opportunity to make a global impact.\n\nIndia Exim Bank invites applications for the IERA Citation 2026, recognising outstanding doctoral research in international economics, trade and development.\n\nStand a chance to win ₹3,50,000 and Image 37 replies, 122 reposts, 1197 likes, 235 bookmarks, 7545990 views"
+                    - [328] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [329] AXGroup expanded=false
+                      - [330] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [331] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [332] AXLink expanded=false "India Exim Bank\nVerified account" url="https://x.com/IndiaEximBank"
+                      - [333] AXStaticText expanded=false = "India Exim Bank"
+                      - [334] AXImage expanded=false "Verified account"
+                    - [335] AXLink expanded=false "@IndiaEximBank" url="https://x.com/IndiaEximBank"
+                      - [336] AXGroup expanded=false
+                        - [337] AXStaticText expanded=false = "@IndiaEximBank"
+                    - [338] AXGroup expanded=false
+                      - [339] AXStaticText expanded=false = "Ad"
+                    - [340] AXPopUpButton expanded=false "More"
+                    - [341] AXGroup expanded=false
+                      - [342] AXStaticText expanded=false = "Great research deserves recognition and the opportunity to make a global impact.\n\nIndia Exim Bank invites applications for the IERA Citation 2026, recognising outstanding doctoral research in international economics, trade and development.\n\nStand a chance to win ₹3,50,000 and"
+                    - [343] AXButton expanded=false "Show more"
+                    - [344] AXGroup expanded=false
+                      - [345] AXLink expanded=false "Image" url="https://x.com/IndiaEximBank/status/2122918512008249379/photo/1"
+                        - [346] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [347] AXGroup expanded=false
+                          - [348] AXGroup expanded=false "Image"
+                            - [349] AXImage expanded=false "Image" url="https://pbs.twimg.com/media/HXYe8kKbYAEtiAq?format=jpg&name=medium"
+                    - [350] AXGroup subrole=AXApplicationGroup expanded=false "37 replies, 122 reposts, 1197 likes, 235 bookmarks, 7545990 views"
+                      - [351] AXButton expanded=false "37 Replies. Reply"
+                      - [352] AXPopUpButton expanded=false "122 reposts. Repost"
+                      - [353] AXButton expanded=false "1197 Likes. Like"
+                      - [354] AXLink expanded=false "7545990 views. View post analytics" url="https://x.com/IndiaEximBank/status/2122918512008249379/analytics"
+                        - [355] AXStaticText expanded=false = "7.5M"
+                      - [356] AXButton expanded=false "Bookmark"
+                      - [357] AXPopUpButton expanded=false "Share post"
+          - [358] AXGroup expanded=false "Trending"
+            - [359] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [360] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [361] AXGroup expanded=false
+                  - [362] AXStaticText expanded=false = "Search"
+            - [363] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [364] AXHeading expanded=false "Relevant people" = "2"
+                - [365] AXStaticText expanded=false = "Relevant people"
+              - [366] AXList subrole=AXContentList expanded=false
+                - [367] AXGroup expanded=false
+                  - [368] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [369] AXGroup expanded=false
+                    - [370] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [371] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [372] AXLink expanded=false "LONE WOLF\nVerified account" url="https://x.com/talktovardhan"
+                    - [373] AXStaticText expanded=false = "LONE WOLF"
+                    - [374] AXImage expanded=false "Verified account"
+                  - [375] AXLink expanded=false "@talktovardhan" url="https://x.com/talktovardhan"
+                    - [376] AXGroup expanded=false
+                      - [377] AXStaticText expanded=false = "@talktovardhan"
+                  - [378] AXButton expanded=false "Follow @talktovardhan"
+                  - [379] AXGroup expanded=false
+                    - [380] AXStaticText expanded=false = "Trading charts. Studying crowds. Neither is rational."
+            - [381] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [382] AXHeading expanded=false "Trending now" = "1"
+                - [383] AXStaticText expanded=false = "Trending now"
+              - [384] AXGroup expanded=false "Timeline: Trending now"
+                - [385] AXGroup subrole=AXEmptyGroup expanded=false
+                - [386] AXHeading expanded=false "What’s happening" = "2"
+                  - [387] AXStaticText expanded=false = "What’s happening"
+                - [388] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [389] AXGroup expanded=false
+                    - [390] AXStaticText expanded=false = "Sports · Trending"
+                  - [391] AXGroup expanded=false
+                    - [392] AXStaticText expanded=false = "Rishabh Pant"
+                  - [393] AXPopUpButton expanded=false "More"
+                - [394] AXLink expanded=false "Sports · Trending Draw More"
+                  - [395] AXGroup expanded=false
+                    - [396] AXStaticText expanded=false = "Sports · Trending"
+                  - [397] AXGroup expanded=false
+                    - [398] AXStaticText expanded=false = "Draw"
+                  - [399] AXPopUpButton expanded=false "More"
+                - [400] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [401] AXGroup expanded=false
+                    - [402] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [403] AXGroup expanded=false
+                    - [404] AXStaticText expanded=false = "Charles"
+                  - [405] AXPopUpButton expanded=false "More"
+                - [406] AXLink expanded=false "Business & finance · Trending Nifty 50 More"
+                  - [407] AXGroup expanded=false
+                    - [408] AXStaticText expanded=false = "Business & finance · Trending"
+                  - [409] AXGroup expanded=false
+                    - [410] AXStaticText expanded=false = "Nifty 50"
+                  - [411] AXPopUpButton expanded=false "More"
+                - [412] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [413] AXGroup expanded=false
+                    - [414] AXStaticText expanded=false = "Show more"
+            - [415] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [416] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [417] AXStaticText expanded=false = "Terms"
+              - [418] AXGroup expanded=false
+                - [419] AXStaticText expanded=false = "·"
+              - [420] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [421] AXStaticText expanded=false = "Privacy"
+              - [422] AXGroup expanded=false
+                - [423] AXStaticText expanded=false = "·"
+              - [424] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [425] AXStaticText expanded=false = "Cookies"
+              - [426] AXGroup expanded=false
+                - [427] AXStaticText expanded=false = "·"
+              - [428] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [429] AXStaticText expanded=false = "Accessibility"
+              - [430] AXGroup expanded=false
+                - [431] AXStaticText expanded=false = "·"
+              - [432] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [433] AXStaticText expanded=false = "Ads Info"
+              - [434] AXGroup expanded=false
+                - [435] AXStaticText expanded=false = "·"
+              - [436] AXPopUpButton expanded=false "More"
+              - [437] AXGroup expanded=false
+                - [438] AXStaticText expanded=false = "© 2026 X Corp."
+        - [439] AXGroup subrole=AXEmptyGroup expanded=false
+        - [440] AXGroup subrole=AXEmptyGroup expanded=false
+      - [441] AXScrollBar expanded=false = "0.001709986"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [442] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [443] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [444] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [445] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [446] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [447] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [448] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [449] AXRadioButton subrole=AXTabButton valueWritable=false "LONE WOLF on X: \"RETAIL TRADING IN THE AGE OF AI. \"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\" Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀 Next prompt:\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "LONE WOLF on X: \"RETAIL TRADING IN THE AGE OF AI. \"Hey ChatGPT, build me a profitable NIFTY indicator using RSI, MACD, EMA, Supertrend, ATR, Bollinger Bands, VWAP and Fibonacci.\" Because apparently, 8 indicators agreeing with each other is called institutional-grade research. 💀 Next prompt:\" / X" selection=[0,0]
+  - [450] AXGroup "Favorites bar"
+    - [451] AXButton "show start page" help="Show Start Page"
+    - [452] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [453] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [454] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [455] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [456] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [457] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [458] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [459] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [460] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [461] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [462] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [463] AXToolbar
+    - [464] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [465] AXButton "show sidebar" help="Show sidebar"
+      - [466] AXMenuButton "Tab Group picker"
+    - [467] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [468] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [469] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [470] AXButton "Page Menu"
+      - [471] AXButton "Add page to Reading List"
+      - [472] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/talktovardhan/status/2122241994961670470" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [473] AXButton "Reload this page"
+    - [474] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [475] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [476] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [477] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [478] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [479] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [480] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [481] AXButton subrole=AXCloseButton
+  - [482] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [483] AXButton subrole=AXMinimizeButton
+- [484] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [485] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [486] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [487] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [488] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [489] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [490] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [491] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [492] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [493] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

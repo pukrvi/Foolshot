@@ -1,0 +1,12 @@
+URL: https://x.com/HitheshKaranth/status/2106005764410315136
+DATE: 2026-11-22
+MODE: Latest
+
+Hithesh Karanth
+@HitheshKaranth Asked my open-source terminal\'s AI agent for a quick read on CCL Products (NSE: CCL).
+
+It picked its own tools, pulled live price, valuation, its 52-week position and the latest news, and answered in seconds.
+
+Self-hosted, runs on local models.
+ github.com/Hitheshkaranth Embedded video
+0:22 1 repost, 3 likes, 303 views

@@ -1,0 +1,175 @@
+URL: https://teapawt.net/pranjalsoni_/status/2117936915081232535
+FETCHED: 2026-11-22
+
+Pranjal Soni (@pranjalsoni_): "day 3 of letting claude trade my real money.
+
+day 1 went too well. first real trades, small size, closed green. i felt like a genius
+
+day 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn't exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill
+
+then i lost two market days to my own setup issues. no trades. annoying
+
+so today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn't matter
+
+first order from the new server was 1 share. just to see if the pipes work. they did
+
+the market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn't, and that one was my idea, not the bot's. cut it early
+
+> everything closed on its own before 3:15. green after charges
+
+the best part came after close. i was sure we'd have made more by entering earlier. so we tested it on 2 years of data
+
+i was wrong. the obvious version loses money. one small piece held up, so that goes to paper first
+
+3 trading days, 3 green. same rules every day: my yes on every real trade, stops always on, nothing held overnight
+
+day 4 tomorrow" | teapawt teapawt 
+ $ 
+
+ Pranjal Soni 
+ 
+ @pranjalsoni_ Nov 4 
+
+ day 3 of letting claude trade my real money.
+
+day 1 went too well. first real trades, small size, closed green. i felt like a genius
+
+day 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn't exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill
+
+then i lost two market days to my own setup issues. no trades. annoying
+
+so today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn't matter
+
+first order from the new server was 1 share. just to see if the pipes work. they did
+
+the market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn't, and that one was my idea, not the bot's. cut it early
+
+> everything closed on its own before 3:15. green after charges
+
+the best part came after close. i was sure we'd have made more by entering earlier. so we tested it on 2 years of data
+
+i was wrong. the obvious version loses money. one small piece held up, so that goes to paper first
+
+3 trading days, 3 green. same rules every day: my yes on every real trade, stops always on, nothing held overnight
+
+day 4 tomorrow
+
+ Nov 4, 2026 · 11:08 AM UTC
+ 7
+ 
+ 12
+ 1,922
+ Relevant Recent Likes 
+
+ Back to the original post: Pranjal Soni day 3 of letting claude trade my real money.
+
+day 1 went too well. first real trades, small size, closed green. i felt like a genius
+
+day 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn't exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill
+
+then i lost two market days to my own setup issues. no trades. annoying
+
+so today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn't matter
+
+first order from the new server was 1 share. just to see if the pipes work. they did
+
+the market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn't, and that one was my idea, not the bot's. cut it early
+
+> everything closed on its own before 3:15. green after charges
+
+the best part came after close. i was sure we'd have made more by entering earlier. so we tested it on 2 years of data
+
+i was wrong. the obvious version loses money. one small piece held up, so that goes to paper first
+
+3 trading days, 3 green. same rules every day: my yes on every real trade, stops always on, nothing held overnight
+
+day 4 tomorrow Vansh Yadav 
+ @vanshyadav1408 Nov 4 
+
+ What's the overall pnl?
+ 1
+ 
+ 2
+ 120
+
+ Pranjal Soni 
+ @pranjalsoni_ Nov 4 
+
+ 6.5k something
+
+ 95
+
+ Shashank Bhardwaj 
+ @bhardwajshash Nov 4 
+
+ still planning to throw my claude at this and build my version, haven't started. 
+
+mind helping me with context on DM?
+ 1
+ 
+ 1
+ 112
+
+ Pranjal Soni 
+ @pranjalsoni_ Nov 4 
+
+ sure, how much i should charge for this? do u think people will pay? 
+
+i think it's a coin flip strategy with some luck so yeah it works most of the times
+ 1
+ 
+ 1
+ 80
+
+ Shashank Bhardwaj 
+ @bhardwajshash Nov 4 
+
+ there should be a certain audience that will pay imo. people like you and i may just build our private version but many others could pay - assuming you collect favorable data over the next few weeks.
+
+"works most of the times with some luck" would be good enough for plenty people imo
+
+ 35
+
+ Catalyst @SSha14635434 Nov 4 
+
+ What’s total pnl post taxes and charges ?
+
+ 1
+ 99
+
+ Naren 
+ @n_kandala Nov 4 
+
+ Congratulations. Which broker are you using. Are you able to get historical data and indicator values.
+ 1
+ 
+ 1
+ 61
+
+ Pranjal Soni 
+ @pranjalsoni_ Nov 4 
+
+ zeordha
+
+ 41
+
+ Chalapathi Rao @chalapathi_rao1 Nov 4 
+
+ Only 1 question - how did Claude agree to trade because in general it refuses to trade on its own.. Are you using api or subscription?
+
+ 1
+ 97
+
+ Slushy.Trade 
+ @SlushydotTrade Nov 4 
+
+ Calling day 2 luck and not skill, with the broker closing the position for you, is the honest read. Starting the new server on 1 share is the right size, you do not need to go big. Hell yeah, we built slushy.trade for ourselves for the same reason, so you can break things on paper first.
+
+ 2
+
+ Akeem Jenkins 
+ @cipherslice Nov 4 
+
+ An IP change mid-trade is such a specific kind of pain. Moving to a fixed box you reach from your phone was the right fix. Your rules are close to how I run my own agents: they propose, I say yes to each one from my phone, and everything they did is logged to read later. Also love that the 2 year backtest proved your hunch wrong and you kept the result.
+
+ 12

@@ -1,0 +1,32 @@
+[
+ {
+  "handle": "AKtrader1108",
+  "id": "2124168217946178021",
+  "timeText": "19 hours ago",
+  "text": "NSE now has a free, official MCP server for AI agents\n\n36 tools, no API key:\n– Live quotes, indices & movers\n– 5 yrs EOD history, 52W range, moving averages\n– Breadth, India VIX, index P/E & P/B\n– Stock vs index: beta, correlation\n\n"
+ },
+ {
+  "handle": "AKtrader1108",
+  "id": "2124168665121615872",
+  "timeText": "19 hours ago",
+  "text": "1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)\n\n– Stock quote: LTP, OHLC, volume, 52W\n– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y\n– ~140 live indices by group\n– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)\n– Live lists: equity, SME, bonds, call auction\n– Data freshness check"
+ },
+ {
+  "handle": "AKtrader1108",
+  "id": "2124169368292487246",
+  "timeText": "19 hours ago",
+  "text": "2/ 📊 END-OF-DAY: STOCKS (5 yrs data)\n\n– Daily OHLCV + close on any date\n– Bulk quote, up to 50 symbols\n– 52W high/low\n– Moving averages (20/50/200)\n– Volume spikes & trend\n– Splits, bonuses, dividends\n– Symbol search\n– Compare up to 10 stocks\n– Stock vs index: beta, correlation"
+ },
+ {
+  "handle": "AKtrader1108",
+  "id": "2124169459032011132",
+  "timeText": "19 hours ago",
+  "text": "3/ 🏛 END-OF-DAY: MARKET & INDICES\n\n– Mood: VIX, advances vs declines\n– Breadth: A/D ratio, volume\n– Top movers & most active by date\n– ~170 indices: OHLC, P/E, P/B\n– Index history, returns 1D–2Y\n– Valuation vs past 5 yrs\n– Compare up to 10 indices: return, volatility, drawdown"
+ },
+ {
+  "handle": "AKtrader1108",
+  "id": "2124169593681760624",
+  "timeText": "9:24 PM · Nov 21, 2026",
+  "text": "\n\nCash market only, no F&O or intraday candles. For info/education, not investment advice.\n\n"
+ }
+]

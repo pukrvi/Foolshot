@@ -1,0 +1,63 @@
+URL: https://x.com/pranjalsoni_/status/2117936915081232535
+DATE: 2026-11-22
+MODE: Latest
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ day 3 of letting claude trade my real money.
+
+day 1 went too well. first real trades, small size, closed green. i felt like a genius
+
+day 2 humbled me. my home internet changed ip in the middle of a trade. the broker only accepts orders from one ip, so the bot couldn\'t exit. i watched the position sit there until the broker closed it for me. still green, but that was luck, not skill
+
+then i lost two market days to my own setup issues. no trades. annoying
+
+so today i fixed the root problem. rented a small server in mumbai, gave it a fixed ip, moved everything there. now i log in with one tap from my phone and my wifi can die, doesn\'t matter
+
+first order from the new server was 1 share. just to see if the pipes work. they did
+
+the market was flat all day but money was rotating hard underneath. the bot found a few names, i said yes to each one. three worked. one didn\'t, and that one was my idea, not the bot\'s. cut it early
+
+> everything closed on its own before 3:15. green after charges
+
+the best part came after close. i was sure we\'d have made more by entering earlier. so we tested it on 2 years of data
+
+i was wrong. the obvious version loses money. one small piece held up, so that goes to paper first
+
+3 trading days, 3 green. same rules every day: my yes on every real trade, stops always on, nothing held overnight
+
+day 4 tomorrow Image 7 replies, 12 likes, 4 bookmarks, 1920 views
+
+Vansh Yadav
+Verified account
+@vanshyadav1408 Nov 4 What\'s the overall pnl? 1 reply, 2 likes, 120 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Nov 4 6.5k something
+
+Shashank Bhardwaj
+Verified account
+@bhardwajshash Nov 4 still planning to throw my claude at this and build my version, haven\'t started. 
+
+mind helping me with context on DM? 1 reply, 1 like, 112 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Nov 4 sure, how much i should charge for this? do u think people will pay? 
+
+i think it\'s a coin flip strategy with some luck so yeah it works most of the times 1 reply, 1 like, 80 views
+
+Naren
+Verified account
+@n_kandala Nov 4 Congratulations. Which broker are you using. Are you able to get historical data and indicator values. 1 reply, 1 like, 61 views
+
+Pranjal Soni
+Verified account
+@pranjalsoni_ Nov 4 zeordha
+
+Catalyst
+@SSha14635434 Nov 4 What’s total pnl post taxes and charges ? 1 like, 99 views
+
+Chalapathi Rao
+@chalapathi_rao1 Nov 4 Only 1 question - how did Claude agree to trade because in general it refuses to trade on its own.. Are you using api or subscription? 1 like, 97 views

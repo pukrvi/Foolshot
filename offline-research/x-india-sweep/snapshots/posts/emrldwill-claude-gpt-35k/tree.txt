@@ -1,0 +1,498 @@
+AX scope=window offsets=UTF-16
+- [0] AXWindow "Hal Jordan fan account(TB+HD) on X: \"Monday ka portfolio aaj green hua . No NIFTY Gave a huge ass prompt to both claude and gpt and invested 35k . Lost 600 on intraday NTPC . Not a trading recommendation or endorsement\" / X" actions=["Raise"]
+  - AXSplitter disabled expanded=false = "-1"
+  - AXGroup id="BrowserView?IsPageLoaded=true&WebViewProcessID=1790"
+    - [1] AXScrollArea focused expanded=false
+      - [2] AXWebArea focused expanded=false "Hal Jordan fan account(TB+HD) on X: \"Monday ka portfolio aaj green hua . No NIFTY Gave a huge ass prompt to both claude and gpt and invested 35k . Lost 600 on intraday NTPC . Not a trading recommendation or endorsement\" / X" url="https://x.com/EmrlDWill/status/2118254948312039605"
+        - [3] AXHeading expanded=false "To view keyboard shortcuts, press question mark View keyboard shortcuts" = "2"
+          - [4] AXGroup expanded=false
+            - [5] AXStaticText expanded=false = "To view keyboard shortcuts, press question mark"
+          - [6] AXLink expanded=false "View keyboard shortcuts" url="https://x.com/i/keyboard_shortcuts"
+            - [7] AXStaticText expanded=false = "View keyboard shortcuts"
+        - [8] AXGroup expanded=false
+          - [9] AXButton expanded=false "Grok"
+          - [10] AXButton expanded=false "Chat"
+        - [11] AXButton expanded=false "Skip to home timeline"
+        - [12] AXButton expanded=false "Skip to trending"
+        - [13] AXGroup subrole=AXLandmarkBanner expanded=false
+          - [14] AXHeading expanded=false "X" = "1"
+            - [15] AXLink expanded=false "X" url="https://x.com/home"
+          - [16] AXGroup subrole=AXLandmarkNavigation expanded=false "Primary"
+            - [17] AXLink expanded=false "Home" url="https://x.com/home"
+              - [18] AXGroup expanded=false
+                - [19] AXStaticText expanded=false = "Home"
+            - [20] AXLink expanded=false "Search and explore" url="https://x.com/explore"
+              - [21] AXGroup expanded=false
+                - [22] AXStaticText expanded=false = "Explore"
+            - [23] AXLink expanded=false "Notifications" url="https://x.com/notifications"
+              - [24] AXGroup expanded=false
+                - [25] AXStaticText expanded=false = "Notifications"
+            - [26] AXLink expanded=false "Direct Messages" url="https://x.com/i/chat"
+              - [27] AXGroup expanded=false
+                - [28] AXStaticText expanded=false = "Chat"
+            - [29] AXLink expanded=false "Calls" url="https://x.com/i/calls"
+              - [30] AXGroup expanded=false
+                - [31] AXStaticText expanded=false = "Calls"
+            - [32] AXLink expanded=false "Grok" url="https://x.com/i/grok"
+              - [33] AXGroup expanded=false
+                - [34] AXStaticText expanded=false = "Grok"
+            - [35] AXLink expanded=false "History" url="https://x.com/i/history"
+              - [36] AXGroup expanded=false
+                - [37] AXStaticText expanded=false = "History"
+            - [38] AXLink expanded=false "Creator Studio" url="https://x.com/i/jf/creators/studio"
+              - [39] AXGroup expanded=false
+                - [40] AXStaticText expanded=false = "Creator Studio"
+            - [41] AXLink expanded=false "Premium" url="https://x.com/i/premium_sign_up"
+              - [42] AXGroup expanded=false
+                - [43] AXStaticText expanded=false = "Premium"
+            - [44] AXLink expanded=false "Profile" url="https://x.com/unhype_ai"
+              - [45] AXGroup expanded=false
+                - [46] AXStaticText expanded=false = "Profile"
+            - [47] AXPopUpButton expanded=false "More menu items"
+          - [48] AXLink expanded=false "Post" url="https://x.com/compose/post"
+            - [49] AXGroup expanded=false
+              - [50] AXStaticText expanded=false = "Post"
+          - [51] AXButton expanded=false "Account menu"
+        - [52] AXGroup subrole=AXLandmarkMain expanded=false
+          - [53] AXGroup expanded=false "Home timeline"
+            - [54] AXButton expanded=false "Back"
+            - [55] AXHeading expanded=false "Post" = "2"
+              - [56] AXStaticText expanded=false = "Post"
+            - [57] AXGroup subrole=AXEmptyGroup expanded=false
+            - [58] AXGroup subrole=AXLandmarkRegion expanded=false "Conversation"
+              - [59] AXHeading expanded=false "Conversation" = "1"
+                - [60] AXStaticText expanded=false = "Conversation"
+              - [61] AXGroup expanded=false "Timeline: Conversation"
+                - [62] AXGroup expanded=false
+                  - [63] AXGroup subrole=AXDocumentArticle expanded=false "Hal Jordan fan account(TB+HD)\n@EmrlDWill Monday ka portfolio aaj green hua .\nNo NIFTY \n\nGave a huge ass prompt to both claude and gpt and invested 35k . \nLost 600 on intraday NTPC .\nNot a trading recommendation or endorsement 4 replies, 1 repost, 5 likes, 1 bookmark, 640 views"
+                    - [64] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [65] AXGroup expanded=false
+                      - [66] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [67] AXGroup expanded=false
+                        - [68] AXLink focused expanded=false url="https://x.com/EmrlDWill"
+                          - [69] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [70] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [71] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                      - [72] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                    - [73] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                      - [74] AXGroup expanded=false
+                        - [75] AXStaticText expanded=false = "@EmrlDWill"
+                    - [76] AXButton expanded=false "Grok actions"
+                    - [77] AXPopUpButton expanded=false "More"
+                    - [78] AXGroup expanded=false
+                      - [79] AXStaticText expanded=false = "Monday ka portfolio aaj green hua .\nNo NIFTY \n\nGave a huge ass prompt to both claude and gpt and invested 35k . \nLost 600 on intraday NTPC .\nNot a trading recommendation or endorsement"
+                    - [80] AXGroup expanded=false
+                      - [81] AXLink expanded=false "1:41 PM · Nov 5, 2026" url="https://x.com/EmrlDWill/status/2118254948312039605"
+                        - [82] AXGroup subrole=AXTimeGroup expanded=false
+                          - [83] AXStaticText expanded=false = "1:41 PM · Nov 5, 2026"
+                      - [84] AXLink expanded=false "640 Views" url="https://x.com/EmrlDWill/status/2118254948312039605/analytics"
+                        - [85] AXStaticText expanded=false = "640"
+                        - [86] AXStaticText expanded=false = "Views"
+                    - [87] AXGroup subrole=AXApplicationGroup expanded=false "4 replies, 1 repost, 5 likes, 1 bookmark, 640 views"
+                      - [88] AXButton expanded=false "4 Replies. Reply"
+                      - [89] AXPopUpButton expanded=false "1 repost. Repost"
+                      - [90] AXButton expanded=false "5 Likes. Like"
+                      - [91] AXButton expanded=false "1 Bookmark. Bookmark"
+                      - [92] AXPopUpButton expanded=false "Share post"
+                    - [93] AXPopUpButton expanded=false "Relevant"
+                    - [94] AXLink expanded=false "View quotes" url="https://x.com/EmrlDWill/status/2118254948312039605/quotes"
+                      - [95] AXStaticText expanded=false = "View quotes"
+                  - [96] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [97] AXGroup expanded=false
+                    - [98] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [99] AXGroup expanded=false
+                      - [100] AXLink expanded=false "Puneet Vishnawat" url="https://x.com/unhype_ai"
+                        - [101] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [102] AXGroup expanded=false
+                          - [103] AXGroup expanded=false "Puneet Vishnawat"
+                            - [104] AXImage expanded=false "Puneet Vishnawat" url="https://pbs.twimg.com/profile_images/2060349288048431104/cc_kmSgN_x96.jpg"
+                  - [105] AXGroup expanded=false
+                    - [106] AXStaticText expanded=false = "Post your reply"
+                  - [107] AXTextArea expanded=false valueWritable=true selectionWritable=true "Post text" = "\n" selection=[0,0]
+                    - [108] AXGroup subrole=AXEmptyGroup expanded=false
+                  - AXButton disabled expanded=false "Reply"
+                  - [109] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [110] AXGroup subrole=AXDocumentArticle expanded=false "Phenol/Inactive\n@NimbuSeth Nov 5 You trade using gpt 1 reply, 50 views"
+                    - [111] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [112] AXGroup expanded=false
+                      - [113] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [114] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [115] AXLink expanded=false "Phenol/Inactive" url="https://x.com/NimbuSeth"
+                      - [116] AXStaticText expanded=false = "Phenol/Inactive"
+                    - [117] AXLink expanded=false "@NimbuSeth" url="https://x.com/NimbuSeth"
+                      - [118] AXGroup expanded=false
+                        - [119] AXStaticText expanded=false = "@NimbuSeth"
+                    - [120] AXLink expanded=false "Nov 5" url="https://x.com/NimbuSeth/status/2118259909087346998"
+                      - [121] AXGroup subrole=AXTimeGroup expanded=false
+                        - [122] AXStaticText expanded=false = "Nov 5"
+                    - [123] AXButton expanded=false "Grok actions"
+                    - [124] AXPopUpButton expanded=false "More"
+                    - [125] AXGroup expanded=false
+                      - [126] AXStaticText expanded=false = "You trade using gpt"
+                    - [127] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 50 views"
+                      - [128] AXButton expanded=false "1 Reply. Reply"
+                      - [129] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [130] AXButton expanded=false "0 Likes. Like"
+                      - [131] AXLink expanded=false "50 views. View post analytics" url="https://x.com/NimbuSeth/status/2118259909087346998/analytics"
+                        - [132] AXStaticText expanded=false = "50"
+                      - [133] AXButton expanded=false "Bookmark"
+                      - [134] AXPopUpButton expanded=false "Share post"
+                  - [135] AXGroup subrole=AXDocumentArticle expanded=false "Hal Jordan fan account(TB+HD)\n@EmrlDWill Nov 5 first time \ni want to measure month long performance 1 like, 46 views"
+                    - [136] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [137] AXGroup expanded=false
+                      - [138] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [139] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [140] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                      - [141] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                    - [142] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                      - [143] AXGroup expanded=false
+                        - [144] AXStaticText expanded=false = "@EmrlDWill"
+                    - [145] AXLink expanded=false "Nov 5" url="https://x.com/EmrlDWill/status/2118261680782352607"
+                      - [146] AXGroup subrole=AXTimeGroup expanded=false
+                        - [147] AXStaticText expanded=false = "Nov 5"
+                    - [148] AXButton expanded=false "Grok actions"
+                    - [149] AXPopUpButton expanded=false "More"
+                    - [150] AXGroup expanded=false
+                      - [151] AXStaticText expanded=false = "first time \ni want to measure month long performance"
+                    - [152] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 46 views"
+                      - [153] AXButton expanded=false "0 Replies. Reply"
+                      - [154] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [155] AXButton expanded=false "1 Like. Like"
+                      - [156] AXLink expanded=false "46 views. View post analytics" url="https://x.com/EmrlDWill/status/2118261680782352607/analytics"
+                        - [157] AXStaticText expanded=false = "46"
+                      - [158] AXButton expanded=false "Bookmark"
+                      - [159] AXPopUpButton expanded=false "Share post"
+                  - [160] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [161] AXGroup subrole=AXDocumentArticle expanded=false "Sword of God\n@pmnm2405 Nov 5 Options nhi krte ho bhai? 1 reply, 67 views"
+                    - [162] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [163] AXGroup expanded=false
+                      - [164] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [165] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [166] AXLink expanded=false "Sword of God" url="https://x.com/pmnm2405"
+                      - [167] AXStaticText expanded=false = "Sword of God"
+                    - [168] AXLink expanded=false "@pmnm2405" url="https://x.com/pmnm2405"
+                      - [169] AXGroup expanded=false
+                        - [170] AXStaticText expanded=false = "@pmnm2405"
+                    - [171] AXLink expanded=false "Nov 5" url="https://x.com/pmnm2405/status/2118259165621809350"
+                      - [172] AXGroup subrole=AXTimeGroup expanded=false
+                        - [173] AXStaticText expanded=false = "Nov 5"
+                    - [174] AXButton expanded=false "Grok actions"
+                    - [175] AXPopUpButton expanded=false "More"
+                    - [176] AXGroup expanded=false
+                      - [177] AXStaticText expanded=false = "Options nhi krte ho bhai?"
+                    - [178] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 67 views"
+                      - [179] AXButton expanded=false "1 Reply. Reply"
+                      - [180] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [181] AXButton expanded=false "0 Likes. Like"
+                      - [182] AXLink expanded=false "67 views. View post analytics" url="https://x.com/pmnm2405/status/2118259165621809350/analytics"
+                        - [183] AXStaticText expanded=false = "67"
+                      - [184] AXButton expanded=false "Bookmark"
+                      - [185] AXPopUpButton expanded=false "Share post"
+                  - [186] AXGroup subrole=AXDocumentArticle expanded=false "Hal Jordan fan account(TB+HD)\n@EmrlDWill Nov 5 I have low capital"
+                    - [187] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [188] AXGroup expanded=false
+                      - [189] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [190] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [191] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                      - [192] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                    - [193] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                      - [194] AXGroup expanded=false
+                        - [195] AXStaticText expanded=false = "@EmrlDWill"
+                    - [196] AXLink expanded=false "Nov 5" url="https://x.com/EmrlDWill/status/2118261744917533076"
+                      - [197] AXGroup subrole=AXTimeGroup expanded=false
+                        - [198] AXStaticText expanded=false = "Nov 5"
+                    - [199] AXButton expanded=false "Grok actions"
+                    - [200] AXPopUpButton expanded=false "More"
+                    - [201] AXGroup expanded=false
+                      - [202] AXStaticText expanded=false = "I have low capital"
+                    - [203] AXGroup subrole=AXApplicationGroup expanded=false "50 views"
+                      - [204] AXButton expanded=false "0 Replies. Reply"
+                      - [205] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [206] AXButton expanded=false "0 Likes. Like"
+                      - [207] AXLink expanded=false "50 views. View post analytics" url="https://x.com/EmrlDWill/status/2118261744917533076/analytics"
+                        - [208] AXStaticText expanded=false = "50"
+                      - [209] AXButton expanded=false "Bookmark"
+                      - [210] AXPopUpButton expanded=false "Share post"
+                  - [211] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [212] AXGroup subrole=AXDocumentArticle expanded=false "ambuj\n@ambuj_2032 Nov 5 mera dost hoke aisi harkat 1 reply, 67 views"
+                    - [213] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [214] AXGroup expanded=false
+                      - [215] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [216] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [217] AXLink expanded=false "ambuj" url="https://x.com/ambuj_2032"
+                      - [218] AXStaticText expanded=false = "ambuj"
+                    - [219] AXLink expanded=false "@ambuj_2032" url="https://x.com/ambuj_2032"
+                      - [220] AXGroup expanded=false
+                        - [221] AXStaticText expanded=false = "@ambuj_2032"
+                    - [222] AXLink expanded=false "Nov 5" url="https://x.com/ambuj_2032/status/2118317494188609592"
+                      - [223] AXGroup subrole=AXTimeGroup expanded=false
+                        - [224] AXStaticText expanded=false = "Nov 5"
+                    - [225] AXButton expanded=false "Grok actions"
+                    - [226] AXPopUpButton expanded=false "More"
+                    - [227] AXGroup expanded=false
+                      - [228] AXStaticText expanded=false = "mera dost hoke aisi harkat"
+                    - [229] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 67 views"
+                      - [230] AXButton expanded=false "1 Reply. Reply"
+                      - [231] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [232] AXButton expanded=false "0 Likes. Like"
+                      - [233] AXLink expanded=false "67 views. View post analytics" url="https://x.com/ambuj_2032/status/2118317494188609592/analytics"
+                        - [234] AXStaticText expanded=false = "67"
+                      - [235] AXButton expanded=false "Bookmark"
+                      - [236] AXPopUpButton expanded=false "Share post"
+                  - [237] AXGroup subrole=AXDocumentArticle expanded=false "Hal Jordan fan account(TB+HD)\n@EmrlDWill Nov 5 Meine pucha tha Saar 1 reply, 48 views"
+                    - [238] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [239] AXGroup expanded=false
+                      - [240] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [241] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [242] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                      - [243] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                    - [244] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                      - [245] AXGroup expanded=false
+                        - [246] AXStaticText expanded=false = "@EmrlDWill"
+                    - [247] AXLink expanded=false "Nov 5" url="https://x.com/EmrlDWill/status/2118317688116379731"
+                      - [248] AXGroup subrole=AXTimeGroup expanded=false
+                        - [249] AXStaticText expanded=false = "Nov 5"
+                    - [250] AXButton expanded=false "Grok actions"
+                    - [251] AXPopUpButton expanded=false "More"
+                    - [252] AXGroup expanded=false
+                      - [253] AXStaticText expanded=false = "Meine pucha tha Saar"
+                    - [254] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 48 views"
+                      - [255] AXButton expanded=false "1 Reply. Reply"
+                      - [256] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [257] AXButton expanded=false "0 Likes. Like"
+                      - [258] AXLink expanded=false "48 views. View post analytics" url="https://x.com/EmrlDWill/status/2118317688116379731/analytics"
+                        - [259] AXStaticText expanded=false = "48"
+                      - [260] AXButton expanded=false "Bookmark"
+                      - [261] AXPopUpButton expanded=false "Share post"
+                  - [262] AXButton expanded=false "Show replies"
+                  - [263] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [264] AXGroup subrole=AXDocumentArticle expanded=false "Terminator\n@terminator1229 Nov 5 🤣🤣 1 like, 36 views"
+                    - [265] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [266] AXGroup expanded=false
+                      - [267] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [268] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [269] AXLink expanded=false "Terminator" url="https://x.com/terminator1229"
+                      - [270] AXStaticText expanded=false = "Terminator"
+                    - [271] AXLink expanded=false "@terminator1229" url="https://x.com/terminator1229"
+                      - [272] AXGroup expanded=false
+                        - [273] AXStaticText expanded=false = "@terminator1229"
+                    - [274] AXLink expanded=false "Nov 5" url="https://x.com/terminator1229/status/2118284050221900074"
+                      - [275] AXGroup subrole=AXTimeGroup expanded=false
+                        - [276] AXStaticText expanded=false = "Nov 5"
+                    - [277] AXButton expanded=false "Grok actions"
+                    - [278] AXPopUpButton expanded=false "More"
+                    - [279] AXGroup expanded=false
+                      - [280] AXStaticText expanded=false = "🤣🤣"
+                    - [281] AXGroup subrole=AXApplicationGroup expanded=false "1 like, 36 views"
+                      - [282] AXButton expanded=false "0 Replies. Reply"
+                      - [283] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [284] AXButton expanded=false "1 Like. Like"
+                      - [285] AXLink expanded=false "36 views. View post analytics" url="https://x.com/terminator1229/status/2118284050221900074/analytics"
+                        - [286] AXStaticText expanded=false = "36"
+                      - [287] AXButton expanded=false "Bookmark"
+                      - [288] AXPopUpButton expanded=false "Share post"
+                  - [289] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [290] AXHeading expanded=false "Discover more" = "2"
+                    - [291] AXStaticText expanded=false = "Discover more"
+                  - [292] AXStaticText expanded=false = "Sourced from across X"
+                  - [293] AXGroup subrole=AXDocumentArticle expanded=false "Hal Jordan fan account(TB+HD)\n@EmrlDWill 1 hour ago Hes not 6 ft bruh\nmax 5\'9 Quote\nJeetas Posting L\n@Veazlas 21 hours ago\nRise of manlet incels against 6 feet chad and his gf!\n\nDown with sex havers!\n\nJai incel putana! Jai incelrasthta!\n\n\nEmbedded video Play Video. 1 minute 22 seconds long 1 reply, 7 likes, 222 views"
+                    - [294] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [295] AXGroup expanded=false
+                      - [296] AXGroup subrole=AXEmptyGroup expanded=false
+                      - [297] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [298] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                      - [299] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                    - [300] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                      - [301] AXGroup expanded=false
+                        - [302] AXStaticText expanded=false = "@EmrlDWill"
+                    - [303] AXLink expanded=false "1 hour ago" url="https://x.com/EmrlDWill/status/2124444729513512975"
+                      - [304] AXGroup subrole=AXTimeGroup expanded=false
+                        - [305] AXStaticText expanded=false = "1h"
+                    - [306] AXButton expanded=false "Grok actions"
+                    - [307] AXPopUpButton expanded=false "More"
+                    - [308] AXGroup expanded=false
+                      - [309] AXStaticText expanded=false = "Hes not 6 ft bruh\nmax 5\'9"
+                    - [310] AXGroup expanded=false "Quote\nJeetas Posting L\n@Veazlas 21 hours ago\nRise of manlet incels against 6 feet chad and his gf!\n\nDown with sex havers!\n\nJai incel putana! Jai incelrasthta!\n\n\nEmbedded video Play Video. 1 minute 22 seconds long"
+                      - [311] AXGroup expanded=false
+                        - [312] AXStaticText expanded=false = "Quote"
+                      - [313] AXLink expanded=false "Jeetas Posting L\n\n21 hours ago\nRise of manlet incels against 6 feet chad and his gf!\n\nDown with sex havers!\n\nJai incel putana! Jai incelrasthta!"
+                        - [314] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [315] AXGroup expanded=false
+                          - [316] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [317] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [318] AXStaticText expanded=false = "Jeetas Posting L"
+                        - [319] AXGroup expanded=false
+                          - [320] AXGroup expanded=false
+                            - [321] AXStaticText expanded=false = "@Veazlas"
+                        - [322] AXGroup expanded=false "21 hours ago"
+                          - [323] AXGroup subrole=AXTimeGroup expanded=false
+                            - [324] AXStaticText expanded=false = "21h"
+                        - [325] AXStaticText expanded=false = "Rise of manlet incels against 6 feet chad and his gf!\n\nDown with sex havers!\n\nJai incel putana! Jai incelrasthta!"
+                        - [326] AXGroup subrole=AXEmptyGroup expanded=false
+                        - [327] AXGroup expanded=false
+                          - [328] AXGroup subrole=AXEmptyGroup expanded=false
+                          - [329] AXGroup expanded=false
+                            - [330] AXGroup expanded=false
+                              - [331] AXGroup subrole=AXEmptyGroup expanded=false "Embedded video" url="blob:https://x.com/480baa89-cedb-404d-bedd-48e0b0055f8e"
+                            - [332] AXGroup expanded=false
+                              - [333] AXGroup expanded=false
+                                - [334] AXButton expanded=false "Play Video. 1 minute 22 seconds long"
+                              - [335] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [336] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [337] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [338] AXGroup subrole=AXEmptyGroup expanded=false
+                              - [339] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [340] AXGroup subrole=AXApplicationGroup expanded=false "1 reply, 7 likes, 222 views"
+                      - [341] AXButton expanded=false "1 Reply. Reply"
+                      - [342] AXPopUpButton expanded=false "0 reposts. Repost"
+                      - [343] AXButton expanded=false "7 Likes. Like"
+                      - [344] AXLink expanded=false "222 views. View post analytics" url="https://x.com/EmrlDWill/status/2124444729513512975/analytics"
+                        - [345] AXStaticText expanded=false = "222"
+                      - [346] AXButton expanded=false "Bookmark"
+                      - [347] AXPopUpButton expanded=false "Share post"
+          - [348] AXGroup expanded=false "Trending"
+            - [349] AXGroup subrole=AXLandmarkSearch expanded=false "Search"
+              - [350] AXComboBox expanded=false valueWritable=true selectionWritable=true "Search query" value="" placeholder="Search" selection=[0,0]
+                - [351] AXGroup expanded=false
+                  - [352] AXStaticText expanded=false = "Search"
+            - [353] AXGroup subrole=AXLandmarkComplementary expanded=false "Relevant people"
+              - [354] AXHeading expanded=false "Relevant people" = "2"
+                - [355] AXStaticText expanded=false = "Relevant people"
+              - [356] AXList subrole=AXContentList expanded=false
+                - [357] AXGroup expanded=false
+                  - [358] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [359] AXGroup expanded=false
+                    - [360] AXGroup subrole=AXEmptyGroup expanded=false
+                    - [361] AXGroup subrole=AXEmptyGroup expanded=false
+                  - [362] AXLink expanded=false "Hal Jordan fan account(TB+HD)" url="https://x.com/EmrlDWill"
+                    - [363] AXStaticText expanded=false = "Hal Jordan fan account(TB+HD)"
+                  - [364] AXLink expanded=false "@EmrlDWill" url="https://x.com/EmrlDWill"
+                    - [365] AXGroup expanded=false
+                      - [366] AXStaticText expanded=false = "@EmrlDWill"
+                  - [367] AXButton expanded=false "Follow @EmrlDWill"
+            - [368] AXGroup subrole=AXLandmarkRegion expanded=false "Trending now"
+              - [369] AXHeading expanded=false "Trending now" = "1"
+                - [370] AXStaticText expanded=false = "Trending now"
+              - [371] AXGroup expanded=false "Timeline: Trending now"
+                - [372] AXGroup subrole=AXEmptyGroup expanded=false
+                - [373] AXHeading expanded=false "What’s happening" = "2"
+                  - [374] AXStaticText expanded=false = "What’s happening"
+                - [375] AXLink expanded=false "Sports · Trending Rishabh Pant More"
+                  - [376] AXGroup expanded=false
+                    - [377] AXStaticText expanded=false = "Sports · Trending"
+                  - [378] AXGroup expanded=false
+                    - [379] AXStaticText expanded=false = "Rishabh Pant"
+                  - [380] AXPopUpButton expanded=false "More"
+                - [381] AXLink expanded=false "Sports · Trending Draw More"
+                  - [382] AXGroup expanded=false
+                    - [383] AXStaticText expanded=false = "Sports · Trending"
+                  - [384] AXGroup expanded=false
+                    - [385] AXStaticText expanded=false = "Draw"
+                  - [386] AXPopUpButton expanded=false "More"
+                - [387] AXLink expanded=false "Motorsport · Trending Charles More"
+                  - [388] AXGroup expanded=false
+                    - [389] AXStaticText expanded=false = "Motorsport · Trending"
+                  - [390] AXGroup expanded=false
+                    - [391] AXStaticText expanded=false = "Charles"
+                  - [392] AXPopUpButton expanded=false "More"
+                - [393] AXLink expanded=false "Trending in India #INDAvPAKA More"
+                  - [394] AXGroup expanded=false
+                    - [395] AXStaticText expanded=false = "Trending in India"
+                  - [396] AXGroup expanded=false
+                    - [397] AXStaticText expanded=false = "#INDAvPAKA"
+                  - [398] AXPopUpButton expanded=false "More"
+                - [399] AXLink expanded=false "Show more" url="https://x.com/explore/tabs/for-you"
+                  - [400] AXGroup expanded=false
+                    - [401] AXStaticText expanded=false = "Show more"
+            - [402] AXGroup subrole=AXLandmarkNavigation expanded=false "Footer"
+              - [403] AXLink expanded=false "Terms" url="https://x.com/tos"
+                - [404] AXStaticText expanded=false = "Terms"
+              - [405] AXGroup expanded=false
+                - [406] AXStaticText expanded=false = "·"
+              - [407] AXLink expanded=false "Privacy" url="https://x.com/privacy"
+                - [408] AXStaticText expanded=false = "Privacy"
+              - [409] AXGroup expanded=false
+                - [410] AXStaticText expanded=false = "·"
+              - [411] AXLink expanded=false "Cookies" url="https://support.x.com/articles/20170514"
+                - [412] AXStaticText expanded=false = "Cookies"
+              - [413] AXGroup expanded=false
+                - [414] AXStaticText expanded=false = "·"
+              - [415] AXLink expanded=false "Accessibility" url="https://help.x.com/resources/accessibility"
+                - [416] AXStaticText expanded=false = "Accessibility"
+              - [417] AXGroup expanded=false
+                - [418] AXStaticText expanded=false = "·"
+              - [419] AXLink expanded=false "Ads Info" url="https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+                - [420] AXStaticText expanded=false = "Ads Info"
+              - [421] AXGroup expanded=false
+                - [422] AXStaticText expanded=false = "·"
+              - [423] AXPopUpButton expanded=false "More"
+              - [424] AXGroup expanded=false
+                - [425] AXStaticText expanded=false = "© 2026 X Corp."
+        - [426] AXGroup subrole=AXEmptyGroup expanded=false
+        - [427] AXGroup subrole=AXEmptyGroup expanded=false
+      - [428] AXScrollBar expanded=false = "0"
+  - AXOpaqueProviderGroup subrole=AXOpaqueProviderList "Tab bar, 1 tab, 7 pinned tabs"
+    - [429] AXRadioButton subrole=AXTabButton valueWritable=false "Your verification code for DeepSeek - pukrvi@gmail.com - Gmail" = "0"
+      - AXImage id="FaviconImageView"
+    - [430] AXRadioButton subrole=AXTabButton valueWritable=false "Google Calendar - September 2026" = "0"
+      - AXImage id="FaviconImageView"
+    - [431] AXRadioButton subrole=AXTabButton valueWritable=false "Search results - Google Drive" = "0"
+      - AXImage id="FaviconImageView"
+    - [432] AXRadioButton subrole=AXTabButton valueWritable=false "(14) WhatsApp" = "0"
+      - AXImage id="FaviconImageView"
+    - [433] AXRadioButton subrole=AXTabButton valueWritable=false "Google Keep" = "0"
+      - AXImage id="FaviconImageView"
+    - [434] AXRadioButton subrole=AXTabButton valueWritable=false "Design AI Trading Experiment" = "0"
+      - AXImage id="FaviconImageView"
+    - [435] AXRadioButton subrole=AXTabButton valueWritable=false "LinkedIn Connection Messages for Bharat - Google Gemini" = "0"
+      - AXImage id="FaviconImageView"
+    - [436] AXRadioButton subrole=AXTabButton valueWritable=false "Hal Jordan fan account(TB+HD) on X: \"Monday ka portfolio aaj green hua . No NIFTY Gave a huge ass prompt to both claude and gpt and invested 35k . Lost 600 on intraday NTPC . Not a trading recommendation or endorsement\" / X" = "1" help="To interact with the items in this button, press Control-Option-Shift-Down Arrow." actions=["close tab"]
+      - AXImage id="FaviconImageView"
+      - AXStaticText = "Hal Jordan fan account(TB+HD) on X: \"Monday ka portfolio aaj green hua . No NIFTY Gave a huge ass prompt to both claude and gpt and invested 35k . Lost 600 on intraday NTPC . Not a trading recommendation or endorsement\" / X" selection=[0,0]
+  - [437] AXGroup "Favorites bar"
+    - [438] AXButton "show start page" help="Show Start Page"
+    - [439] AXMenuButton "Marketing Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [440] AXMenuButton "Design Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [441] AXMenuButton "Website Themes" description="drop down" help="Show the bookmarks in this folder"
+    - [442] AXMenuButton "AI Agents" description="drop down" help="Show the bookmarks in this folder"
+    - [443] AXMenuButton "Skills" description="drop down" help="Show the bookmarks in this folder"
+    - [444] AXMenuButton "Creator Tools" description="drop down" help="Show the bookmarks in this folder"
+    - [445] AXMenuButton "FormatMD — M…ter & Styler" help="https://infinitigrid.com/tools/format-md/index.html"
+    - [446] AXMenuButton "Radio Garden …ng the globe" help="https://radio.garden"
+    - [447] AXMenuButton "AI 2027" help="https://ai-2027.com"
+    - [448] AXMenuButton "Can I use... S…L5, CSS3, etc" help="https://caniuse.com"
+    - [449] AXButton "More Bookmarks" help="Show more bookmarks"
+  - [450] AXToolbar
+    - [451] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [452] AXButton "show sidebar" help="Show sidebar"
+      - [453] AXMenuButton "Tab Group picker"
+    - [454] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - AXGroup id="BackForwardSegmentedControl"
+        - [455] AXButton subrole=AXSegment "Go back" help="Show the previous page"
+        - AXButton subrole=AXSegment disabled "Go forward" help="Show the next page"
+    - [456] AXGroup actions=["Move previous","Move next","Remove from toolbar"]
+      - [457] AXButton "Page Menu"
+      - [458] AXButton "Add page to Reading List"
+      - [459] AXTextField valueWritable=true selectionWritable=false "smart search field" = "https://x.com/EmrlDWill/status/2118254948312039605" selection=[0,0] actions=["Confirm","ShowDefaultUI","ShowAlternateUI"]
+      - [460] AXButton "Reload this page"
+    - [461] AXButton "Downloads" actions=["Move previous","Move next","Remove from toolbar"]
+    - [462] AXButton "Website Settings" actions=["Move previous","Move next","Remove from toolbar"]
+    - [463] AXButton "Bookmarks" actions=["Move previous","Move next","Remove from toolbar"]
+    - [464] AXButton "History" actions=["Move previous","Move next","Remove from toolbar"]
+    - [465] AXButton "Share" actions=["Move previous","Move next","Remove from toolbar"]
+    - [466] AXButton "New Tab" actions=["Move previous","Move next","Remove from toolbar"]
+    - [467] AXButton "Tab Overview" actions=["Move previous","Remove from toolbar"]
+  - [468] AXButton subrole=AXCloseButton
+  - [469] AXButton subrole=AXFullScreenButton help="this button also has an action to zoom the window" actions=["ZoomWindow"]
+  - [470] AXButton subrole=AXMinimizeButton
+- [471] AXMenuBar expanded=false id="_NS:1290" actions=["Cancel"]
+  - [472] AXMenuBarItem expanded=false "Apple" actions=["Cancel"]
+  - [473] AXMenuBarItem expanded=false "Safari" actions=["Cancel"]
+  - [474] AXMenuBarItem expanded=false "File" actions=["Cancel"]
+  - [475] AXMenuBarItem expanded=false "Edit" actions=["Cancel"]
+  - [476] AXMenuBarItem expanded=false "View" actions=["Cancel"]
+  - [477] AXMenuBarItem expanded=false "History" actions=["Cancel"]
+  - [478] AXMenuBarItem expanded=false "Bookmarks" actions=["Cancel"]
+  - [479] AXMenuBarItem expanded=false "Window" actions=["Cancel"]
+  - [480] AXMenuBarItem expanded=false "Help" actions=["Cancel"]
+Menu contents omitted; request includeMenus=true to expand.

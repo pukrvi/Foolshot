@@ -1,0 +1,65 @@
+URL: https://x.com/AKtrader1108/status/2124169593681760624
+DATE: 2026-11-22
+MODE: Latest
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago NSE now has a free, official MCP server for AI agents
+
+36 tools, no API key:
+– Live quotes, indices & movers
+– 5 yrs EOD history, 52W range, moving averages
+– Breadth, India VIX, index P/E & P/B
+– Stock vs index: beta, correlation
+
+nseindia.com/nse-mcp
+
+All tools 🧵👇 nseindia.in NSE - National Stock Exchange of India Ltd NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and... 2 replies, 1 like, 63 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago 1/ ⚡ LIVE MARKET (15 tools, ~1–3 min delay)
+
+– Stock quote: LTP, OHLC, volume, 52W
+– Index quote: NIFTY, BANK, VIX + 1W/1M/1Y
+– ~140 live indices by group
+– Top gainers & losers (All, NIFTY, BANKNIFTY, NEXT50)
+– Live lists: equity, SME, bonds, call auction
+– Data freshness check 1 reply, 53 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago 2/ 📊 END-OF-DAY: STOCKS (5 yrs data)
+
+– Daily OHLCV + close on any date
+– Bulk quote, up to 50 symbols
+– 52W high/low
+– Moving averages (20/50/200)
+– Volume spikes & trend
+– Splits, bonuses, dividends
+– Symbol search
+– Compare up to 10 stocks
+– Stock vs index: beta, correlation 1 reply, 4 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 19 hours ago 3/ 🏛 END-OF-DAY: MARKET & INDICES
+
+– Mood: VIX, advances vs declines
+– Breadth: A/D ratio, volume
+– Top movers & most active by date
+– ~170 indices: OHLC, P/E, P/B
+– Index history, returns 1D–2Y
+– Valuation vs past 5 yrs
+– Compare up to 10 indices: return, volatility, drawdown 1 reply, 6 views
+
+Ajay Kumar
+Verified account
+@AKtrader1108 4/ 🔌 Add to Claude, ChatGPT or any MCP client (Streamable HTTP, no auth):
+
+Live: mcp.nseindia.in/cmmkt/mcp
+EOD: mcp.nseindia.in/bhavcopy/cm/mcp
+
+Cash market only, no F&O or intraday candles. For info/education, not investment advice.
+
+#NSE #MCP #AI #StockMarket

@@ -1,0 +1,32 @@
+[
+ {
+  "handle": "DanKornas",
+  "id": "2069946422586122698",
+  "timeText": "6:20 AM · Jun 25, 2026",
+  "text": "Trading bots are easy to sketch. The hard part is keeping backtests and live execution honest.\n\nAlgoTrader is a Claude Code skill for builders working on quantitative trading systems for Indian equity markets with Zerodha/Kite workflows.\n\nIt helps you move from idea to a safer implementation by combining a bot-generation wizard, NSE universe fetching, backtest/live checks, and a documented set of trading-system gotchas.\n\nKey features:\n\n• Interactive bot wizard – scans existing code and asks about trade style, universe, capital, and risk tolerance\n• Zerodha/Kite workflow guidance – covers tick-size rounding, position reconciliation, stop-loss lifecycle, and credentials setup\n• Live universe fetcher – creates JSON files for Nifty 50, Nifty 100, Midcap 150, and Smallcap 250 constituents\n• Backtest-live parity checks – documents data caching, VWAP reset, candle completion, and slippage issues that break live results\n• Risk and analytics patterns – includes Kelly sizing, portfolio heat, regime detection, structured logs, and post-trade reporting\n\nIt’s open-source (MIT license).\n\nLink in the reply 👇"
+ },
+ {
+  "handle": "DanKornas",
+  "id": "2069946577674736049",
+  "timeText": "Jun 25",
+  "text": "\n---\n✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): "
+ },
+ {
+  "handle": "NewMoonAlgos",
+  "id": "2070286169577808339",
+  "timeText": "Jun 26",
+  "text": "That\\'s the right split. A builder tool earns trust when it preserves the path between research and execution: costs, skipped trades, rejected orders, and state after deployment gets messy."
+ },
+ {
+  "handle": "DanKornas",
+  "id": "2070334174406361494",
+  "timeText": "Jun 26",
+  "text": "Yep. The ugly logs matter: fills, rejects, costs, and what changed after deployment."
+ },
+ {
+  "handle": "ajs6888",
+  "id": "2070056592373113272",
+  "timeText": "Jun 25",
+  "text": ""
+ }
+]

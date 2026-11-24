@@ -1,0 +1,195 @@
+QUERY: (backtest OR "walk forward" OR "out of sample") (nifty OR banknifty OR "indian options") (claude OR llm OR agent)
+URL: https://x.com/search?q=(backtest%20OR%20%22walk%20forward%22%20OR%20%22out%20of%20sample%22)%20(nifty%20OR%20banknifty%20OR%20%22indian%20options%22)%20(claude%20OR%20llm%20OR%20agent)&src=typed_query&f=live
+DATE: 2026-11-22
+MODE: Latest
+ERR: false
+CAPTURED POSTS: 5
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 74 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 74 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 74 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 74 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views
+
+
+Manu
+Verified account
+@manudotdev 3 hours ago Day 01/ till I make money with AI trading
+I\'m running out of money, so I\'m going back to trading...
+
+Not with a course or a signal group. With a workstation I’m building myself... here\'s the plan,
+
+- Zed, stripped down, as the interface. Claude/Codex in the Agent Panel
+- 1 reply, 74 views
+
+Andrii
+Verified account
+@alcrapy Nov 20 1 reply, 1 repost, 960 views
+
+PairSync
+Verified account
+@PairSync Nov 17 Daily statistical refits. Continuous market observation. Your own pair-trading desk, built by Grok Bots or Claude Code.
+
+How modular data and the Grok VM make it possible.
+
+Your AI. Your build. Your data. 2 likes, 750 views
+
+Enumula Kartik 🇮🇳
+Verified account
+@EnumulaKartik Nov 16 BuildWithAI #1.0
+
+My machine learning portfolio went from an empty repo to live in 2 days. 
+Claude Code built it; I wrote the specs, handed over my project notebooks, and reviewed the entire process.
+
+The stack:
+1. .NET 10 MVC for the site
+2. Models trained in Python (uv), Image 1 reply, 40 views
+
+Suhas
+Verified account
+@Suhas__ashok Nov 8 A practical guide to setting up your own trading bot in the Indian markets 5 replies, 1 repost, 8 likes, 6 bookmarks, 654 views

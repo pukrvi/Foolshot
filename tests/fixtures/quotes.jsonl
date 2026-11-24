@@ -1,0 +1,3 @@
+{"id":"q1","symbol":"DEMO","exchange":"2026-01-12T03:45:00Z","received":"2026-01-12T03:45:01Z","bid":49995,"ask":50005}
+{"id":"q3","symbol":"DEMO","exchange":"2026-01-12T04:15:01Z","received":"2026-01-12T04:15:02Z","bid":50010,"ask":50020}
+{"id":"q2","symbol":"DEMO","exchange":"2026-01-12T04:14:59Z","received":"2026-01-12T04:15:00Z","bid":50000,"ask":50010}
