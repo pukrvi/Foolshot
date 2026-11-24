@@ -2,6 +2,10 @@
 
 Foolshot studies whether an AI can improve its later decisions by learning from its own trading record. Start with the [study protocol](docs/research/study-protocol.md) and the [adaptive cohort runner](#start-here-for-the-adaptive-experiment). The lower-level commands below exercise individual broker and simulator components.
 
+## Historical market data
+
+Use the [local market data store](docs/research/market-data.md) for authorized historical inputs, coverage reports and a cutoff-filtered preparation packet.
+
 ## Run the fixture
 
 ### Historical equity paper replay
