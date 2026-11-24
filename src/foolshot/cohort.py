@@ -173,6 +173,33 @@ def export(directory):
         for r in rows:
             if r["kind"] == "close":
                 day = r["session"][6:]
+                day_cases = {
+                    x["session"] for x in rows
+                    if x["kind"] == "case_result" and x["payload"]["date"] == day
+                }
+                snapshots = [x["payload"]["snapshot"] for x in rows
+                             if x["kind"] == "decision_context" and x["session"] in day_cases]
+                modes = {s["source"] for s in snapshots}
+                if len(modes) > 1:
+                    raise ValueError("mixed historical and synthetic decisions")
+                # Equity is realized P&L plus the current marked position.
+                realized = peak = drawdown = cost = vetoes = 0
+                entry = None
+                for event in rows:
+                    if event["session"] != r["session"]:
+                        continue
+                    kind, info = event["kind"], event["payload"]
+                    if kind == "risk_rejected":
+                        vetoes += 1
+                    elif kind == "paper_entry":
+                        entry = info["price"]
+                    elif kind == "paper_mark":
+                        equity = realized + info["net_paise"]
+                        peak = max(peak, equity)
+                        drawdown = max(drawdown, peak - equity)
+                    elif kind in {"paper_stop", "paper_target", "session_exit", "daily_stop"}:
+                        realized += info["net_paise"]
+                        cost += (info["price"] - entry) * info["quantity"] - info["net_paise"]
                 cases = [
                     x["payload"]["result"]["outcome"]
                     for x in rows
@@ -186,6 +213,12 @@ def export(directory):
                     and x["payload"]["forecast_score"] is not None
                 ]
                 totals[day] = {
+                    "mode": next(iter(modes), "synthetic"),
+                    "marked_drawdown_paise": drawdown,
+                    "fill_cost_paise": cost,
+                    "risk_vetoes": vetoes,
+                    "decision_latency_ms": sum(x["payload"]["latency_ms"] for x in rows
+                                               if x["session"] in day_cases and x["kind"] == "model_response"),
                     "scored_forecasts": len(scores),
                     "mean_brier": sum(scores) / len(scores) if scores else "",
                     "net_paise": r["payload"]["net_paise"],
@@ -208,6 +241,10 @@ def export(directory):
         "mode",
         "arm",
         "net_paise",
+        "marked_drawdown_paise",
+        "fill_cost_paise",
+        "risk_vetoes",
+        "decision_latency_ms",
         "attempts",
         "passes",
         "invalid",
@@ -229,7 +266,6 @@ def export(directory):
             for arm in economics:
                 writer.writerow(
                     {
-                        "mode": "synthetic",
                         "arm": arm,
                         "date": day,
                         **economics[arm][day],

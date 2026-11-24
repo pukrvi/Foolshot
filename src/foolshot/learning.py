@@ -34,7 +34,9 @@ class Tick(Record):
 
 class Snapshot(Record):
     case: str = Field(pattern=r"^[a-zA-Z0-9_-]{1,80}$")
-    source: Literal["synthetic"]
+    source: Literal["synthetic", "historical"]
+    provider: str | None = Field(default=None, min_length=1)
+    preparation: list[dict[str, str]] | None = None
     symbol: str = Field(min_length=1)
     cutoff: AwareDatetime
     observations: list[Tick] = Field(min_length=1)
@@ -43,6 +45,17 @@ class Snapshot(Record):
     def point_in_time(self):
         times = [v.at for v in self.observations]
         local = self.cutoff.astimezone(IST)
+        if self.source == "historical":
+            if not self.provider or any(
+                not time(9, 15) <= t.astimezone(IST).time() < time(15, 30) for t in times
+            ):
+                raise ValueError("historical quotes require a provider and regular session hours")
+        for item in self.preparation or []:
+            if set(item) != {"available_at", "source", "text"} or not all(item.values()):
+                raise ValueError("invalid preparation evidence")
+            at = datetime.fromisoformat(item["available_at"])
+            if at.tzinfo is None or at.astimezone(IST).date() >= local.date():
+                raise ValueError("preparation evidence must precede the session date")
         if not time(9, 45) <= local.time() < time(14, 30):
             raise ValueError("outside regular fixture entry window")
         if sorted(set(times)) != times or times[-1] > self.cutoff:
@@ -192,7 +205,7 @@ def run_case(
                     )
             ledger = state(history(db, PAPER), day, settings)
             frozen = {
-                "snapshot": snap.model_dump(mode="json"),
+                "snapshot": snap.model_dump(mode="json", exclude_none=True),
                 "memory": memory(db, snap.cutoff) if adaptive else [],
                 "ledger": ledger,
                 "policy": settings.model_dump(),
@@ -202,7 +215,7 @@ def run_case(
             }
             append(db, session, "decision_context", frozen, session + "/context")
         if (
-            frozen["snapshot"] != snap.model_dump(mode="json")
+            frozen["snapshot"] != snap.model_dump(mode="json", exclude_none=True)
             or frozen["adaptive"] != adaptive
             or frozen["model_id"] != model_id
             or frozen["client"] != client
@@ -229,6 +242,8 @@ def run_case(
         path, session, key, prompt, Decision, client, invoke, validate, "decision"
     )
     # Outcome file intentionally opened only after the decision is durable.
+    if snap.source == "historical" and not response["valid"]:
+        raise ValueError("historical decision unavailable; inspect stored model response")
     future = [Tick.model_validate(x) for x in json.loads(future_file.read_bytes())]
     times = [q.at for q in future]
     if sorted(set(times)) != times or any(

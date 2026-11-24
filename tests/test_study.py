@@ -180,6 +180,36 @@ class StudyTests(unittest.TestCase):
             original,
         )
 
+    def test_archived_quote_import_and_paired_replay(self):
+        from datetime import time
+        from foolshot.historical import prepare
+
+        tape = self.directory / "sample.csv"
+        rows = ["at,symbol,bid,ask,bid_qty,ask_qty"]
+        for stamp, bid in [("09:59:59", 49990), ("10:00:00", 49995),
+                           ("10:00:01", 49995), ("15:05:00", 51000)]:
+            rows.append(f"{self.day}T{stamp}+05:30,DEMO,{bid},{bid+5},100,100")
+        tape.write_text("\n".join(rows))
+        args = (tape, self.directory, self.day, "DEMO", "test feed", time(10))
+        manifest = prepare(*args)
+        inputs = manifest.parent
+        snapshot = json.loads((inputs / "snapshot.json").read_bytes())
+        self.assertEqual([q["bid"] for q in snapshot["observations"]], [49990, 49995])
+        result = run(manifest, self.directory, "codex", "gpt-6.2-astra", self.fake_model)
+        self.assertEqual(result.read_text().count(",historical,"), 2)
+        self.assertEqual(prepare(*args), manifest)
+        with self.assertRaisesRegex(ValueError, "decision unavailable"):
+            run_case(self.db, inputs / "snapshot.json", inputs / "missing.json",
+                     "codex", lambda *_: "{}")
+        evidence = self.directory / "news.json"
+        evidence.write_text(json.dumps([{"source": "test", "text": "late update",
+                                         "available_at": f"{self.day}T09:00:00+05:30"}]))
+        with self.assertRaisesRegex(ValueError, "must precede"):
+            prepare(*args, research=evidence)
+        tape.write_text(tape.read_text().replace("51000", "50995"))
+        with self.assertRaisesRegex(ValueError, "registered inputs differ"):
+            prepare(*args)
+
     def test_model_decision_durable_before_outcome_read(self):
         before = FIX / "synthetic-2026-01-15.json"
         with self.assertRaises(FileNotFoundError):

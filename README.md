@@ -4,6 +4,31 @@ Foolshot studies whether an AI can improve its later decisions by learning from 
 
 ## Run the fixture
 
+### Historical equity paper replay
+
+Run a regular NSE equity session with a timestamped best-bid/ask export.
+Use one instrument and trading date per CSV. Required header:
+`at,symbol,bid,ask,bid_qty,ask_qty`. Prices are integer paise, quantities
+are displayed shares, and timestamps include a UTC offset. Supply quotes in
+strictly increasing availability-time order, including afternoon exit depth.
+
+```sh
+./scripts/historical quotes.csv data/private/monday-replay --day 2026-11-23 --symbol RELIANCE --provider "provider/export identifier" --cutoff 10:00 --client codex
+```
+
+Optionally supply `--research preparation.json`, a JSON array with
+`available_at`, `source`, and `text` per item. Use the version available at
+the stated time. The importer rejects same-day and later preparation.
+Choose the symbol and decision time before viewing outcomes. Each arm gets
+one entry opportunity, up to 60 latest quotes through the cutoff, and
+the existing risk and fill rules. Later quotes advance without market-time
+waits. Output includes raw inputs, hashes, both audit databases, daily CSV,
+weekly summary and elapsed wall time. Cost estimates use the existing fixed
+per-share allowance. A provider name identifies the supplied export; the
+importer cannot independently authenticate its contents.
+
+### Synthetic replay
+
 From this folder, use Python 3.12 and uv.
 
 ```sh

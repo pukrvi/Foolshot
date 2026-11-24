@@ -19,7 +19,8 @@ def update_report(directory: Path, csv_path: Path):
     lines = [
         "# Paired paper experiment",
         "",
-        "Synthetic fixture fills with a fixed per-share allowance. Each arm uses the same dated opportunity roster.",
+        ("Historical quotes with simulated fills" if any(row["mode"] == "historical" for row in daily)
+         else "Synthetic fixture fills") + " with a fixed per-share allowance. Each arm uses the same dated opportunity roster.",
         "Difference measures the entire adaptive workflow, including different decisions about passing. Model and hosting costs are unmeasured.",
         "",
         "| ISO week | Sessions | Adaptive net ₹ | Frozen net ₹ | Difference ₹ | Prior weekly hypotheses available |",
